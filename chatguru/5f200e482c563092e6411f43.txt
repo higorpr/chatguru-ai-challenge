@@ -1,0 +1,400 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Arthur Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Arthur! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Olá
+Cliente: Consegue finalizar a questão do api
+Atendente: Desculpe, você pode me explicar novamente?
+Atendente: O que você havia solicitado no outro app.
+Cliente: Preciso do acesso do api para inserir no meu erp
+Cliente: Porém não estava liberado
+Atendente: Para o ICB, correto?
+Cliente: Isso
+Atendente: ICB Implante Capilar
+Atendente: ?
+Cliente: Exatamente
+Atendente: Arthur, a IPI já está liberada.
+Cliente: https://app.zap.guru/chats/5e2f3e67e26335b256228efd
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: veja o q esta acontecendo
+Atendente: Olá Arthur, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Não consegui identificar nada. Poderia me explicar por favor?
+Cliente: Resposta agendada está pende te
+Cliente: E não foi enviada na data programada
+Atendente: Verifiquei aqui. Não foi enviado pois o diálogo foi excluído.
+Atendente: Esse Diálogo Botox-1 não existe mais.
+Atendente: Entendeu?
+Atendente: Te ajudo em algo mais?
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Não foi excluído
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mudou o nome
+Atendente: Creio que isso afete a execução. Qual nome atual?
+Cliente: Agora executo outro diálogo
+Cliente: Mais complexo
+Atendente: O fato é que o diálogo que estava agendado que não execeutou não existe mais.
+Cliente: Ok vou fazer na mão
+Cliente: E checar se os outros funcionam
+Atendente: Tudo bem.
+Atendente: Te ajudo em algo mais?
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola preciso de ajuda
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Arthur, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: ja estou com problema e a resposta era q o dialogo nao existia
+Cliente: porem ele continua nao acontecendo
+Cliente: veja o link
+Cliente: https://app.zap.guru/chats/5eb96810364035746f33ceb1
+Cliente: no final do meu dialogo fica uma msg agendada para 5 meses depois
+Cliente: ela continua agendada e nao efetiva
+Atendente: Ele não efetiva o envio da mensagem, pois foi configurado para ter a aprovação manual. 
+Ou seja, da maneira que está, ele não envia automaticamente quando é dado o prazo (150 dais). É necessário que algum usuário clique na opção "aprovar".
+Se preferir, podemos alterar agora mesmo para envio automático.
+Como você prefere?
+Cliente: Sim
+Cliente: Gostaria q fosse automático
+Atendente: Certo. Um momento que já faço a alteração.
+Atendente: Arthur, alterado para automático.
+Atendente: Posso te ajudar com algo mais?
+Cliente: Os antigos precisarão ser feito na mao
+Cliente: Ou não
+Atendente: Podem ser feito sim. 
+Puxando aqui um relatório de chats com status resolvido e que possuem mensagens agendadas, há o resultado de 267.
+Cliente: Então já consegue deixar automatizado os diálogos q já foram executados
+Atendente: Arthur, vou pesquisar se há um forma de fazer isso. Eu acredito que não.
+Eu vou verificar e já te dou uma resposta, tudo bem?
+Cliente: O problemas q tenho q esperar 5 meses a cada erro
+Cliente: E depois não consigo fazer automático
+Cliente: Assim como aconteceu há 5 m
+Atendente: Arthur, perdão pela demora.
+
+Pesquisei de todas as formas alguma forma de corrigir as mensagens que já estão agendadas e infelizmente não há.
+
+Algo que consegui fazer foi, ir em relatórios, e selecionando algumas opções para agilizar a busca (vou te enviar uma foto), consigo detectar que há somente 11 chats que estão com a mensagem agendada manual.
+
+Uma solução seria agendar a mesma mensagem, para o mesmo período para esses 11 chats.
+Atendente: Posso te ajudar com algo mais?
+Atendente: Arthur, estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ok
+Atendente: Boa noite Arthur!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Boa tarde preciso executar uma lista de transmissão
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como faço pra inserir múltiplos Contatos?
+Atendente: Boa tarde, Arthur! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Atendente: A lista de transmissão deve ser feita diretamente pelo aparelho
+Cliente: Não consigo a partir de uma lista de Excel
+Cliente: Inserir e executar um diálogo ?
+Atendente: Você fala, adicionar contatos através de uma lista do excel?
+Cliente: Isso
+Atendente: Você pode criar uma automação para isso utilizando o Zapier ou Integromat via API
+Atendente: Porém recomendamos algum programador para fazer essa configuração para vocês, pois por se tratar de ferramentas de terceiros, nós não prestamos suporte na configuração delas
+Cliente: Qual app do zapier ?
+Cliente: O hook?
+Atendente: Zapier seria essa plataforma aqui: https://zapier.com/
+Atendente: Lá você vai gerar um link para post no webhook
+Cliente: Sim já tenho linkado com zapguru
+Cliente: Ok
+Atendente: Arthur, conseguiu acessar o zapier? Te ajudo em algo mais?
+Atendente: Arthur estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia estou com zap guru offline
+Atendente: Arthur Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: 5516997880384 - Aguardando Carregamento do WhatsApp...
+Atendente: Bom dia, Arthur. Tudo bem?
+Cliente: td
+Atendente: Eu sou o Lucas. Vou te ajudar.
+Cliente: https://app.zap.guru/tags/add
+Atendente: OK, já verifiquei aqui.
+Atendente: Arthur, você está com o aparelho (16) 99788-0384 em mãos?
+Cliente: sim
+Atendente: Ele está com a tela desbloqueada e aberto no whatsapp?
+Cliente: sim
+Atendente: Um momento.
+Atendente: Arthur, podemos falar por ligação?
+Cliente: sim
+Atendente: Aqui: https://meet.google.com/tda-fsah-drs
+Atendente: *Evitem manusear o aparelho que está servindo o ZapGuru.*
+O aparelho que serve o ZapGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ZapGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ZapGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ZapGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ZapGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: BOA TARDE
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ESTOU com problema
+Atendente: *Nathally Dantas:* 
+Olá Arthur, Boa tarde !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Cliente: minhas msg agendadas nao estao sendo executadas
+Cliente: https://app.zap.guru/chats#5e3816967001fc20165177b0
+Cliente: checa o link por favor
+Atendente: *Nathally Dantas:* 
+Vou verificar só um momento por favor.
+Atendente: *Nathally Dantas:* 
+Só mais um momento Arthur, por gentileza, estou verificando.
+Atendente: *Nathally Dantas:* 
+Arthur, esse diálogo está configurado como Manual ou seja ele só é enviado, com aprovação do operador.
+Atendente: *Nathally Dantas:* 
+Posso modifica-lo para automático?
+Cliente: Então o diálogo é manual
+Cliente: Porém a última msg é um agendamento q deveria ser automático
+Atendente: *Nathally Dantas:* 
+Entendi, falo dessa última parte, que está como manual.
+Cliente: Pode colocar automático então
+Atendente: *Nathally Dantas:* 
+Melhor falando essa última parte a execução estava como manual, modifiquei para automática.
+Cliente: Ótimo
+Cliente: Obrigado
+Atendente: *Nathally Dantas:* 
+Algo mais em que posso te ajudar?
+Atendente: *Nathally Dantas:* 
+É possível fazer através de diálogo e o seu cliente digitar sim ou não, ainda não é possível o botão para clicar.
+Cliente: Ok
+Cliente: Obrigado
+Atendente: *Nathally Dantas:* 
+Por nada!
+Atendente: *Nathally Dantas:* 
+Precisando de algo, é só falar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Arthur, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6022ca7d73116bf23e437a2f
+Cliente: Bom dia
+Atendente: Arthur Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Arthur! 
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso te ajudar?
+Cliente: Posso mandar um áudio ?
+Atendente: *Lucas Andrade:* 
+Pode sim.
+Atendente: *Lucas Andrade:* 
+Opa, Arthur! Certo. Estou aguardando algumas informações e já te dou uma resposta. Ok? 😄
+Atendente: *➡ Você foi encaminhado para: Fernando*
+Cliente: Ok estou no aguardo aqui
+Atendente: Arthur Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Sério? No Iphone? Se você puder me mostrar
+Atendente: *Lucas Andrade:* 
+Arthur, desconsiderar a mensagem acima.
+Cliente: Boa tarde
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: *Hugo:* 
+Olá Arthur, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. No que eu posso te ajudar?
+Cliente: Mandei esse áudio
+Cliente: Fui encaminhado para o Fernando
+Cliente: Mas não tive resposta
+Atendente: *Hugo:* 
+Entendi. Só um momento que eu vou me atualizar sobre esse atendimento.
+Atendente: *Hugo:* 
+Arthur, me atualizei. Vi aqui que foi aberto um chamado para realizar esse processo. Assim que receber um retorno nós te comunicamos.
+Cliente: Ok
+Cliente: Preciso de um feedback pois o meu erp depende disso
+Atendente: *Hugo:* 
+Arthur, recebi um retorno aqui do chamado. Nossa equipe está trabalhando para que seja possível essa migração entre os servidores. Acreditamos que na semana que vem já seja possível.
+Cliente: Perfeito
+Atendente: *Hugo:* 
+Posso te ajudar com algo mais no momento?
+Cliente: Não
+Cliente: Obrigado
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar.
+Boa tarde e uma ótima semana! =D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Arthur, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6062068fecec98869e549998
+Cliente: BOA TARDE ESTOU COM MUITAS MENSAGENS NA FILA
+Cliente: VC PODE CHECAR PRA MIM
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Juliana Mota:* 
+Olá Arthur, Boa tarde. Tudo bem com você?
+Seja Bem-Vindo(a) a *ChatGuru*!  🙂
+
+Vou verificar e logo lhe dou um retorno.
+Atendente: *Juliana Mota:* 
+Arthur, vou precisar que você refaça a leitura do QR code na plataforma.
+Cliente: OK
+Cliente: POSSO FAZER AGORA
+Atendente: *Juliana Mota:* 
+Claro, pode sim! :)
+Cliente: como fazemos
+Atendente: *Juliana Mota:* 
+Aqui tem o passo a passo de como fazer a leitura:
+
+>> https://wiki.chatguru.com.br/como-cadastrar-um-novo-telefone-no-zapguru
+Cliente: Isso eu já sei
+Cliente: Vc precisa me mostrar o QR code
+Cliente: Esse processo eu já fiz
+Cliente: Por isso entrei em contato
+Atendente: *Juliana Mota:* 
+te mostrar o QR code? Arthur no campo celulares, quando você clica em "fazer QR code" não aparece para você? seria isso?
+Cliente: Todas as vezes preciso de uma vídeo chamada
+Cliente: Vc me mostra o QR code pra eu atualizar
+Cliente: Infelizmente não é a primeira vez
+Atendente: *Juliana Mota:* 
+Entendi, consegue entrar em uma videochamada agora para eu te passar o QR?
+Cliente: Sumo
+Cliente: Sim
+Atendente: *Juliana Mota:* 
+Juliana - Call - ICB Implates
+Quinta-feira, 15 de abril · 5:30 até 6:00pm
+Informações de participação do Google Meet
+Link da videochamada: https://meet.google.com/ojo-affb-rpr
+Ou disque: ‪(BR) +55 11 3957-9002‬ PIN: ‪797 538 266‬#
+Outros números de telefone: https://tel.meet/ojo-affb-rpr?pin=1997856529232
+Atendente: *Juliana Mota:* 
+Arthur, te ajudo em algo mais?
+Cliente: nao obrigado
+Atendente: *Juliana Mota:* 
+Por nada!
+Precisando é só nos chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Arthur, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6078a297ecec98869e5aae78
+Cliente: BOM DIA MEU ZAPGURU ESTA DESCONECTADO
+Atendente: Arthur Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ELE NAO GERA O QRCODE PARA EU ME CONECTAR
+Cliente: VC PODE  ME ENVIAR O QR CODE PELO VIDEO
+Atendente: *Helena Braunger:* 
+Bom dia, Arthur!
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Pode me mandar uma foto do erro?
+Atendente: *Helena Braunger:* 
+Certo, vou verificar, só um momento.
+Cliente: NORMALMENTE ME MOSTRA NO ZOOM E EU LIBERO AQUI
+Atendente: *Helena Braunger:* 
+É o número com final 0384 que está desconectado?
+Cliente: ISSO
+Atendente: *Helena Braunger:* 
+Reiniciei aqui e no servidor e já apareceu. Agora é só fazer a leitura do QR-code:
+
+1) Menu do canto esquerdo> Celulares WhatsApp
+2) Botão azul: Fazer leitura de Qr-code
+3) Abra o WhatsApp no seu celular
+4) Em seu celular, clique no Menu e selecione a opção "WhatsApp Web"
+5) Clique no botão azul para iniciar a sincronização, em seguida clique em "Abrir Janela do WhatsApp"
+6) Após abrir a janela faça a leitura do QR-Code com o seu celular.
+Atendente: *Helena Braunger:* 
+Pode tentar novamente agora, após atualizar a página?
+Cliente: Falha
+Cliente: nao deu certo
+Atendente: *Josué Dionizio:* 
+é que demorou um pouco, tente novmente
+Cliente: ok
+Cliente: deu certo
+Atendente: *Josué Dionizio:* 
+sim sim :D
+A Helena irá te explicar exatamente o problema que está ocorrendo
+Tenha um excelente dia Arthur :D
+Cliente: ok
+Atendente: *Helena Braunger:* 
+Arthur, este erro na sincronização se dá por alguma restrição na sua rede. Se possível, analise as configurações de segurança do seu firewall para entender o motivo do bloqueio à plataforma Chatguru e para evitar que este erro ocorra novamente.
+Atendente: *Helena Braunger:* 
+Te ajudo com algo mais?
+Cliente: Ok
+Atendente: *Helena Braunger:* 
+Posso finalizar nosso atendimento ou necessita de algo mais?
+Cliente: Sim
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Arthur, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60abc8ddecec98869e691da3
+Cliente: Boa tarde
+Atendente: Arthur Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Meu chat está fora do ar
+Cliente: E não consigo revalidar o QR code
+Atendente: *Luiz Modestino:* 
+Boa tarde Arthur! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+é o número +55 (16) 997880384?
+Cliente: Isso
+Atendente: *Luiz Modestino:* 
+Reiniciei a conexão aqui. Mantenha o Whatsapp aberto.
+Atendente: *Luiz Modestino:* 
+Será necessário, refazer a leitura do QRCODE na aba de Celulares Whatsapp.
+Cliente: Ok
+Cliente: Consegue enviar uma foto
+Cliente: Pq não gera aqui pra mim
+Cliente: Se puder estou pronto
+Cliente: Tem q ser rápido o senão expira
+Atendente: *Luiz Modestino:* 
+go go go
+Cliente: travou
+Cliente: agora deu
+Cliente: todo mes esta caindo
+Cliente: nao estsa normal
+Atendente: *Luiz Modestino:* 
+Qual o modelo de aparelho?
+Cliente: É um tablet galaxy se
+Cliente: 100%exclusivo pro zapguru
+Cliente: Não sai não desliga
+Atendente: *Luiz Modestino:* 
+Como esta a conexão de internet do aparelho? Tem outros apps instalados nesse tablet?
+Cliente: wi fi
+Cliente: so o automate e os app padroes
+Cliente: uso exclusivamente pra isso
+Atendente: *Luiz Modestino:* 
+Vou solicitar para que seja alterado o método de addchat para interno. Assim, não precisa deixar o Automate rodando. Já é um app a menos rodando para não consumir memória. Só deixa instalado, para caso tenha alguma necessidade futura.
+Atendente: *Luiz Modestino:* 
+Arthur, por gentileza, instala esses aplicativos no aparelho para que eu possa checar as configurações do tablet.
+
+*AnyDesk:* https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR
+*Plugin adicional para controle remoto:* https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1&hl=en_US&gl=US
+*Keep Screen On:* https://play.google.com/store/apps/details?id=eu.aboutall.android.tools.kepscreenon&hl=pt_BR&gl=US
+Após instalados, vá em Configurações > Acessibilidade e procure por Serviços instalados/ Serviços transferidos (ou algo do gênero) e habilite o AD1 ANYDESK
+Atendente: Arthur, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+

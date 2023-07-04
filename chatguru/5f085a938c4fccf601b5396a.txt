@@ -1,0 +1,181 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Oiê!! 😀
+A Jurunense quer melhorar ainda mais sua experiência!! 
+Que tal nos contar como podemos te atender melhor? 🤩
+
+*1* - Procuro informações sobre Cartão Jurunense 
+*2* - Procuro informações gerais sobre a loja
+*3* - Preciso de informações sobre entrega
+*4* - Preciso fazer um orçamento ou compra
+
+*Digite o número da opção que mais se aproxima do que você procura para passar para a próxima etapa*. 👍
+Cliente: *Daniel Silva:* 
+Bom dia! ☀
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia JURUNENSE! Meu nome é Luiz. Em que posso te ajudar?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Muito obrigada por escolher a *Jurunense Home Center* 😃
+Conte-nos como foi sua experiência e nos ajude a melhorar ainda mais! 🤩Acesse nossa pesquisa de satisfação em: https://forms.gle/Ra6D9rKNWiC5CVjF6
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: _Este atendimento foi finalizado._
+Cliente: Oiê!! 😀
+A Jurunense quer melhorar ainda mais sua experiência!! 
+Que tal nos contar como podemos te atender melhor? 🤩
+
+*1* - Procuro informações sobre Cartão Jurunense 
+*2* - Procuro informações gerais sobre a loja
+*3* - Preciso de informações sobre entrega
+*4* - Preciso fazer um orçamento ou compra
+
+*Digite o número da opção que mais se aproxima do que você procura para passar para a próxima etapa*. 👍
+Atendente: Olá JURUNENSE, Bom dia, meu nome é Mark! Em que posso te ajudar?
+Cliente: Oi, tudo bem!
+Atendente: JURUNENSE Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá JURUNENSE, Boa tarde. Meu nome é Hugo.
+Atendente: No que eu posso te ajudar?
+Cliente: Não sabia da mudança de número de vocês
+Cliente: Oi, Hugo
+Atendente: Foi uma mudança recente. Agora estamos atendente por este número pelo qual estamos falando
+Cliente: Eu tô com um anúncio no instagram que direciona pro whatsapp, parecido com o que fiz no site
+Cliente: vocês criaram aqui no bot uma msg automatica só pros clientes que vem do site
+Cliente: preciso criar uma msg dessa pra direcionar as pessoas que vem desse site em específico
+Cliente: vocês podem criar?
+Atendente: Podemos sim.
+Atendente: o sr. já tem o modelo pronto?
+Cliente: Sou uma moça hehehe
+Rejane
+Cliente: [0] - Quero entrega expressa
+
+Criei esse diálogo aqui
+Cliente: só falta ver o que precisa pra direcionar o pessoal que vier do link
+Cliente: e corrigir qq coisa que eu tenha feito errado
+Cliente: https://api.whatsapp.com/send?phone=559133232900&text=Oi,%20quero%20entrega%20expressa!
+
+O link que direciona é esse aqui
+Atendente: desculpa, Rejane kkkkkkk
+Cliente: você consegue fazer??
+Atendente: conseguimos sim
+Atendente: Para que não haja algum erro
+Atendente: vou pedir pra você preencher um modelo
+Atendente: para que eu possa realizar esse procedimento
+Atendente: JURUNENSE, estou te enviando o nosso modelo de como você pode estar nos enviando o seu fluxo de chatbot.
+Atendente: Regina?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá bom dia.. estou estamos tentando fazer a leitura do aparelho novamente no navegador mais não estamos conseguindo.
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia JURUNENSE! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Está aparecendo algum erro
+Atendente: ?
+Cliente: Tivemos que desfazer a sincronização pois o navegador esta com mensagem de aparelho sem internet.
+Cliente: Sendo que o celular está com internet normal.
+Cliente: No navegador aparelho sem internet.
+Cliente: Sendo que o aparelho está com internet no qual estou enviando mensagem pra você.
+Atendente: Reinicia teu aparelho
+Atendente: Estou reiniciando a conexão
+Atendente: e refaz a leitura do QRCODE
+Cliente: Ok
+Cliente: Obrigado luiz conseguimos restabelecer a conexão👍🏼  bom dia.
+Atendente: Tranquilo. Bom dia pra você.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Nossa plataforma está offline
+Cliente: Não conseguimos fazer acesso
+Cliente: ???
+Atendente: Olá, bom dia! Tudo bem?
+Tente acessar sem o "phones", ao lado
+Cliente: Algum pode nos ajudaram?
+Atendente: apenas app3.zap.guru
+Cliente: Também não conecta
+Atendente: Por aqui está normal e a conexão ativa
+Atendente: Tente em outro navegador, por favor
+Atendente: Caso não conecte também, recomendo que reinicie a conexão com a internet
+Atendente: está chegando em 145 de ping por aqui. Foi testado em 2 computadores
+Cliente: Foi testado em outras máquinas e navegadores e não temos conexão
+Atendente: Há algum bloqueio de firewall?
+Cliente: Não.
+Atendente: Vou verificar se há alguma queda no servidor 3
+Cliente: Estamos analisando o Mikrotik mais não temos nada impedindo a conexão
+Cliente: ?
+Atendente: Ainda não tive um retorno da área de desenvolvimento, mas estou monitorando a atividade e fica estável em toda a verificação
+Atendente: O que nossa área de desenvolvimento informou é que pode ser algum erro de rota que está sendo usada para acessar o site, considerando que por aqui estamos conseguindo acessar normal e que outros clientes também do APP3 estão logados. Desligue o modem e ligue novamente, por favor
+Cliente: Tranquilo. Não usamos modem tem um link dedicado de fibra ótica vamos validar umas regras no nosso Mikrotik daí retornamos
+Atendente: Perfeito. Ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: JURUNENSE Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Validamos todo nosso Mikrotik não tem nada impedindo a conexão com o domínio de vocês
+Cliente: Desconsidere
+Cliente: Voltou a conexão
+Atendente: Perfeito, que ótimo que voltou :)
+Atendente: Consigo ajudar em outra solicitação?
+Atendente: Nosso atendimento será finalizado por inatividade, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: JURUNENSE Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde JURUNENSE! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Oi Luiz, sou Lígia supervisora da loja jurunense
+Atendente: Oi Lígia, tudo bem?
+Cliente: Já até gerei um novo qrcode e não carrega as mensagens
+Atendente: um momento
+Cliente: Vocês estão reiniciando os serviços..?
+Atendente: Tem muitos chats nesse aparelho
+Cliente: Mais este seria o motivo pra não sincronizar ?
+Atendente: Sim. Quando perde a sincronização e o sistema tenta conectar novamente ele tem que carregar  todos os chats do aparelho. Por isso acaba demorando e travando a conexão com o servidor. Vou verificar aqui com o setor técnico como esta a conexão com o servidor.
+Atendente: Você tem o AnyDesk instalado nesse aparelho?
+Cliente: Mais como farei pra apagar 7 mil mensagens ?
+Cliente: Sim
+Cliente: 500 382 093
+Atendente: Ok. Deixa ele aberto.
+Cliente: Número errado um momento
+Cliente: 594 819 138
+Atendente: Toca em permitir
+Cliente: Cosn
+Cliente: Conseguiu?
+Atendente: Sim, mas não consigo controlar. Vai em configurações
+Cliente: Conseguiu..
+Atendente: Faz o seguinte. Volta na lista de chats e seleciona o primeiro.
+Cliente: Qual primeiro?
+Atendente: O que eu preciso é que você selecione todos os chats so para que saber quantidade
+Cliente: 7.884
+Atendente: Não. Isso aí é só os que tem mensagens não lidas.
+Cliente: Amigo você acha que com quanto tempo vai conseguir me ajudar..estou com meu canal de vendas parado.
+Cliente: Se eu for em aplicativo limpar o cachê vai resolver o problema ?
+Atendente: O ideal é pagar os chats.
+Cliente: Como apago de uma vez existe essa opção ?
+Atendente: Isso é feito pelo Whatsapp.
+Atendente: Vou te explicar
+Cliente: Tem 276.869 mensagens enviadas e 271.170 recebidas
+Cliente: ??
+Atendente: Você deve selecionar todos os chats (sem os grupos), Vai aparecer uma lixeira. Tocando nela você apaga todos os chats. Mas deixo aqui um alerta. O ZapGuru espelha as conversas abertas do seu aparelho. Os chats apagados você terá acesso via relatórios, porém só vai conseguir intergir com eles quando esse chat novamente estiver no aparelho (você inicia a conversa ou o cliente).
+Atendente: Lígia?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Ligia Silva:* 
+Boa tarde!!!
+Atendente: JURUNENSE Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Lígia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Atendente: Ligia?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

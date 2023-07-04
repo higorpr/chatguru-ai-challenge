@@ -1,0 +1,897 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: Olá, tudo bem? Estamos ansiosos para atender você! 😍 
+A *Itajaí Containers* é especialista em transformações de Containers. 
+Sou o assistente virtual da equipe de pré-vendas da Itajaí Containers, somos a número 1 em vendas no Brasil.
+Para saber como melhor posso ajudar você, tenho que fazer 5 perguntas rápidas:
+*[ 1 ]* - Certo
+*[ 2 ]* - Agora não
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Certo, muito obrigada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde, sou Alessandra da Itajaí Containers. Gostaria de uma assistência no nosso zapguru
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Itajaí Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: Boa tarde. Estou tendo um problema em adicionar novos chats aqui no zap, ele trava em pendente. Já tentei reiniciar no app Automate, ele adiciona apenas um chat, mas não os outros da fila.
+Atendente: entendi
+Atendente: vamos fazer o seguinte
+vou te enviar um passo a passo e o senhor tenta novamente, se o problema persistir, vamos refazer esse Automate
+combinado?
+Cliente: Ok
+Atendente: Itajaí Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Itajaí, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: Sim, acabei de fazer este teste e continua pendente. Fiz isso antes também.
+Cliente: Quando clico no botão ao lado "Stop" Ele cria um chat por vez, mas não continua os outros da fila. Aí tenho que clicar em Stop e Start para adicionar todas as novas conversas, se não fica travado sempre em pendente.
+Cliente: O que pode ser feito?
+Atendente: estou verificando, é algo estranho, geralmente esse procedimento resolve
+Atendente: qual aparelho o senhor está usando no momento?
+Cliente: Motorola G 5
+Atendente: Boa noite Itajaí!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: ta explicado kkkkk
+o moto g sim, ele tem meio que um sistema que Otimiza o aparelho, fecha todos os aplicativos em segundo plano, consequentemente, o Automate
+Atendente: teria de trocar o aparelho
+Atendente: vamos marcar uma Call para amanha?
+Atendente: vou precisar utilizar o quickSupport
+Atendente: vou encerrar aqui por hora, amanha entre em contato e resolvemos esse problema
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Certo. Até amanhã
+Atendente: Olá Itajaí Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru
+Atendente: Assim que possível, entre em contato para resolver esse problema :D
+Ficarei até as 2 por aqui
+Cliente: Bom dia Josué
+Cliente: Meu id no quicksupport é 1651 575 708
+Cliente: Estou a disposição
+Atendente: perfeito, vou abrir aqui, só peço um momento
+Cliente: Ok 🙏
+Atendente: pronto, enviei a solicitação
+Atendente: Pronto, eu configurei para ficar aberto esses processos em segundo plano
+Atendente: então deixe sempre aberto o Automate E o Whatsapp
+Atendente: o senhor utiliza esse aparelho para algo mais?
+Cliente: Não, ele é exclusivo para esse app
+Atendente: perfeito
+Atendente: então deixa ele quetinho no canto de tela aberta rsrsrs
+Atendente: o senhor configurou o aparelho para a tela não desligar?
+Cliente: Sim, ele fica no carregador e ligado 24hrs 😁
+Atendente: perfeito então
+Cliente: Ok, antes de encerrar posso fazer um teste?
+Atendente: é que moto G é um dos aparelhos que não recomendamos pois ocorre esse tipo de problema mesmo
+eu acredito que com essas configurações, de tudo certo
+CAAAASO persistir o problema, entre em contato conosco
+mas a solução seria trocar o aparelho mesmo
+Atendente: claro, teste :D
+Cliente: é... testei criar um novo chat e ele continua travado mesmo, então a solução seria trocar de aparelho, né? Vou atrás de um. Posso entrar em contato para fazer essa troca ainda hoje até as 14h, isso?
+Cliente: Ele fica dessa forma, pendente e faltando dar o Enviar alí 😅
+Atendente: as 14 a gente fecha o expediente, se o senhor conseguir vir até as 13. ou 13 e 40
+Cliente: siim claro, vou chamar antes das 14h pra dar tempo de fazer toda a troca. 👍 Quanto antes conseguir o aparelho aqui já chamo novamente
+Cliente: Até lá então 😁
+Atendente: kk vai lá querido, ficarei no aguardo :D
+Cliente: Boa tarde, consegui outro aparelho. Assim que estiver disponível só chamar
+Atendente: opa bora lá
+Atendente: faça as pré configurações no aparelho
+Cliente: Redmi 8A
+Cliente: É bom?
+Atendente: Xiami tambem da problema
+Atendente: ele tem um sistema de otimizar as aplicações, faz com que o aplicativo feche sozinho
+Cliente: já passei o whats para esse aparelho e baixei os aplicativos, ainda está baixando a mídia que é pesada
+Cliente: Baah :/ qual vocês indicam?
+Cliente: Podemos tentar com ele da mesma forma? Se também não der, segunda feira vejo outro
+Atendente: Sansung não estamos tendo problemas
+Atendente: vamos tentar, ja está aberto mesmo, vou tentar configurar o software do aparelho para não ficar fechando a aplicação
+Cliente: Ok
+Atendente: minha esposa tem um Xiami tambem, vou fazer o teste para ver se é possivel fazer isso mesmo
+Cliente: Ok
+Atendente: vamos tentar :D
+Atendente: manda o codigo do quicksupport
+Atendente: OBS: primeiro, apaga o Automate do outro aparelho
+Cliente: Ok
+Cliente: 230 755 390
+Cliente: Deu certo?
+Atendente: não está conectando, vou enviar a solicitação de novo
+Atendente: cara... pelo jeito, o Xiami não aceita o QuickSupport
+Atendente: instala um aplicativo chamado "Anydesk"
+tem a mesma função do quicksupport
+Cliente: Ok
+Cliente: 891 242 327
+Atendente: deixa o apk da anydesk aberto
+Atendente: abre o anydesk denovo, deu problema na Conexão
+Cliente: Ok
+Atendente: aaaaaaa ta vendo? o xiami fecha as coisas sozinho rsrs
+voce tem que abrir exceção para não fechar esse aplicativos, para eles não serem otimizados
+Atendente: voce consegue fazer isso? com o AnyDesk?]
+Atendente: é um excelente aparelho o problema é esse
+Cliente: Era aqui será?
+Cliente: Vou abrir o anydesk
+Atendente: vamos tentar novamente
+Atendente: isso ajuda
+Atendente: Bom configurei tudo
+Atendente: agora é testar para ele aceitar tudo e funcionar tudo perfeitamente :D
+Cliente: Ok
+Atendente: vamos aguardar alguns dias e ver como o ADDChat Reage, se funcionar como configurei ótimo
+Se não terá de pegar outro mesmo =/
+Cliente: Beleza
+Atendente: Então por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um Excelente Boa tarde :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ok, agradeço o suporte
+Boa tarde 👍
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Bom dia, não recebemos a fatura deste mês. É possível reencaminhar no e-mail adm@itajaicontainers.com.br
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, bom dia. 
+Aqui é a Juliana do ZapGuru. 🙂
+
+Estou enviando sua solicitação para nosso setor financeiro para que eles possam lhe enviar seu boleto.
+Atendente: Olá bom dia!
+Atendente: Fiz a troca ta bom?
+Cliente: Bom dia, obrigada
+Cliente: Bom dia, ainda não recebemos a fatura
+Cliente: Meu financeiro aguarda para fazer o pagamento
+Atendente: Eu enviei naquele momento.
+Atendente: Vou enviar novamente, verifique por favor a caixa de spam
+Atendente: chegou?
+Cliente: Veio sim, foi pra caixa de spam mesmo. Obrigada 🙏
+Atendente: Show!
+Atendente: Itajaí, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Opa, perdão.  Pode encerrar sim. Obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Boa tarde, tudo bem ? Gostaria de um suporte com um erro que estamos recebendo no zapguru
+Cliente: Nossos contatos enviam áudios, vídeos e documentos mas não recebemos. Não fica visível no chat. Porém no celular onde o número está cadastrado aparece normalmente.
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Itajaí. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico o histórico 👨‍💻
+Atendente: Já entendi!
+
+Identificamos esse problema em alguns clientes, e está ligado a uma atualização do Whatsapp. Eu vou atualizar o seu Chatguru para que isso seja corrigido.
+
+Aguarde alguns instantes
+Atendente: Pronto!
+
+Para ter certeza que funcionou, vou te pedir para mandar algum áudio ou imagem para o número 47 92827259  e me dar um feedback. Pode fazer isso?
+Cliente: Deu certo! 🙏 vídeos, áudios e documentos recebidos
+Cliente: obrigada
+Atendente: Perfeito!
+Atendente: Itajaí, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/600ae4f232840069e0cac6a9
+Cliente: Bom dia, estamos com um problema no zap
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Bom dia! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: Ele está em fila alta desde ontem, já reinicei o celular diversas vezes
+Cliente: Ele fica assim, depois trava em fila alta
+Atendente: *Lucas Gusmão:* 
+Certo. Já estou verificando aqui. Só um minutinho 😊
+Atendente: *Lucas Gusmão:* 
+Acabei de verificar sua conta e é muito provavel que você possui um firewall bloqueando a janela. Se você tiver uma equipe de TI, peça para alguém desativá-lo.
+Atendente: *Lucas Gusmão:* 
+Caso não tenha, podemos tentar realizar a leitura por video chamada. Dessa forma será necessário acessar a chamada por outro aparelho que não seja o mesmo usado pela chatguru
+Cliente: Podemos tentar isso então? É que não temos um ti e na verdade esse problema de firewall também já ouvimos do nosso servidor de internet, ele bloqueia nossos e-mails, mas não sabemos como resolver
+Atendente: *Lucas Gusmão:* 
+Podemos sim! Vou enviar o link da nossa chamada.
+Cliente: Temos um outro contato por whatsapp no nosso número fixo: 4733457500
+Cliente: Beleza
+Atendente: *Lucas Gusmão:* 
+https://meet.google.com/sny-jysa-nwc
+Atendente: *Lucas Gusmão:* 
+Pronto! Basta acessar o link por outro aparelho que não seja o utilizado
+Cliente: Ok
+Atendente: *Lucas Gusmão:* 
+Ocorreu algum problema? Conseguem entrar novamente na chamada?
+Atendente: *Lucas Gusmão:* 
+Vou encerrar nossa chamada. Assim que conseguirem, retornem o contato, tá bom?! 😊
+Cliente: Internet caiu só no meu celular 😅
+Cliente: Ah pior que foi geral
+Cliente: Estou tentando conectar
+Cliente: Voltou
+Atendente: *Lucas Gusmão:* 
+Ah, ótimo! Vamos pra nosso chamada. Vou mandar o link aqui kkk
+Atendente: *Lucas Gusmão:* 
+https://meet.google.com/qcy-ubfb-fkj
+Atendente: *Lucas Gusmão:* 
+Está conectado. Agora vamos aguardar a sincronização das mensagens kk
+Cliente: Okk 🙏
+Atendente: *Lucas Gusmão:* 
+Você quer me passar o código do AnyDesk para verificar as configurações?
+Cliente: Aí que bom 🙏
+Cliente: Eu vou verificar com nossa internet, mas pode ser nossa Net mesmo
+Cliente: Vou pegar o código aqui
+Cliente: 891 242 327
+Atendente: *Lucas Gusmão:* 
+vou tentar acessar, basta autorizar ai 😊
+Atendente: *Lucas Gusmão:* 
+Não estou conseguindo acessar, Alessandra :(
+Cliente: Será que o código trocou? Deixa ver no apo
+Cliente: 891 242 327
+Cliente: É o mesmo
+Cliente: Na verdade tem um erro ainda acontecendo, não está indo os cadastros
+Atendente: *Lucas Gusmão:* 
+Esse erro é relacionado a conexão também. Seria bom verificar o aparelho até mesmo para confirmar as configurações do Automate
+Atendente: *Lucas Gusmão:* 
+Já que não consigo acessar o AnyDesk, podemos verificar essas configurações pela video chamada. Basta baixar o google meet no aparelho usado pela Chatguru.
+Cliente: ok, vou baixar auqi
+Atendente: *Lucas Gusmão:* 
+https://meet.google.com/gxn-ncnv-uup
+Atendente: *Lucas Gusmão:* 
+As configurações estão prontas. Por favor, reinicia o aparelho e me avisa
+Cliente: Ta feio o negócio aqui hoje 😁
+Cliente: agora tive uma queda de energia
+Atendente: *Lucas Gusmão:* 
+Eita lele 😨
+Atendente: *Lucas Gusmão:* 
+mas já está tudo configurado, Alessandra. Qualquer dúvida, é só falar conosco.
+Cliente: reinicei o celular, daí ele pediu autorização pro automate e whatsapp se conectar ao wifi, dei a permissão e ele conectou o whats, mas tive que manualmente clicar em enviar naquele add chat
+Atendente: *Lucas Gusmão:* 
+manualmente enviar a mensagem? Uma vez que o Automate está conectado, ele envia a mensagem sozinho. Pode ser que demore devido a falta de conexão, mas a mensagem é automática.
+Cliente: Deixa tentar mais uma vez
+Cliente: fiz alguma coisa que não devia, eu acho 😁
+Atendente: *Lucas Gusmão:* 
+kkk por que?
+Atendente: *Lucas Gusmão:* 
+Vamos tentar mais uma vez o acesso pelo AnyDesk? Assim posso verificar tudo e não te ocupar kkk
+Cliente: 891 242 327
+Atendente: *Lucas Gusmão:* 
+Beleza! Vou olhar tudo
+Atendente: *Lucas Gusmão:* 
+Preciso que você deixe o anydesk em 1 plano e aceite a conexão
+Atendente: *Lucas Gusmão:* 
+Pronto! Vou dar uma olhada aqui, beleza?!
+Atendente: *Lucas Gusmão:* 
+Pronto! Está tudo certo agora 😁
+Atendente: *Lucas Gusmão:* 
+O número foi adicionado e a mensagem foi enviada automaticamente. Beleza?!
+Cliente: 🙏🙏🙏
+Cliente: ai que bom
+Cliente: agora é esperar que a nossa net fique estável :(
+Cliente: Beleza, tudo certinho!
+Cliente: Era isso por enquanto, obrigada pelo suporte! 🙏
+Atendente: *Lucas Gusmão:* 
+Por nada! Fico feliz em poder ajudar. 😊
+Atendente: *Lucas Gusmão:* 
+Desculpe tomar tanto do seu tempo
+Atendente: *Lucas Gusmão:* 
+Qualquer dúvida, estamos à disposição!
+Cliente: foi nada, o bom que deu tudo certo! obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6011750673116bf23e3fa682
+Cliente: Boa tarde
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Caiu o nosso ZAP novamente :(
+Atendente: *Nathally Dantas:* 
+Olá Itajaí, Boa tarde !  Sou a Nathally do Suporte do ChatGuru.
+Atendente: *Nathally Dantas:* 
+Só um momento enquanto verifico.
+Atendente: *Nathally Dantas:* 
+Vocês utilizam o aparelho com frequência?
+Cliente: Este aparelho é usado só pro zapguru
+Cliente: Ele tá conectado e funcionando o add chat
+Cliente: Mas não sincroniza as mensagens
+Atendente: *Nathally Dantas:* 
+Refaz a leitura do QR Code para mim por favor.
+Atendente: *Nathally Dantas:* 
+Está sincronizando, acredito que agora vai funcionar normalmente.
+Atendente: *Nathally Dantas:* 
+Refaz mais uma vez a leitura do QR Code, por favor.
+Cliente: Está travando nesta etapa:
+Cliente: Já refiz a leitura
+Atendente: *Nathally Dantas:* 
+Estou verificando, chegou até a sicronizar, mas caiu. Aguarda só um momento.
+Atendente: *Nathally Dantas:* 
+Releia mais uma vez, por favor.
+Atendente: *Nathally Dantas:* 
+E me avise quando tiver feito por gentileza.
+Cliente: Ok
+Cliente: Fiz, está conectando
+Atendente: *Nathally Dantas:* 
+Vou acessar seu aparelho, pra verificar, abre o AnyDesk e aceita por favor.
+Cliente: Ok
+Cliente: 891 242 327
+Cliente: Sem querer rejeite
+Atendente: *Nathally Dantas:* 
+sem problemas.
+Cliente: Manda de novo
+Atendente: *Nathally Dantas:* 
+Você consegue conversar comigo rapidinho via videochamada?
+Atendente: *Nathally Dantas:* 
+O problema é a quantidade de chats que você possui, nossa plataforma utiliza o whatsapp Web para fazer o login e ele não está suportando a quantidade de chats que você possui. Você vai precisar pegar os chats mais antigos e arquivados e excluir.
+Cliente: Oi
+Cliente: Entendi
+Atendente: *Nathally Dantas:* 
+Não é nossa plataforma é o whatsapp web mesmo que tem limitações.
+Cliente: Ok, vou fazer uma limpa aqui
+Cliente: Uma dúvida
+Atendente: *Nathally Dantas:* 
+Faça e estarei acompanhando para que consiga carregar.
+Atendente: *Nathally Dantas:* 
+pode falar.
+Cliente: Teria uma forma automática de de cadastrar os números dessas conversas no aparelho? Nós tem um sistema de CRM mas por lá, quando o contato é muito antigo nós também excluímos
+Cliente: Queria ver se tinha uma forma de deixar o contato salvo aqui sem precisar salvar os números um por um
+Cliente: temos*
+Atendente: *Nathally Dantas:* 
+Você pode automatizar via API, no caso você teria que contratar por sua conta alguém para realizar essa integração.
+Atendente: *Nathally Dantas:* 
+Nós indicamos uma empresa que faz sempre essas demandas para nossos usuários: https://integra.ninja/
+Cliente: Ok e será que conseguimos integrar nosso CRM a tudo isso? Hoje os novos contatos que chegam do whatsapp, eu faço a exportação por Excel e cadastro na ferramenta, teria como ver essa possibilidade? Utilizamos hoje o bulldesk.com
+Cliente: Bulldesk.com.br *
+Atendente: *Nathally Dantas:* 
+Teria que ver com o pessoal da Integra Ninja, dependendo do CRM você consegue integrar.
+Cliente: Ok, vou fazer um orçamento com eles e retorno depois aqui
+Cliente: Obrigada
+Atendente: *Nathally Dantas:* 
+Por nada, e agiliza a exclusão dos conatos antigos para carregar a plataforma.
+Atendente: *Nathally Dantas:* 
+contatos*
+Cliente: Ok, já estou selecionando alguns que tenho certeza que não teremos retorno 😁
+Atendente: *Nathally Dantas:* 
+Qualquer coisa, conte conosco, vamos te auxiliar.
+Atendente: *Nathally Dantas:* 
+Nesse momento te ajudo em algo mais?
+Cliente: Seria isso por enquanto, qualquer coisa retorno. Obrigada 🙏
+Atendente: *Nathally Dantas:* 
+Obrigada você!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6011c34573116bf23e3fd2ba
+Cliente: Boa tarde, conseguimos corrigir a fila alta do zap, estamos agora com outro problema, muitos contatos nos enviam imagens e os arquivos ficam parecendo corrompidos na conversa. Assim:
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Ernando Neto:* 
+Boa tarde, pessoal! Tudo bem?
+Estou ajustando isso agora mesmo, não se preocupem :)
+Em alguns instantes isso já estará resolvido
+Atendente: *Ernando Neto:* 
+Consigo ajudar em algo mais?
+Cliente: Ainda continua sem aparecer a imagem
+Atendente: *Ernando Neto:* 
+Como o arquivo foi recebido *antes* de realizar esse ajuste, ele precisará ser enviado novamente para que apareça na plataforma
+Cliente: Vou fazer um teste
+Cliente: Beleza, deu certo!
+Cliente: Obrigada 🙏
+Atendente: *Ernando Neto:* 
+Ahhh, maravilha!! Que ótimo que deu certo :)
+Atendente: *Ernando Neto:* 
+Consigo ajudar em outra questão?
+Cliente: Perdão, muitas mensagens aqui. Era isso por enquanto. Obrigada
+Cliente: Boa tarde, mais um erro surgiu
+Cliente: agora com os arquivos em formato de pdf que nossos contatos enviam
+Cliente: Clicamos pra baixar e essa mensagem aparece
+Atendente: *Rodrigo Lacerda:* 
+Olá, Itajaí. tudo bem? Meu nome é Rodrigo e vou te dar suporte durante o período  de intervalo do meu colega. 🙂
+Atendente: *Rodrigo Lacerda:* 
+Uma pergunta: isso aconteceu com um documento específico ou está acontecendo em todos?
+Cliente: Verifiquei aqui e mais de um arquivo deu o mesmo erro.
+Cliente: Tentei outros arquivos de PDF tbm
+Cliente: Deu o mesmo erro
+Atendente: *Rodrigo Lacerda:* 
+Ok. Vou aplicar a solução mas pra isso sua conta provavelmente ficará por alguns minutos sem conexão.
+Cliente: Tudo bem
+Atendente: *Rodrigo Lacerda:* 
+Por favor, tente novamente baixar o documento.
+Cliente: Ainda não consigo abrir os arquivos :(
+Cliente: Mesmo erro
+Atendente: *Rodrigo Lacerda:* 
+Faz o seguinte, dê o CTRL + F5 e tente novamente.
+Cliente: Fiz aqui, assim mesmo ainda não aparece pra mim
+Cliente: testei de 3 conversas, todos os pdfs deram erro
+Atendente: *Rodrigo Lacerda:* 
+Entendi, vou aplicar uma outra solução.
+Cliente: Olha, eu gosto muito da ferramenta. Mas meu chefe realmente tem urgência nessa correção, tem dado vários erros no zapguru nos últimos dias, todas foram corrigidas e tiveram solução, mas é muito ruim ter que chamar o tempo todo o suporte, precisa ser algo um pouco mais autônomo, estamos esperando estes boletos para poder encaminhar aos clientes. Eles estão ameaçando cancelar o contrato com vocês. Estou tentando segurar aqui pois novamente, vejo muito potencial no zapguru
+Cliente: Só estou passando mesmo o que me falaram pois podem desistir aqui.
+Cliente: Espero que consiga corrigir 🙏
+Cliente: E peço perdão se pareço impaciente, mas é que estou sendo cobrada.
+Atendente: *Rodrigo Lacerda:* 
+Não precisa pedir perdão. Entendemos totalmente sua posição e estou correndo para solucionar esse problema.
+Cliente: Boa tarde Rodrigo, parece que corrigiu agora. Não sei o que exatamente gerou isso. Mas o que nós vimos em comum foi: perguntei aos contatos qual o meio de envio dos arquivos, se era arquivos encaminhados, se era por whats app web, por celular, etc. Algo que achei em comum foi: deu erro apenas nos arquivos que recebemos dos contatos que enviaram por whats web
+Cliente: Agora se essa minha pesquisa tem relação real com erro não sei, mas o bom que deu certo 😀 Visualizamos os arquivos no zap
+Atendente: *Ernando Neto:* 
+Maravilha!! Vou levar essa questão do arquivo enviado pelo wpp web para nossa área de desenvolvimento e muito obrigado pelo apoio na identificação do erro :)
+Precisando de qualquer coisa é só nos chamar
+Cliente: Beleza, ótimo fim de tarde 👊👊
+Atendente: *Ernando Neto:* 
+Igualmente!!
+Antes de finalizar nosso atendimento, consigo ajudar em algo mais?
+Cliente: Por enquanto é isso mesmo, obrigada
+Atendente: *Ernando Neto:* 
+Perfeito. Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição. Boa tarde.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601322e873116bf23e403c97
+Cliente: Bom dia
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Vídeos também com erro
+Atendente: *Luiz Modestino:* 
+São arquivos de grupo. Por padrão são bloqueadas o download para não sobrecarregar o servidor. Irei solicitar a liberação.
+Atendente: *Luiz Modestino:* 
+Arquivos de grupos liberados.
+Cliente: ah beleza então, obrigada
+Atendente: *Luiz Modestino:* 
+Os novos arquivos serão baixados normalmente. Posso ajudar em algo mais?
+Cliente: Era isso por enquanto, obrigada 🙏
+Atendente: *Luiz Modestino:* 
+Ok. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6014059f73116bf23e405652
+Cliente: Boa tarde
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Itajaí! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Boa tarde Eduardo, eu tenho uma dúvida sobre o zapguru. Possui uma forma de transferir todos os chats delegados de um usuário para outro de forma automática? Ou a delegação precisa ser manual? Não seria de novos chats cadastrados, mas dos que já existem
+Atendente: *Eduardo Victor:* 
+É possível realizar uma campanha para essa alteração, isso seria feito só dessa vez ou sempre?
+Cliente: Seria apenas essa vez
+Atendente: *Eduardo Victor:* 
+Consigo fazer isso aqui pra você, de qual usuário você quer transferir?
+Cliente: Seria do usuário: Contato 1
+contato1@itajaicontainers.com.br
+Para: Alessandra
+financeiro@itajaicontainers.com
+Cliente: Seriam todos os chats, no filtro  aqui possui: 3175 chat(s) no contato1
+Atendente: Boa noite Itajaí!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Eduardo Victor:* 
+Entendi, vou providenciar isso aqui pra você e realizar essa campanha.
+Atendente: *Eduardo Victor:* 
+Provavelmente eu precisarei encerrar o atendimento aqui por questão de horário mas deixarei essa campanha rodando e deverá ficar pronta em cerca de 1 hora, por questão da quantidade de chats
+Atendente: *Eduardo Victor:* 
+Vou criar uma campanha que remova a delegação do usuário Contato1 e mande para Alessandra, correto? Também vou deixar uma tag nesses contatos em caso de precisarmos reverter
+Cliente: Em outro suporte me aconselharam deletar algumas conversas pra que o zap possa fluir melhor, então esse usuário que já está desativado, eu gostaria de colocar ele para um novo funcionário que irá iniciar na empresa e vou limpas essas conversas, mas antes quero verificar um por um.
+Cliente: Tudo bem, obrigada pelo suporte e boa noite 🙏
+Cliente: Correto
+Atendente: *Eduardo Victor:* 
+Entendi, tudo bem
+Atendente: *Eduardo Victor:* 
+Vou finalizando aqui por questão do horário, continuamos amanhã pela manhã, tudo bem? Uma ótima noite pra você 😁
+Cliente: Tudo certo, obrigada 🙏
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6019bf1273116bf23e4195be
+Cliente: Boa tarde
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: Estamos com um problema no nosso número cadastrado, nós temos muitas conversas em aberto e isso está travando a ferramenta, o suporte já nos aconselhou a apagar conversas, mas essa não  é uma boa solução para nós pois precisamos desses históricos
+Cliente: Cheguei numa alternativa que seria a troca de número, assim podemos manter o histórico deste número mas cadastrar um novo número sem chats em aberto para a ferramenta rodar melhor
+Cliente: A minha dúvida seria, pra fazer essa alteração de número, possui algum custo? Ou se até se tiverem uma alternativa que nos indiquem
+Atendente: *Lucas Gusmão:* 
+Peço desculpas pela demora 😅 Na verdade seria uma adição de número né
+Atendente: *Lucas Gusmão:* 
+Esse número adicional custa R$ 297,00/mês.
+Cliente: Na verdade gostaria de uma alteração de número, pois o nosso hoje está muito lento
+Atendente: *Lucas Gusmão:* 
+Alterando de forma a inutilizar o número antigo?
+Cliente: Tá, se adicionarmos um novo número, ele não é afetado pela lentidão do antigo né? Teria que ser instalado em outro celular também, certo?
+Cliente: Isso
+Cliente: Tá, falei com meu financeiro. Aprovaram o número adicional, mas pode deixar ativo o número antigo.
+Cliente: É possível ativação agora? Estamos com o atendimento por whatsapp parado, então eles desejam aplicar imediatamente o novo número. Já possuo um celular e chip reserva
+Atendente: *Lucas Gusmão:* 
+Me desculpa pela demora. Estava conversando com a nossa equipe técnica sobre a sua questão. Infelizmente o número adicional não irá solucionar o problema.
+Atendente: *Lucas Gusmão:* 
+Essa questão só será resolvida se os chats acumulados forem excluídos.
+Atendente: *Lucas Gusmão:* 
+A própria plataforma do Whats App Web não suporta carregar essa quantidade de informações.
+Cliente: Então seria dentro da ferramenta que precisa ser excluído as conversas? Ou no whats app no celular? É que se ativarmos um novo número seria um whats app limpo certo?
+Cliente: Eu entendi que deveriam ser excluídas as conversas diretamente do celular, mas então precisa ser deletado o chat também?
+Atendente: *Lucas Gusmão:* 
+Sim, porque as conversas que foram registradas na plataforma, permanecem arquivadas na plataforma.
+Atendente: *Lucas Gusmão:* 
+Trocar o número ou adicionar um novo número iria dividir o número de atendimentos, mas não solucionar o problema de carregamento de chtas.
+Cliente: Ok, então para uma solução final é preciso deletar a conversa no zapguru e no celular também? Seria isso?
+Cliente: Nós temos outro problema também, tinham arrumado mas parou de funcionar novamente. Quando enviamos um vídeo, na plataforma aparece que o arquivo foi, mas nas mensagens no celular não está enviado
+Atendente: *Lucas Gusmão:* 
+Me perdoe pela demora. Estava enfrentando um problema sério com a conexão aqui 😅 Você precisa apagar apenas no aparelho.
+Atendente: *Lucas Gusmão:* 
+Certo. Acredito que isso esteja ocorrendo devido ao BUG no sistema. Esse erro já foi corrigido pela nossa equipe. Para instalar as atualizações, preciso reiniciar sua conexão.
+Atendente: *Lucas Gusmão:* 
+Você está próximo(a) do aparelho?
+Cliente: Sim
+Atendente: *Lucas Gusmão:* 
+Certo. Estou reiniciando a conexão 😊
+Atendente: *Lucas Gusmão:* 
+Preciso que você faça a leitura do QR-Code, por favor.
+Cliente: Ok
+Cliente: Conectei, mas tá lento daquele jeito😅
+Atendente: *Lucas Gusmão:* 
+O Whtas App Web está tentando sincronizar, mas como são muitas conversas, está demorando um pouco.
+Atendente: *Lucas Gusmão:* 
+Pronto! 😁 Acredito que essa atualização irá resolver o problema.
+Atendente: *Lucas Gusmão:* 
+Caso volte a ocorrer, é só falar com a gente
+Cliente: Conectou 🙏
+Cliente: Obrigada 🙏🙏
+Atendente: *Lucas Gusmão:* 
+Por nada! Fico feliz em poder ajudar. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6022f26073116bf23e4390a2
+Cliente: Bom dia, estamos com um problema nos cadastros de contatos no zap
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Bom dia, Itajaí. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico o histórico 👨‍💻
+Atendente: *Arthur Ferragini:* 
+Poderia dar mais detalhes do problema que está enfrentando no cadastro?
+Cliente: é mais na parte do app automate que acontece o problema, exemplo o contato alexandre, tivemos que insistir diversas vezes para o contato cadastrar, ele possui aquelas etapas no celular: adicionando novo container > mas sózinho ele fecha a conversa e envia: mensagem enviada, aqui no histórico fica como erro
+Cliente: não sei se fui clara, posso tentar gravar um vídeo pra demonstrar
+Cliente: adicionando novo contato* 😅😅😅
+Atendente: *Arthur Ferragini:* 
+Entendi!
+
+No caso do Alexandre, o erro aconteceu inicialmente pois o cadastro foi feito com o novo dígito no início, porém o Whatsapp dele não contém o novo dígito.
+
+Ao adicionar um contato, evite usar o nono dígito pois o Whatsapp dificilmente utiliza ele no cadastro.
+Cliente: Tentamos um Wagner agora, sem o 9 e o mesmo erro ocorreu
+Atendente: *Arthur Ferragini:* 
+Opa, vou verificar!
+
+Para isso precisarei acessar o aparelho remotamente. Por gentileza, abra o aplicativo Anydesk e passa pra mim o código de acesso.
+Cliente: ok, só um minuto
+Cliente: 891242327
+Atendente: *Arthur Ferragini:* 
+Estou dentro! Aguarde enquanto faço algumas verificações
+Cliente: ok
+Atendente: *Arthur Ferragini:* 
+Resolvido!
+
+O que aconteceu: por algum motivo, o celular estava demorando mais de 10 segundos para abrir o chat adicionado. E esse é o tempo máximo antes de considerarmos erro.
+
+Para resolver: aumentei o tempo máximo de erro para 20 segundos e o chat foi adicionado sem problemas. O normal não é demorar tudo isso, mas CASO demore, o robô será mais "paciente" 😁
+Atendente: *Arthur Ferragini:* 
+Gostaria de fazer algum teste ou teria outro assunto que gostaria de tratar?
+Cliente: Ah entendi, era isso mesmo, mas deixa eu só fazer um teste com um contato aqui
+Cliente: ah deu certinho, obrigada 🙏
+Atendente: *Arthur Ferragini:* 
+Perfeito 🙌
+Atendente: Itajaí, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Era apenas isso, obrigada 👍
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6037b57a9f49179ac895f8ab
+Cliente: Bom dia
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia, Itajaí! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Bom dia Eduardo, estou com problema pra sincronizar as conversas do chat guru, ao fazer a leitura qr code, ele leva muito tempo pra se conectar
+Cliente: E acaba reiniciando a etapa
+Atendente: *Eduardo Victor:* 
+Só um momento que irei verificar e já te dou uma resposta, está bem?
+Atendente: *Eduardo Victor:* 
+Tenta realizar a leitura agora, por favor, vou acompanhar aqui.
+Atendente: *Eduardo Victor:* 
+No WhatsApp do aparelho, existe alguma conversa arquivada?
+Cliente: Não
+Atendente: *Eduardo Victor:* 
+Verifica também se o aplicativo precisa de alguma atualização, por favor
+Cliente: Ele tinha uma atualização pendente hoje de manhã, daí fiz a atualização,as mesmo antes e depois de atualizar não conecta
+Cliente: Na verdade eu arquivei todas as conversas pra tentar sincronizar, daí não resolveu também e desarquivei tudo
+Atendente: *Eduardo Victor:* 
+Conectado e sincronizado ✅ Poderia confirmar?
+Cliente: Sim 🙏🙏
+Atendente: *Eduardo Victor:* 
+Perfeito! Acredito que ficará estável agora. Eu consigo te ajudar em algo mais?
+Cliente: Era isso mesmo. O principal problema seria esse mesmo né?  Não teria outra solução né? Tenho que continuar deletando as conversas pra não acumular pois temos um número alto de chats abertos
+Atendente: *Luiz Modestino:* 
+Olá. Meu nome é Luiz. O Eduardo saiu de pausa.
+Sim, para manter a estabilidade o ideal é apagar chats antigos. Isso otimiza bastante a conexão e nem sobrecarrega o celular.
+
+Lembrando que um chat apagado no aparelho, ele ainda permanece no ChatGuru, mas só poderá interagir com ele novamente quando ele for aberto no celular.
+Cliente: Entendi, então se apenas arquivar a conversa no aparelho também não influência na velocidade da conexão?
+Atendente: *Luiz Modestino:* 
+Não, porque o ChatGuru também contabiliza esses chats na sincronização.
+Cliente: hmm entendi
+Cliente: mas então era isso mesmo, qualquer outra dúvida ou suporte chamo novamente. Obrigada pela ajuda 🙏
+Atendente: *Luiz Modestino:* 
+Por nada. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6048e584ecec98869e4de2b5
+Cliente: Boa tarde
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Itajaí, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. No que eu posso te ajudar?
+Cliente: Eu precisava alterar o nome de um usuário, mas não consigo.
+Atendente: *Hugo:* 
+Nome de usuário só dá para trocar por aqui mesmo. Me informa qual o nome atual e qual o novo nome que você deseja colocar.
+Cliente: Preciso alterar o nome do adm01 que está como ADM para COMPRAS
+Atendente: *Hugo:* 
+Alteração realizada. Te ajudo com algo mais? =D
+Cliente: Tenho também o contato que está salvo como ALINE (e-mail contato2@itajaicontainers.com.br) gostaria de alterar para CONTATO2
+Atendente: *Hugo:* 
+só um momento.
+Cliente: Ah perdão, tem mais um também 🙏 o contato salvo como: PAMELA (web@itajaicontainers.com.br) alterar para WEB
+Atendente: *Hugo:* 
+Alteração Realizada. Te ajudo com algo mais?
+Cliente: E depois acabou, era só isso mesmo! 😄
+Atendente: *Hugo:* 
+Sem problemas. Alteração realizada.
+Atendente: *Hugo:* 
+Tudo bem então. Qualquer coisa é só nos chamar.
+Boa tarde! 😄
+Cliente: Boa tarde, obrigada 👍👍
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60526d8becec98869e50a0b4
+Cliente: Bom dia
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Vanessa Dias:* 
+Olá Itajaí, tudo bem? Sou a Vanessa do Suporte do ChatGuru, como posso te ajudar?
+Cliente: Ontem pedi umas alterações de nomes mas acabei me confundindo e troquei os nomes 😀 Os nomes que estão como:
+Compras (adm01@itajaicontainers.com.br) preciso que troque para: RH
+ADM (adm@itajaicontainers.com.br) trocar para o nome: COMPRAS
+Atendente: *Vanessa Dias:* 
+Ok, então trocar de Compras, e-mail adm01@itajaicontainers.com.br para RH, e-mail adm@itajaicontainers.com.br
+Atendente: *Vanessa Dias:* 
+Certo?
+Cliente: Isso: o email que esta salvo como ADM 
+(adm@itajaicontainers.com.br) pra COMPRAS e o que está salvo como COMPRAS  (adm01@itajaicontainers.com.br) para RH
+Cliente: Correto
+Cliente: Isso, certo 🙏
+Atendente: *Vanessa Dias:* 
+Foram feitas as alterações. Posso ajudar em algo mais?
+Cliente: Era só isso mesmo, obrigada 👍👍
+Atendente: *Vanessa Dias:* 
+Nós quem agradecemos seu contato Itajaí ! Para qualquer dúvida estamos à disposição 😀
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60536015ecec98869e50c5b6
+Cliente: Bom dia, tudo bem?
+Atendente: Itajaí Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Vanessa Dias:* 
+Olá Itajaí, tudo bem? Sou a Vanessa do Suporte do ChatGuru, como posso te ajudar?
+Cliente: Estamos com um problema em visualizar e baixar arquivos, fotos, vídeos e pdfs
+Atendente: *Vanessa Dias:* 
+Entendi. O problema acontece ao receber os arquivos ou tanto para receber como enviar? No aparelho o arquivo é aberto normalmente e apenas na plataforma há problemas?
+Cliente: Estou tendo problema tanto pra receber e enviar na plataforma, diretamente pelo celular consigo receber, abrir e enviar normalmente
+Cliente: Ah, áudios tbm
+Atendente: *Vanessa Dias:* 
+Ok. Pode me informar por favor o nome de um chat ou o link dele em que encontrou esses problemas? E gostaria também de saber a partir de quando começou a perceber o problema
+Atendente: *Vanessa Dias:* 
+Eu vou registrar um chamado para a equipe responsável verificar
+Cliente: Nesse caso não consigo encaminhar uma foto: https://app3.zap.guru/chats#6076d862178b430eae1567ef
+Cliente: E começou agora, faz uns 15 minutos
+Cliente: Naquele relatório de mensagens consegui puxar aqui, o primeiro erro ao enviar começou nesse horário: 2021-04-19 11:06:44
+Atendente: *Vanessa Dias:* 
+Ótimo, vou registrar o chamado
+Cliente: Ok, obrigada 🙏
+Atendente: *Vanessa Dias:* 
+Para completar as informações, consegue me informar quanto de memória seu aparelho tem e quanto de espaço livre por favor? Se preferir até posso acessar o aparelho e vejo as informações que preciso.
+Cliente: Essa foto enviei direto do celular, sempre que começa a ficar sem espaço jogo arquivos pro cartão de memória
+Atendente: *Vanessa Dias:* 
+Certo. Eu não visualizo seu nome, apenas o nome da empresa. Como é seu nome por favor?
+Cliente: Ah perdão, é Alessandra 😅
+Atendente: *Vanessa Dias:* 
+Sem problemas 😁 Alessandra eu vou precisar acessar seu aparelho mesmo para analisar melhor o desempenho dele em relação à quantidade de mensagens que ele processa. Pode me informar por favor o endereço AnyDesk do aparelho?
+Cliente: Beleza, só um minuto que vou abrir aqui
+Cliente: Aquele app automate eu dei um pause nele proposital, ta? É que se não os outros usuários ficam cadastrando e não consigo mexer no celular 😅
+Cliente: endereço: 891 242 327
+Atendente: *Vanessa Dias:* 
+Já vou pedir uma alteração para adicionar chat e não ser mais necessário o automate também Alessandra
+Atendente: *Vanessa Dias:* 
+Alessandra, eu acessei o aparelho mas não consegui as informações que precisava, pois o WhatsApp está lento. Eu vou pedir para um outro técnico acessar por conta do meu horário de almoço e ele vai continuar seu atendimento, ok. Ele avisa quando for acessar o aparelho
+Cliente: Vanessa, acabei de ver agora... talvez já retornou 🤔 Vi que naquela conversa alí do Gabriel Fauro nossa apresentação em pdf carregou
+Cliente: Ah, acho que ainda não... tentei enviar uma foto e não carregou 😅
+Cliente: Tudo bem 👍 fico no aguardo
+Atendente: *Hugo:* 
+Olá Itajaí, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. A Vanessa saiu para o intervalo e pediu que eu seguisse com o atendimento até ela retornar. O chamado que ela havia realizado já foi tratado. Você pode fazer a leitura do QR code novamente por favor?
+Cliente: Boa tarde Hugo, estava te aguardando pra falar sobre isso mesmo 😅 Tentei fazer a leitura do qr code mas essa mensagem apareceu
+Atendente: *Hugo:* 
+Também identificamos que você está com mais de 34 mil chats nesse aparelho. Esse número de chats elevado sobrecarrega muito o app (mesmo em celulares mais potentes). Nós recomendamos apagar para ficar com cerca de 15 a 20 mil chats.
+Cliente: Nunca deu isso 😢
+Cliente: Ah entendo. Pois é, eu excluí conversas antigas a algum tempo, mas faz umas semanas que não excluí mais, terminei de almoçar e ia começar a fazer isso agora
+Cliente: Boa tarde Hugo, apaguei conversas antigas mas ainda aparece esse erro na leitura do qr code
+Atendente: *Vanessa Dias:* 
+Oi Alessandra, aqui é Vanessa novamente. O Hugo me informou mesmo sobre esse problema e ele já está sendo tratado pela equipe responsável.
+Cliente: Ah beleza, fico no aguardo então
+Cliente: Boa tarde Vanessa, tem algum retorno da equipe?
+Atendente: *Vanessa Dias:* 
+Oi Alessandra. Infelizmente não recebi resposta, mas sei que está com uma terceira equipe que está analisando o que ocorreu na sua conta
+Cliente: Ok 😢 Será que temos como configurar um segundo número? Todo o meu setor de vendas atende nesse aqui e agora a equipe toda está sem acesso aos atendimentos.
+Atendente: *Vanessa Dias:* 
+Já estou em contato com o responsável para solucionar o quantos antes Alessandra
+Atendente: *Josué Dionizio:* 
+ja está funcionando :D
+Por favor teste
+Cliente: Olá, esta é uma mensagem automática. Estamos enfrentando dificuldades de conexão por este canal. Mas respoderemos assim que retornarmos.
+Por favor, para assuntos urgentes entre em contato em nossos números fixos:
+(47) 3345 7500
+(47) 3345 7502
+(47) 3345 7511
+(47) 3345 7512
+
+Agradecemos seu contato 🙏
+Atendente: *Josué Dionizio:* 
+se tiver qualquer problema por favor comunique :D
+Cliente: Ai que bom, vou testar 😁😁😁
+Cliente: Boa noite, deu certo a conexão 🙏🙏 Só queria entender como ficou agora os cadastros? Não é preciso mais do app automate?
+Atendente: Boa noite Itajaí!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Vanessa Dias:* 
+Oi Alessandra. O automate não precisa mais ficar aberto para adicionar contatos, as adições de contato serão processadas apenas pela ferramenta agora, mas não há necessidade de desinstalar o automate, ele pode ficar instalado, só não é necessário mais abri-lo
+Atendente: *Vanessa Dias:* 
+Que bom que deu certo a conexão 😉
+Atendente: *Vanessa Dias:* 
+Por conta do nosso horário esse atendimento será encerrado, mas pode entrar em contato conosco sempre que precisar
+Atendente: *Vanessa Dias:* 
+Nós agradecemos seu contato Itajaí!
+Cliente: Certinho, agradeço o suporte 🙏 boa noite
+Atendente: Boa noite Itajaí!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Vanessa Dias:* 
+Boa noite Alessandra 😀
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/607df687ecec98869e5bed00
+Cliente: Boa tarde, gostaria de tirar uma dúvida
+Atendente: Itajaí Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gustavo Soares:* 
+Olá Itajaí! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: Tem uma nova função no whats app web com leitura do qr code:
+Cliente: Essa função é compatível com a plataforma?
+Cliente: a dúvida nem seria sobre poder utilizar o mesmo número em outros aparelhos, seria mais pra não depender da conexão no celular, se ativarmos essa função beta, melhoraria a conexão com o zap? É que ainda estamos enfrentando muitas quedas por desconexão
+Atendente: *Gustavo Soares:* 
+Então na verdade essa função "sempre" (ou há muito tempo) teve, a leitura é para que consiga ter acesso ao WhatsApp Web (que é a plataforma original do WhatsApp para computador)
+O ChatGuru tem como se fosse o WhatsApp web no servidor para receber e enviar informações (como mensagens, etc)
+Porém quando você faz a leitura em outro WhatsApp web ele desconecta do ChatGuru, isso porque *o próprio WhatsApp* interrompe a conexão visto que eles não permitem mais de uma conexão via Qr-Code
+
+Porém eles anunciaram que em breve poderá utilizar em mais aparelhos
+Atendente: *Gustavo Soares:* 
+Então eu não recomendo ativar a função Beta isso porque tem instabilidades e a plataforma só fica disponível para versões que vão ao público até por questões de segurança
+Logo segundo o que o WhatsApp nos promete, não terá mais problema de conexão via WhatsApp web
+Por enquanto recomendo seguir as nossas recomendações de uso do aparelho
+Atendente: *Gustavo Soares:* 
+- Sugiro que delete alguns aplicativos do aparelho como redes sociais, youtube, spotify e outros. O aparelho deverá ser como um servidor de atendimentos dentro da empresa, e utilizar esses aplicativos pode causar a desconexão do WhatsApp.
+
+💡 *Recomendações importantes:* 
+
+✅Evitem manusear o aparelho que está servindo o ChatGuru.
+O aparelho que serve o ChatGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade.
+
+✅Aparelho sempre conectado
+O ChatGuru necessita que o aparelho esteja conectado na internet 100% do tempo para funcionar, assim como na versão do web whatsapp se o o aparelho perder a conexão, o ChatGuru para de funcionar. Por isso é muito importante que ele esteja sempre conectado a *internet* e na *tomada*.
+
+📶Boa conexão de internet
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de sua internet influencia no desempenho do ChatGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo:
+https://www.speedtest.net/
+
+✅Aparelho com tela acesa e app do WhatsApp Aberto
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ChatGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a tela acesa com o app do whatsapp aberto. 
+
+✅ Seguindo tudo direitinho evitará problemas de conexão 😄
+Cliente: Entendi, então só mais uma dúvida... hoje é oferecido também outros planos na plataforma que não envolva a leitura do qr code? Como exemplo, aquela versão de api? Se sim, seria possível alterar o plano pra esse mesmo número sem perder o histórico de mensagens aqui da plataforma?
+Atendente: *Gustavo Soares:* 
+Sim e sim, o plano da API Oficial é fornecida por meio de um provedor autorizado do WhatsApp
+Vou te passar algumas informações da API Oficial ok? (é muita informação mas é importante)
+Atendente: O WhatsApp Business API também chamado de API oficial do WhatsApp permite que você tenha o WhatsApp sem a necessidade de um aparelho celular, reduzindo custos com a aquisição de aparelhos, uso de energia, internet e tempo, ele também permite que você tenha quantas conversas quiser, sem a necessidade de apagar chats ou ter que mandar apenas 1 mensagem por vez, resolvendo assim problemas de conexão, fila de mensagens, instabilidades e banimentos. É recomendado para empresas que trabalham mais de forma receptiva, mas também funciona para empresas ativas!
+Outra função sensacional que o WhatsApp Business API oferece é a possibilidade de botões. vou encaminhar algumas imagens como exemplo.  😄
+Atendente: Você poderá falar com chats dentro de um prazo máximo de 24h após a última mensagem recebida. Após esse prazo, você precisa utilizar um TEMPLATE que nada mais é que uma mensagem pré-aprovada pelo WhatsApp, que gera para você um custo adicional de cerca R$ 0,50 por mensagem de TEMPLATE enviada.
+Lembrando que apenas o template para *Abrir uma conversa é cobrado*, caso você envie um template em uma *conversa ativa* dentro do *período das 24 horas*, ele *não será cobrado*.
+
+O valor dessas mensagens precisam ser creditados de forma antecipada em sua conta através de contratação em nosso setor financeiro. Com API Oficial, você pode centralizar todos os chats em apenas 1 número dentro de sua conta. O TEMPLATE é utilizado para adicionar novos chats, retomar conversas após 24h e envio de campanhas publicitárias e promoções.
+Diferente de outras plataformas, no ChatGuru, você não paga nada por mensagens enviadas e recebidas dentro da janela de 24h, aumentando sua produtividade e reduzindo custos desnecessários. Para você, o custo é fixo, de apenas R$ 629,00/mensal + valores de módulos e usuários adicionais em sua conta + Setup de R$ 1.000,00/pagamento único para configuração de sua API Oficial junto ao WhatsApp e Página do Facebook Business. Por serem clientes do ChatGuru, tem um desconto de R$ 500,00 nesta taxa de Setup!
+
+O requisito para utilização da API Oficial é ter a verificação do Facebook Business. Para isso você deve entrar em contato com nosso setor financeiro e contratar a API Oficial, assim podemos te ajudar com a verificação de seu Facebook para proceder com a contratação e uso da API Oficial. Após solicitar a verificação, o pedido pode demorar de 3 a 90 dias para conclusão. Só após a liberação da verificação de sua conta Facebook Business podemos proceder com a liberação da API Oficial, que precisa ser um número novo, sem uso do WhatsApp ou um número de WhatsApp existente com conta zerada ( É possível utilizar um número de WhatsApp existente desde que siga as recomendações ).
+Cliente: hmm, ok... no caso esse número com whats app existente precisa ter zero conversas no aparelho mas o histórico aqui da plataforma continua?
+Atendente: *Gustavo Soares:* 
+Perdão pela demora fui confirmar aqui...
+Então no caso teria que excluir a conta do WhatsApp no número existente mas na plataforma irá manter os chats e todo o histórico
+Cliente: Ok, vou passar aqui aos diretores
+Atendente: *Luana Cavalcanti:* 
+Por favor precisa de mais alguma ajuda, Itajaí? 😊
+Cliente: Por enquanto não, obrigada 🙏😄
+Atendente: *Luana Cavalcanti:* 
+Fico muito feliz por ter te ajudado😄, se precisar basta entrar em contato conosco novamente! 🙋‍♀️Tenha uma ótima tarde! 🌺
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Itajaí, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6140deb9dd3292a7a70f5894
+

@@ -1,0 +1,119 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo ao nosso número de atendimento ao cliente!
+Atendente: Olá Marcos, Boa tarde. Meu nome é Mark!
+Seja Bem-Vindo a ZapGuru!
+Vou te ajudar a configurar o seu ZapGuru.
+
+Já conseguiu acessar sua conta no zapguru?
+Cliente: Olá Mark, ainda não acessei. Qual link de acesso?
+Atendente: Os dados foram enviados as 14:36 pelo número +55 (11) 30420035
+Atendente: Verifique ai por favor.
+Atendente: Assim que conseguir acessar me confirma aqui por favor.
+Cliente: Foram enviados para este número ou para o que vai ser configurado?
+Atendente: Para esse mesmo que estou conversando com você.
+Cliente: Sim, neste número não há nenhuma mensagem do número referido.
+Atendente: Marcos, segue abaixo sua credencial de acesso:
+Email: marketing@movemegastore.com.br
+Senha: 9e82757e9a1c12cb710ad680db11f6f1
+Atendente: Recomendamos seguir esses primeiros passos:
+
+Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também:
+
+Recomendações para Estabilidade
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+Nosso Canal do Youtube
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+Nosso Wiki Com toda documentação do ZapGuru!
+👉 https://wiki.zap.guru
+
+Perguntas Frequentes
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em seus favoritos!
+Atendente: Após assistir o vídeo, você deve acessar sua conta através unicamente do URL:
+👉 https://app5.zap.guru
+
+Salve-o em seus favoritos
+Cliente: Ok! Obrigado!
+Cliente: Certo
+Atendente: Nada. Assim que conseguir me avisa por favor para darmos seguimento a sua configuração inicial.
+Cliente: Ok, aviso sim.
+Cliente: Olá Mark, já estamos fazendo uso da plataforma. Temos funcionários mais avançados para fazer a configuração tendo em vista que é tudo muito intuitivo e prático.
+Atendente: Marcos Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O que preciso realmente é inserir um novo usuário. Sei que tem o custo de R$50. Assim pode enviar o boleto que efetuarei de imediato o pagamento.
+Atendente: *Encaminhado para o Financeiro*
+Atendente: Olá Marcos!
+Cliente: Olá, tudo bem? Preciso de mais um usuário. Pode gerar um boleto para eu realizar o pagamento?
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: Desejo inserir esse usuário no meu plano permanente, acredito que com essa solicitação isso já se torna automático correto?
+Cliente: Ok, em seguida já envio.
+Atendente: Exatamente, esse valor será incorporado em sua mensalidade.
+Cliente: Perfeito
+Cliente: Comprovante do usuário adicional
+Atendente: Show Marcos
+Atendente: Liberado 1 usuário adicional
+total 5 usuários
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Muito obrigado. É isso, pode encerrar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Marcos, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Olá, está indo muito bem. A ferramenta é excelente e a documentação de uso muito clara.
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Tudo ali é muito intuitivo.
+Cliente: Eu vou precisar de mais um usuário, vocês podem liberar para mim e enviar o boleto?
+Atendente: Ficamos muito contente que esta gostando, Marcos!
+Atendente: Boa tarde, Marcos! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Cada usuário custa apenas R$50,00 mensal. Liberamos com o envio do comprovante.
+Atendente: Posso te encaminhar para o financeiro?
+Cliente: Sim, realizei esse processo ontem. Pode encaminhar sim, por favor.
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Cliente: Olá boa tarde, gostaria de mais um usuário adicional. Você poderia gerar o boleto para mim?
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Atendente: Boa tarde Marcos 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Claro, tenho sim
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos conseguindo usar tranquilamente
+Cliente: A única dúvida é se consigo mudar o nome do usuário
+Atendente: Olá Mariana, Boa tarde! Sou o Daniel do time de suporte do ZapGuru!
+Atendente: Sim, é possível alterar o nome do usuário.
+Atendente: Qual usuário voce gostaria de alterar?
+Cliente: vendas2@movemegastore.com.br
+Cliente: está como VENDAS
+Cliente: quero que mude para VENDAS 2
+Atendente: ok, só um instante
+Cliente: Certo
+Atendente: Obrigado por aguardar Marcos.
+Atendente: Já encontra-se atualizado.
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: No momento é só Daniel. Muito obrigado pela atenção, pode encerrar. Ótimo final de semana!
+Atendente: Igualmente Marcos, em caso de dúvidas seguimos á disposição!
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Atendente: Olá Marcos, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Atendente: Prezado(a) Cliente, consta em aberto o valor referente a sua mensalidade do ChatGuru. Evite o bloqueio da sua conta realizando o pagamento em até 24h. Em caso de dúvidas, estamos à sua disposição!
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60e4ad4aaee761eec9a8c70e
+

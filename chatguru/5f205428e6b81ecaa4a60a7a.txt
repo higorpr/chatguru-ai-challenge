@@ -1,0 +1,140 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Cliente: [09:54, 28/07/2020] Gustavo Marques: Preciso de um auxilio em relação a um problema
+[09:55, 28/07/2020] Gustavo Marques: Tenho dois numeros hoje no ZAPGURU
+[09:55, 28/07/2020] Gustavo Marques: a comercial e o de suprimentos
+[09:57, 28/07/2020] Gustavo Marques: Esta acontecendo que quando filtro APARELHO SUPRIMENTOS esta trazendo no filtro vários clientes que estão vinculados ao COMERCIAL
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Boa tarde, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Oi Caiu
+Cliente: [09:54, 28/07/2020] Gustavo Marques: Preciso de um auxilio em relação a um problema
+[09:55, 28/07/2020] Gustavo Marques: Tenho dois numeros hoje no ZAPGURU
+[09:55, 28/07/2020] Gustavo Marques: a comercial e o de suprimentos
+[09:57, 28/07/2020] Gustavo Marques: Esta acontecendo que quando filtro APARELHO SUPRIMENTOS esta trazendo no filtro vários clientes que estão vinculados ao COMERCIAL
+Atendente: Em que ocasião isso ocorre Gustavo?
+Atendente: Nos relatórios?
+Atendente: Qual navegador você utiliza?
+Cliente: Seguinte
+Cliente: Quem é do
+Comercial e recepção somente deve se comunicar pelo celular do comercial
+Cliente: 1 -Quem é do comercial e recepção somente deve se comunicar pelo celular do comercial
+Ou seja, Nunca uma mensagem do comercial deve sair do numero do surprimentos
+Cliente: 2 - Chats que tenham como responsáveis pessoas do comercial, devem aparecer somente para o Comercial;.
+Quando eu filtro (Aparelho SUPRIMENTOS), ele tem trazido no resultado clientes com responsáveis do comercial
+Atendente: Ok.
+Atendente: Me informa um cliente que aparece no relatório de suprimentos, sendo que é do comercial, para que eu possa analisar aqui
+Cliente: 9753
+Cliente: Aparelho: 553196341278
+ Cadastro: 22/07/20 14:10
+ Link para Chat
+Gina - 1 GGC PEREIRA FERRAGENS - 9753  
++55 (31) 88088667
+Atendente: Ok. Só um momento. Vou verificar.
+Cliente: ok
+Cliente: ok, aguardo
+Atendente: Você chegou a salvar algum relatório desse ?
+Cliente: to vendo a minha tela agora
+Cliente: vc quer acessar meu PC?
+Atendente: Creio que no momento que essa pessoa foi cadastrada ele foi adicionada pelo outro número.
+Cliente: Tem como não parecer suprimentos para a area do comercial em nenhum lugar?
+Cliente: depender de gente pra isso n da
+Cliente: e esse daqui?
+Cliente: https://app3.zap.guru/chats/5f1872f4cb3346090ad1e135
+Atendente: No chatbot, já tem uma configuração automática para isso. Se um cliente entrar em contato pelo número de suprimentos ele vai direto para o departamento de compras. Quando se vai adicionar um contato, não tem como fazer essa automação pois cabe ao usuário escolher o número correto para adicionar os contatos.
+Cliente: Este que te passei é antigo
+Cliente: este numero é de antes da entrada deste numero
+Atendente: Esse aqui?
+Cliente: tem como acessar minha maquina e me ligar para conversarmos
+Cliente: ?
+Cliente: Como eu troco o aparelho do chat ?
+Atendente: Já consegui acessar sua conta por aqui.
+Atendente: Posso solicitar aqui. Qual seria a troca?
+Cliente: quero que todos os numeros que estejam com responsavel da area comercial ou recepção sejam alterado para o aparelho do comercial
+Atendente: Só um momento.
+Atendente: Estou verificando com o suporte.
+Cliente: quando tiver retorno me avisa por favor
+Atendente: Sim, tranquilo. É que o setor ta analisando como pode ser feito.
+Atendente: Gustavo verifiquei com o suporte e esse tipo de mudança não pode ser realizada porque cada aparelho possui seus chats. Dessa forma, ao cadastrar um cliente, deve-se verificar em qual número pretende adiciona-lo.
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Nao é assim que funcionou
+Cliente: Quando eu cadastrei um número nome ele pegou da agenda do telefone e trocou do sistema
+Cliente: Nãos aceito essa resposta sua como certa
+Cliente: Número novo
+Atendente: No entanto como lhe falei, não é possível em nosso sistema realizar essa troca de chats para outro número.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessimo
+Não resolveu o problema
+Atendente: Boa noite Gustavo!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá Gustavo, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: No momento estou conversando com a Rayane, assim que resolver eu te falo aqui.
+Atendente: Gustavo os aparelhos estão com você?
+Atendente: https://meet.google.com/nrs-uxgm-ogk
+Atendente: Entra nessa videochamada também por favor.
+Atendente: OK, marcamos as 09h30.
+Cliente: Marcado às 09:30
+Atendente:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   vamos?
+Atendente: https://meet.google.com/uoq-cqyq-inn
+Cliente: ja estou na sala
+Atendente: è outro link, acessa esse último por favor.
+Atendente: Esse é o anterior
+Atendente: https://meet.google.com/uoq-cqyq-inn
+Atendente: Acessa esse aqui.
+Cliente: Favor limpar a conta Suprimentos
+Atendente: Pronto, solicitação aberta com a equipe técnica para limpeza da conta, assim que concluir te avisamos aqui.
+Atendente: Gustavo, limpeza realizada, basta acessar sua conta e realizar a leitura do qr-code.
+Atendente: Do número de suprimentos.
+Atendente: te ajudo em algo mais?
+Atendente: Se precisar de ajuda, só chamar aqui. Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: 100%
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ja fiz aqui
+Cliente: Boa tarde
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: PReciso com urgencia resolver um problema
+Atendente: Boa tarde, Gustavo!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 😁
+
+Como posso te ajudar?
+Cliente: O meu telefone principal parou de atualizar por um momento e voltoi
+Cliente: tem como saber o que aconteceu?
+Atendente: Verifiquei no sistema e está tudo ok.
+Atendente: Às vezes, foi apenas um delay.
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode sim
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Boa tarde. Meu nome é Hugo.
+Atendente: acredito que o sr. mandou a mensagem após ele encerrar o contato e por isso ativou o suporte novamente, correto?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Boa tarde, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Te ajudo em algo?
+Cliente: Preciso fazer a troca em massa dos clientes
+Cliente: Todos chat que estão como responsáveis o usuário RANIELY preciso que seja alterado para o usuario responsável joicilene
+Cliente: [16:11, 27/08/2020] Gustavo Marques: Preciso fazer a troca em massa dos clientes
+[16:12, 27/08/2020] Gustavo Marques: Todos chat que estão como responsáveis o usuário RANIELY preciso que seja alterado para o usuario responsável joicilene
+Atendente: Certo! Aguarde um momento.
+Cliente: AGUARDO
+Atendente: Feito!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

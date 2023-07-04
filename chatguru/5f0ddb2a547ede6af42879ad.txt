@@ -1,0 +1,861 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Claudio Alberto Royo
+Email: claudio.royo@fuelx.com.br
+Senha: f93882cbd8fc7fb794c1011d63be6fb6
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Olá Claudio, Boa tarde. Meu nome é Camila.
+Seja Bem-Vindo a ZapGuru!
+
+Vou te ajudar a configurar o seu ZapGuru. Já conseguiu acessa-lo?
+Cliente: Boa tarde!
+Quais os requisitos para usar o serviço?
+Preciso de celular? Qual?
+Chip?
+Qual aplicativo baixo?
+Atendente: Sim, o ZapGuru faz a sincronização com o seu Whatsapp.
+Cliente: Ok:
+Atendente: Então precisa de celular, um número, o Whatsapp baixado...
+Cliente: Vou providenciar
+Atendente: Perfeito!
+Atendente: Não deixe de acessar também:
+
+Recomendações para Estabilidade
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+Nosso Canal do Youtube
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+Nosso Wiki Com toda documentação do ZapGuru!
+👉 https://wiki.zap.guru
+
+Perguntas Frequentes
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+Atendente: Olá Claudio, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Esperando o celular chegar
+Cliente: Olá.
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Vamos usar esse número.  Consegue alterar?
+Atendente: Boa tarde Claudio! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Estou realizando a solicitação. Um momento.
+Atendente: Qual o número atual?
+Cliente: +55 11 99019-3941
+Cliente: Vi que você trabalham com número fixo.  Consigo colocar no meu também?
+Atendente: Apenas número móvel.
+Cliente: 🤙
+Atendente: Qual teu numero antigo
+Atendente: ?
+Cliente: +55 11 93800-8492
+Atendente: Vou te passar só algumas informações referente a troca
+Atendente: Claudio, a troca do número do WhatsApp já cadastrado no ZapGuru é cobrado um valor pela relocação do novo número nos nossos servidores, o valor é de R$ 159,00 por troca. 
+
+Contudo, tendo em vista nossa parceria... vamos te dar essa primeira troca como uma cortesia! Mas nas próximas trocas futuras que vier a ter, será cobrado o valor.
+Cliente: Ok.
+Atendente: Pronto. Troca solicitada. Prazo de até 24h
+Cliente: Ok.  Enquanto isso posso configurar a URA?
+Atendente: Sim. Sem problemas.
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Tenho 8 produtos no meu site.  Para cada produto consigo montar uma URa específica?
+Atendente: Sim
+Cliente: Consegue me ligar nesse número?
+Atendente: O atendimento é só via chat mesmo. Não fazemos ligações daqui.
+Cliente: ok....   consigo deixar um link especifico para cada pagina do meu site.
+Cliente: ex.  seguro de carro...somente perguntas pertinentes a seguro de carro.
+Atendente: Sim. É só inserir na URA o link dentro da URA.
+Atendente: Ops..
+Atendente: corrigindo
+Atendente: Sim. É só inserir na URA o link do site. Se o cliente optar por falar sobre seguros, Ao final você pode inserir um link direto para essa página no site.
+Cliente: Estou aqui configurando.  Deixa eu ver se vou conseguir.
+Atendente: Se quiser, nós  podemos realizar essa configuração de URA para você. Basta enviar  o seu fluxo de atendimento, nós analisamos, te passamos o prazo e configuramos.
+Atendente: Troca do número foi concluída.
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Agradeço.  Amanhã vou tentar configurar
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou com dúvidas para configurar o sistema.
+Cliente: Preciso de orientação para preencher a URA
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Claudio!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Qual a dúvida?
+Cliente: Oi Caio,  todas.
+Atendente: Você tem acesso aos nossos links de aprendizado?
+Cliente: Já montei o script e não estou conseguindo configurar.
+Cliente: Onde vejo isso?
+Atendente: 
+👉 https://zap.guru/primeiros-passos
+ Não deixe de acessar também:
+
+Recomendações para Estabilidade
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+Nosso Canal do Youtube
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+Nosso Wiki Com toda documentação do ZapGuru!
+👉 https://wiki.zap.guru
+
+Perguntas Frequentes
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em seus favoritos! 😀
+Cliente: Pensei que vocês configuravam. Até porque houve cobrança de uma taxa.
+Cliente: Para ser mais objetivo,  qual link eu acesso?
+Atendente: Recomendo que salve esses caso precise, mas vou te mandar o link exato da nossa Wiki onde tem isso que você quer!
+Cliente: Ok.
+Atendente: https://wiki.zap.guru/chatbot/configurando-chatbot
+Esse é o link onde te explica sobre como criar chatbot!
+Cliente: É muita informação para minha interpretação.
+Atendente: Não entendi
+Cliente: Eu não estou conseguindo configurar
+Cliente: Já olhei nas instruções e estou com dificuldades.
+Cliente: Preciso fazer o chatbot
+Cliente: Vocês explicam como se já conhecêssemos o sistema.
+Atendente: Claudio, estou te enviando o nosso modelo de como você pode estar nos enviando o seu fluxo de chatbot.
+Cliente: Vou tentar configurar por aqui.  Já chamei a pessoa de nossa TI.
+Atendente: Certo!
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Vou tentar configurar. Te chamo se houver dúvida
+Atendente: Certo!
+Atendente: Vou encerrar aqui, qualquer coisa é só chamar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Amigo,  não estamos conseguindo.
+Cliente: Você pode dar suporte telefônico.
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Claudio! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: Ok
+Atendente: Não temos suporte telefônico, mas podemos agendar uma call pelo Google Meet para tirar suas dúvidas.
+Cliente: Ótimo
+Cliente: Estou com a pessoa da TI,  conseguimos fazer?
+Atendente: Como é por agendamento, vou verificar disponibilidade. Um momento.
+Cliente: Ok.
+Cliente: Conseguimos fazer!
+Cliente: Olá, estava tendo atendimento através do número anterior.
+Atendente: Sim. Quanto ao chatbot, ainda esta tendo algum problema na configuração?
+Cliente: já estou querendo quebrar tudo... não saimos do lugar.
+Cliente: se não conseguir configurar, vou precisar cancelar.
+Atendente: Você pode enviar seu fluxo de atendimento para podermos analisar e te ajudar na configuração?
+Cliente: Não conseguimos fazer um Call?
+Cliente: Conseguiu entender?
+Cliente: Só me responde se dá para fazer ou não?
+Atendente: Olá Claudio, boa tarde! Sou o Daniel, não se preocupe, estarei te ajudando!
+Cliente: Estamos na empresa:  tentando.
+Atendente: Para que eu possa te ajudar melhor preciso entender o que está ocorrendo, poderia me passar mais detalhes do que deseja exatamente ?
+Atendente: Um instante Claudio, já te passo um posicionamento.
+Atendente: Claudio, obrigado por aguardar.
+Atendente: Me desculpe a demora estava entendendo o seu caso aqui.
+Cliente: Ok
+Atendente: Olha, havíamos te encaminhado um fluxo de atendimento e vi que você já fez.
+Atendente: Agora preciso que me encaminhe este arquivo
+Atendente: Iremos analisar o arquivo, e as possibilidades que deseja e iremos configurar o chatbot em sua conta de acordo com as informações elaboradas por você.
+Atendente: Se tudo estiver de acordo com as informações do arquivo que encaminhamos, o seu chatbot estará implementado em sua conta, em até 72h
+Cliente: Seguro Auto
+1 -  Renovação 
+2 - Seguro Novo
+
+Renovação:
+Dados do carro.
+Passo1: 
+
+Marca:
+Modelo:
+Ano/modelo:
+Combustível:
+Mecânico ou Automático:
+É blindado?
+Tem Alarme?  
+Qual?
+
+Passo 2: 
+Dados do Segurado
+Nome Completo:
+Data Nasc:
+CPF:
+Estado Civil:
+
+
+Passo 3:
+Uso do Veículo: Digite o número
+1- Lazer
+2- Uso Diário (ida e volta ao trabalho)
+3- Exercício Comercial (visita a clientes)
+
+Passo 4.  
+1 - Lazer
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residencial?
+Portão automático?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+
+2- Uso diário
+
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residêncial?
+Portão automático?
+Garagem fechada no trabalho?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+
+3 -  exercício do trabalho
+
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residencial?
+Portão automático?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+Visita cliente 2 ou mais vezes na semana?
+
+Passo 5:
+Dados do Seguro:
+
+Quando vence:
+Seguradora Atual:
+Classe de Bônus:
+Teve Sinistro no último ano:
+
+Passo 6:
+Para maiores possibilidades de descontos,  você pode nos encaminhar uma cópia da sua apolice para análise e sugestões. 
+
+No seguro Novo:  não tem o passo 5 e nem o 6.
+Atendente: Claudio, vamos fazer o seguinte
+Atendente: Você tem disponibilidade amanhã a partir das 10h para realizarmos um treinamento contigo, e nele te passaremos mais detalhes sobre o uso da ferramenta e de como funciona o chatbot do ZaoGuru, pode ser?
+Atendente: Se não tiver disponibilidade amanhã, me informe um dia para que possamos fazer isso
+Cliente: Vamos fazer...
+Atendente: Amanhã voce consegue ?
+Cliente: Vamos fazer na 2a feira.
+Cliente: Quero que mais 2 pessoas participem.
+Atendente: Claro, qual horário ?
+Atendente: E me encaminhe por gentileza o email das pessoas que irão participar
+Atendente: Na segunda-feira temos horário disponível ás 09h, combinado ?
+Cliente: As 9:00 ok
+Cliente: Ilsonb@gmail.com
+claudio.royo@fuelx.com.br
+lrcomunicacao@lrcomunicacao.com.br
+Atendente: Pronto Claudio, já encaminhei um email pra vocês com o link da call. É importante que caso ocorra algum imprevisto e não possa participar, que nos avise! 😉
+Atendente: Outro ponto, é necessário que tenha um computador com entrada e saída de audio para que possamos no comunicar.
+Atendente: Fico à disposição! Caso tenha dúvidas, também recomendo a visita em nossa Wiki! https://wiki.zap.guru/ e o nosso canal no youtube https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+Atendente: Até mais, tenha um ótimo final de semana!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Claudio! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Ok. Camila.
+Cliente: Meu telefone registrado.   Não sei o que aconteceu, se foi clonado.   Apareceu outra pessoa.
+Atendente: Outra pessoa esta com o mesmo número que o seu?
+Atendente: Você quer alterar o número?
+Cliente: Tenho uma reunião às 9
+Cliente: Com seu suporte
+Cliente: Vou fazer a reunião.
+Atendente: Entendi. Vou te transferir para o atendente que irá fazer sua reunião. Só um momento por favor.
+Atendente: Claudio, o atendente que iria fazer a sua Call de Onboarding não trabalha mais na empresa. Eu vou fazer sua Call, esta bem?
+Cliente: ok
+Atendente: Vou te enviar o link para a gente poder começar.
+Cliente: ok
+Atendente: https://meet.google.com/hov-wpsy-rjt?authuser=0
+Cliente: Sim.
+Cliente: Seguro Auto
+1 -  Renovação 
+2 - Seguro Novo
+
+Renovação:
+Dados do carro.
+Passo1: 
+
+Marca:
+Modelo:
+Ano/modelo:
+Combustível:
+Mecânico ou Automático:
+É blindado?
+Tem Alarme?  
+Qual?
+
+Passo 2: 
+Dados do Segurado
+Nome Completo:
+Data Nasc:
+CPF:
+Estado Civil:
+
+
+Passo 3:
+Uso do Veículo: Digite o número
+1- Lazer
+2- Uso Diário (ida e volta ao trabalho)
+3- Exercício Comercial (visita a clientes)
+
+Passo 4.  
+1 - Lazer
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residencial?
+Portão automático?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+
+2- Uso diário
+
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residêncial?
+Portão automático?
+Garagem fechada no trabalho?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+
+3 -  exercício do trabalho
+
+Mora em casa ou apto?
+Tem garagem na residência?
+Cep Residencial?
+Portão automático?
+Usa para ir à escola e faculdade?
+Tem estacionamento fechado?
+Visita cliente 2 ou mais vezes na semana?
+
+Passo 5:
+Dados do Seguro:
+
+Quando vence:
+Seguradora Atual:
+Classe de Bônus:
+Teve Sinistro no último ano:
+
+Passo 6:
+Para maiores possibilidades de descontos,  você pode nos encaminhar uma cópia da sua apolice para análise e sugestões. 
+
+No seguro Novo:  não tem o passo 5 e nem o 6.
+Cliente: Esse fluxo está atualizado.
+Atendente: Você tem que enviar de acordo com o modelo de fluxo de atendimento que enviamos. Desse jeito, não conseguimos entender como quer o seu fluxo e também não esta de acordo de como funciona o chat. Por exemplo: O Cliente vai escolher entre 1- Renovação e 2-Seguro Novo. É isso? Escolhendo um desses leva para todos esse passos que você colocou?
+Cliente: Os fluxos são os mesmos.  Quando trata-se de Seguro novo.  Não tem o passo 5 e 6.
+Atendente: Ok, e só passa para o próximo passo se estiverem preenchido tudo?
+Cliente: Não necessariamente
+Cliente: Eu estou pegando a estrada agora.  Indo pra SP.   Chego em 2 horas.   Aí posso te chamar?
+Atendente: Pode sim!
+Atendente: Preciso que coloque tudo em um documento(word) com todos os detalhes, de como que deseja que funcione. Como você colocou esta meio vago.
+Atendente: Se puder detalhar cada etapa, para que eu possa fazer como deseja, esta bem?
+Atendente: Vou te enviar o fluxo de atendimento novamente para que de uma olhada de como deve ser feito.
+Cliente: Vou montar e te passo.
+Atendente: Beleza! Assim que montar envia por aqui, que vamos providenciar a realização do Chatbbot, ta bem?
+Atendente: Vou encerrar o chat. Precisando de algo mais é só mandar mensagem novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Claudio, tudo bem? Eu sou o Gabriel do ZapGuru, vou te dar uma mãozinha
+Cliente: Ok.
+Cliente: Falei com a Camila.   Ele pediu esse fluxo para configurar o BOT.
+Atendente: Certo! Só um momento que vou dar uma olhadinha no arquivo aqui
+Atendente: Oi Claudio, é a Camila. Vou verificar o arquivo que enviou.
+Atendente: Boa tarde Claudio 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Não conseguimos sair do lugar.  É pra ferrar clonaram nosso WhatsApp
+Atendente: Vou tentar fazer seu Chatbot hoje a noite.
+Atendente: Deseja remarcar a reunião?
+Cliente: Como você preferir.
+Cliente: Vamos falar amanhã as 10:00 hrs
+Atendente: Esta bem. Remarcamos então.
+Atendente: Amanhã de 10h até 11h, esta bem?
+Cliente: Está ótimo.
+Atendente: Perfeito!
+Atendente: Te ajudo com algo mais?
+Cliente: Estou falando com a TIM.  Eles estão resolvendo a questão do WhatsApp
+Atendente: Que ótimo. Se for preciso fazer alguma alteração de número, nos informe.
+Cliente: Assim que me responderem. Te falo.
+Atendente: Esta bem!
+Atendente: Claudio, vou encerrar o chat. Quando tiver uma posição, nos informe. Pode ser?
+Cliente: Oi.  O número que a TIM me passou:  11 98597-1303
+Atendente: Vou solicitar a alteração.
+Atendente: Claudio, a troca do número do WhatsApp já cadastrado no ZapGuru é cobrado um valor pela relocação do novo número nos nossos servidores, o valor é de R$ 159,00 por troca. 
+
+Contudo, tendo em vista nossa parceria... vamos te dar essa primeira troca como uma cortesia! Mas nas próximas trocas futuras que vier a ter, será cobrado o valor.
+Cliente: Não vai precisar
+Atendente: Você vai conseguir recuperar o número?
+Atendente: Você vai querer fazer o que? Aguardar ou fazer a alteração?
+Cliente: Altera que é melhor.
+Atendente: Mas se alterar para esse e depois quiser voltar para o antigo terá que pagar o valor da troca, esta bem?
+Cliente: não vamos habilitar o outro numero.
+Cliente: não tera mais o antigo.
+Atendente: Esta bem, vou solicitar a alteração do +55 (11) 990193941 para o 11 98597-1303
+Atendente: Assim que fizerem a alteração, te informo.
+Cliente: ok
+Atendente: Claudio, alteração feita!
+Atendente: Claudio, vou fazer seu Chatbot hoje e testa-lo. Estamos encerrando o expediente, precisando de alguma coisa é só mandar mensagem que amanhã responderemos!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Até amanhã
+Atendente: Boa noite Claudio!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia, Claudio! Tudo bem? Tudo certo para nossa Call?
+Cliente: Ok.  Vamos fazer
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Qual link?
+Atendente: Bom dia, Claudio! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Já vou te mandar, só um momento
+Atendente: https://meet.google.com/uoi-dciw-wto?authuser=0
+Atendente: Claudio, vou encerrar o chat. Precisando de alguma coisa é só mandar mensagem!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Claudio, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Ainda não usamos.
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Claudio, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Como eu posso te ajudar?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá.  Meu Bot não está funcionando
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Claudio! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Qual o erro que esta ocorrendo
+Atendente: ?
+Cliente: Não tá funcionando.
+Cliente: Não responde
+Atendente: Claudio, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: vcs não tem acesso?
+Atendente: Preciso de algum link de chat onde ocorreu o erro
+Cliente: todos estão com erro.
+Cliente: basta vc tentar chamar.
+Atendente: Ok. Só um momento.
+Atendente: Estou analisando cada diálogo
+Atendente: Só um momento
+Atendente: Claudio, por gentileza, teste novamente.
+Atendente: Claudio?
+Atendente: Realizou o teste
+Atendente: ?
+Cliente: Preciso configurar os usuários.
+Cliente: Podem me ajudar amanhã?
+Atendente: Sim.
+Cliente: conseguimos fazer as 10?
+Atendente: Só entrar em contato.
+Atendente: Vou agendar aqui. Um momento.
+Atendente: Tem algum email para eu te enviar o link da reunião?
+Cliente: claudio.royo@fuelx.com.br
+Cliente: alberto.bender@medicalseg.com.br
+Cliente: ilsonb@gmail.com
+Atendente: O assunto, chatbot certo?
+Cliente: Esta certo.
+Atendente: Feito. Agendado.
+Cliente: feito...
+Cliente: agradeço.
+Atendente: Certo. vou encerrar por aqui. Amanhã as 10h conversamos.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Estou aguardando o treinamento
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Claudio, segue link do UMZAP mencionado na call. 
+https://umzap.com/
+Atendente: São 3 usuários certo?
+Atendente: Ótimo. Vou te encaminhar para o financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Claudio, bom dia!
+Atendente: So um momento por favor.
+Atendente: Claudio, segue boleto, assim que tiver o comprovante nos envie para que possamos dar continuidade.
+Cliente: A cobrança não é proporcional a mensalidade?
+Atendente: Claudio, sim, desculpe, um momento.
+Atendente: Claudio, desculpe, segue com o valor correto.
+Cliente: Olá,
+Cliente: O Boot não está funcionando.
+Atendente: *✅  Concluído*: 
+
+*Seguroo*
+Solicita 3 usuarios
+*Tota de 8 usuários*
+Cliente: Ok. Preciso do Boot funcionando.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá Claudio Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: O BOT não está funcionando.
+Cliente: Já vi nas condiguracaoes.
+Cliente: Boa tarde Josue
+Atendente: Certo Claudio, vou verificar para o senhor
+Atendente: o que não está funcionando no bot?
+Atendente: poderia me mandar o link do chat, ou o nome do chat onde ocorreu o erro por favor.
+me expressei mal na pergunta, desculpe
+Atendente: certo
+Atendente: Claudio, ja foi Corrigido
+Poderia verificar?
+Cliente: Já fui embora da empresa.  Vamos começar na 2a feira.
+Atendente: claro Claudio, peço Desculpas pela demora, estamos com uma demanda grande hoje =/
+mas de qualquer maneira foi corrigido, teste assim que possivel, caso persista o erro, entre em contato conosco novamente
+Atendente: lhe ajudo em algo mais Sr Claudio?
+Cliente: Obrigado.  Excelente fds
+Atendente: Boa noite Claudio!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: para voce tbm claudio
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso de auxílio na configuração do rodízio de atendimento.
+Atendente: Olá Claudio, Boa tarde. Meu nome é Hugo.
+Atendente: Qual a sua duvida?
+Cliente: Fala Hugo, tudo bem?
+Cliente: Estou fazendo o rodízio de atendimento,  ocorre que a lead gerada,  é encaminhada para todos os atendentes.
+Atendente: tudo sim, Claudio. E com você?
+Atendente: eu vou dar uma olhada
+Atendente: só um momento por favor
+Atendente: Claudio, tu já delegou os usuários lá na aba "Usuários"?
+Atendente: e verifica por favor se estão todos ativos
+Cliente: ja deleguei.
+Cliente: estão todos habilitados... consegue ver ai
+Atendente: só um momento que eu vou da uma olhada
+Atendente: Claudio
+Atendente: obrigado por ter aguardado
+Atendente: eu dei uma olhada aqui e vi que não foi delegado ainda.
+Atendente: Deixa eu te ajudar com esse processo
+Cliente: Preciso que apareça a visualização do celular... não aparece o numero para o atendente.
+Atendente: Na aba "usuários" lá na parte inferior tem um campo chamado "Rodízio de Atendimento"
+Atendente: vamos resolver isso logo depois de preparar o rodizio de atendimento
+Cliente: me ajuda.
+Atendente: claro
+Atendente: claudio você pode abrir a aba usuarios?
+Atendente: Claudio?
+Cliente: Oi
+Cliente: Caiu minha internet
+Cliente: Estou nela
+Atendente: sem problema
+Atendente: na parte inferior na pagina tem um campo com o nome "rodizio de atendimento"
+Cliente: To nele
+Atendente: neste campo você vai adicionar o nome dos funcionários
+Cliente: Coloquei aqui.
+Atendente: vai adicionar os usuarios 1 por 1
+Cliente: E  porque eles não enxergam o telefone do cliente?
+Atendente: a gente vai te que mudar as permissões de acesso deles
+Atendente: isso é bem simples
+Atendente: mas você conseguiu finalizar o rodizio de atendimento?
+Atendente: conseguiu sim
+Atendente: estou acompanhando o seu acesso por aqui
+Atendente: então vamos resolver agora essa questão deles visualizarem os números
+Atendente: nessa mesma tela
+Cliente: Consigo mudar o nome do status?
+Cliente: Consigo mudar os nomes do status?
+Atendente: quando clicar me avisa
+Cliente: To nele
+Atendente: no campo celulares
+Atendente: tem dois quadrados que precisam estar marcados "Visualizar os celulares"
+Cliente: Já estava anotado e ele não está vendo.
+Atendente: ele não consegue ver o numero do cliente mesmo quando clica em cima do nome do cliente?
+Atendente: Claudio, volta lá na tela de editar usuario e confirma pra mim por favor se no campo CHAT esta marcada a opção "ver numero do whatsapp"
+Cliente: Vou lá
+Cliente: Habilitei,  vamos ver.
+Cliente: Agora apareceu.
+Atendente: boa
+Atendente: posso te ajudar em algo mais Claudio?
+Cliente: Me ajudou bastante.
+Cliente: OBRIGADO!
+Atendente: eu que te agradeço
+Atendente: Qualquer nova duvida pode falar com a gente
+Atendente: posso encerrar o chamado?
+Cliente: Claro.
+Atendente: tenha uma boa tarde
+Cliente: Olá,  preciso acrescentar as tarefas abaixo no BOT.  Pode me ajudar?
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: INICIO URA
+ 
+ACRESCENTAMOS O TOPICO
+
+Início Ura.
+ 
+*3* Já é Cliente da Corretora.
+*4*  Outros Seguros (plano de saúde, vida, empresa, etc)
+ 
+Preciso que seja inserido os seguintes Campos:
+ 
+3.1.  Digite o departamento desejado que logo atenderemos.
+(Escolha um das opções abaixo, digite apenas o *número*)
+ 
+*1* Sinistro
+*2* Endosso (troca de veículos e alteração na apólice).
+*3* Cobrança (parcelas do seguro)
+*4* Outros assuntos.
+ 
+3.1.1.  Seu contato foi encaminhado ao departamento responsável.   Caso queira adiantar o assunto, favor relatar:
+3.1.2. Seu contato foi encaminhado ao departamento responsável.   Caso queira adiantar o assunto, favor relatar:
+3.1.3. Seu contato foi encaminhado ao departamento responsável.   Caso queira adiantar o assunto, favor relatar:
+3.1.4. Seu contato foi encaminhado ao departamento responsável.   Caso queira adiantar o assunto, favor relatar:
+Atendente: certo Claudio
+Atendente: Olá Claudio Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru
+vou verificar para ti
+Cliente: Opa, tudo bem?
+Cliente: Vou dar treinamento para meu pessoal.   Preciso inserir essas opções no Chat.  Consegue me ajudar?
+Atendente: conseguir, consigo, só não garanto que será agora, temos uma fila de solicitações no chatbot
+acredito que até quinta conseguimos fazer para o senhor
+Atendente: outras atualizações, criações de URA, Etc
+Cliente: Quer Cotar o seguro do seu carro? A Seguroo irá fazer o melhor preço com as melhores coberturas! 🚗 🚗🚗 💰💴💲
+Cliente: Eu coloquei essa mensagem prévia.  Na hora que o cliente clica na minha página.
+Cliente: E não está startando o Bot.
+Cliente: Estou há 1 mês tentando arredondar o sistema.  Amanhã começa alminha campanha no Google.  Se eu não resolver vou ser demitido.
+Atendente: Certo, vou tentar fazer isso para o senhor
+Atendente: Bom dia, Claudio!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 
+
+Como posso te ajudar?
+Atendente: Claudio, é o Josué aqui, ja certei sua URA, ja esta tudo de acordo :D
+Cliente: Bom dia!
+Cliente: Vou para empresa e vejo.
+Atendente: ok Claudio
+Atendente: Claudio, eu não coloquei para delegar nada dessas inclusões que pediu pois você não forneceu essa informação, mas está lá pré configurada, só escolher para quem deve ser delegado
+Cliente: As funções habilitadas,  tem que ser encaminhadas para Walter e Alberto.
+Atendente: ok
+Atendente: Claudio, te ajudo em algo mais?
+﻿
+Atendente: Claudio estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Oi,  porque está com esse erro?
+Atendente: Olá Claudio, Boa tarde. Meu nome é Hugo.
+Atendente: o sr. está tentando adicionar este contato?
+Cliente: Oi Hugo,   Esse é o telefone de um cliente que está tentando acessar nossa página.
+Atendente: entendi
+Atendente: esse problema só ocorre com esse cliente?
+Atendente: Por falta de interação estou encerrando o atendimento. Caso o problema persista, favor nos contatar.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Claudio, Bom dia. Meu nome é Hugo.
+Atendente: no que eu posso ajuda-lo?
+Cliente: Hugo... meu chefe enviou a apresentação acima para analise.  Vocês negociam valores de mensalidade?
+Atendente: Claudio, eu vou te transferir para o financeiro para você conversar com eles.
+Atendente: Te desejo um bom dia!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Claudio, bom dia!
+Atendente: No que posso te ajudar?
+Cliente: Bom dia!
+Cliente: Meu chefe mandou uma apresentação do concorrente e pediu para analisar.
+Ele viu que os custos estão muito diferentes.
+Quero ver se conseguem fazer algo:
+Atendente: Claudio, um momento por favo
+Atendente: Claudio, dei uma olhada na apresentação, a diferença é que o ZapGuru é uma plataforma bem completa e não estamos muito distante do valor que ele oferece.
+Cliente: R$ 900 Zap Guru e R$ 289 a concorrente.
+Atendente: Claudio, é como comparar um iPhone 11 com um Alcatel , Ambos fazem ligações, internet, tem câmera... 
+São de fato "similares", mas existem muita diferença entre eles... 
+Tudo vai depender do que você realmente está precisando naquele momento. 
+
+Compreendeu ?
+Cliente: Ok.  Vou falar com meu chefe.  Se ele quer só fazer ligação.
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Possivelmente vamos cancelar os serviços.  Motivo: preço.
+Atendente: Claudio, infelizmente não consigo chegar a esse valor.
+Cliente: Veja o que pode fazer.   Se não, vou ter o retrabalho.
+Atendente: Claudio, em situações como essa eu preciso acionar minha diretoria, preciso até terça-feira para obter resposta.
+Cliente: Ok.  Veja isso.   Eu dou consultoria para a empresa.  Meu cliente, ficou com a impressão que eu estou ganhando algo com o sistema.
+Cliente: Olá,  como faço para cancelar?
+Atendente: Ola Claudio, apenas realizar a solicitação. Que dou baixa no sistema.
+Cliente: Ok:   Faço por aqui ou por e-mail?
+Cliente: A questão preço é que pegou...
+Atendente: Por aqui mesmo.
+Atendente: Entendo Claudio.
+Cliente: Ok.
+Atendente: Como eu disse Claudio, eu acionei minha diretoria, estou aguardando retorno.
+Cliente: é que vence o boleto hoje.
+Atendente: Claudio, foi autorizado 10% de desconto, o valor vai para R$829,80
+Cliente: Já ajuda.  Me encaminha o boleto.
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Como faço pra cancelar um usuário?
+Atendente: Claudio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Claudio! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: É necessário que te encaminhe para o financeiro, deseja prosseguir?
+Cliente: Ok.  Vou confirmar quantos cancelaremos e retorno.
+Atendente: Certo, irá verificar hoje?
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!   Como faço para cancelar o plano?   Ficou muito caro e praticamente não tenho acesso.
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Claudio. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+
+Vou passar seu contato pro nosso setor responsável que vai te dar todas as orientações em relação a esse cancelamento. Um instante.
+Cliente: Ok.
+Atendente: *➡ Você foi encaminhado para: Suporte de nível 2*
+Cliente: Ok
+Atendente: *Mark:* 
+Olá Claudio, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: *Josué Dionizio:* 
+Olá Claudio Bom dia, tudo bem?
+Meu nome é *Josué* faço parte da equipe de suporte *Nivel 2* do *ChatGuru*, Claudio qual seria o motivo do cancelamento amigo?
+Está tendo algum problema?
+Atendente: *Josué Dionizio:* 
+alguma dificuldade com a ferramenta e etc?
+Cliente: Dificuldade com a mensalidade.  Está muito caro para meu negócio.
+Atendente: *Josué Dionizio:* 
+Entendo =/ financeiro dará continuidade para o cancelamento
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Ok.
+Atendente: *Bruna Lira:* 
+Olá Claudio, bom dia!
+Tudo bem?
+Cliente: Bom dia Bruna!
+Cliente: Ficou pesado para pagarmos a ferramenta.  Nosso maior cliente foi embora.
+Atendente: *Bruna Lira:* 
+Tudo bem Claudio
+Cliente: Bom dia!
+Atendente: *Bruna Lira:* 
+Não gostaria de rever a conta? Entender como poderiamos dimunuir o valor sem prejudicar no uso?
+Cliente: Por favor.  Veja o que pode fazer.
+Cliente: Oi.  alguma novidade?
+Atendente: *Bruna Lira:* 
+Claudio, hoje vcs tem 5 usuarios contratados, com os modulos, funil, chatbot e atendimento.
+Cliente: Isso
+Atendente: *Bruna Lira:* 
+Vocês utilizam todos esses modulos e usuarios?
+Cliente: Quando a campanha está no ar. Sim
+Cliente: Faz 3 meses que pago e não uso.  Veja o fluxo.
+Cliente: Se fosse pay per use.  Não teria nem cobrança.  rs...
+Cliente: Alguma proposta?
+Atendente: *Bruna Lira:* 
+Um momento Claudio.
+Atendente: *Bruna Lira:* 
+Oi Claudio, recebi retorno do meu diretor, foi autorizado 15% de desconto e 1 usuario cortesia.
+Cliente: No final quanto ficaria?
+Atendente: *Bruna Lira:* 
+Fica R$697,61
+Atendente: 🔕 Claudio,  por se tratar do tema *financeiro*, precisamos que toda mensagem seja em formato de texto para que tudo possa ficar devidamente registrado. 
+
+Agradeço sua compreensão.
+Cliente: Bruna,   A situação tá negra.  Acho que até R$ 450 conseguiríamos.
+Até nossa empresa se restabelecer. Nosso maior cliente foi embora e vamos ter que demitir 3 pessoas a partir de amanhã.
+Atendente: *Bruna Lira:* 
+Infelizmente não conseguimos Claudio, é muita diferença para nós, fica complicado também.
+Cliente: Vamos cancelar então.   Até que dia está pago?
+Cliente: Nao temos condições de sustentar essa despesa.
+Atendente: *Bruna Lira:* 
+Até o dia 10 de março.
+Cliente: Tenho como fazer backup do que foi tratado?
+Cliente: Favor não gerar boleto do próximo mês e  prosseguir com cancelamento.
+Cliente: Bruna,  bom dia!   Favor confirmar o pedido de cancelamento.
+Atendente: *Bruna Lira:* 
+Um momento Claudio por favor, ja retorno
+Atendente: *Bruna Lira:* 
+CLaudio, fiz o cancelamento das proximas cobranças, no dia 11 de março você irá receber a confirmação do cancelamento de sua conta.
+Cliente: Muito obrigado.  Espero que entenda.  No momento preciso de SOLUCÕES que viabilizam meu negócio.
+Cliente: Ficou fora do meu orçamento
+Cliente: Estarei buscando outras soluções,  caso reflitam na nossa contra proposta. Por favor avisem.
+Atendente: *Bruna Lira:* 
+Tudo bem!
+Atendente: *Bruna Lira:* 
+Obrigada!
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Agradeço.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Claudio, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603015b49f49179ac893f9c4
+Atendente: Claudio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Caros,  porque não está ligando.
+Cliente: Logando
+Atendente: *Arthur Ferragini:* 
+Bom dia, Claudio. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico o histórico 👨‍💻
+Atendente: *Arthur Ferragini:* 
+Claudio, por gentileza tente logar através desse novo endereço: 
+
+https://s5.chatguru.app/users
+Cliente: Estou pedindo para acessarem
+Atendente: *Arthur Ferragini:* 
+Verifiquei aqui que o Alberto já fez login na plataforma :)
+Atendente: Claudio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Ok.
+Cliente: Obrigado
+Atendente: *Arthur Ferragini:* 
+Imagine! Tenha um ótimo dia :)
+
+Qualquer dúvida, seguimos à disposição por aqui 💪
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Claudio, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6033bb3d9f49179ac8946a88
+Atendente: Olá Claudio, daremos início ao cancelamento da conta Seguroo. O cancelamento tem efeito imediato. Você não será mais cobrado pela utilização do ChatGuru.
+Cliente: Ok.  Não tenho tráfego na conta suficiente para suportar esse custo.
+Impulsionamos a página e mesmo assim não alavancou os negócios.
+Precisava de um preço melhor, mas não houve flexibilidade.
+Agradeço.
+

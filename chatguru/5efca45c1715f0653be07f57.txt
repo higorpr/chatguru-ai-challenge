@@ -1,0 +1,38 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: Boa tarde
+Atendente: SS10 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: nosso numero 556183614212, não está adionando novos chats
+Cliente: acredito que seja o aplicativo automate
+Cliente: vcs poderiam dar uma olahda
+Atendente: Olá, boa tarde!
+Atendente: O Automate já está instalado em seu aparelho ?
+Cliente: está sim
+Cliente: estou falando do aparelho que está hospedado aí com vcs
+Atendente: SS10 Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: SS10, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: é tranquilo. o negocio é que o aparelho está aí na nuvem com vcs
+Cliente: como faço para ter o acesso a ele?
+Atendente: Desculpe, só um instante, é que você não está salvo aqui como alocado. Por isso mandei essa configuração.
+Cliente: o numero que uso geralmente para contactar o suporte é 5561983131740
+Atendente: Abri um chamado para que a nossa equipe verifique a conexão automate no aparelho, em breve te retornamos com novidades.
+Atendente: Poderia me encaminhar um print da tela onde o numero que está tentando adcionar está pendente ?
+Cliente: a conexão voltou ainda agora
+Cliente: eu uso o zapier para usar o add chats
+Cliente: mas agora já foi
+Atendente: Ótimo. Estarei encerrando o atendimento, qualquer dúvida não hesite em nos chamar! Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde, pedi atendimento no numero que tenho cadastroi aí com vc 61983131740.. e já tem mais de 1h30 min sem resposta
+Atendente: SS10 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: poideria dar uma olhada por gentileza
+Atendente: Boa tarde SS10, tudo bem? Eu sou o Gabriel do ZapGuru, o atendimento no número principal foi feito, nos desculpe a demora
+Atendente: Tem algo mais que podemos fazer para ajudar você?
+Atendente: Por falta de inatividade vou encerrar o atendimento. Mas se surgir qualquer duvida é só entrar em contato!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

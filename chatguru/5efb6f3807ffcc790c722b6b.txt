@@ -1,0 +1,569 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Carolina De Pinho Ferreira Massoud
+Email: carolina@primeresidencial.com.br
+Senha: 2e74c2cf88f68a68c84e9509abc7ea56
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá Carolina, Boa tarde. Meu nome é Camila.
+Seja Bem-Vindo a ZapGuru!
+
+Vou te ajudar a configurar o seu ZapGuru. Já conseguiu acessa-lo?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá! No aguardo das próximas instruções
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ainda não tenho e-mail e login
+Cliente: Perdão. Acabei de ver que recebi aqui👍🏼
+Atendente: Sem problemas!
+Atendente: Ajudo em algo mais?
+Cliente: Sim por favor
+Cliente: Não passei o chip para o Android
+Cliente: Pois quando fiz isso não consegui salvar o histórico de conversas
+Cliente: Preciso de ajuda pra migrar do iPhone para o Sansung
+Cliente: Vc pode ajudar?
+Atendente: vc precisa fazer o backup pelo google drive
+Atendente: ai você consegue passar pro samsung
+Cliente: Essa opção é no próprio aplicativo WhatsApp?
+Cliente: Ou no celular?
+Atendente: Pelo google :)
+Cliente: Ok
+Atendente: cria uma conta no google ou gmail
+Cliente: Vou tentar aqui
+Atendente: que voce tem essa opção
+Cliente: Consigo fazer isso do iPhone?
+Atendente: sim :)
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Se não conseguir volto a falar 👍🏼
+Atendente: sem problemas :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Carolina, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Já salvei no Google drive e troquei o chip para o Sansung mas não sei se demora para baixar
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: As conversas salvas
+Atendente: Olá Carolina, boa tarde! Sim ás mensagens serão sincronizadas, mas pra isso é necessário que inicie a sincronização do Backup.
+Atendente: Como não estava online precisei encerrar o atendimento, caso ainda tenha alguma dúvida fale conosco novamente.
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde! Me tire uma dúvida: eu consigo ver o tempo que cada usuário ficou em atendimento?
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi Carolina, tudo bem? Meu nome é Thaís e eu vou te auxiliar hoje! 😁
+Cliente: Digo ver quanto tempo cada usuário gastou em atendimentos? No caso de eu monitorar a hora trabalhada dele
+Cliente: Entendi... então não mensura né? Apenas dá a informação do horário de login e saída
+Cliente: Estou querendo contratar assistentes virtuais mas o pagamento é por hora trabalhada
+Cliente: Vc acha que consigo uma adaptação no meu pra me fornecer esse dado?
+Atendente: Olha, creio que não, pois o sistema é padrão
+Atendente: ele é só uma leitura do whatsapp
+Cliente: Mas o tempo de uso não seria algo difícil de calcular
+Cliente: Tenho como ao menos tentar fazer essa solicitação?
+Cliente: Ia facilitar o formato de atendimento que estamos implantando
+Atendente: vou verificar, só um momento
+Cliente: No aguardo. Obrigada
+Atendente: Carolina, verifiquei aqui e realmente não tem como ser feita essa configuração :/
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia! Já coloquei várias tags nos atendimentos mas o funil não aponta elas
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, boa tarde! Sou o Daniel, faço parte do time de suporte do ZapGuru!
+Atendente: Você criou algum dialogo que preenche a tag?
+Cliente: Não entendi. Eu apenas marquei o chat com a tag
+Cliente: Pensei que ia automático pro funil se a conversa tem uma tag
+Atendente: Me aguarde um instante, estou verificando para você.
+Cliente: Outra coisa: ativei a fila de atendimento mas notei que os chats não estão indo automático para o departamento que coloquei
+Atendente: Ajustei para delegar agora Carolina, mas consta que o aparelho está sem internet.
+Atendente: Olá, bom dia! Conseguiu verificar se as configurações estão funcionando ?
+Atendente: Sentimos muito, como não estava online precisamos encerrar o atendimento. Caso ainda tenha dúvidas estamos á disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Carolina Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Agora o funil foi atualizado. Porém tenho outras dúvidas: não consigo encaminhar uma documento que a pessoa me enviou?
+Cliente: E eu posso anexar um usuário e trocar ele se precisar correto?
+Atendente: Bom dia Carolina! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: No aguardo
+Atendente: Você primeiro salva o arquivo e depois anexa.
+Atendente: Pode
+Cliente: Não estou conseguindo fazer a fila funcionar
+Cliente: Ela não seria automática?
+Atendente: Vou verificar como está sua fila, só um momento.
+Cliente: Outra situação:
+O funil não está atualizando novamente. Acabei de lançar algumas tags e ele não atualizou
+Atendente: Verifiquei dois problemas aqui.
+Se aparelho está desconectado do zapguru, falta de internet ou aparelho com tela bloqueada.
+Cliente: O aparelho deve ficar desbloqueado????
+Atendente: Seu rodízio inicial está mandando para todos do departamento suporte, ideal seria mandar para os usuários de forma individual.
+Cliente: Todo aparelho bloqueia automático sem uso
+Atendente: Nunca.
+Cliente: Mas vc falou tela bloqueada
+Atendente: Desculpe, deve ficar sempre desbloqueado.
+Cliente: Na hora de vender não avisam isso... acabei de comprar um Samsung é só usamos iPhone
+Atendente: Deve ficar 24h na tomada, sempre desbloqueado, tela aberta no whatsapp.
+Cliente: Preciso de instrução
+Cliente: Mas todo celular bloqueia
+Atendente: Só um momento.
+Atendente: Acessa essa videochamada por favor.
+Atendente: https://meet.google.com/kob-vvwk-urj
+Atendente: Ok, Onboarding agendado para amanhã as 11h. Só chamar aqui e pedir para falar com *Mark*.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Boa tarde Carolina 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Boa tarde! Não estava conseguindo não. Mas já agendei uma call com o Mark para amanhã
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Encaminhar para o Mark
+Cliente: Verificar se consegue migrar as respostas de Nome cpf e e-mail para aqueles itens Personalizados que depois vai pro API
+Atendente: Boa tarde Carolina!
+Atendente: *Encaminhado para Mark*
+Atendente: Olá, boa tarde Carolina. Mark aqui.
+Atendente: Vi aqui seu arquivo do chatbot, vai ser só isso mesmo?
+Atendente: Isso aqui eu te expliquei, só vai funcionar depois de você contratar a API e conseguir alguém para te ajudar com a integração para automatizar a alimentação dos campos personalizados.
+Cliente: Acho que a princípio sim. Quando começar a usar posso adaptar mais
+Cliente: Mas se vc tiver outras sugestões também aceito
+Atendente: Tudo bem. o prazo para execução de seu chat é de até 72h. Assim que concluir te aviso. Após configurar te chamo aqui para marcarmos um videochamada para te explicar o funcionamento dele.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Carolina, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Atendente: Bom dia Carolina. Chatbot configurado. Já está em funcionamento.
+Atendente: Qualquer dúvida, só chamar aqui.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde! Estou acessando as conversas pelo Safari do meu celular e elas não estão abrindo
+Atendente: Boa tarde Carolina!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá, bom dia! Poderia realizar um teste através do navegador Google Chorme ?
+Atendente: Sentimos muito, como não estava online precisamos encerrar o atendimento. Caso ainda tenha dúvidas estamos á disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia. As conversas não estão atualizando
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: No ZapGuru
+Cliente: E algumas não aparecem
+Atendente: Boa tarde, Carolina! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila
+Atendente: Tudo bem Carolina?
+Cliente: As conversas não estão indo pro ZapGuru
+Cliente: Tudo
+Atendente: Você esta respondendo pelo celular?
+Cliente: Computador
+Atendente: Já tentou recarregar as mensagens?
+Cliente: Como??
+Cliente: Como faço?
+Cliente: Já tem dois dias isso
+Cliente: Clientes reclamando
+Cliente: Poderia falar com o Marc?
+Cliente: Isso aí eu tenho que fazer toda vez?
+Cliente: Nunca tinha feito
+Cliente: E eu fiz agora e não carregou
+Cliente: Não está atualizando
+Atendente: Me manda o link do chat para eu verificar, por favor
+Atendente: Carolina, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: Como mando?
+Cliente: Estou falando do meu celular pessoal
+Cliente: O link está no computador
+Cliente: É algum problema no sansung
+Atendente: Tem o nome do cliente então? Para tentar filtrar?
+Cliente: Posso falar com o Marc por favor?
+Cliente: Do suporte
+Cliente: São vários clientes
+Cliente: Que estão falando no WhatsApp do sansung e não estão atualizando pro ZapGuru
+Atendente: O Marc esta no almoço no momento. Só volta às 14h.
+Cliente: O Marc implantou comigo a pouco tempo
+Cliente: E lembro que ele falou algo sobre o automate
+Cliente: Acho que não está passando as conversas
+Cliente: Vc consegue me ajudar?
+Atendente: Vou verificar a sua conta. Aguarda um momento por favor.
+Cliente: Ok
+Cliente: Pois é
+Cliente: Então o que faço?
+Cliente: Que leitura é essa?
+Cliente: Algum comando que eu deva dar?
+Atendente: Tem que fazer a leitura para o celular sincronizar com o ZapGuru.
+Cliente: Como faço?
+Cliente: Toda vez tem que fazer isso?
+Cliente: Ou quando trocar de computador?
+Atendente: Sim, Carolina. O Whatsapp tem que esta sempre aberto e com a leitura feito no ZapGuru.
+Atendente: Se não as mensagens são conseguem ser sincronizadas, entendeu?
+Cliente: Não está abrindo o QRCode
+Cliente: Do ZapGuru
+Cliente: Abriu
+Cliente: Me explique uma coisa: eu estava usando no meu notebook todos os dias e não precisava fazer isso
+Cliente: Tem que fazer quando troca de computador? Porque troquei agora
+Atendente: Sim, sempre que trocar tem refazer a leitura.
+Cliente: Só do meu administrador? Porque os usuários usam cada um o seu
+Cliente: Olá
+Cliente: E as mensagens já estão há mais de um minuto na fila e não vão
+Cliente: As conversas também não atualizaram ainda
+Atendente: O celular que esta cadastrado no ZapGuru tem que esta sempre conectado  plataforma para que haja a sincronização. O ZapGuru é um reflexo dos chat do celular. Mas se não estive sincronizado as mensagens não vão cegar no ZapGuru, entendeu?
+Cliente: E tem conversaS que estão em branco
+Cliente: Isso já sei
+Cliente: Ele está agora mas não está atualizando
+Cliente: Continua tudo do mesmo jeito
+Cliente: Ele está sincronizado
+Cliente: Já fiz isso👍🏼
+Cliente: Já está sincronizando.
+Cliente: Que horas o Marc retorna? Ele me ajudou muito com o Sansung que eu não sei mexer pq estou acostumada com iPhone
+Atendente: Então saiu. Tem que aparecer que esta conectado. Faz a leitura novamente, por favor.
+Cliente: Pra fazer funcionar foi bem complexo
+Atendente: Ele volta às 14h
+Cliente: Caixa os uns aplicativos e ele comentou alguma ação que não lembro sobre o automate
+Cliente: Vou refazer para tente resolver
+Cliente: A sessão está ativ
+Cliente: Ativa
+Atendente: O Automate é instalado no celular, para funcionar tem que esta conectado a plataforma.
+Cliente: Saio e faço novamente?
+Atendente: Você esta no Whatsapp Web. Tem que sair dela para entra no ZapGuru.
+Atendente: Se não, não vai conectar.
+Cliente: Eu fiz o que vc mandou acima
+Cliente: Vou fazer novamente
+Cliente: Tem que clicar onde?
+Atendente: Te que sair de todas as sessões e fazer a leitura novamente.
+Atendente: tem*
+Cliente: Já saí
+Cliente: E agora?
+Cliente: Ok. Então foi isso que fiz agora a pouco
+Cliente: Vou refazer
+Cliente: Feito
+Cliente: As conversas dos clientes não aparecem
+Cliente: As atuais que estão no WhatsApp
+Cliente: No celular
+Cliente: O meu do computador continua desatualizado 😓
+Atendente: As mensagens estão sendo enviadas. Tem que aguardar até sincronizar mesmo.
+Cliente: Tem mensagem que não carrega
+Atendente: Caso não apareça no chat. Faça o procedimento de recarregar as mensagens, por favor.
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Precisando de mais alguma ajuda é só mandar mensagem novamente! :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Boa noite Carolina!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Gostaria de falar com o consultor Marc
+Cliente: Meu chatbot ainda não funciona
+Atendente: Olá Carolina, Bom dia, meu nome é Mark! Em que posso te ajudar?
+Cliente: Bom dia Mark. Foi vc que me ajudou na nossa implantação da Prime Residencial certo?
+Cliente: Mandei o modelo do chatbot mas ele ainda não funciona
+Atendente: Bom dia. Isso, foi eu mesmo. Seu chatbot já foi configurado. O que não está funcionando.
+Atendente: ?
+Cliente: Pelo que entendi quando o cliente entrasse deveria perguntar se ele já era cliente ou não para poder encaminhar pro setor certo
+Cliente: Pensei que de imediato ele teria que clicar em 1 ou 2
+Cliente: Ontem falei no suporte porque as conversas não estavam carregando
+Cliente: Aí tive que configurar o QRCode novamente
+Cliente: Tenho que fazer isso sempre que mudar de computador?
+Atendente: Isso, é assim que está confiurado.
+Atendente: Sim, é assim que está sendo feito.
+Atendente: Não, isso foi um erro em todos os clientes, pois o whatsapp caiu geral desconectando vários aparelhos do zapguru.
+Cliente: Não está funcionando
+Atendente: Me manda o link de um chat onde o chatbot não funcionou por favor.
+Atendente: Deixa, verifiquei aqui, alguém removeu os gatilhos que inseri para o funcionamento da URA, nunca ia funcionar.
+Atendente: Resolvido.
+Atendente: Testa agora por favor.
+Cliente: Ok
+Cliente: Vou mandar uma mensagem
+Atendente: Para encerrar um atendimento e permitir que o chat receba novamente a URA, basta executar no final do atendimento o diálogo chamado "Encerrar Atendimento".
+Cliente: Não entendi
+Cliente: Tem umas conversas que não estão aparecendo
+Atendente: alguns chats precisam executar o "Encerra Atendimento" para poder receber a URA novamente, então sempre após finalizar um atendimento, execute esse diálogo. Caso precise, podemos agendar uma videochamada para te explicar o funcionamento de seu chatbot.
+Atendente: Podemos agendar para as 11h pode ser?
+Cliente: Pode sim
+Atendente: Ótimo. Até as 11h então.
+Cliente: Combinado
+Cliente: Mark toda vez que o cliente volta a falar ele recebe a mensagem?
+Cliente: Não pode tirar se ele estiver em atendimento?
+Cliente: Por favor olhe o caso que está agora. Estou conversando e apareceu a mensagem
+Atendente: OK, vou alterar aqui ara enviar apenas para quem estiver como ABERTO
+Cliente: Pode ser “em atendimento”
+Cliente: Ah tá
+Cliente: Aberto é o primeiro contato 👍🏼👍🏼
+Cliente: Ok
+Atendente: Pronto, só recebe a URA chats que entrarem com status ABERTO
+Atendente: Isso.
+Atendente: Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Vamos começar?:
+Atendente: https://meet.google.com/jyq-xngn-bny
+Atendente: Acessa o link da videochamada por favor.
+Cliente: Ok
+Atendente: Resolvido.
+Atendente: Se precisar de ajuda, só chamar.
+Atendente: Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como apago mensagem enviada errada por favor
+Atendente: Boa tarde Carolina, tudo bem? Eu sou o Gabriel do ZapGuru, vou te dar uma mãozinha!
+Atendente: Infelizmente não temos uma ferramenta para apagar uma mensagem enviada, pode ser apenas feito pelo celular
+Cliente: Ok
+Cliente: Uma de minhas usuárias tentou usar as respostas rápidas mas quando digitou “/“ não funcionou....
+Atendente: Certo, no usuário dela estão ativados os comandos de resposta rápida?
+Cliente: Isso não sei...
+Cliente: Eu “copiei” aqui
+Atendente: Certo, peça para a usuária entrar na aba de Respostas Rápidas e ver se ela está com as respostas cadastradas, por favor
+Cliente: Ok
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Tudo certo. Obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa noite
+Atendente: Boa noite Carolina!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Gostaria de saber onde posso alterar a senha de um usuário
+Atendente: Bom dia, Carolina! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Vou encerrar o chat Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde. Copiei as respostas rápidas para um usuário mas ainda não aparecem quando ele digita barra
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Carolina!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Você tem certeza que selecionou corretamente?
+Cliente: Sim. Selecionei as respostas rápidas e escolhi o usuário
+Cliente: E cliquei em copiar
+Cliente: Vc consegue checar ?
+Cliente: Já é o segundo que acontece isso
+Cliente: Vc pode checar?
+Cliente: O que pode estar acontecendo que não aparece e pra ele?
+Cliente: Boa tarde
+Cliente: Poderia falar com o Mark?
+Atendente: Oi Carolina. Para qual usuário você copiou as respostas rápidas?
+Cliente: Para o Fábio
+Atendente: Boa noite Carolina!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Ele não consegue acessar as respostas rápidas nem ver o número de contato do cleinte que eu já liberei nas configurações
+Atendente: Um momento.
+Atendente: Conferi aqui, entrei na conta do Fábio e ele possui inúmeras mensagens rápidas, prontas para uso. E ele não consegue ver números dos clientes pois não foi ativado no usuário dele a opção ver números do whatsapp.
+Atendente: Só ativar.
+Atendente: Se precisar de ajuda, só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Exclui um usuário e estou tentando criar um novo mas diz que o e-mail já está em uso. Sendo que já havia apagado ele
+Atendente: Não é possível cadastrar novo usuário com o mesmo e-mail de outro excluido. Me informa o nome do usuário atual e me diz o novo nome que alteramos aqui.
+Cliente: Quero cadastrar RUTHIANE
+Cliente: E-MAIL analisedecredito@primeresidencial.com.br
+Atendente: Qual nome do usuário atual com esse e-mail?
+Cliente: Nenhum
+Cliente: Eu exclui
+Cliente: Agirá quero cadastrar e não consigo
+Atendente: OK, vou verificar, um momento.
+Atendente: Pronto, tenta cadastrar agora.
+Cliente: Ok
+Cliente: Outra coisa
+Cliente: As respostas rápidas não aparecem para o Fábio
+Cliente: Já copiei pra ele mas ele digita / e não vai
+Atendente: Já te respondi ontem sobre isso. Aparece sim. Já entrei na conta dele e verifiquei, estão todas as respostas rápidas lá. Manda um print da conta dele aí por favor.
+Atendente: Por que possa ser que não apareça aí por causa de algum erro no navegador.
+Atendente: Aí verificamos o que pode estar acontecendo.
+Cliente: Ele pode falar aqui no suporte também?
+Cliente: Seria ideal vc falar direto com ele não?
+Atendente: Sim, basta ele procurar o chat do zapguru dentro dos clientes dele no proprio zapguru.
+Atendente: https://app5.zap.guru/chats/5f0358583b899b5fe0a635d6
+Atendente: Pede para ele chamar lá.
+Atendente: Vou encerrar aqui, tudo bem?
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como excluo um dos arquivos que salvei nos anexos?
+Atendente: Permissão Admin > Clica em *Arquivos* > Clica no ícone da lixeirinha vermelha
+Cliente: Boa tarde! Minha usuária Midian não eTa conseguindo ver o número do telefone do cliente
+Cliente: Já fui na configuração do usuário dela e marquei para ela ver os celulares
+Cliente: Mas até agora não aparece
+Cliente: Não aparece o número do cliente
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Carolina! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: No aguardo. Obrigada
+Cliente: Conseguiu verificar?
+Atendente: Visualizar celulares é para ele ver a aba de Celulares.
+Cliente: Certo. Ela já pode ver então?
+Cliente: Qual seria essa?
+Cliente: Pois acabei liberando pra ela
+Atendente: Sim. Caso não apareça peça para ela deslogar e logar novamente.
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Carolina Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: Onde consigo boleto para pagar?
+Atendente: Eu te envio, um momento por favor.
+Atendente: Mudei a data pra hoje
+Cliente: E como consigo todos os meses?
+Atendente: Ele esta sendo enviado para esse e-mail carolina@primeresidencial.com.br
+Cliente: Acabei de checar e não veio
+Cliente: Não recebi nada de vcs
+Atendente: Nem no spam?
+Atendente: Esta ativo para encaminhar a fatura e boleto nesse e-mail.
+Atendente: o e-mail esta correto?
+Cliente: Está sim
+Cliente: Qual a data que vcs enviaram?
+Atendente: Ele encaminha dia 16
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde! Gostaria de ajuda pois formatei um relatório e está saindo incorreto
+Atendente: Carolina Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Carolina! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Como seria esse relatório?
+Cliente: Olá Caio! Só gostaria de ver quantos clientes novos entraram no mês de julho
+Cliente: Na verdade imagino que tenham tantas funções bacanas de controle mas o pouco que estou mexendo tá dando erro
+Atendente: Entendi!
+Atendente: Vou dar uma olhada
+Atendente: Entendi o que está acontecendo.
+Como seu cadastro na ferramenta foi recente está trazendo todos os chats!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Mas e aí? Foi resolvido?
+Atendente: Boa noite Carolina!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia, Carolina! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Resolvido!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Tenho uma dúvida: o meu usuário está com dificuldades. Ele pode falar direto com o suporte de vcs também?
+Atendente: Carolina Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: As mensagens só aparecem carregando e a internet está tudo normal
+Atendente: Bom dia, Carolina! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: O usuário pode entrar em contato?
+Cliente: Vcs atendem?
+Atendente: Peça para ele entrar em contato pelo próprio número de vocês!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Carolina Bom dia!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Atendente: *Aviso Automático* 
+
+Carolina Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ChatGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Atendente: *Bruna Lira:* 
+Olá Carolina, boa tarde! Ainda não identificamos o pagamento, evite a interrupção de sua conta.
+Cliente: Já providenciamos o pagamento 👍🏼
+Atendente: *Bruna Lira:* 
+Tudo bem, obrigada! Me encaminha o comprovante por favor quando finalizar assim ja dou baixa no sistema.
+Atendente: *Bruna Lira:* 
+Boa tarde! Recebemos o pagamento, muito obrigada :)
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Carolina, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60184ece73116bf23e412083
+Atendente: Prezado(a) Cliente, consta em aberto o valor referente a sua mensalidade do ChatGuru. Evite o bloqueio da sua conta realizando o pagamento em até 24h. Em caso de dúvidas, estamos à sua disposição!
+Atendente: *Bruna Lira:* 
+Carol, boa tarde!
+Recebemos o pagamento, muito obrigada!
+Atendente: Carolina, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Carolina, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/608b0ad8ecec98869e5fc6a2
+

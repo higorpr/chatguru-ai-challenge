@@ -1,0 +1,978 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Amanda Suellen Santos
+Email: amanda.santos@squadnegocios.com.br
+Senha: 9185f3ec501c674c7c788464a36e7fb3
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Cliente: Bom dia . Ok.
+Atendente: Bom dia Amanda!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Ok entendido
+Cliente: Obrigada.
+Atendente: Olá Amanda, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Bom dia.
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Já estamos usando o zapguru
+Cliente: Estamos precisando cadastrar as mensagens automáticas de wpp
+Cliente: e personalização da ferramenta
+Atendente: Olá Amanda, Bom dia. Meu nome é Luiz!
+Seja Bem-Vindo ao ZapGuru!
+Vou te ajudar a configurar o seu ZapGuru.
+Cliente: Olá Luiz
+Cliente: que ótimo
+Atendente: Olá Amanda tudo bem? 
+
+Precisamos realizar a instalação do *Módulo de Adicionar Chats* no seu smartphone.
+
+Para prosseguirmos é necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo: 
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+
+Podemos agendar a instalação?
+Cliente: podemos sim
+Atendente: Faça a instalação desse aplicativo
+Cliente: esse  app instalo no celular ou no notebook?
+Cliente: nao entendi
+Cliente: pq ja desinstalei o app de wpp no celular
+Atendente: A perdão. Seu aparelho é alocado certo.
+Cliente: isso
+Atendente: Ok. Não é necessário essa instalação.
+Cliente: ta bom
+Atendente: Você já consegue adicionar chats pela plataforma
+Atendente: ?
+Cliente: estou logada na plataforma
+Cliente: ja estamos usando o chat normal
+Cliente: o que quero é configurar as coisas
+Atendente: Certo. Vou agendar com você nossa primeira conferência. Nela vou te passar as informações gerais sobre a plataforma. Só um momento.
+Cliente: ok
+Atendente: Você tem disponibilidade para Segunda feira, 27/07? Pela manhã?
+Cliente: Não a tarde  após 14h
+Atendente: Pode ser segunda das 16h até às 17h?
+Cliente: Pode sim
+Atendente: Marcado, Amanda!
+Atendente: Pode me informar um email para te enviar o convite, por favor?
+Cliente: Amanda_suellen@live.com
+Cliente: Amanda.santos@squadnegocios.com.br
+Atendente: Obrigada, vou colocar os 2 emails.
+Cliente: Pode colocar apenas esse
+Cliente: O outro é pessoa
+Cliente: Pessoal *
+Atendente: Ah sim, entendi. Vou colocar.
+Atendente: Enviado para o email.
+Cliente: Obrigada!!!
+Atendente: Por nada!
+Atendente: Bom dia Amanda 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Bom dia. Inicialmente sim, ansiosa para fazer a parametrização da ferramenta.
+Cliente: Pessoal, boa tarde.
+Cliente: Estou aguardando para nossa reunião.
+Cliente: O link do invite não está funcionando
+Atendente: Amanda, boa tarde. Vou te mandar o link. Só um momento.
+Cliente: ta bm
+Atendente: https://meet.google.com/iak-cegc-fsn
+Cliente: olha a mensagem que aparece
+Atendente: Para participar da videochamada, clique neste link: https://meet.google.com/ofc-ikbw-qtp
+Para participar por telefone, disque +55 41 4560-9892 e digite este PIN: 454 747 499#
+Para ver mais números de telefone, clique neste link: https://tel.meet/ofc-ikbw-qtp?hs=5
+Atendente: Amanda, estou te enviando o nosso modelo de como você pode estar nos enviando o seu fluxo de chatbot.
+Atendente: Vou separar o material sobre respostas rápidas e depois te envio.
+Cliente: fechado!!!
+Cliente: muito obrigada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Amanda, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Boa rarde
+Cliente: Não estamos conseguindo cadastrar os clientes no zapguru
+Atendente: Boa tarde Amanda! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: Oi Luiz
+Cliente: ok
+Cliente: Empresa Victa
+Cliente: fica dessa forma
+Cliente: qnd tentamos cadastrar
+Atendente: Verifiquei que o problema já foi normalizado.
+Atendente: Pode realizar os cadastros.
+Cliente: consegue me dizer o que houve?
+Atendente: Boa noite Amanda!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Ocorreu uma falha no processo de cadastro de chats. Tivemos que atualizar a ferramenta. Agora está ok.
+Atendente: Vou finalizar por aqui. Até mais.
+Cliente: Ok
+Cliente: Obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: O zaoguru da Diagonal não está funcionando
+Atendente: Boa tarde, Amanda! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Já voltou a funcionar?
+Cliente: Olá
+Cliente: voltou sim
+Atendente: Desculpe pela demora, ocorreu um erro com o seu chat e ficamos sem acesso, mas que bom que voltou a funcionar!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: oLÁ
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: o problema com a plataforma voltou
+Atendente: Boa tarde, Amanda, tudo bem?
+O problema com a plataforma está sendo a adição de chats?
+Cliente: não
+Cliente: acesso
+Cliente: aparece que esta off
+Cliente: isso
+Atendente: Entendido. Vou verificar agora mesmo, Amanda
+Cliente: obrigaa
+Atendente: Boa noite, Amanda.
+Reiniciamos o aparelho e testamos a conexão dele. Houve algum outro problema?
+Cliente: Olá.
+Atendente: Boa noite Amanda!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: O expediente do atendente acabou
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Não consigo ver agora  mas olho amanhã cedinho e dou retorno
+Atendente: Perfeito, Amanda :)
+Obrigado
+Atendente: Bom dia, Amanda, tudo bem?
+A conexão da plataforma retornou?
+Cliente: Bom dia
+Cliente: retornou
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: mas preciso saber o que está acontecendo e como solucionar
+Atendente: Perfeito!
+Cliente: é a segunda vez que isso ocorre
+Cliente: e apenas no da Diagonal
+Cliente: pq o da Victa está funcionando direitinho
+Atendente: A desconexão da plataforma geralmente ocorre por uma instabilidade do próprio whatsapp, Quando ocorre uma falha em nossos servidores, nós ficamos sem contato com nossos clientes. Como não foi o caso, o problema pode ter sido com o whatsapp mesmo
+Cliente: Entendi
+Cliente: Pq o da Victa não deu esse problema
+Atendente: Entendo. Mesmo com nossos whatsapps pessoais as vezes ocorre alguma queda no serviço, felizmente está cada vez mais raro. No caso do business como o fluxo de mensagens é mais intenso, esse problema pode ser um pouco mais comum, mas vamos acompanhar de perto e fazer uma reconexão manual imediatamente caso isso aconteça outra vez
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal, boa tarde
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez o zapguru saiu do ar
+Cliente: Apenas da Diagonal
+Cliente: Preciso que esse problema seja rastreado para identificar o que está acontecendo
+Atendente: Olá Amanda, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Cliente: Olá
+Cliente: Já e a 3ª vez em dois dias
+Cliente: preciso da atenção de vocês pra resolver isso.
+Cliente: Não pode ser possível que fique dessa forma, o zapguru da Victa é a mesma coisa no zapguru e não está com esse problema!!
+Atendente: Voltou ao normal? Aqui apareceu como conectado
+Cliente: eu preciso saber qual o problema?
+Cliente: precisamos resolver isso
+Cliente: impossível o atendimento parar o tempo todo
+Atendente: Provavelmente foi uma oscilação na conexão, verifiquei que tem um chamado aberto com a sua conta e a solução para isso já está em andamento
+Cliente: mas tem dois dias que está assim
+Cliente: é conexão da internet da Diagonal ou do zapguru?
+Atendente: As vezes é até a própria conexão do whatsapp
+Atendente: As medidas estão sendo realizadas para minimizar isso ao máximo e em breve já estará implantada
+Cliente: mas se fosse do wpp, concorda comigo que as outras constas estariam com o mesmo problema?
+Atendente: Nem sempre, para derrubar todas as contas teria que ser um problema muito grande e existem vários servidores no mundo do Whatsapp, então se tiver um problema em um servidor, não necessariamente todos os números irão parar porque podem estar em outro servidor
+Atendente: Do nosso lado já estamos aplicando a melhoria para que isso seja contornado caso ocorra
+Atendente: Amanda, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal, bom dia.
+Cliente: Novamente o mesmo problema
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: agora com Victa e Diagonal
+Cliente: precisamos resolver isso!
+Atendente: Bom dia, Amanda. Estou verificando agora esta queda para resolver o mais rápido possível.
+Cliente: Mas reforço que isso é um problema recorrente
+Cliente: não dá pra trabalhar assim gente! Me ajuda!
+Atendente: Entendemos, Amanda, e também achamos muito estranho apenas as suas contas estarem caindo com essa frequência, mesmo sendo números alocados, sentimos muito mesmo pelo transtorno
+Cliente: Pessoal, bom dia
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos a 2 dias sem wpp
+Atendente: Bom dia Amanda! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: se não resolver agora
+Cliente: estou removendo o wpp do zapguru
+Cliente: não da pra ficar mais
+Atendente: Compreendo sua insatisfação. Já estou em contato com o setor responsável para o motivo desse problema e porque ainda não foi solucionado.
+Atendente: Entendo. Dessa forma, vou te passar para o setor financeiro para retirar o serviço de alocação que esta cadastrado em sua conta.
+Atendente: Ok.
+Atendente: É o George Davy?
+Cliente: Sim
+Atendente: Certo.
+Atendente: Comuniquei ao George e estou tratando com ele sobre a questão da alocação. Por aqui, posso te ajudar em algo mais?
+Cliente: Obrigada
+Cliente: Não mais
+Cliente: Só nao tira nosso acesso Luiz,please?!
+Atendente: Não se preocupe. Como o aparelho está com vocês, vou te passar algumas recomendações.
+Atendente: *Evitem manusear o aparelho que está servindo o ZapGuru.*
+O aparelho que serve o ZapGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ZapGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ZapGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ZapGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ZapGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Atendente: Finalizando por aqui.
+Cliente: Obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Victa e Diagonal com o mesmo problema
+Atendente: Boa tarde, Amanda! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Perdão pela demora no atendimento, estamos um pouco cheios hoje 😄
+Cliente: Oi Caio
+Cliente: to surtada com zapguru, real!!!!
+Cliente: mudaram nossa forma de atendimento sem avisar
+Cliente: agora parou denovo
+Atendente: Sua fila de mensagens está zerada
+Atendente: São as mensagens dos clientes que não chegam?
+Cliente: isso
+Cliente: elas chegam no app e não chegam no zapguru
+Atendente: O WhatsApp foi conectado em um WhatsApp web
+Atendente: Seu aparelho está alocado conosco?
+Cliente: Não foi
+Atendente: O WhatsApp foi conectado em um WhatsApp web
+Atendente: É preciso fazer a leitura do QR-Code novamente
+Cliente: só 1 min que vamos fazer
+Cliente: mas vcs estão derrubando ele
+Atendente: Certo!
+Cliente: já está conectado
+Cliente: e não ta rolando
+Cliente: a mensagem que está sendo enviada para o cliente, qnd ela vai pro zapguru vai em branco
+Cliente: vou colocar o Warley, meu atendente pra resolver isso com você
+Cliente: estou entrando em reuniao
+Cliente: pode chamar ele?
+Atendente: Posso sim!
+Atendente: Oi, Amanda! Vou falar com o Warley!
+Atendente: Obrigado!
+Cliente: ele acabou de sair pra lanchar
+Cliente: pode ser daqui uns 15min?
+Atendente: Sim.
+Cliente: Obirgada!!!
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pessoal, bom dia
+Cliente: zapguru Vcta sem funcionar
+Atendente: Bom dia Amanda! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: ok
+Atendente: Comuniquei ao suporte técnico.
+Atendente: Um momento.
+Atendente: Serviço normalizado.
+Atendente: Posso ajudar em algo mais?
+Cliente: Vou conferir
+Cliente: 1min
+Cliente: Mas o que aconteceu?
+Atendente: Amanda, foi apenas um delay na conexão. Já está normalizado! :)
+Cliente: Ta hom
+Cliente: Obrigada
+Atendente: Por nada!
+Atendente: Estou finalizando seu atendimento. Qualquer dúvida, entre em contato. Boa tarde! =)
+Cliente: Olá pessoal!!!
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Zapguru diagonal sem funcionar
+Atendente: Olá, Amanda! Tudo bem?
+
+Sou o Lucas, suporte do ZapGuru! 🙂
+Cliente: O lycas
+Cliente: Conta diagonal
+Atendente: Qual é o app?
+Cliente: Diagonal
+Cliente: Não estou na empresa.
+Atendente: Se tiver ocorrendo problema em alguma conversa, por favor, envie o link do chat.
+Cliente: Boa tarde
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Configurei os usuários da Natalia e Nayara no zapguru da Diagonal para cadastrarem novos chats, porém,  mesmo após refazer o login, a opção de cadastrar novo chat não aparece. Podem verificar por gentileza?
+Atendente: Boa tarde Amanda! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: Boa tarde Luiz
+Atendente: E peça para eles atualizarem a página.
+Cliente: Ahsim
+Cliente: estava colocando no lugar errado
+Cliente: Obrigada!!!
+Atendente: Tranquilo. Ajudo em algo mais?
+Cliente: Apenas isso!!!
+Cliente: =D
+Atendente: :)
+Atendente: Ok. Bom final de semana.
+Cliente: 🖐🏾
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Cadastrei essa cliente no ZapGuru, e ficou pendente...depois disse para verificar se o número está correto. Coloquei no whatsapp web e deu certo.
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Amanda, talvez houve um erro no Automate. Como você está com o número alocado, vou pedir para verificar isso internamente
+Cliente: O número fica com voces
+Cliente: Não usamos o business
+Cliente: Isso é diagonal
+Cliente: São duas situações
+Atendente: Sim, fica alocado. Por isso que vou verificar internamente, pode deixar
+Cliente: O cliente que não aparece no zapguru qnd cadastro e qmd envio a mensagem e nao envia
+Cliente: Ok
+Cliente: Me tira uma dúvida, eu consigo transferir os atendimentos em lote de um corretor pra outro?
+Atendente: Consegue sim, Amanda
+Cliente: me ensina como fazer por gentileza?
+Atendente: Para isso, pode ser criado um diálogo onde a única ação é a delegação para o outro corretor.
+E iniciar uma campanha utilizando o filtro de delegados ao seu corretor antigo.
+Cliente: ntendi nada kkkk
+Atendente: kkkk sem problemas. Me fale qual é o o usuário que deseja ter os chats enviados e qual o usuário de destino, por favor
+Atendente: Quando eu estiver fazendo este processo posso gravar um vídeo demonstrando
+Cliente: kkkkk
+Cliente: Do warley para Rafaela (Isso no zapguru da Victa)
+Atendente: Perfeito, Amanda. Farei essa alteração
+Cliente: Valeu mesmo!
+Atendente: Eu que agradeço!! Já solicitei a revisão do adicionar chats
+Cliente: valeu
+Atendente: Amanda, consigo ajudar em algo mais?
+Cliente: Apenas isso.
+Cliente: Obrigada!!
+Atendente: Maravilha. Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Obrigada.
+Cliente: Pessoal, bom dia.
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: desistindo,
+Atendente: Olá, Amanda. 
+Meu nome é Rodrigo. Como posso te ajudar?
+Atendente: Amanda, estou encerrando nosso contato por inatividade. Qualquer dúvida, estamos à disposição! 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Boa tarde Amanda! Meu nome é Luiz. Peço desculpas pela demora, pois seu chat não estava delegado ao suporte. Em que posso ajudar?
+Cliente: Olá Luiz
+Cliente: Estou com um problema na diagonal
+Cliente: As meninas vão criar um novo chat e dá uma mensagem de erro
+Cliente: até fz um print mas o wpp não está enviando
+Atendente: Qual o número que estão adicionando?
+Cliente: o número do cliente
+Atendente: isso
+Cliente: se acessar o zapguru e selecionar o bonequinho pra fazer o cadastro
+Cliente: aparece as ultimas tentativas de cadastro
+Atendente: Um momento.
+Cliente: ok
+Atendente: Vou comunicar ao suporte técnico para verificar o que está ocorrendo na adição de chats.
+Cliente: ta
+Cliente: quando consegue me retornar?
+Atendente: Depende da demanda do setor. Mas vou deixar seu chat aberto e assim que tivermos um retorno, te comunico.
+Cliente: ta bom
+Cliente: obrigada Luiz!
+Atendente: Por nada. :)
+Atendente: Amanda, bom dia. Luiz aqui. Desculpe a demora em lhe dá um retorno. Problema resolvido. Pode prosseguir com as adições de chats.
+Cliente: Bom dia luiz .valeu!!
+Atendente: Vou finalizar por aqui. Precisando é só chamar. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Amanda, Boa tarde, meu nome é Mark! Tudo bem?
+Atendente: Sou do time de suporte do ZapGuru, em que podemos te ajudar?
+Atendente: Amanda?
+Atendente: Amanda, nossa equipe informou que você precisa de ajuda na sua conta do zapguru. Somos do suporte, em que posso te ajudar?
+Cliente: Ola, ja estou falando com alguem
+Atendente: Amanda, vamos seguir seu atendimento por aqui, esse número é do nosso comercial e eles não conseguem mais te ajudar, agora seu atendimento seguirá conosco aqui no suporte.
+Atendente: Vi que você perguntou se poderia agendar o treinamento para a segunda-feira, correto?
+Atendente: Podemos agendar para segunda nos seguintes horários: 10h as 11h, 11h as 12h, 16h as 17h ou de 17h as 18h.
+Cliente: As 10h
+Atendente: Ótimo. Agendado, segunda-feira, dia 21.12, as 10h iniciamos nossa videochamada de treinamento e instruções de uso do zapguru;
+Atendente: Nossa call será pelo google meet, providencie um computador ou notebook com microfone.
+Atendente: por favor nos informe um -mail para que eu possa lhe enviar o convite da videochamada.
+Cliente: amanda.santos@squadnegocios.com.br
+Atendente: Ótimo. Agendado. Até segunda.
+Cliente: 👊🏾
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Obrigada! =D
+Cliente: Pessoal, boa tarde,
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como funciona o processo pra trocar o número que está no zapguru?
+Atendente: Olá, Amanda, tudo bem? 
+Para realizar a troca de número, a primeira troca é gratuita e as demais possuem o valor de 150 reais. 
+Para concluir a troca, o processo leva até 24h úteis
+Cliente: então essa é a primeira né
+Cliente: pq nao trocamos antes
+Cliente: estamos usando 1 número de celular hj e vamos usar o número fixo no wpp
+Atendente: Isso mesmo :)
+Atendente: Perfeito, Amanda.
+Lembrando que ao trocar de número, algumas configurações como *tags* e *contextos* são perdidos dos chats
+Cliente: O que são contextos? Histórico?
+Atendente: Não, os contextos são como variáveis, que são anexadas nos chats.
+Elas servem geralmente para utilizar uma URA, um auto atendimento
+Cliente: Ah sim, não usamos eles no zapguru
+Cliente: Acha que conseguimos mudar até amanhã no almoço?
+Cliente: Preciso trocar nas campanhas
+Cliente: 😁
+Atendente: Eu não posso garantir, Amanda, desculpa :(
+Mas consigo cobrar ao máximo o pessoal do setor de trocas kk
+Cliente: ta bom haha
+Cliente: Ja ta bom rs
+Atendente: perfeito, então poderia me dizer, por favor, qual o número *atual* e o número *novo*, por favor?
+Atendente: opa, foram dois "por favor"
+Cliente: sim.
+Cliente: 8591662774 número atual 
+
+085 3512 3512 número atual. 
+
+como eu valido esse número do wpp sendo ele fixo? por ligação?
+Atendente: No caso de um número fixo, é por ligação mesmo, Amanda
+Cliente: ta bom
+Atendente: Apenas confirmando;
+
+8591662774 número atual
+
+085 3512 3512 número novo.
+
+Certo?
+Cliente: isso
+Cliente: e dai, quando for fazer a alteração, o zapguru fica fora do ar?
+Cliente: se sim, por quanto tempo?
+Atendente: Assim que  a troca for feita, já é possível utilizar a plataforma
+Cliente: em algum momento fica fora do ar?
+Cliente: pra eu me organizar com a equipe
+Atendente: Provavelmente por alguns minutos, apenas para atualizar
+Atendente: Amanda, como seu número está alocado, vamos precisar fazer essa troca em conjunto com você em algum horário; Vamos solicitar que o wpp ligue para o número e você precisará atender
+Cliente: Entendi
+Cliente: Ta bom
+Atendente: Por enquanto consigo ajudar em algo mais?
+Cliente: Apenas isso, obrigada
+Atendente: Perfeito, Amanda.
+Eu abri a solicitação de troca e amanhã quando o setor me responder, eu te confirmo para fazermos a mudança
+Cliente: Fechado. Obrigada!!!!
+Cliente: Bom dia
+Cliente: Podemos iniciar a transição
+Atendente: Bom dia, Amanda. Ainda não tive uma resposta da área de alocação, enviei hoje mais cedo uma mensagem a eles
+Cliente: ta bom
+Cliente: me dá noticias!
+Atendente: Claro, pode deixar, vou te atualizando a todo momento
+Cliente: show
+Cliente: Valeu!
+Atendente: Amanda, nossa área de alocação está passando por problemas técnicos desde a noite de ontem e ainda não puderam resolver. Acredito que será possível apenas realizar a troca durante a semana que vem, sinto muito :(
+Cliente: nossaaaaaa véi
+Atendente: Amanda, conseguimos estabilizar agora a conexão da área de alocação.
+Nós vamos precisar que alguém possa atender a ligação no momento que solicitarmos a troca. Esse telefone novo faz parte de uma central? Ou é linha direta mesmo?
+Cliente: E linha direta
+Cliente: Pode ligar nesse número e falar cm a Ana
+Cliente: Ela atende no PC e te passa os codigo
+Cliente: Estou em reunião
+Cliente: conseguiu falar com ela
+Cliente: ?
+Atendente: Amanda, por aqui não consigo fazer ligações. 
+A ligação que eu mencionei foi quando for realizar a troca, que o próprio whatsapp liga
+Cliente: nossa, nao me flou né kkk
+Cliente: sai da reuniao
+Cliente: vamos fazer?
+Cliente: to aqui do lado dela
+Atendente: Como não vamos conseguir fazer hoje, estava esperando você liberar da reunião para poder definir uma data e horário
+Cliente: nao da pra fazer hj?
+Atendente: Hoje não por conta do horário, como conseguiram estabilizar o sistema lá somente agora a tarde, estão fazendo todas as trocas que foram solicitadas na quarta e quinta
+Cliente: Bom dia. Estou com um problema na minha Internet e não vou conseguir fazer as configurações hj.
+Cliente: Estou sem Internet na verdade e tô aguardando o técnico.
+Cliente: A gente pode remarcar?
+Atendente: Bom dia, Amanda! Tudo bem?
+Podemos remarcar sim. Vou encaminhar seu atendimento para a pessoa que agendou a chamada para que vocês selecionem outra data :)
+Cliente: Muito obrigada e peça desculpas por mim .
+Atendente: Olá Amanda, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Para quando gostaria de remarcar?
+Cliente: Dia 4
+Cliente: Pela manhã
+Atendente: OK, reagendado para dia 4 as 10h.
+Atendente: Te ajudo em algo mais?
+Cliente: Muito obrigada e desculpe mais uma vez!
+Atendente: Sem problema.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Bom dia Amanda.
+Atendente: Você solicitou uma videochamada de treinamento para hoje as 10h. Vamos começar?
+Cliente: bom dia,
+Atendente: Podemos começar?
+Atendente: https://meet.google.com/hpg-uxki-tui
+Atendente: Só acessar o link
+Cliente: desculpa, correria
+Atendente: Ficamos no aguardo das informações para configuração do chatbot. Se precisar de ajuda, só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde,
+Cliente: O zapguru parou de funcionar
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Amanda. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+Um instante que já vou verificar sua solicitação.
+Atendente: Qual não está funcionando? Victa ou o Diagonal?
+Cliente: Ola. Victa
+Cliente: Agora voltou, mas está oscilando
+Cliente: aparece desconectado
+Atendente: Amanda, realmente quando entrei aqui, já estava reconectado. Quando a plataforma começa a oscilar muito, é sempre bom olhar algumas questões podem causar isso. 
+
+- Verificar se a conexão de internet está funcionando bem (em épocas de chuva, podem ter oscilações na distribuição)
+- Verificar se o aparelho não está com alguma tela de bloqueio, que pode gerar essa oscilação. 
+- Verificar também se o aparelho não deixou de reconhecer o Wifi em que ele está conectado. 
+
+Isso pode ajudar bastante a diminuir essas oscilações. 🙂
+Cliente: Nosso número é alocado
+Cliente: nao temos o wpp no aparelho
+Atendente: Verdade!
+Atendente: Então. vou aproveitar pra entrar em contato com o nosso setor de alocação pra que eles possam verificar as mesmas informações.
+Cliente: a internet no computador está funcionando direitinho
+Atendente: Vou acompanhar por algum tempo pra sentir se ela vai voltar a oscilar ou se manterá estável.
+Atendente: Amanda, pelo que verifiquei, sua conta ficou estável durante esse período. Em caso de outras dúvidas, por favor, entre em contato conosco para que possamos te ajudar. 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: bom dia.
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Criei a árvore do boot para incluir no zapguru e preciso de ajuda para inserir
+Atendente: *Rodrigo Lacerda:* 
+Olá, Amanda. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 
+
+Por gentileza, envie o documento relacionado a criação do chatbot que faremos a configuração.
+Cliente: OK
+Cliente: veja se está no formato certo
+Atendente: *Rodrigo Lacerda:* 
+Está sim, Amanda. Por padrão o tempo de configuração do chatbot pela nosso suporte é de 72h. Caso esteja pronto antes desse tempo, entraremos em contato para marcar uma vídeo chamada pra mostrar o funcionamento, ok?
+Cliente: ta bom
+Cliente: perfeito!
+Cliente: E como vocês ja fazem isso a mais tempo, gostaria que analisassem pra ver se ficou bom mesmo
+Cliente: se podemos colocar mais cooisas
+Cliente: vocês possuem alguma estatística de quando o lead abandona o boot°
+Atendente: *Rodrigo Lacerda:* 
+Não temos estatísticas, mas temos alguns recursos que podem te ajudar. Um exemplo: depois de x horas, se o lead não responder ao bot ele pode ser encerrado ou pode ser direcionado para o atendimento humano que vai tentar captar qual a necessidade daquele cliente.
+Cliente: quero isso tb
+Cliente: como configuramos?
+Atendente: *Rodrigo Lacerda:* 
+Preciso apenas que você me informe qual seria esse tempo de inatividade do lead e qual será ação (encerrar o chat, ou passar pro atendimento humano...)
+Cliente: para passar para o atendimento humano, assim que ele fizer a seleção como no doc enviado, tempo de inatividade para encerramento, eu ja vi algumas empresas usando de 60min.
+Cliente: mas uma duvida, quando ele encerra, o lead não entra para o usuário? Eu quero que entre
+Cliente: pra eu tentar conversar com ele, seja pelo zapguru ou pelo telefone
+Atendente: *Rodrigo Lacerda:* 
+Sim, é tudo uma questão de configuração. Logo, segundo o que você falou, vou configurar para que 60 minutos de inatividade do lead em alguma parte do bot, ele seja transferido para algum atendente que recuperará esse atendimento.
+Cliente: isso, show
+Cliente: quero configurar tb algumas mensagens automáticas para esses clientes após 2 dias.
+Cliente: é possível fazer isso tb?
+Cliente: pq ai eu crio uma cadência de envios de acordo com o status
+Atendente: *Rodrigo Lacerda:* 
+Sim, posso te pedir uma gentileza? Consegue colocar essas informações que você quer com o texto formatado na forma como vocês se comunicam no mesmo doc e reenviar? Assim fica mais fácil de verificar na hora de fazer a configuração.
+Cliente: hummm
+Cliente: não tenho isso pronto kkk queria era saber como fazer
+Cliente: vamos começar pelo boot e depois seguimos com as outras automações
+Atendente: *Rodrigo Lacerda:* 
+Ok, sem problemas
+Cliente: Ainda não voltou
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia, Amanda! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+
+Estamos cientes da queda do sistema, nossa equipe está trabalhando para solucionar o problema. Os aparelhos foram reiniciados e já devem estar conectando, você ainda não consegue utilizar?
+Cliente: Ainda nao
+Cliente: Bom dia.
+Cliente: Sistema fora do ar
+Cliente: mesmo as novas mensagens que enviamos, não estão sendo entregues ao cliente
+Cliente: fiz um teste aqui e não deu
+Atendente: *Eduardo Victor:* 
+Nas duas contas ou alguma especificamente?
+Cliente: Victa
+Cliente: que é a que estamos testando aqui
+Cliente: agora deu
+Atendente: *Eduardo Victor:* 
+Perfeito! Fora isso, eu consigo te ajudar em algo mais?
+Atendente: Amanda, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde,
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Amanda. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Olá Rodrigo,
+Cliente: Em dezembro, iniciei com o Luiz eu acho a troca do nosso número de Wpp
+Cliente: não finalizamos e quero retomar.
+Cliente: conseguimos fazer isso hj?
+Atendente: *Rodrigo Lacerda:* 
+Essa troca está relacionada a qual conta°
+Atendente: *Rodrigo Lacerda:* 
+?
+Cliente: a conta da Victa
+Cliente: Mas esse número ainda nçao tem wpp ativo
+Cliente: precisamos ativar o wpp e habilitar ele no zapguru
+Atendente: *Rodrigo Lacerda:* 
+Antes de fazer a substituição aqui na plataforma, é importante que esse número já esteja com o WhatsApp ativo no aparelho pra fazer a leitura do qr-code.
+Cliente: estamos ativando agora
+Cliente: nesse exato momento
+Cliente: pode aguardar?
+Atendente: *Rodrigo Lacerda:* 
+Sim, certamente.
+Cliente: show
+Cliente: ta quase terminando
+Cliente: pronto
+Cliente: fia a ativação do wpp
+Atendente: *Rodrigo Lacerda:* 
+Me informe, por gentileza, o novo número que eu vou solicitar a substituição. Após a abertura do pedido, nosso sistema leva até 24h para reconhecer a mudança. Assim que tiver pronto, você será avisada.
+Cliente: 08535123512
+Atendente: *Rodrigo Lacerda:* 
+Vou disparar agora um diálogo com as informações sobre a troca e já vou solicitar a substituição.
+Atendente: Amanda, a troca do número do WhatsApp já cadastrado no ChatGuru é cobrado um valor pela relocação do novo número nos nossos servidores, o valor é de R$ 159,00 por troca. 
+
+Contudo, tendo em vista nossa parceria... vamos te dar essa primeira troca como uma cortesia! Mas nas próximas trocas futuras que vier a ter, será cobrado o valor.
+Atendente: *Rodrigo Lacerda:* 
+Confirmando, a substituição é referente a conta da Victa Engenharia no app
+Atendente: *Rodrigo Lacerda:* 
+app
+Cliente: isso mesmo
+Cliente: Aqui, confirmando..
+Cliente: não vamos perder histórico das conversas não né
+Cliente: isso se mantém
+Atendente: *Eduardo Victor:* 
+Boa tarde, Amanda! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁 Vou te auxiliar enquanto o Rodrigo está em reunião, tudo bem?
+Cliente: Olá Eduardo, ok
+Atendente: *Eduardo Victor:* 
+A respeito da troca de número funciona assim:
+
+Todos os seus chats atuais *só ficarão disponíveis em relatórios de chats*, onde você poderá consultar as tags, histórico do que foi falado, anotações e etc.
+
+Após a troca de número, colocando o novo na plataforma, os chats começarão do 0, assim como na primeira sincronização, cada um com o histórico que tem no WhatsApp do número novo.
+
+É proibido, por causa dos direitos de uso do WhatsApp, o compartilhamento do histórico da conversa de 2 números, com um terceiro, ou seja, o novo número não terá o mesmo histórico que o antigo, mesmo que sejam os mesmo números de clientes.
+Cliente: Opa
+Cliente: isso é um problema
+Cliente: o Luis disse que dava pra manter os chats
+Atendente: *Eduardo Victor:* 
+Os chats ficarão ainda sim, disponíveis para consulta. Mas não vão ser usados exatamente os mesmos chats no número novo.
+Cliente: entendi
+Cliente: me ensina depois pra eu repassar para o atendnete
+Atendente: *Eduardo Victor:* 
+O novo número fica em um aparelho diferente, correto? Com um WhatsApp que tem as suas próprias conversas e etc...
+Cliente: não usamos o wpp no celular
+Cliente: ele é alocado com vocês
+Atendente: *Eduardo Victor:* 
+O novo número não foi cadastrado ainda? É um chip novo e sem histórico no WhatsApp?
+Cliente: sim
+Cliente: ja cadastrei
+Cliente: no wpp
+Atendente: *Eduardo Victor:* 
+Certo e esse WhatsApp está em algum aparelho? Existe alguma conversa nele? É novo ou antigo? 🤔
+Cliente: esta no aparelho pra gente fazer a ativação, depois eu removo, pq o numero da victa é inloco
+Cliente: é novo, não tem nenhum histórico nele
+Atendente: *Eduardo Victor:* 
+Pronto, então o número quando subir para a plataforma, vai subir da mesma forma que o histórico, sem nenhum chat. 
+
+Como eu disse, cada número só pode ter o seu histórico e não pode ser feito um "backup" das conversas de um número para outro.
+Cliente: isso
+Atendente: *Eduardo Victor:* 
+Nesse caso, poderá iniciar o seu atendimento de duas formas:
+
+1ª - O cliente vai entrar em contato com você primeiro, no novo número, e você vai distribuindo entre seus usuários
+
+2ª - Você pode adicionar os contatos essenciais, porém por ser um número novo, desconhecido para os clientes e recente no servidor do WhatsApp, não é recomendado que você faça uma adição em massa pois podem ser banidos.
+Atendente: *Eduardo Victor:* 
+Qual a sua intenção com a mudança de número? Seria algo de urgência?
+
+Em alguns casos como esses, alguns de nossos clientes utilizam o número antigo para migrar os contatos, criando um link clicavel para os clientes, que quando selecionam ele, eles são encaminhados para a conversa com o novo número. Algo do tipo "Estamos mudando nosso atendimento para esse número a partir do dia 01/04, por favor, salve em sua agenda"
+Cliente: só estamos trocando o numero de contato da central de vendas
+Atendente: *Eduardo Victor:* 
+Entendi.... Como ficará a troca então? Daremos continuidade?
+Cliente: sim
+Atendente: *Eduardo Victor:* 
+Amanda, você poderia também me enviar um print do cadastro desse número no WhatsApp? 
+
+Para conseguir essa informação é simples: Preciso que você abra o WhatsApp do aparelho, selecione *Mais opções* (Os 3 pontinhos que ficam no canto superior direito), vá em *Configurações*, selecione o nome de vocês, que fica *no topo da lista.* 
+
+Isso vai exibir o nome de cadastro e o número de vocês, preciso do print dessa parte.
+Cliente: 1 min
+Atendente: *Eduardo Victor:* 
+Amanda?
+Atendente: *Eduardo Victor:* 
+Amanda, vou finalizando aqui por questão do horário, continuamos amanhã pela manhã, tudo bem? Uma ótima noite pra você 😁
+Atendente: Amanda, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Tudo bem
+Atendente: Boa noite Amanda!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Desculpe, tive que resolver uma urgência
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Bom dia, Amanda! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+Consegue enviar o print que meu colega Eduardo citou?
+
+Para conseguir essa informação é simples: Preciso que você abra o WhatsApp do aparelho, selecione Mais opções (Os 3 pontinhos que ficam no canto superior direito), vá em Configurações, selecione o nome de vocês, que fica no topo da lista.
+
+Isso vai exibir o nome de cadastro e o número de vocês, preciso do print dessa parte.
+Cliente: Lucas ,bom dia. Pode retornar a partir de 9h?
+Atendente: *Lucas Gusmão:* 
+Sem problemas. 😊 Fico no aguardo da informação para seguir com o cadastro do novo número de Whats App.
+Atendente: *Lucas Gusmão:* 
+Amanda, por inatividade iremos encerrar este atendimento.
+
+Caso precise de ajuda, não hesite em nos chamar. Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Amanda, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6051fd48ecec98869e5052d2
+Cliente: Olá!
+Cliente: vamos?
+Atendente: Amanda Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: desculpa a demora, entrei em uma reunião
+Atendente: *Vanessa Dias:* 
+Oi Amanda, me chamo Vanessa e vou continuar seu atendimento. Necessita incluir um número na plataforma, certo?
+Cliente: Isso
+Atendente: *Vanessa Dias:* 
+Certo Amanda, o processo ficou parado na etapa do print do novo número
+Cliente: Isso
+Cliente: 1mun
+Atendente: *Vanessa Dias:* 
+Para nos enviar o print do número, preciso que você abra o WhatsApp do aparelho, selecione Mais opções (Os 3 pontinhos que ficam no canto superior direito), vá em Configurações, selecione o nome de vocês, que fica no topo da lista.
+
+Isso vai exibir o nome de cadastro e o número de vocês, preciso do print dessa parte.
+Cliente: Isso atende?
+Atendente: *Vanessa Dias:* 
+Certo
+Atendente: *Vanessa Dias:* 
+Já vou solicitar a troca do número. Só um momento por favor
+Cliente: Ok
+Atendente: *➡ Você foi encaminhado para: Fernando*
+Atendente: Olá Amanda
+Atendente: Boa tarde!
+Cliente: Olá, boa tarde
+Atendente: O número que deseja troca, é o que hoje está com a Victa, correto?
+Cliente: Isso
+Atendente: O novo numero que você deseja trocar possui chats ativos?
+Cliente: Sim
+Cliente: Mandei o print acima
+Atendente: Ao trocar o número, os chats do número anterior são perdidos Amanda.
+Atendente: Você não poderá mais entrar em contato com eles.
+Cliente: Fiquei sabendo
+Cliente: Não pelo zapguru
+Cliente: Algum retonro?
+Cliente: O processo está acontecendo?
+Atendente: Ainda não Amanda.
+Atendente: O processo que iremos fazer não é uma "troca" exatamente. 
+
+Na realidade, será removido o número atual da conta de vocês e implementado o novo número.
+Cliente: Entendi pk
+Atendente: O número 55 85 3512 3512 está em alguma central?
+Atendente: Ou é um número direto?
+Cliente: E um número direto
+Cliente: Olá!
+Cliente: ta caminhando?
+Atendente: Está caminhando sim. já está aprovisionado o alocação do novo número. 
+
+Geralmente o processo leva até 24h.
+Cliente: ta bom !
+Cliente: Boa tarde!! Como está o andamento do proceso?
+Cliente: Gente, e ai?
+Cliente: Algum retorno?
+Cliente: O número continua o mesmo
+Atendente: Amanda, peço desculpas, Devido ao contratempo que ocorreu hoje na indisponibilidade global do WhatsApp, não conseguirei realizar o processo hoje.
+Cliente: Mas o processo deveria ter sido finalizado ontem.
+Cliente: O prazo era 24h correto?
+Atendente: Geralmente o processo de aprovisionamento leva em torno de 24h, mas esse tempo pode variar um pouco.
+Atendente: Amanda, vocês tem expediente amanhã. ?
+Atendente: Durante o processo é enviado um SMS/Ligação para vocês validarem.
+Cliente: Amanhã não, retornamos na segunda ok?
+Cliente: Obrigada
+Cliente: Bom dia, podemos retomar a troca do número?
+Cliente: Isso é urgente pra gente!
+Atendente: Bom dia Amanda!
+Cliente: e ai, podemos retomar?
+Cliente: Preciso soltar uma campanha com o numero novo, mas preciso finalizar aqui
+Atendente: Certo, faremos dentro de 20min a solicitação de ligação para número + 55 85 3512 3512. 
+
+Ele  vai informar o código e você deve passar no mesmo instante aqui no chat. 
+
+Ok?
+Cliente: ok
+Cliente: nada ainda
+Atendente: Vou verificar, só um instante por gentileza.
+Cliente: ok
+Atendente: Amanda, estou solicitando agora novamente.
+Cliente: ok
+Atendente: A ligação é feita diretamente para o numero 55 85 3512 3512.
+Atendente: Lembrando que o número precisa ser direto (não passar por uma URA)
+Cliente: Ta caindo em uma ura
+Cliente: Fala que está transferindo a ligação
+Cliente: Como fazemos ?
+Cliente: Tem outra forma de validar?
+Cliente: Eu estou com ele mo wpp business no meu telefone
+Atendente: Você havia informado anteriormente que era direto.
+Atendente: Para colocar no seu telefone, você precisou receber essa chamada com o código. 
+
+Para isso a URA de sua central estava desligada
+Atendente: Essa é única forma.
+Cliente: não desativei
+Cliente: fiz na mesa com as meninas
+Cliente: sem desativar
+Cliente: fiz um teste aqui. Quando eu faço a ligação para o número antes mesmo de dizer que está transferindo, eu recebo a chamada
+Atendente: Amanda, realmente nunca ouvi falar de casos assim. 
+Mas o importante é que você consiga "puxar" a chamada do Facebook que informa o código.
+Atendente: Você não recebeu a chamada que solicitei?
+Cliente: não recebi
+Cliente: nem chegou a chamar
+Cliente: to com ele aberto na minha frente
+Cliente: se quiser fazer um teste e ligar pra ele....
+Atendente: Solicitei agora novamente.
+Cliente: chamou e qnd atendi caiu kkkk
+Cliente: droga
+Cliente: 405 437
+Cliente: o codigo
+Cliente: pega
+Cliente: kkkk
+Atendente: O WhatsApp Business de você foi desconectado.
+Cliente: foi
+Atendente: Dentro de mais alguns instantes o número estará disponível no ChatGuru.
+Cliente: ok
+Atendente: E posteriormente será desativado o número anterior.
+Cliente: ok
+Atendente: Reforçando que os chats do número anterior não estarão mais disponíveis.
+Cliente: ok
+Atendente: *Alteração Feita*
+✅
+_Numero Adicional_
+
+* 55 85 3512 3512
+Atendente: Amanda, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Obrigada!!!
+Cliente: pode encerrar!!!
+Atendente: Amanda, pode enviar a logo da Victa para o número 55 85 3512 3512 por favor
+Cliente: enviado
+Cliente: até pedi pra Ana inserir lá
+Cliente: Olá!
+Cliente: O Wpp da victa não esta recebendo mensagens
+Cliente: Esquece
+Cliente: rs
+Cliente: O wpp da victa nao está renviando wpp
+Atendente: Amanda, como falei anteriormente, os chats do número anterior não podem mais ser contactados. 
+
+Eles ainda estavam aparecendo para vocês pois o phone anterior não havia sido 100% removido.
+Atendente: Mas agora já foi atualizado. os chats anteriores não estão mais disponíveis.
+Cliente: Ah sim, ok
+Atendente: Amanda, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: apenas isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Amanda, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6058e1ccecec98869e520f2e
+Cliente: Bom dia
+Cliente: o apguru parou de funcionar
+Atendente: Amanda Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia Amanda! Meu nome é Luiz. Tudo bem com você? 
+
+Houve um acidente próximo ao local de alocação. Um cabo foi rompido e provocou queda na internet dos aparelhos. Esse nosso número de suporte também fica no mesmo local e por isso não conseguimos realizar os atendimentos por ele. 
+
+A conexão já foi reestabelecida e a internet dos aparelhos já esta retornando.
+
+Pedimos desculpas pelo inconveniente.
+Cliente: Olá Luiz
+Cliente: Entendo
+Cliente: Ta bom
+Cliente: vou testar aqui
+Atendente: *Luiz Modestino:* 
+Ambas as contas já estão com os aparelhos conectados e sem mensagens na fila.
+Qualquer dúvida é só nos chamar. Tenha uma ótima sexta. :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Amanda, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/610d45d3f390b1b216241098
+

@@ -1,0 +1,323 @@
+Cliente: ola bom dia
+Atendente: Olá  Bom dia!
+*Não temos nenhum registro seu em nosso atendimento.*
+
+Por *questões de segurança* realizamos apenas atendimento neste número apenas para pessoas autorizadas pelo administrador da conta.
+
+Lembrando que se você for usuário, você pode nos contactar diretamente pelo próprio número cadastrado no ZapGuru.
+
+Como o admin da conta pode autorizar seus usuários: https://youtu.be/-YT9FwQ7Oyo
+Atendente: Madeira, o seu chat está autorizado para suporte.
+Cliente: ola
+Cliente: obrigado
+Atendente: Bom dia, Madeira! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: ola camila, me chamo fernando
+Atendente: Olá Fernando. Tudo bem?
+Atendente: Vou verificar, aguarda um momento por favor.
+Cliente: ok
+Atendente: Fernando, poderia me mandar o link desse chat do print, por favor?
+Cliente: sim
+Cliente: https://app4.zap.guru/chats
+Cliente: é este???
+Atendente: Não, vou te mandar o passo a passo.
+Atendente: Madeira, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: https://app4.zap.guru/chats/5f19f659eab5cddea9ba11ea
+Cliente: agora esta certo?? rsrsrsr
+Atendente: Agora esta sim. Obrigada, vou verificar o que pode esta ocorrendo, só um momentinho por favor.
+Cliente: envio deste tb??
+Cliente: ok
+Atendente: Esse enviou errado?
+Cliente: ok
+Cliente: https://app4.zap.guru/chats/5f19f082eab5cddea9ba1144
+Cliente: este o link foi enviado porem ele delego para o vendedor de são paulo
+Atendente: Entendi, vou verificar. Só um momento.
+Cliente: na verdade esta conversa não sera delegada para nenhum vendedor... a ura tem que enviar o contato loja e depois finalizar a conversa e excluir... é possivel??
+Atendente: Ah sim. É possível sim, tem só que colocar esse diálogo de encerrar atendimento.
+Cliente: legal, fazendo este processo ele não vira mais os vendedores de são paulo e nem ira aparecer na fila correto?
+Atendente: Isso, se adicionar esse diálogo de encerrar atendimento nessa etapa, vai encerrar atendimento mesmo, não vai ser delegado para ninguém.
+Cliente: ok..... pode fazer
+Cliente: como estou começando a trabalhar com esta ferramenta vou te encher um pouco tah
+Cliente: mais por enquanto é só
+Cliente: muito obrigado pelo pronto atendimento
+Atendente: Por nada! :)
+Atendente: Te ajudo com algo mais?
+Cliente: Por enquanto é so
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola, poderia trocar o email do usuário administrativo para o producao.md1@gmail.com ???
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Madeira!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Claro, qual o e-mail atual dele?
+Cliente: kit.madeiradedemolicao@gmail.com
+Cliente: mkt.madeiradedemolicao@gmail.com
+Atendente: Alterado!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Madeira, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Como eu posso te ajudar?
+Atendente: É possível delegar o cliente de volta para a fila sim
+Cliente: entendi, mais é possivel fazer isso automaticamente ou somente manual??
+Atendente: Vou verificar com o suporte tecnico, um momento
+Cliente: Ok
+Atendente: Infelizmente essa ferramente para delegação automática não é possível, apenas manual pelo botão de "Delegar para fila"
+Atendente: Madeira, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: ok
+Cliente: é possivel limitar a quantidade de cliente para cada vendedor???? tipo maximo de 20
+Atendente: Acredito não ter, mas vou confirmar com o suporte técnico Madeira, peço um instante
+Cliente: Ok
+Atendente: Não é possível :(
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá bom dia 
+
+Preciso adquirir mais um usuário.... como faço?
+Atendente: Bom dia Madeira!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Bom dia! Só um momento por favor
+Atendente: Por favor, quando tiver o comprovante nos envie para que possamos dar andamento.
+Cliente: Ok
+Cliente: segue comprovante
+Cliente: bom diaa
+Cliente: quanto tempo demora para me liberar mais um usuário???
+Atendente: *✅  Liberado*: 
+
+**
+1 usuário liberado
+*Total de 7 usuarios*
+Cliente: ok... muito obrigado
+Atendente: Madeira, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Por enquanto é só
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Madeira! Tudo bem?
+
+Sou o Lucas, suporte do ZapGuru! 😃
+Atendente: Como posso te ajudar?
+Cliente: preciso de mais um acesso
+Atendente: Ok, um momento!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!
+Cliente: ola
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: ok.... já vou mandar para meu financeiro
+Atendente: Olá, bom dia! Ainda tem interesse no usuário?
+Cliente: Sim
+Cliente: Só estou aguardando meu financeiro enviar o comprovante de pagamento
+Atendente: Fechado, aguardo, obrigada!
+Cliente: ola bom dia,
+Cliente: este boleto já foi pago
+Cliente: estou aguardando o comprovante do meu financeiro
+Atendente: apareceu pago aqui pra mim
+Atendente: Vou solicitar a liberação
+Cliente: ok
+Cliente: eu precisava trocar o nome de um usuário e saber a senha, consegue me ajudar?
+Cliente: ou seria outro setor??
+Atendente: Quando finalizarmos aqui, te encaminho para o suporte te ajudar
+Cliente: ok
+Atendente: *✅  Concluído*
+*Madeira de Demolição*
+1 usuário liberado
+*Total de 10 usuarios*
+Cliente: Ok
+Atendente: Madeira, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar sim, porem tenho aquele outro assunto
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá boa tarde
+Atendente: Madeira Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: eu precisava trocar o nome de um usuário e saber a senha, consegue me ajudar?
+Atendente: Claro, consigo sim. 
+Qual o nome atual do usuário e o que deseja?
+Cliente: Gostaria de trocar o do caique para Michele
+Cliente: Gostaria que me encaminhem o email é o login
+Cliente: Vou precisar alterar a senha
+Atendente: Caique Santos para Michele. Isso?
+Atendente: Eu posso alterar a senha por aqui também, caso prefira
+Atendente: o email atual deste usuário é: vendas.md09@gmail.com
+Cliente: Isso
+Cliente: Por favor... altera pra mim e me encaminhe
+Atendente: Claro, qual senha você deseja?
+Cliente: Então pode alterar somente um numero da senha anterior
+Atendente: Eu não consigo ter acesso a senha anteriores, posso apenas criar uma nova :(
+Atendente: senhas*
+Cliente: entao pode criar uma nova sem problema
+Atendente: Ok. Um momento.
+Atendente: Feito. Senhã padrão: mudar123
+
+Caso queira alterar, basta o usuário logar na plataforma e depois clicar no seu nome no canto da tela e ir em MInhas Configurações.
+Cliente: ok..... combinado.... muito obrigado
+Atendente: Posso ajudar em algo mais?
+Cliente: por enquanto é só... muito obrigado...
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Madeira, Bom dia. Meu nome é Hugo.
+Cliente: segue comprovante de mais um usuário que pedimos
+Cliente: ola bom dia HUgo
+Atendente: Tudo bem. Só um momento.
+Atendente: oi
+Atendente: desculpa pela demora
+Atendente: o novo usuário foi liberado
+Atendente: eu posso te ajudar com algo mais?
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: por gentileza poderiam me informar a senha deste usuário VINICIUS MARQUES
+vendas.md23@gmail.com???????
+Atendente: não conseguimos visualizar a senha de um usuário.
+Atendente: a gente pode trocar a senha se você quiser
+Cliente: Troca a senha pra mim... coloca 
+
+ madeira@2020
+Atendente: troca realizada.
+Cliente: Muito obrigado
+Atendente: posso te ajudar com algo mais?
+Cliente: por enquanto esta tudo certo
+Atendente: se precisar de qualquer coisa é só falar com a gente
+Atendente: bom dia e bom final de semana
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Madeira, Bom dia. Meu nome é Hugo.
+Cliente: bom dia Hugo
+Atendente: no momento não é possível.
+Cliente: entendi... pq esta opção da para o vendedor escolher o cliente... mais ok
+Cliente: muito obrigado
+Atendente: eu registrei a sugestão para que seja criada uma opção para ocultar esse botão para os usuários normais
+Cliente: Ok
+Cliente: Muito obrigado
+Atendente: eu posso te ajudar em algo mais?
+Cliente: Por enquanto é só
+Cliente: Muito obrigado
+Atendente: qualquer coisa é só chamar
+Atendente: bom dia e um bom final de semana
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: por gentileza poderiam me enviar um boleto para mais um usuário???
+Atendente: Bom dia!
+Atendente: O usuário extra custa apenas R$ 50,00. Gostaria de contratar?
+Cliente: sim
+Atendente: Vou transferir você ao financeiro. Um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!
+Atendente: Um usuário, certo? Um momento.
+Cliente: isso
+Atendente: Madeira, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Ok
+Cliente: Vou mandar para meu financeiro
+Atendente: Olá bom dia! Recebemos o pagamento, fiz a solicitação da inclusão,
+Atendente: *✅  Concluído*
+*Madeira de Demolição*
+1 usuário liberado
+*Total de 12 usuarios*
+Atendente: Madeira, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Olá bom dia
+Cliente: Tudo ok
+Cliente: Muito obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá bom dia
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Madeira! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Atendente: Solicita para ele refazer o login e verificar se permanece assim
+Cliente: Olá bom dia eduardo
+Cliente: Ok vou fazer
+Atendente: Talvez o navegador precise de alguma atualização
+Atendente: Isso é o google chorme?
+Cliente: Sim
+Atendente: Nas configurações do navegador, a ultima opção é "Sobre o Chrome"
+Atendente: Lá você verifica se precisa de alguma atualização
+Cliente: Esta atualizado
+Atendente: Isso é somente com um usuário?
+Atendente: Fecha o navegador como um todo e reabre, por favor
+Cliente: Sim
+Cliente: Os demais esta ok
+Cliente: Vou fazer
+Atendente: Estranho, vou verificar aqui pra você, só um momento
+Atendente: Essa é a mesma mensagem que estava antes ou aparece quando tenta enviar uma nova?
+Cliente: Ok
+Cliente: Sempre quando tento enviar a msg
+Cliente: Ai a msg não vai
+Atendente: Só um momento
+Atendente: Qual o usuário que está assim?
+Cliente: Michele
+Atendente: Pede pra ela abrir o zapguru em outro navegador
+Atendente: O explorer não, pode ser o edge ou algum outro
+Cliente: Vou fazer o teste
+Atendente: Tá certo, fico no aguardo
+Atendente: Nas configurações aqui da conta de vocês está tudo correto
+Cliente: Vou fazer o teste em outro pc
+Cliente: Consegue alterar a senha  para madeira@2020??
+Atendente: Da usuária Michele?
+Cliente: Sim
+Atendente: Alterado ✅
+Cliente: Obrigado vou fazer o teste e te retorno
+Atendente: Tudo bem, fico no aguardo
+Cliente: Troquei de maquina esta funcionando
+Atendente: Pode ser algum bloqueio de firewall ou outra configuração da máquina
+Cliente: No Chrome mesmo
+Cliente: Vou dar uma olhada
+Cliente: Muito obrigado pela ajuda
+Atendente: Por nada, precisando é só entrar em contato
+Atendente: Tenha uma ótima tarde 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: ola bom diA
+Atendente: Madeira Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Madeira, Bom dia. Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ZapGuru*!
+
+Como posso te ajudar?
+Cliente: ola Juliana, por gentileza poderia trocar a senha do usuário freitas para madeira@2020
+Atendente: Alteração feita conforme solicitado. :)
+Posso ajudar em algo mais?
+Cliente: Por enquanto é só
+Cliente: Muito obrogado
+Atendente: Por nada. Disponha sempre!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+

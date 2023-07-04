@@ -1,0 +1,1979 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Nome: Katia Almeida
+Email: katia.almeida@pucrs.br
+Senha: 80153c3b6fea0d00d08ebf3833c2ac7a
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá Gustavo, Bom dia. Meu nome é Camila.
+Seja Bem-Vindo a ZapGuru!
+
+Vou te ajudar a configurar o seu ZapGuru. Já conseguiu acessa-lo?
+Cliente: Oi Camila! Vou acessar agora
+Atendente: Perfeito, precisando de alguma ajuda é só me falar!
+Cliente: consegui acessar sim
+Atendente: Gustavo, não deixa de conferir os videos dos primeiros passos pois vão te ajudar a entender e se habituar a plataforma.
+Atendente: Depois disso, podemos marcar uma Call de Onboarding para te explicar melhor e tirar as dúvidas que tiver. Pode ser?
+Cliente: Pode ser Camila
+Cliente: vou orientar a minha equipe para se ambientarem na ferramenta
+Atendente: Perfeito!
+Atendente: Quer já deixar a Call agendada?
+Atendente: Gustavo, assim que terminarem se ver os vídeos dos primeiro passos, marque conosco sua Call ! :)
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: por enquanto é só isso, vou me ambientar na ferramenta
+Cliente: e possível que eu precise de ajuda pra criar e configurar a URA
+Cliente: pessoal, as mensagens do backup
+Cliente: elas ainda estão sendo carregadas?
+Atendente: Estou verificando.
+Atendente: O processo de carregamento das mensagens foi concluído.
+Cliente: as mensagens que existiam antes no aparelho não são carregadas para a ferramenta?
+Atendente: Veja todo o nosso material com sua equipe e me informe o melhor horário e dia para fazermos uma videochamada de onboarding para tirar duas dúvidas. Após a videochamada você pode montar o fluxo de seu atendimento automatizado através de um documento do word, contendo todas as etapas e textos que deseja nos eu chatbot que te damos um prazo e te ajudamos a configurar.
+Atendente: Ao conectar a primeira vez o seu WhatsApp ao ZapGuru, o sistema carregará a lista de todos os chats, o que pode deixar o ZapGuru um pouco instável no começo.
+
+Os históricos mais antigos não são carregados pelo ZapGuru para evitar um overload nos servidores.
+
+Para carregar os históricos: 
+https://wiki.zap.guru/chats/mais-opcoes#recarregar-mensagens
+Atendente: Quer agendar agora ou você volta a falar conosco para agendar?
+Cliente: volto a falar com vocês
+Atendente: Ótimo. Ficamos no aguardo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Gustavo, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Oi Camila! Está funcionando super bem
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos estruturando a nossa URA
+Cliente: Para que vocês nos ajudem a montar
+Atendente: Boa tarde Gustavo! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Certo. Depois que tiver estruturada é só nos comunicar para realizarmos a configuração. :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia pessoal!
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Eu consigo adicionar um número de whats pra iniciar uma conversa? Ou só se esse número entrar em contato?
+Atendente: Bom dia, Gustavo!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Consegue sim! Usando o módulo "Add chats"
+Atendente: Observei aqui que em sua conta não possui ele, então realmente você não consegue adicionar :(
+Cliente: E tenho como ter esse opcao?
+Atendente: Sim!
+Atendente: A adição do módulo terá um acréscimo de R$ 70,00 na sua mensalidade, deseja prosseguir?
+Cliente: Vou confirmar com a minha diretoria
+Atendente: Certo, fico no aguardo Gustavo! :D
+Cliente: Confirmado! Pode adicionar
+Atendente: Vou te encaminhar para o financeiro!
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Atendente: Olá Gustavo! bom dia!
+Cliente: Bom dia
+Atendente: Gustavo, perdão pelo erro!
+Atendente: Vocês já possuem o módulo contratado :)
+Cliente: Tá bem
+Atendente: https://wiki.zap.guru/chats/interface#modulo-adicionar-chat
+Nesse link te explica direitinho como funciona!
+Atendente: Claro Gustavo! Vou verificar aqui.
+Atendente: Corrigido Gustavo!
+Atendente: Agora irá até 09:00 em ponto!
+Cliente: Obrigado
+Atendente: Por nada!
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar
+Cliente: Obrigado
+Atendente: Por nada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá!
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi
+Cliente: Camila, onde consigo a nota fiscal do pagamento que fiz para a contratação do serviço?
+Atendente: Gustavo, vou te encaminhar para o  financeiro pois eles que cuidam desse assunto, esta bem?
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Atendente: Oi Gustavo, a NF é enviada automaticamente para o seu email.
+Atendente: Vou forçar a emissão dela agora e te enviarei por aqui também.
+Cliente: ótimo
+Cliente: fico no aguardo
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: muito obrigado
+Cliente: pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia Gustavo 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Olá
+Atendente: Boa noite Gustavo!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia, Gustavo! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila
+Cliente: Tenho como tirar um relatório de quantas horas os usuários ficaram logados no dia?
+Atendente: Te ajudo em algo mais?
+Cliente: Seria só essa a dúvida
+Atendente: Precisando, só chamar novamente.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: oi pessoal
+Cliente: o whatsapp foi deslogado por causa da pane... ele volto automático?
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Bom dia pessoal! Ontem com o whats fora do ar nos gerou esse problema
+Cliente: aí eu já fiz essa alternativa de recarregar a conversa e não adiantou
+Cliente: não consigo conversar com a aluna
+Atendente: Bom dia, Gustavo! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Vou verificar, só um momento por favor.
+Atendente: Gustavo, nesse caso tem que adicionar o chat novamente.
+Cliente: Adicionamos pelo Zapguru mesmo?
+Cliente: Pq o app do whats não temos mais no celular
+Atendente: Isso, pelo ZapGuru mesmo
+Atendente: Te ajudo em algo mais?
+Cliente: Por enquanto é isso
+Atendente: Precisando de algo mais é só mandar mensagem novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Gustavo, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Faltou o DDD no número
+Cliente: Que burro eu
+Cliente: Hahahaha
+Cliente: Obrigadooo
+Atendente: Hahaha, por nada!!
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Gustavo! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: oi luiz
+Cliente: estavamos construindo o esqueleto da nossa URA
+Cliente: e gostariamos de ter uma reunião com vocês
+Cliente: para que vcs possam nos ajudar a implementar ela
+Atendente: Ok. Só um momento.
+Atendente: Qual a sua disponibilidade de horário amanhã?
+Cliente: estou verificando
+Cliente: pode ser amanhã às 13h30?
+Atendente: Das 14:00 às 15:00? Pode ser?
+Cliente: ótimo
+Cliente: pode ser
+Atendente: Me informa teu email
+Cliente: gustavo.acker@pucrs.br e katia.almeida@pucrs.br
+Cliente: nós dois participaremos
+Atendente: Agendado.
+Cliente: ótimo
+Cliente: já recebi aqui
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar... obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi Luis
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: não podemos às 16h
+Atendente: Bom dia Gustavo, tudo bem? Eu sou o Gabriel do ZapGuru, vou te dar uma mãozinha
+Atendente: Certo, quando você teria disponibilidade?
+Cliente: tudo bem
+Cliente: amanhã às 13h30 ou 14h
+Atendente: Certo! Deixa só eu checar a disponibilidade da agenda, um momento
+Atendente: Gustavo, você teria disponibilidade para as 16h de amanhã?
+Cliente: não
+Cliente: sse foi o horário que o luis reagendou
+Atendente: Para amanhã só temos o horário das 16h. Teria algum outro dia que você esteja disponível Gustavo?
+Cliente: na quarta feira
+Cliente: pela manhã
+Atendente: Certo, só um momento
+Atendente: Horário as 10h da manhã pra você fica bom Gustavo?
+Cliente: quarta de tarde podemos das 13h às 14h
+Cliente: ou pela manhã
+Cliente: deixa eu confirmar aqui
+Atendente: Isso, quarta as 10h
+Atendente: Se puder me confirmar, já agendo aqui pra você
+Cliente: confirmado
+Cliente: quarta às 10h
+Atendente: Certo!
+Atendente: Está agendado Gustavo
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: obrigado! era isso
+Atendente: Qualquer duvida ou se precisar da gente, é só chamar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Gustavo! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila!
+Cliente: tinha uma reunião agendada com o Caio agora às 10h
+Cliente: acessei o link passado por vocês e nada de aprovarem a minha participação
+Atendente: Ah sim, vou te encaminhar para ele, só um momento.
+Atendente: https://meet.google.com/tks-koxg-rza
+Atendente: Bom dia, Gustavo!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Acesse esse link para participar!
+Atendente: Gustavo, vou encerrar aqui, quando estiver pronto o documento me chame (Caio) que irei começar a criar :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ol´´
+Cliente: Olá
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Gustavo! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Oi Luiz, preciso falar com o Caio
+Cliente: encaminhar a estrutura para a configuração da nossa URA
+Atendente: Ele esta em horário de almoço, mas vou encaminhar para ele.
+Cliente: ótimo!
+Atendente: Boa tarde, Gustavo!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Perfeito Gustavo, durante a criação vou entrando em contato com você para tirar dúvidas!
+Cliente: Oi Caio
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Seria só isso Caio
+Atendente: Certo!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Cliente: obrigado
+Atendente: Por nada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso tirar um relatório geral dos atendimentos, porém, não entendi muito bem os filtros... seleciono mas não vem os dados
+Atendente: Bom dia Gustavo, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Vou te dar uma mãozinha
+Atendente: Gustavo, você poderia mandar um print de como estão os filtros que você selecionou e como fica o relatório?
+Cliente: eu tava fazendo assim
+Cliente: queria saber  quantos em aberto, am atendimento, aguardando e resolvi
+Atendente: Certo, um momento Gustavo que vou ver com a equipe técnica sobre essa sua questão
+Atendente: Gustavo, poderia por favor me mandar um print de como o relatório fica quando é feito dessa maneira?
+Cliente: Posso, daqui a pouco
+Cliente: Estou na rua agora
+Atendente: Claro, sem problemas, quando puder é só enviar
+Cliente: esse é o resultado que aparece
+Atendente: Certo, um momento que vou dar uma olhadinha para você Gustavo
+Cliente: Oi Gabriel!
+Cliente: Algum retorno sobre os relatórios?
+Atendente: Olá Gustavo, pedimos desculpa pela demora, pois hoje estamos com uma demanda bem grande
+Atendente: Ainda estamos trabalhando nisso, agradecemos a compreensão 😊
+Cliente: Tranquilo! Sem pressa por aqui
+Cliente: É alguma coisa de configuração?
+Atendente: Certo, o suporte técnico passou que no próprio dashboard do ZapGuru você consegue ter essas informações. É possível também fazer pelo relatório, mas esses dados já estão prontos no dashboard
+Atendente: O filtro status do chat consegue puxar isso para você
+Cliente: encontrei aqui
+Cliente: vou explorar um pouco mais a ferramenta dos filtros e relatórios
+Cliente: tu tem os tutoriais pra eu ver?
+Atendente: Ótimo! Que bom que encontrou.
+Atendente: Temos tutoriais sim, segue o link
+Atendente: https://wiki.zap.guru
+Cliente: Ta bem obrigado
+Atendente: Qualquer duvida Gustavo é só entrar em contato!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Gustavo! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Você pode utilizar o recurso de campanhas. Nela você iria definir para quem enviar, horário.
+Atendente: A Pesquisa poderia ser criada em um diálogo específico.
+Cliente: Entendi
+Cliente: Então consigo programar um disparo pelo Zapguru
+Cliente: Tem algum tutorial específico dessa programação?
+Atendente: Segue alguns links do nosso canal
+
+Criar campanhas: https://www.youtube.com/watch?v=gCCIfuRHL64&t=94s
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso falar com o Caio
+Atendente: Bom dia, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Oi Caio! Como estamos com a criação da nossa ura?
+Atendente: Está em processo!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá!
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo.
+Atendente: No que eu posso te ajudar?
+Cliente: Oi Hugo! Preciso saber como anda a construção da nossa URA
+Cliente: Quem ficou de construir foi o Caio, porém, me disse dia 30/07 que estava em processo
+Atendente: Tudo bem
+Cliente: Tem alguem alem dele pra me ajudar?
+Atendente: vou buscar essa informação
+Atendente: ajudar com a URA ou alguma outra informação?
+Cliente: com a URA
+Atendente: certo
+Atendente: só um momento que eu vou procurar saber como está o andamento ou se já foi concluida
+Atendente: Sr. Gustavo, verifiquei aqui e a sua URA ainda está em andamento
+Atendente: eu peço desculpas pela demora
+Cliente: pela plataforma não consigo ver o progresso
+Cliente: vocês têm uma previsão?
+Atendente: não. Pois a gente cria em uma outra base para depois importar para a base real e realizar os devidos testes
+Atendente: Não tenho previsão, mas deve ficar pronta em breve
+Cliente: Ok então... fico no aguardo
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar
+Atendente: bom dia, Gustavo!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi pessoal! No dia 22/07 mandamos o escopo da nossa URA para a criação dentro do sistema, o Caio nos passou o prazo de 3 a 5 dias para a criação, porém já se passaram 20 dias e estamos sem previsão ainda.
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Hoje estarei finalizando sua URA
+Atendente: Bom dia Gustavo!
+Seu chatbot está quase finalizado, mas observei que você solicita alguns textos e alguns pdfs que não consegui encontrar, você poderia revisar isso e me informar por favor?
+Cliente: Bom dia Caio!
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos finalizando esse material
+Cliente: Teria como deixar um texto de marcação? Daí alteraremos por aqui esses textos?
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo.
+Atendente: texto de marcação?
+Cliente: Sim, nos chatbot que ainda não temos o texto
+Cliente: Tipo “COLOQUE AQUI O SEU TEXTO”
+Atendente: aaah sim.
+Atendente: Tem sim.
+Cliente: Que daí a gente vai incluindo o conteúdo
+Atendente: É possível sim
+Atendente: você está falando por exemplo dessas opções que transferem o cliente para um atendimento, mas que não foi escolhida uma frase
+Atendente: correto?
+Atendente: tudo bem. Para estas opções onde já havia sido solicitado "texto e arquivo pdf" já estávamos planejando dessa forma
+Atendente: deixaremos o campo pronto para o texto e para inserir o arquivo pdf
+Cliente: Ótimo
+Atendente: Gustavo
+Atendente: pelo que vi sua URA está praticamente pronta
+Atendente: só falta mesmo inserir estes textos que o sr. solicitou agora
+Atendente: Só uma duvida. Pelo que vi na URA tem umas opções bastante parecidas
+Atendente: Por exemplo o passo 4.3 e 4.7.
+Atendente: Cujo possuem o mesmo nome e a mesma ação
+Atendente: o texto e o arquivos deles também são os mesmos?
+Atendente: mais uma duvida
+Atendente: 11. Solicitação de novo estágio/renovação/alteração/rescisão (encaminhar PDF com orientações para assinatura do TCE e TA)
+12. Assinatura dos termos (delegar para a equipe do Atendimento)
+*Declaração de horas (texto + PDF)*
+13. Relatório de Atividades (delegar para a equipe do Atendimento)
+14. Outras Dúvidas (delegar para a equipe do atendimento)
+Atendente: destaquei essa frase em negrito
+Atendente: Pois fiquei na duvida se ela é uma ação dentro da opção 12 ou se deveria ser uma outra etapa
+Cliente: Não
+Cliente: Ela seria uma ação sozinha, número 13
+Cliente: Caio, teria como testar essa ura antes de  colocar ela no ar?
+Cliente: Tipo uma homologação?
+Atendente: a gente pode fazer um teste com um número real seu
+Cliente: Um outro whats?
+Cliente: Vou verificar qual esta disponível
+Atendente: isso
+Atendente: um número pessoal por exemplo
+Atendente: Gustavo, eu sou o Hugo. Na realidade não existe uma maneira de ativar a ura exclusivamente para um número.
+Atendente: o que eu posso fazer com o sr. para que seja possível esse teste de uma semana
+Atendente: seria alterar o gatilho que ativa a URA por uma palavra chave por exemplo
+Atendente: que só vocês saberiam
+Atendente: dessa maneira vocês ativariam ela usando essa palavra chave e quanto terminarem de testar a gente mudaria os gatilhos novamente para que fosse ativado para todos que entrassem em contato
+Atendente: ou melhor do que palavra chave
+Atendente: eu posso alterar para que o sr. ative ela manualmente na hora que quiser
+Atendente: ficaria até mais fácil de testar
+Cliente: Entendi
+Cliente: Então não precisamos de outro número mais
+Atendente: exatamente. O sr. ativaria ela apenas nesse contato
+Atendente: Precisa de 1 chat para testar
+Cliente: Tá bem
+Atendente: Gustavo, envia todos os pdfs lá para plataforma (opção arquivos) para que a gente possa inserir
+Cliente: Tá bem
+Cliente: Muitos deles já estão em arquivos
+Cliente: Mas não estão renomeados
+Cliente: Faço isso na parte da tarde e coloco o número inicial da ura
+Atendente: Perfeito. Ficarei no aguardo para a conclusão da URA.
+Atendente: vou olhar isso agora
+Cliente: Hugo o pessoal do atendimento disse que está aparecendo algumas msgs da ura durante o chat
+Atendente: já fiz a correção. Eu havia desabilitado a opção inicial da ura o que desligaria as outras opções automaticamente. Porém, acredito que esses chats haviam entrado em contato antes do momento que eu desabilitei a ura. Por esse motivo quando eles falaram algum numeral, terminou ativando as alternativas.
+Atendente: Mas eu desliguei todas as etapas.
+Atendente: dessa vez
+Atendente: peço desculpas pelo ocorrido
+Cliente: Hugo... eu posso trocar esse texto? teremos um treinamento e gostaria de deixar uma msg pra quem entrar em contato
+Cliente: pensei em trocar esse texto e ativar essa parte
+Atendente: Isso prejudicaria o funcionamento da URA depois
+Atendente: Acredito que seja mais vantajoso criar outro dialogo
+Cliente: tá
+Cliente: crio em cima do incio da URA né?
+Atendente: mas só pra eu entender melhor.
+Atendente: O sr. deseja que toda vez que o cliente entre ele veja isso antes da URA?
+Atendente: pois se for o caso não precisa criar nada novo.
+Atendente: só acrescentar mais uma resposta
+Atendente: entendi
+Atendente: nesse caso é melhor criar um dialogo novo
+Atendente: é pra começar a enviar essa mensagem a partir de que horas?
+Cliente: a partir de agora
+Atendente: vou configurar isso para o sr.
+Atendente: só um momento
+Cliente: ta bem
+Atendente: E quando acabar o treinamento lembrar de desligar a resposta
+Cliente: ta ótimo
+Cliente: teremos outros treinamentos
+Cliente: é bom que já fica ali certinho
+Cliente: muito obrigado
+Atendente: Eu configurei pra ele ser ativo até as 18h
+Atendente: mas tem que desativar
+Atendente: caso contrário amanhã ele irá ficar enviando essa mensagem para todos os clientes
+Cliente: eu desligo sim
+Atendente: ai sempre que o sr. for usar é só configurar a mensagem e ligar novamente
+Atendente: existe algum treinamento após as 18h?
+Cliente: não, somente até às 18h que trabalhamos
+Atendente: tudo bem então.
+Atendente: o sr. colocou os pdf's em arquivos?
+Atendente: como combinamos?
+Cliente: ainda não consegui
+Cliente: agora vou abrir aba por aba da ura pra ver o que falta
+Atendente: tudo bem.
+Atendente: Se encontrar alguma coisa diferente é só me avisar
+Atendente: O sr. acha que consegue enviar ainda hoje?
+Cliente: vou tentar
+Atendente: tudo bem. Então vou continuar com o atendimento em aberto aqui.
+Cliente: Hugo fiz uma geral dos itens
+Cliente: e pergunto... posso ativar o que já está funcionando?
+Atendente: Gustavo, vai ativar para todos ou apenas para você?
+Cliente: Pensei em ativar para todos os itens que já estão certos
+Cliente: Quanto tempo depois o chatbot é resetado?
+Cliente: Tem algum gatilho pro atender encerrar?
+Atendente: a gente pode criar um (acho inclusive melhor do que reset automático)
+Cliente: seria otimo mesmo
+Atendente: no caso não seria um gatilho, seria um dialogo.
+Atendente: a vantagem seria que o reset na URA ocorreria no momento exato em que o atendimento se encerrou.
+Cliente: Tu consegue criar pra nós tbm?
+Atendente: consigo sim.
+Atendente: Gustavo, eu recomendo a ativação apenas quando estiver tudo pronto. Pois antes disso o cliente pode escolher uma opção que não está ativa e ficar sem resposta
+Atendente: Gustavo, criei o dialogo de encerramento
+Atendente: Esse dialogo quando ativo encerra o atendimento mudando o status de atendimento para "resolvido", reseta a ura, retira os usuários que estão delegados (para quando esse cliente escolher na ura novamente ficar apenas o usuário da opção que ele selecionou)
+Cliente: ótimo, isso que precisavamos
+Atendente: falta apenas editar a mensagem de encerramento
+Atendente: é sempre bom colocar um aviso de que ele não precisa responder
+Cliente: inclui o texto de encerramento
+Atendente: pois se ele responder ativar o chat novamente
+Atendente: reforçar também com os seus usuários para encerrar o chat pelo dialogo
+Cliente: sim, fiz algo parecido como vocês utilizam
+Cliente: vou passar para eles
+Atendente: o sr. já inseriu os documentos pdf's?
+Cliente: ainda não, tenho que conversar com a minha gestora ainda
+Atendente: entendo.
+Atendente: Eu posso te ajudar com alguma outra coisa?
+Cliente: por hoje tu já nos ajudou muito
+Atendente: 😁
+Cliente: muito obrigado
+Atendente: por nada, Gustavo
+Atendente: Vou encerrar o atendimento aqui então.
+Atendente: E quando enviar os documentos o sr. pode nos chamar tudo bem?
+Cliente: ta bem
+Cliente: Certooo
+Atendente: Obrigado, Gustavo.
+Atendente: Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia pessoal
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Boa tarde. Meu nome é Hugo.
+Atendente: No que eu posso te ajudar?
+Cliente: Oi Hugo! Tudo bem?
+Atendente: tudo sim. E você?
+Cliente: Tu tem como criar um diálogo inicial pra delegar automático pra Caroline/Franciele/Ketllen?
+Cliente: hoje os novos chats entram e ficam presos no "sem delegar"
+Cliente: precisamos disso até a nossa URA oficial entrar em funcionamento
+Atendente: Tem sim.
+Atendente: O sr. enviou os arquivos PDFs que estavam pendentes?
+Cliente: ainda não, estou com outras prioridades no momento 😢
+Cliente: Vou criar a mensagem de boas-vindas
+Cliente: vou conseguir mexer nos pdfs a partir da próxima segunda
+Atendente: entendi
+Atendente: e como seria esse dialogo que o sr. deseja. Apenas uma mensagem de boas vindas e a informação de que já está no atendimento?
+Cliente: mensagem de boas vindas, solicitando nome complet/cpf... e que logo mais ele será atendido
+Cliente: dai delegar para Caroline/Franciele/Ketllen
+Atendente: certo. Me envia essa mensagem pronta por favor
+Cliente: Seja bem-vindo ao *PUCRS Carreiras!* 😀
+
+Nos diga o seu *NOME COMPLETO*, seu *CPF* e no que podemos te ajudar!
+
+*AGUARDE!* Em breve um dos nossos atendentes irá lhe atender! 💙
+Atendente: Gustavo, o dialogo foi criado
+Atendente: posso te ajudar com algo mais?
+Cliente: Seria isso Hugo! Obrigado!
+Atendente: por nada Gustavo
+Atendente: Tenha uma boa tarde
+Atendente: qualquer coisa pode falar com a gente
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi!
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Na nossa mensagem de boas vindas os chats estão sendo delegados para 3 atendentes juntos
+Atendente: Olá Gustavo, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Atendente: Gustavo, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: https://app5.zap.guru/chats/5f21b147acd1bdf98e4f379a
+Atendente: Obrigado, irei verificar agora mesmo
+Cliente: https://app5.zap.guru/chats/5f3c28fbacd1bdf98e515097
+Cliente: mais um exemplo
+Atendente: Consegui ver aqui, realmente o diálogo está configurado para delegar para os 3
+Atendente: qual seria a forma correta do funcionamento?
+Atendente: Assim eu já aplico a alteração
+Cliente: cada chat novo ser direcionado apenas pra um atendente
+Cliente: menos pedro e katia
+Cliente: só para Caroline, Franciele e Ketllen
+Atendente: Foi aplicado a alteração aqui, agora o bot vai procurar dentro do departamento Atendimento alguém para delegar.
+Cliente: ta bem
+Atendente: Creio que era apenas o primeiro diálogo que estava fazendo essa confusão, mas caso volte a acontecer ou seja algo diferente, pode entrar em contato, está bem?
+Cliente: ta bem
+Cliente: obrigado
+Atendente: Por nada, qualquer coisa é só entrar em contato! Irei finalizar seu atendimento 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi Pessoal! Tudo bem?
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: o nosso chat bot de ligação perdida pelo whatsapp não está funcionando
+Atendente: Boa tarde, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: A ligação foi via WhatsApp?
+Cliente: sim
+Atendente: Pode me mostrar um print da ligação e me mandar o link do chat?
+Cliente: https://app5.zap.guru/chats/5f401744acd1bdf98e51b3e9
+Atendente: Quando algum diálogo não funcionar, você pode ver o que aconteceu, clicando nesta seta
+Atendente: Ele executou o diálogo de treinamento, pois os gatilhos bateram.
+Cliente: ahhh bom
+Cliente: podemos até deletar esse de treinamento
+Atendente: Claro, feito!
+Atendente: Agora irá funcionar, pode testar?
+Cliente: Deu essa msg
+Atendente: Teste agora
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Não consegui testar ainda
+Atendente: Certo
+Atendente: Conseguiu?
+Cliente: consegui
+Cliente: muito obrigado
+Atendente: Por nada!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Gustavo! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Oi Luiz! Preciso falar com o Hugo sobre o chatbot que estamos desenvolvendo
+Atendente: Hugo esta de pausa. Volta as 16h.
+Cliente: tranquilo
+Cliente: volto a entrar em contato às 16h
+Atendente: Tranquilo. Vou deixar seu chat aberto. Quando ele voltar eu encaminho.
+Cliente: obrigado
+Cliente: certo
+Atendente: opa Gustavo.
+Atendente: Aqui é o Hugo. Boa tarde!
+Atendente: No que eu posso te ajudar?
+Cliente: Hugo! Tudo bem?
+Cliente: Tava vendo a nossa pendencia sobre os PDFs
+Atendente: certo. Conseguiu colocar eles lá em "arquivos"?
+Cliente: a maioria já fiz o upload pra zapguru e anexei no item indica pelo assunto
+Atendente: certo, vou acessar tua conta aqui. Só um momento
+Cliente: te mando o word da estrutura.. pois nos damos conta que todos os itens sobre relatório de atividades temos um passo-a-passo
+Cliente: e temos alguns ajustes grifados em vermelho que precisamos do teu auxilio
+Atendente: eu vi aqui
+Atendente: Inclusive, acho interessante te mostrar como fazer isso.
+Atendente: Pois alguns desses itens são bem simples.
+Atendente: Você pode entrar numa call comigo agora?
+Cliente: no 3.2. abri um comando de resposta por texto, não sei se fiz certo heheh
+Cliente: posso sim
+Atendente: meet.google.com/hgs-cumw-vqf
+Atendente: Gustavo, posso te ajudar com algo mais?
+Cliente: seria somente isso
+Cliente: obrigado Hugo
+Atendente: Por nada Gustavo.
+Atendente: Precisando é só falar!
+Atendente: Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso falar com o Hugo
+Cliente: :D
+Atendente: Opa, pode deixar que vou te transferir para ele :D
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo. Eu sou do suporte ZapGuru.
+Atendente: No que eu posso te ajudar?
+Cliente: Oi Hugo
+Cliente: entrei hoje no zap guru
+Cliente: e tinha 17 chats sem delegar
+Cliente: e vi que tem acontecido isso
+Atendente: me enviar o link de um deles
+Atendente: Gustavo, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: https://app5.zap.guru/chats/5f3d6f01acd1bdf98e516fce
+Atendente: foi por causa da mensagem de boas vindas antiga
+Atendente: resolvido.
+Cliente: esse aqui entrou agora
+Atendente: as mensagens de boas vindas antiga estava na frente da URA e o gatilho dela ainda estava ativo.
+Atendente: então quando o cliente entrava ele ativa o gatilho da mensagem antiga e que estava com todas as ações desligadas.
+Atendente: a partir do próximo cliente que entrar vai ser delegado normalmente
+Atendente: eu vou ficar aqui aguardando contigo
+Cliente: e quando tiver a mensagem de horário
+Atendente: a mensagem de horário continua ativo caso o cliente entre contato antes das 9h ou a partir das 18h
+Cliente: essa mensagem de horário não deveria aparecer quando a pessoa selecionar pra falar com um atendente?
+Atendente: atualmente esta configurado para aparecer se ele entrar fora do horário programado.
+Atendente: O sr. deseja que eu configure para que apareça somente se ele escolher falar com um atendente (e estiver fora do horário)
+Cliente: isso
+Atendente: Gustavo, na etapa 3.5 eu precisei desativar a resposta automática
+Atendente: pois se o cliente escolher essa opção fora do horário ele iria receber esta mensagem e em seguida a mensagem de fora de horário
+Atendente: Deixei dessa forma então.
+Cliente: E a mensagem do item 9 tem aparecido no meio da conversa tbm
+Atendente: já corrigi isso para que não aconteça mais
+Atendente: Gustavo, a URA está funcionando?
+Atendente: Já entrou outro cliente para testar?
+Cliente: Deixa eu ver
+Cliente: esse chat aqui seguiu a ura certinho
+Cliente: ele está em "não delegado"
+Cliente: ele finaliza automático?
+Atendente: não. A gente havia conversado pro atendente encerrar
+Cliente: pois é... mas nesse caso não gerou um atendimento
+Atendente: verdade. Inclusive eu acho que a gente havia falado sobre isso da primeira vez.
+Atendente: mas terminei deixando passar.
+Atendente: nesse caso é necessário adicionar mais uma ação em cada etapa em que não é delegado atendimento
+Cliente: ahhh entendi
+Cliente: sei que vai dar um trabalho, mas tem como adicionar?
+Atendente: tudo bem.
+Atendente: os chats que já escolheram eu peço que o sr. já vá encerrando
+Atendente: pra que não acumule
+Atendente: já estou adicionando essas ações
+Cliente: sim, estou fazendo
+Cliente: mais uma questão... quando os alunos não seguem a ura...
+Cliente: como nesse caso... o que podemos fazer?
+Atendente: criei um novo dialogo para que quando o cliente informe algo diferente das alternativas subir uma mensagem.
+Atendente: Mas podemos definir outra ação
+Atendente: Você pode definir outra mensagem ou outra ação como encaminhar para o atendimento, por exemplo
+Cliente: ta ótimo
+Cliente: A msg tá aparecendo no meio da conversa tbm
+Atendente: essa cliente passou pela URA?
+Cliente: Não
+Cliente: É um atendimento ja em andamento
+Atendente: Por este motivo que isso aconteceu.
+Atendente: O que a gente poderia fazer seria desativar essa mensagem hoje
+Atendente: E ativa-la amanhã
+Atendente: Pois ela só irá funcionar corretamente os clientes que passaram pela URA
+Cliente: deixa ativada, vou pedir pro atendimento finalizar o mais rápido possivel esses atendimentos
+Atendente: tudo bem então
+Atendente: mas os clientes que passaram pela URA
+Atendente: para eles está funcionando?
+Cliente: Está sim
+Cliente: Vou outros chats que passaram pela ura e funcionou
+Atendente: que bom 😄
+Atendente: Posso te ajudar com algo mais?
+Cliente: Acho que seria isso
+Cliente: Qualquer coisa te grito de novo
+Cliente: Hehehehe
+Atendente: Qualquer coisa pode me chamar
+Cliente: Muito obrigado
+Atendente: kkkkkkkk
+Atendente: por nada Gustavo.
+Atendente: Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Bom dia, meu nome é Mark! Em que posso te ajudar?
+Cliente: Oi Mark
+Cliente: Posso falar com o Hugo?
+Atendente: Sim, um momento.
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo. Eu sou do suporte ZapGuru.
+Cliente: Oi Hugo
+Atendente: No que eu posso te ajudar, Gustavo?
+Cliente: na nossa ura
+Cliente: o item 4.2/5
+Cliente: não temos a mesngem dizendo que o chat foi transferido para um atendente
+Cliente: tens como adicionar?
+Cliente: Você foi transferido para o atendimento! *Pedimos que aguarde, logo vamos te atender!*
+Atendente: é só clicar em "adicionar ação" e em seguir "responder"
+Cliente: coloco algum atraso?
+Atendente: eu acho interessante colocar um atraso curto de 2 a 5 segundos
+Atendente: só pro seu aluno não receber uma mensagem assim que ele falar algo
+Cliente: tá bem
+Cliente: coloquei 3s
+Atendente: perfeito. Eu acompanhei por aqui e ficou tudo certinho.
+Atendente: Gustavo, eu posso te ajudar com algo mais?
+Atendente: Gustavo?
+Cliente: Oi Hugo! Desculpe a demora
+Cliente: Seria isso
+Cliente: OBrigado
+Atendente: sem problema 😄
+Atendente: tudo bem então
+Atendente: se precisar pode falar com a gente
+Atendente: Bom dia e uma boa semana
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! Tudo bem?
+Como podemos ajudar?
+Cliente: Nesse chat aqui o sistema não disparou a mensagem de fora de horário
+Atendente: Certo, estarei verificando agora mesmo
+Cliente: e nesse aqui a aluna foi transferida para o atendimento antes de selecionar a opção
+Atendente: Nesse primeiro caso está resolvido, Gustavo, era uma configuração do diálogo
+Atendente: estou vendo este agora
+Atendente: Gustavo, você possui um rodízio de atendimento ativado. Ele funciona independente dos diálogos, por isso acabou sendo delegado para a Ketllen, e de lá, ela enviou manualmente aquelas duas mensagens
+Cliente: hummmm
+Cliente: gostariamos que fosse pro atendente só o que selecionado na opção
+Atendente: Certo, eu consigo desligar o rodízio por aqui, Gustavo, posso fazer?
+Cliente: sim
+Atendente: Feito, Gustavo
+Atendente: Consigo ajudar em algo mais?
+Cliente: sim... tenho mais uma dúvida
+Atendente: Gustavo, recebi o áudio agora, estou ouvindo
+Atendente: Gustavo, posso responder com outro áudio?
+Cliente: claro
+Atendente: desculpe pelos áudios longos, me estendi demais rs
+Atendente: Seleciona uma, exclui a outra
+Atendente: mas sim, será dois relatórios, um para cada Tag
+Cliente: fiz assim, ta correto?
+Atendente: Vou abrir para ver,. um momento
+Atendente: Quase rsrs
+Atendente: faltou só isso aqui meu amigo
+Atendente: tem que escolher quem receberá o relatório
+Atendente: escolher se você quer receber o relatório por email ou WhatsApp´
+Atendente: esses detalhes são muito importantes
+Cliente: ahhh é que essa imagem não tinha baixado pra mim
+Atendente: agora só falta começar a aplicar as Tags Depois você receberá tudo certinho :D
+Atendente: rsrs da uma olhada lá e altera como desejar
+Atendente: depois que fizer a alteração, me diz que dou uma ultima olhada para verse esta de acordo
+Cliente: quando eu seleciono mandar por whats vai pro número 9 9984 1653?
+Atendente: vou verificar
+Atendente: na verdade nenhum
+Atendente: para ser enviado pelo o whatsapp o número deve estar vinculado ao Usuário
+Atendente: quer que faça essa vinculação?
+Cliente: e por e-mail é o que ta cadastrado o usuário?
+Atendente: Isso mesmo :D
+Cliente: pois é... na época eu criei o usuário pra Katia, achando que ela cuidaria desse contato com o zapguru
+Cliente: mas acabei ficando com tudo
+Cliente: precisaria alterar esse usuário da Katia pra eu receber esse relatório
+Cliente: temos como alterar esse usuário pra mim?
+Atendente: kkkk
+Atendente: teria que fazer isso sim
+Atendente: Falando nisso, você não tem usuário?
+Cliente: eu não tenho, uso o da Katia sempre
+Cliente: Tens como trocar pra mim?
+Atendente: Olha tenho que verificar se posso fazer isso, ok?
+Cliente: Ta bem
+Cliente: é isso?
+Atendente: Exatamente isso, Gustavo
+Atendente: como ele é exportado em CSV, deverá ser mudado para XLS que é o arquivo de Excel
+Atendente: Para as vírgulas passem a ser o separador de colunas
+Atendente: você sabe como fazer isso dentro do excel, Gustavo?
+Cliente: sim, isso eu sei
+Atendente: Beleza, caso continue dando algum problema, nós usamos alguns conversores de arquivos online, também gera o mesmo resultado
+Cliente: já consegui converter
+Cliente: assim consigo filtrar pelo dia
+Atendente: Maravilha, Gustavo! :)
+Cliente: esse s relatórios são acumulativos de um dia pro outro?
+Cliente: ou todo dia ele zera e gera um só do dia?
+Atendente: Eles podem ter a periodicidade que ficar melhor para você, Gustavo
+Atendente: Dentro das configurações e filtros, você consegue selecionar
+Cliente: pra colocar diário é no "Interagiu nos Últimos X Dias:" ??
+Cliente: e colocou 1?
+Atendente: Exatamente, Gustavo. Lembrando que essa interação é sempre do chat e não do atendente
+Cliente: sim, entendi
+Cliente: Tu conseguiu ver a questão do usuário?
+Cliente: pra trocar da Katia pra mim?
+Atendente: Ainda estou trabalhando nisso, mas logo vai estar tudo certo, Gustavo, pode deixar
+Cliente: Ótimo, pois nos relatórios ainda não selecionei a forma de envio
+Atendente: Gustavo, você poderia confirmar por favor qual o email e número de celular que receberá o relatório?
+Atendente: E também se haverá alguma alteração no nome, por favor
+Cliente: é o gustavo.acker@pucrs.br
+Cliente: 51981246961
+Cliente: e o nome é Gustavo Acker
+Atendente: Perfeito, coloco essas informações no lugar da Kátia Almeida, isso mesmo?
+Cliente: Isso mesmo
+Atendente: Feito, Gustavo
+Atendente: Por favor, verifique se está tudo certo
+Cliente: ta perfeito
+Cliente: o login continua o mesmo?
+Atendente: Continua sim. Caso você quira alterar, basta ir nas configurações da conta ou me falar por aqui qual senha deseja
+Atendente: queira**
+Cliente: ta bem
+Cliente: com quem eu falei hoje?
+Atendente: Durante o começo foi comigo, Ernando :)
+Entrei em intervalo ás 14h e a partir daí seu atendimento foi com o Josué. 
+Após ás 16h voltou a ser comigo, Gustavo.
+Cliente: hahahaha nem percebi
+Atendente: kkkk quando é algo muuuuito específico como uma configuração de chatbot complexo, deixamos para a mesma pessoa, mas quando quando um consegue seguir com o atendimento do outro, fazemos assim para dar mais agilidade
+Cliente: Que bom! 😁
+Cliente: Tenho mais uma demanda com vocês... hehehe
+Atendente: hahahah beleza!
+Atendente: Como podemos ajudar?
+Atendente: Maravilha, Gustavo. Nós conseguimos sim e , novamente, temos algumas formas de fazer isso, o que vai direcionar é: Como você deseja visualizar essa informação depois de coletada?
+Atendente: Para filtrar por cada atendente vou precisar verificar, Gustavo, agora em valores gerais podemos fazer como nas tags e funis
+Atendente: Claro, Gustavo, vou verificar sim :)
+Amanhã sem falta eu te informo sobre filtrar por atendente
+Atendente: Nós que agradecemos!! Precisando de algo estamos aqui
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pessoal, o item 4.9/10/12/15 - Estágios Não Obrigatórios do nosso dialogo não está delegando para o grupo de atendimento
+Atendente: Boa tarde, Gustavo! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Atendente: Só um momento que irei verificar e já te dou uma resposta, está bem?
+Cliente: diz que não há pessoas para delegar
+Cliente: Oi Eduardo! Tudo bem?
+Atendente: Tudo ótimo 😁
+Atendente: Tem uma marcação para a usuária "Franciele" é para delegar pra ela e outra pessoa do departamento comercial?
+Atendente: Ou essa marcação está incorreta e deve ser somente pra uma pessoa do comercial?
+Cliente: é para fazer o rodizio entre o time de "atendimento"
+Atendente: Entendi, provavelmente foi um clique do mouse sem intenção que acabou marcando
+Cliente: eu que marquei a franciele agora a pouco tanto arrumar e não consegui desmarcar
+Cliente: kkkkk
+Atendente: Ah sim kkkkk
+Atendente: Basta segurar o Ctrl do teclado e clicar, assim desmarca
+Cliente: ahhhhhhhhhhhhh bom
+Cliente: agora eu sei
+Cliente: haahahahha
+Atendente: Observei também que esse diálogo ativa outro "Fora de horário" deveria ser assim?
+Atendente: Acredito que seja ele o causador do conflito rsrsrs
+Atendente: Ah sim
+Atendente: Então é isso
+Atendente: Vou arrumar sim kkk
+Atendente: Só um momento
+Atendente: Feito 😉
+Cliente: ótimo!
+Atendente: Foi feita alteração, teria algum número para testar?
+Atendente: Pode ser algum número pessoal para enviar mensagem para o de vocês no ZapGuru, só pra verificar a opção alterada
+Atendente: Se não tiver, não tem problemas
+Cliente: tenho sim
+Atendente: Perfeito, faz o teste na opção que alteramos agora
+Atendente: Vou verificar se vai delegar do jeito certo
+Cliente: fiz... delegou certinho
+Atendente: Ótimo!
+Atendente: Gustavo, posso te ajudar em algo mais?
+Cliente: seria só isso Eduardo
+Cliente: muito obrigado
+Atendente: Por nada! Precisando é só entrar em contato conosco, estamos à disposição 😁
+Atendente: Tenha uma ótima tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: oi pessoal
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Te ajudo em algo?
+Atendente: Certo, entendi!
+Atendente: Podemos fazer uma call mais tarde para tentar solucionar isso?
+Cliente: Seria ótimo
+Atendente: Às 16:30, pode ser?
+Cliente: pode ser sim
+Atendente: Perfeito!
+Atendente: No horário marcado te chamo aqui para iniciarmos, tudo bem? 😄
+Atendente: Boa tarde,Gustavo! 😄
+Temos um horário marcado hoje, podemos iniciar?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Claro! Pdemos
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: https://meet.google.com/evj-yxjc-bwh
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia pessoal
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Gustavo! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Atendente: Vou te encaminhar pro Caio, só um momento
+Cliente: ta bem
+Atendente: Bom dia, Gustavo! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Podemos marcar uma call pra hoje de tarde e verificar o que está acontecendo? :D
+Cliente: hoje de tarde eu não consigo
+Atendente: Que horário você tem disponível?
+Cliente: agora de manhã
+Atendente: Infelizmente agora de manhã não tenho nenhum horário livre 😕
+Cliente: mas tu pode ver o que aconteceu e me informar depois tbm
+Atendente: Posso sim, porém agora irei ficar indisponível, posso verificar a tarde e te informo, tudo bem? :D
+Cliente: claro, sem problemas
+Atendente: Perfeito!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: oi
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! Tudo bem?
+
+Sou o Lucas, suporte do ZapGuru! 🙂
+Atendente: Como posso te ajudar?
+Cliente: https://app5.zap.guru/chats/5f5b870fbe28ee4652ffece4
+Cliente: https://app5.zap.guru/chats/5f5b5c7fbe28ee4652ffe847
+Atendente: Um momento, vou verificar!
+Atendente: Ao digitar a opção 1, você quer o cliente seja direcionado para qual atendente?
+Cliente: Como assim?
+Atendente: Vou explicar, a Jana é um novo contato, ela caiu pra Franciele e conversou com ela. depois, a Franciele executou o *reset ura*. A Franciele vai ser delegada para outro atendente somente quando ela voltar a falar.
+Atendente: Ou melhor, a Jana** será delegada para outro atendente quando ela voltar a falar novamente.
+Atendente: Essa configuração está ativada.
+Atendente: Entendi, ok! : )
+Atendente: Entendo, você pode mandar o link do chat onde ao finalizar o atendimento com o reset da ura ficou sem delegação?
+Atendente: Eu configurei para os chats reiniciados serem delegados a um novo atendente e remover os atendentes que já estavam delegados.
+Atendente: Você pode testar com seu número?
+Cliente: https://app5.zap.guru/chats/5f05d29d95b9db1336588447
+Atendente: Um momento, estou verificando
+Atendente: Gustavo, isso tá ocorrendo porque estão sendo feitas duas delegações: pelo rodízio de atendimento (em usuários) e pelo chatbot. Essas delegações devem trabalhar em separado.
+Atendente: Configurei para os chats reiniciados serem delegados para um novo atendente e remover aquele já delegado.
+Cliente: Ótimo
+Atendente: O correto é a gente desligar (colocar como *inativo*) o rodízio de atendimento e deixar funcionando somente a delegação do chatbot (ura de atendimento).
+Cliente: Pode ser
+Atendente: Pois é, o rodízio de atendimento estava ativo.
+Atendente: Agora, nesse caso, vamos definir as delegações para cada opção da URA.
+Atendente: Ou um atendente trata de uma demanda específica. Por exemplo, Caroline trata sobre Estágio Obrigatório; Cristiane - Não Obgt.
+Cliente: Eu vou te dizendo os itens e o atendente
+Atendente: Tá bem!
+Cliente: 3.5 - Caroline Vanzela
+Cliente: 4.2/5 - Cristiane Kramer
+Cliente: 4.9/10/12/15 - Caroline, Franciele e Ketllen
+Cliente: 5.1/2/3 - Caroline, Franciele e Ketllen
+Cliente: 6.4 - Caroline, Franciele e Ketllen
+Cliente: 7.3 - Caroline, Franciele e Ketllen
+Cliente: 8.4 - Cristiane Kramer
+Cliente: 8.5 - Caroline, Franciele e Ketllen
+Atendente: Ok!
+Cliente: 8.6 - Caroline, Franciele e Ketllen
+Cliente: 8.9 - Caroline, Franciele e Ketllen
+Atendente: Ok! Estou confirmando aqui. Um momento!
+Atendente: Em relação às outras opções, qualquer atendente pode receber o chat?
+Cliente: Quais opções?
+Atendente: As que você não citou
+Atendente: Ok! Foi alterado, Gustavo!
+Atendente: Será zerado.
+Atendente: Acabei de fazer um teste com meu número. Está funcionando!
+Atendente: Sim, continuam com o último responsável. Tem como zerar por meio de uma campanha, mas não vai fazer muita diferença já que quando eles voltarem a falar serão delegados novamente.
+Atendente: Mas você quer que eles fiquem sem delegação?
+Atendente: São quase 700 chats.
+Atendente: Não vai ficar com o mesmo atendente. Como falei anteriormente, o cliente vai receber a URA, será removido o atendente anterior e delegado para um novo! Estou garantindo. Testei aqui : )
+Cliente: Tá ótimo então
+Cliente: Perfeito
+Atendente: Ah e lembrando: toda vez, ao finalizar um atendimento ou pedido do cliente, suas atendentes devem executar manualmente o diálogo de *finaliza atendimento*. Ok?
+Cliente: Sim, elas fazem isso
+Atendente: Ok, Gustavo!
+Atendente: Ajudo em algo mais?
+Cliente: Seria isso
+Atendente: Tudo bem.
+Cliente: Muito obrigado
+Atendente: Eu encerrei sem querer o chat da Carolina Prado. Desculpa! Ela vai passar pela URA novamente.
+Atendente: Estou finalizando seu chat. Qualquer dúvida, fala com a gente!
+Atendente: Boa tarde :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: oi pessoal
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: e como fazemos para apagar uma msg do chat?
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Gustavo! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Tem sim. Vou verificar aqui na sua conta.
+Cliente: ótimo
+Atendente: As mensagens só podem ser apagadas pelo aparelho.
+Cliente: ta bem
+Cliente: muito obrigado luiz
+Atendente: Posso ajudar em algo mais?
+Cliente: era só isso
+Cliente: obrigado
+Atendente: :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: https://app5.zap.guru/chats/5f59215ebe28ee4652ffbb00
+Atendente: Bom dia, Gustavo! Tudo bem?
+Como podemos ajudar?
+Atendente: Claro, Gustavo, estou verificando agora mesmo
+Atendente: No histórico de chatbot/contexto é possível ver se aquele chat passou por um diálogo e na parte de tendimento, você consegue ver por quais os status que aquele chat já passou
+Atendente: Vou verificar este também, Gustavo
+Cliente: outro que não teve ação nenhuma
+Atendente: Gustavo, nesse aqui, reprocessando a mensagem o bot ativou normalmente. No momento que o chat enviou a mensagem ou o diálogo estava desligado ou o celular não estava conectado á plataforma
+Cliente: ahhh bom
+Cliente: tivemos chuva e temporal no findi
+Atendente: Com este chat também, Gustavo. Reprocessando a mensagem o bot foi ativado
+Atendente: Entendo.  Sempre para acionar o bot é necessário que esteja conectado na plataforma. Lembrando que o celular *não precisa* ficar sempre no mesmo local, basta estar com acesso a internet e com bateria
+Cliente: sim sim
+Atendente: Gustavo, o aparelho de vocês estava alocado conosco?
+Cliente: eu acho que não
+Cliente: ele está com uma colega
+Atendente: Perfeito
+Cliente: como faço para reprocessar a mesngaem?
+Atendente: clicando na setinha abaixo na mensagem, é exibida essa opção:
+Atendente: Primeiro a vermelha e depois a azul
+Cliente: ótimo
+Cliente: obrigado
+Atendente: Nós que agradecemos, Gustavo! 
+Consigo ajudar em algo mais?
+Atendente: Esta mensagem foi de quando, Gustavo?
+Atendente: Entendo, Gustavo, vou buscar internamente o motivo da informação que te enviaram, mas o telefone precisa estar o tempo todo com conexão a internet e com bateria
+Atendente: Verifiquei agora, Gustavo. Se você entrar no chat e ir na parte de chatbot/contexto, poderá notar que ainda está com o contexto de URA como 4, ou seja, na última vez que esse chat falou com vocês, não passou pelo reset de ura, por isso ela não foi acionada
+Atendente: Exatamente, Gustavo. Como ela não chegou a passar pela finalização via diálogo, a ura não resetou
+Atendente: Gustavo, consigo ajudar em algo mais?
+Cliente: Seria só isso
+Cliente: Obrigado
+Atendente: Nós que agradecemos, Gustavo. Vou finalizar nosso atendimento por enquanto mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi pessoal!
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Boa tarde. Meu nome é Hugo.
+Atendente: pode explicar o que tá acontecendo enquanto eu acesso esse chat?
+Cliente: Quando adicionamos um chat para conversar, a sistema fica emitindo a mensagem automática sobre o chatbot
+Atendente: a unica coisa que esse chat faz é trocar o status do cliente para "em atendimento" assim a gente evita a mensagem de ser ativada quando você adicionarem o chat
+Atendente: não tava configurada assim. Mas eu fiz essa alteração agora.
+Atendente: Se ativar num cliente que estava em alguma etapa da URA irá funcionar também
+Atendente: mas ele só vai desativar a URA até o encerramento do atedimento
+Atendente: depois se o cliente voltar a falar após o encerramento ele volta a ativar a URA
+Cliente: ta otimo
+Cliente: muito obrigado
+Atendente: por nada
+Atendente: posso te ajudar em algo mais?
+Cliente: seria isso
+Atendente: boa tarde
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Atendente: Não é possível.
+Atendente: Te ajudamos em algo mais?
+Cliente: SERIA SOMENTE ISSO
+Cliente: muito obrigado
+Atendente: Tudo bem.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Gustavo Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: Oi
+Cliente: Não recebi o boleto
+Atendente: Olá Gustavo, tudo bem?
+Atendente: Foi enviado nesse e-mail
+Atendente: confere pra mim por favor se ele está certo
+Cliente: Troca pra nós esse e-mail?
+Atendente: Troco sim
+Cliente: Financeiro@fijo.org.br
+Cliente: Assim já vai direto
+Atendente: Show!
+Atendente: Mandei um boleto atualizado pra esse e-mail
+Atendente: Segue aqui também,
+Atendente: Por favor, assim que efetuarem o pagamento, me encaminha o comprovante assim eu consigo dar baixa
+Cliente: Tá ótimo
+Cliente: Vamos efetuar hoje o pagamento
+Atendente: Fechado Gustavo, obrigada
+Cliente: pessoal, segue o comprovante
+Atendente: Gustavo, muito obrigada!!
+Cliente: bom dia
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pessoal, o comando de finalização não está zerando o atendente
+Cliente: https://app5.zap.guru/chats/5f2d7f7dacd1bdf98e5023bf
+Atendente: Olá Gustavo, Boa tarde. Meu nome é Hugo.
+Atendente: deixa eu verificar
+Cliente: https://app5.zap.guru/chats/5f05d2ed95b9db1336588ca1
+Cliente: aqui temos outro caso
+Atendente: o primeiro caso funcionou
+Cliente: o sistema deve estar demorando pra rezar o responável
+Atendente: ele troca na hora. Mas se você estiver com o campo de informação aberto você não consegue ver a troca
+Cliente: Tá bem
+Cliente: Obrigado
+Atendente: posso te ajudar com algo mais?
+Cliente: Seria isso
+Atendente: tudo bem
+Atendente: qualquer coisa é só chamar
+Atendente: boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! Tudo bem?
+Esta função de baixar uma conversa inteira ainda não está disponível na plataforma :(
+Atendente: Porém, toda a conversa fica armazenada dentro da plataforma, incluindo mensagens apagadas
+Cliente: ta bem
+Cliente: consegui copiar e colar toda a conversa
+Cliente: obrigado
+Atendente: Eu que agradeço, Gustavo. Vou reforçar em nossa área de desenvolvimento a necessidade de exportar as conversas
+Atendente: fora isso, consigo ajudar em algo mais?
+Cliente: seria só isso mesmo
+Atendente: Maravilha. Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição.  Boa tarde.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pessoal não estamos conseguindo adicionar esse contato no zapguru
+Cliente: vcs estão com alguma instabilidade?
+Atendente: Olá, Gustavo, tudo bem?
+Vou verificar agora mesmo se há alguma instabilidade
+Atendente: Você chegou a adicionar outros contato hoje?
+Cliente: sim, tentamos adicionar outro contato e o erro é o mesmo
+Atendente: Você está com o celular próximo, Gustavo?
+Cliente: não, o celular não fica comigo
+Atendente: Este é um problema causado pela comunicação da plataforma com o celular, vou precisar que você tenha acesso a ele para resolvermos
+Atendente: Pode sim, Gustavo, o importante é que a comunicação não seja perdida, nós *recomendamos* sempre utilizar rede wifi, mas caso o 4G pegue bem em sua região, não tem problema algum
+Atendente: É que são coisas diferentes, estar conectado na plataforma é pelo whatsapp, e a adição de contatos utiliza o whatsapp e também o Automate
+Atendente: eu preciso fazer um acesso via anydesk para identificar o que houve
+Cliente: e o que tu precisa pra fazer esse acesso?
+Cliente: o celular está com uma colega
+Cliente: quer que eu peça pra ela entrar em contato com o suporte pra verificar?
+Atendente: Que no celular, ela acesse o Anydesk e envie o código de acesso
+Atendente: Caso ela entre em contato provavelmente vai cair para outro atendente do suporte
+Cliente: onde está esse anydesk?
+Atendente: É um aplicativo que pode ser baixado no próprio celular
+Atendente: Caso ele não tenha sido instalado quando o Automate foi, recomendo que faça isso, Gustavo
+Atendente: Não há whatsapp no celular de vocês que está conectado na plataforma?
+Cliente: não
+Cliente: a solicitação foi que deletássemos
+Atendente: E o número 555199841653 ?
+Atendente: Entendi agora, Gustavo, Vocês contrataram a alocação.
+Atendente: Nesse caso tanto o Automate quanto o Anydesk ficam internos também. Vou abrir uma solicitação para verificar o que houve
+Atendente: Perfeito, Gustavo. Assim que eu receber uma resposta da área que cuida dos números alocados, vou te informar aqui
+Cliente: https://app5.zap.guru/chats/5f20447bacd1bdf98e4f1567
+Atendente: Bom dia, Gustavo! Tudo bem? Para uma analise de cada etapa de sua ura vou levar um tempinho a mais, mas vou visualizar o que ocorreu com este chat e já te informo aqui
+Atendente: Gustavo, quando a Fernanda enviou a mensagem, ativou o seu diálogo inicial da URA, onde são enviadas duas mensagens; Uma com as opções e a outra com o comunicado. Além disso, há um rodízio de atendimento em sua plataforma que consta com três usuários. Este rodízio funciona *independentemente* da URA, foi ele que fez a delegação para a Ketllen nesse caso.
+Atendente: A Caroline também está neste rodízio. E a opção de pular caso a pessoa esteja offline, está *desativada*
+Atendente: Perfeito, vou remover agora mesmo. 
+Lembrando sempre, Gustavo, que caso você esteja fazendo uma delegação via *diálogo* para um grupo, é algo sempre equilibrado, então não há a possibilidade de um atendente receber mais chats que outro
+Atendente: Rodízio removido, Gustavo
+Atendente: Perfeito, então no item 3.5 um chat vai para a Ketllen e outro para Caroline e intercala entre as duas sempre, certo?
+Cliente: isso
+Atendente: Feito, Gustavo
+Cliente: obrigado
+Atendente: Eu que agradeço. Consigo ajudar em algo mais?
+Cliente: por enquanto só isso
+Atendente: Perfeito. Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo.
+Atendente: havia sido resolvido, porém acredito que voltou a ocorrer
+Atendente: vou abrir um chamado e já te dou um retorno.
+Cliente: Tá bem Hugo
+Atendente: Gustavo, você pode tentar adicionar um chat agora para que eu possa acompanhar?
+Atendente: Gustavo?
+Cliente: Oi
+Cliente: minha colega vai tentar
+Atendente: ok. Estou no aguardo
+Atendente: Gustavo?
+Atendente: ela não tentou ainda
+Atendente: eu já corrigi o erro, queria apenas testar
+Cliente: Peraí
+Cliente: Tô vendo aqui
+Atendente: tenta de novo
+Atendente: sem colocar o nono digito por favor
+Atendente: lembrando que é para adicionar os números sem o nono digito.
+Atendente: o whatsapp reconhece o nono digito apenas para os numeros de São Paulo e do Rio.
+Atendente: posso te ajudar com algo mais?
+Cliente: peraii
+Atendente: Gustavo, acabei de ver aqui que estes dois números já foram adicionados ao Zapguru
+Cliente: ok
+Cliente: ela não está me respondendo
+Cliente: mas se deu certo, tranquilo
+Atendente: avisa a ela que antes de tentar adicionar, verificar se o número já não está adicionado
+Atendente: posso te ajudar com algo mais?
+Cliente: simmm
+Cliente: vou falar
+Cliente: seria isso
+Cliente: obrigado
+Atendente: por nada. Qualquer coisa é só chamar a gente
+Atendente: boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: pessoal, não consegui adicionar contato ainda
+Atendente: Olá Gustavo, Boa tarde. Meu nome é Hugo.
+Atendente: Gustavo, acabei de te explicar que esse número já foi adicionado.
+Atendente: não tem como adicionar um número repetido.
+Cliente: ué
+Cliente: mas eu busquei e não encontrei esse numero
+Cliente: minha colega tbm tentou
+Atendente: eu só usei o copiar e color no numero que você tentou adicionar. Talvez vocês tenham tentado a primeira vez digitando o nono digito.
+Cliente: ta bem
+Cliente: vamos ver se conseguimos nos proximos
+Atendente: tudo bem
+Atendente: posso te ajudar com algo mais?
+Cliente: só isso
+Atendente: tudo bem
+Atendente: qualquer coisa é só nos chamar 😄
+Atendente: boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Vou verificar seus diálogos, um momento.
+Atendente: Pronto, diálogo de fora de horário ajustado. Te ajudo em algo mais?
+Cliente: seria só isso
+Cliente: obrigado
+Atendente: Ótimo. Nada. Se precisar de ajuda, só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Gustavo, Bom dia. Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ZapGuru*!
+
+Vou verificar aqui e já te retorno.
+Cliente: Oi Juliana
+Cliente: Alguma posição?
+Atendente: Gustavo, foi algum problema no aparelho, estamos em contato com a área de alocação para que verifiquem
+Atendente: Eu entendo, Gustavo, e sinto muito por esses problemas :( 
+A área de alocação passou por alguns problemas nos últimos dias o que gerou desconexões e alguns travamentos em add chats, mas já estamos resolvendo para que volte a funcionar corretamente
+Cliente: ta bem!
+Cliente: tu me dá o ok? isso ainda hoje?
+Atendente: Claro, te informo sim
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: é possível sim. Você já tem o texto padrão para ser enviado? se tiver pode me enviar5 que já faço a alteração.
+
+Sobre o add chat, já abri um chamado com nosso time de tecnologia para consegui resolver o quanto antes, e antemão já peço desculpas pelo tempo levado.
+Cliente: Envio o texto amanhã ok?
+Atendente: Boa noite Gustavo!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: Bom dia! :)
+Ok, fico no seu aguardo!
+Cliente: A mensagem para entrar somente dia 23 às 18h: (e os chats deverão ficar em RESOLVIDO após a mensagem)
+
+*Recesso entre Natal e Ano Novo* 💙
+Lembramos que, de 24 a 31 de dezembro, o PUCRS Carreiras estará em recesso. Retornamos nossos serviços no dia 4 de janeiro de 2021. *Desejamos um Feliz Natal e um Próspero Ano Novo.* 🎅🎆
+Atendente: Gustavo, essa mensagem é para ser enviada para todos os clientes que entrarem em contato no dia 23/12 às 18h, certo?
+seria do dia 23 às 18h até quando?
+Cliente: Até dia 04/01 às 09h
+Cliente: Depois volta tudo ao normal
+Atendente: Perfeito, vou fazer os ajustes aqui. :)
+Sobre sua duvida referente ao relatório, é possível sim gerar um relatório de chats. Vou te explicar aqui com fazer
+Atendente: consigo sim... vou levantar esse número e te passo. :)
+Atendente: vou te encaminhar para nosso setor financeiro providenciar para você.
+Cliente: Ótimo
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Oi pessoal! Precisamos do boleto para pagamento
+Cliente: O fechamento do ano será amanhã é precisamente programar o pagamento do boleto
+Atendente: Olá Gustavo, bom dia!
+Atendente: Um momento.
+Cliente: perfeito
+Cliente: muito obrigado
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: seria somente isso
+Cliente: preciso voltar a falar com quem me atendeu antes
+Cliente: preciso dos número total de atendimentos
+Atendente: Foi a Juliana né?
+Atendente: Um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Ei Gustavo,
+verifiquei aqui e do dia 09/07 ao dia 21/12  você tiveram o seguinte número de novos chats:
+
+Total: 2111
+Cliente: ótimo! muito obrigado
+Cliente: pessoal
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso que volte ao normal urgente
+Cliente: a mensagem é pra entrar somente a partir das 18h
+Atendente: Olá Gustavo, Bom dia ! Tudo bem?
+Meu nome é Nathally e faço parte da equipe de suporte do ZapGuru. 😀
+Atendente: Só um momento.
+Atendente: Gustavo a mensagem vai entrar apenas após às 18h, certo? Outra coisa Gustavo, a mensagem deve ser enviada após a URA? Recomendamos que seja antes para que o seu cliente não tenha a sensação de que perdeu tempo.  O que me diz?
+Cliente: pode ser antes da ura sim
+Atendente: ok
+Cliente: arrumou?
+Cliente: tenho 15 pessoas na fila
+Cliente: quero reprocessar a mensagem pra entrar a URA
+Atendente: Está configurado Gustavo.
+Atendente: Agora só a partir das 18h vai entrar a mensagem de recesso.
+Atendente: Nesses 15 você pode executar a URA manualmente, em adicionar diálogo.
+Atendente: Algo mais em que eu possa te ajudar?
+Cliente: sim, fiz isso agora
+Cliente: obrigado
+Atendente: Estamos à disposição!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Gustavo! Sou o *Eduardo*, faço parte da equipe de suporte do *ChatGuru*! 😁
+Atendente: Só um momento que irei verificar e já te dou uma resposta, está bem?
+Cliente: ok
+Atendente: Eu atualizei aqui, você conseguiria testar para ver se está indo corretamente agora?
+Cliente: testei
+Cliente: está funcionando
+Atendente: Ótimo, consigo te ajudar em algo mais?
+Cliente: seria somente isso
+Atendente: Tudo bem, precisando, é só chamar 😁 Um excelente dia pra você, Gustavo
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: https://app5.zap.guru/chats/5f0c689095b9db133659181a
+Atendente: Olá Gustavo, Bom dia. Meu nome é Hugo.
+Atendente: Gustavo eu já analisei aqui o que esta acontecendo
+Atendente: esses cliente que não estão ativando a URA é por conta da maneira com que os atendentes estão encerrando o atendimento.
+Atendente: vou te enviar dois prints para mostrar o modo certo
+Atendente: eu não consigo apagar todos os contextos dos clientes, mas consigo alterar para o contexto que irá ativar a URA.
+Atendente: O problema é que se continuarem finalizando da maneira incorreta você voltará a ter o mesmo problema.
+Atendente: A Katllen não ativou. Acredito que ela tenha salvado a mesma mensagem como resposta rápida.
+Cliente: pois é...
+Cliente: ahh entendi
+Cliente: acabei de apagar essa mensagem rápida
+Atendente: cada usuário tem a própria mensagem rápida. Tem que apagar pelo usuário dela.
+Cliente: eu como adm não consigo deletar a delas?
+Atendente: eu vou rodar uma campanha para muda o contexto de saída de todos os clientes para URA=False.
+Atendente: desse modo da próxima vez que eles entrarem em contato irão ativar a URA.
+Atendente: não. Admin só consegue copiar a resposta rápida que possui para outro usuário.
+Atendente: mas não consegue apagar a mensagem rápida de outro usuário.
+Cliente: ta bem
+Atendente: Gustavo, eu vou rodar essa campanha nos clientes que estão com status Resolvido ou Fechado.
+Atendente: para não influencia no atendimento de quem está na URA neste momento
+Atendente: posso te ajudar com algo mais?
+Atendente: Gustavo, a campanha foi finalizada. Troquei o contexto de todos os chats que já estavam resolvidos ou fechados.
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: https://app5.zap.guru/chats/5f05d32c95b9db13365892f3
+Cliente: outro chat que foi delegado pra ela
+Atendente: Olá Gustavo, Bom dia. Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ChatGuru*!
+
+Irei verificar e fazer os ajustes :)
+Atendente: Gustavo, eu estou olhando aqui e na opção da ura *4.9/10/12/15 - Estágios Não Obrigatórios* os chats são delegados para o departamento *atendimento*, como o Ana lowise está nesse departamento ela também está recebendo os chats. 
+No caso seria necessário retirá-la desse departamento, para que ela não recebesse mais.
+Cliente: isso mesmo
+Atendente: perfeito então, irei, removê-la do departamento :)
+Atendente: Neste caso, eu posso rodar uma campanha para delegar esses chats sem delegação para seus usuários.
+Atendente: Ah sim, perfeito.
+Posso rodar uma campanha para colocá-los como resolvido e colocar um contexto de saída Ura False, assim quando posteriormente eles entrarem em contato a ura será acionada. 🙂
+
+Posso seguir assim?
+Cliente: isso mesmo
+Cliente: obrigado
+Atendente: Perfeito. Já iniciei a companha para mudar o status.
+te ajudo em algo mais?
+Cliente: Seria somente isso
+Atendente: Se precisar de algo mais é só nos acionar novamente.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: https://app5.zap.guru/chats/6008874ccf8bef583da4325a
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Gustavo! 
+Meu nome é Lucas Andrade, sou *suporte* do *ChatGuru*. 
+Como posso ajudar?
+Atendente: Gustavo, nesse caso, ela não foi delegada, pois respondeu a URA às 16h42, ou seja, foi enviada a mensagem de fora do horário. 
+Sua URA não tem diálogo configurado de alternativa inválida.
+Atendente: Você quer diálogo de opção inválida? Por exemplo, se o cliente digitar uma alternativa errada ou várias alternativas de uma vez, ser encaminhado para um atendente ou departamento específico.
+Cliente: Boa tarde! João esse é um atendimento automatizado. Para ser atendido, por favor siga o fluxo do atendimento digitando somente o número da opção desejada. 💙
+Atendente: Sim, essa mensagem é ativada somente no menu inicial - URA=True. No caso, tenho que configurar nas outras opções. Você quer?
+Atendente: Podemos tirar também.
+Atendente: Nesse caso, vou ter que fazer alterações no seu chatbot, cadastrar a mensagem de opção inválida (a mesma do menu inicial) em todas as opções. E, também, cadastrar a mensagem de fora do horário somente para quando o cliente for delegado à um atendente.
+Cliente: isso
+Cliente: acho que é isso mesmo
+Atendente: Sim, tudo bem, Gustavo. Isso pode demorar um pouco. 
+Então, até amanhã, eu estarei finalizando e te aviso. Ok? =)
+Cliente: tranquilo
+Atendente: Oi, Gustavo. Tudo bem? Aqui é o Lucas!
+Cliente: Oi
+Cliente: Tudo bem e contigo?
+Atendente: Também. Obrigado!
+Atendente: Bom, eu coloquei os diálogos de alternativa errada no menu inicial e nas opções 3 à 8. Fiz alguns testes e está funcionando.
+Atendente: Será ativada a cada 20s que o cliente digitar uma opção que não seja um dos números que está no menu.
+Atendente: A mensagem de alternativa errada ficou a mesma que já estava cadastrada: 
+
+Bom dia! Gustavo esse é um atendimento automatizado. Para ser atendido, por favor siga o fluxo do atendimento digitando somente o número da opção desejada. 💙
+Cliente: ta bem
+Cliente: alterei agora a mensagem de fora de atendimento
+Cliente: fora de horário
+Atendente: Sim, ela será enviada quando o cliente for delegado à um atendente e estiver fora do horário de atendimento. Após às 16h, vou fazer alguns testes.
+Cliente: táá
+Atendente: Oi, Gustavo! Ainda não tivemos esse upgrade, mas vou solicitar novamente ao nosso time de desenvolvimento. Tudo bem?
+Cliente: Ta bem
+Atendente: Bom dia, Gustavo! Você pode alterar os horários da sua conta comercial do wp business dessa forma: https://olhardigital.com.br/2018/06/21/dicas-e-tutoriais/whatsapp-business-como-definir-um-horario-de-atendimento-no-app/
+Cliente: mas a gente não tem mais o aplicativo instalado
+Atendente: Ok, vou solicitar a alteração dessas informações no aplicativo. Você quer atualizá-las com novos horários ou removê-las?
+Cliente: remove elas por favor
+Atendente: Ok. Um momento.
+Atendente: Somente as informações de horário?
+Cliente: isso!
+Atendente: Certo. Já solicitei aqui =)
+Atendente: Gustavo, as informações de horário foram atualizadas.
+Atendente: Posso ajudá-lo em algo mais?
+Cliente: Obrigado
+Cliente: Seria somente isso
+Atendente: Por nada.
+Estou finalizando seu atendimento!
+
+Qualquer dúvida, entre em contato! 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/600b2a8432840069e0caeb19
+Cliente: Bom dia pessoal
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Gustavo. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Rodrigo, alteramos nossos horários de atendimento
+Cliente: Agora é das 09h às 17h30
+Atendente: Essa mudança de horário é relacionada ao atendimento online, certo?
+Cliente: Tens como alterar no sistema as config da mensagem de horário de funcionamento?
+Cliente: Isso
+Atendente: Tenho sim. Vou precisar alterar os gatilhos do diálogo também, vou ajustar. Pode levar uns minutinhos mas te aviso assim que tiver pronto.
+Cliente: Tá bem
+Atendente: Pronto, Gustavo. Resolvido! ✅
+Cliente: Ótimo
+Atendente: Posso te ajudar em mais alguma coisa?
+Cliente: seria somente isso
+Cliente: obrigado
+Atendente: Gustavo, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60100d1e6acfe7d0c0cd9acc
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Gustavo! Boa tarde tudo bem? Sou o Gustavo do Suporte do *ChatGuru*, vou te encaminhar para o financeiro e eles poderão te passar a fatura ok?😁
+Atendente: *Gustavo Soares:* 
+Aliás a NF que venceu dia 04/08 correto? 😅
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: isso mesmo
+Atendente: *Bruna Lira:* 
+Olá Gustavo, boa tarde! Um momento por favor
+Atendente: *Bruna Lira:* 
+Estou vendo que ela deu erro e não foi emitida
+Atendente: *Bruna Lira:* 
+posso emitir agora?
+Cliente: Oi
+Cliente: tu emite retroativa?
+Atendente: *Bruna Lira:* 
+Posso emitir ela agora sim
+Cliente: Tá bem
+Atendente: *Bruna Lira:* 
+Gustavo mandou duas x mas é o mesmo arquivo
+Cliente: Tá bem
+Cliente: Ótimo
+Cliente: Muito obrigado
+Atendente: *Bruna Lira:* 
+:)
+Atendente: Gustavo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60146d9973116bf23e409441
+Cliente: https://app5.zap.guru/chats#601417b4cf8bef583da507ee
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Nathally Dantas:* 
+Olá Gustavo, Boa tarde !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Atendente: *Nathally Dantas:* 
+vou verificar. só um  momento.
+Atendente: *Nathally Dantas:* 
+foi essa mensagem que você observou:" Boa tarde! Lucas esse é um atendimento automatizado. Para ser atendido, por favor siga o fluxo do atendimento digitando somente o número da opção desejada. "
+Cliente: isso mesmo
+Atendente: *Nathally Dantas:* 
+Só um momento estou verificando
+Atendente: *Nathally Dantas:* 
+você tem algum outro exemplo?
+Cliente: https://app5.zap.guru/chats#5fd22f27cf8bef583da044c9
+Atendente: *Nathally Dantas:* 
+Estou verificando, só mais um momento por favor
+Atendente: *Nathally Dantas:* 
+Gustavo, verifiquei aqui e o contexto de saída da opção 15 estava incorreto, agora não vai mais apresentar mensagem de erro.
+Atendente: *Nathally Dantas:* 
+Algo mais em que posso te ajudar?
+Cliente: Seria somente isso
+Cliente: Obrigado
+Atendente: *Nathally Dantas:* 
+Obrigada você, qualquer coisa é só falar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601afb6173116bf23e41e651
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Gustavo. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+Um instante que já vou verificar sua solicitação.
+Atendente: *Rodrigo Lacerda:* 
+Preciso que você crie um departamento com nome de *Arquivo* e coloque nesse departamento todas as usuárias que precisam visualizar esses chats depois de encerrado. Assim que fizer, me avise.
+Cliente: já criei
+Atendente: *Rodrigo Lacerda:* 
+Gustavo, vou criar e rodar as campanhas. Só pra setar sua expectativa, dependo do número de chats, pode ser que leve algumas horas. Assim que finalizar, te informo, ok?
+Cliente: ta bem
+Atendente: *Rodrigo Lacerda:* 
+Pois eles foram desarquivados manualmente.
+Cliente: [16:04, 12/02/2021] Franciele Fijo: aqui também
+[16:04, 12/02/2021] Franciele Fijo: está com 800 notificações
+Atendente: *Rodrigo Lacerda:* 
+Gustavo, duas coisas: 
+
+1) Sobre os chats com status resolvido aparecendo como conversa: estão como desarquivados porque houve interação dos usuários com esses chats. Para que eles possam voltar a ser arquivados, basta abrir o chat e no lado direito da página clicar na opção *Arquivar*
+
+2) As notificações estão aparecendo porque estamos inserindo esses chats em um setor que elas fazem parte. As notificações são desses chats que estão sendo transferidos para esse departamento de arquivo.
+Cliente: Ta bem
+Cliente: é que elas ficam apavoradas
+Cliente: hehehehe
+Atendente: *Rodrigo Lacerda:* 
+Pode tranquilizá-las, não vai mexer em nada com o dia a dia delas, só vai ajudar assim que tiver encerrado,
+Atendente: *Rodrigo Lacerda:* 
+Gustavo, a campanha foi finalizada com sucesso. Agora todas as atendentes estão com acesso aos chats arquivados.
+Cliente: Ótimo
+Cliente: Já passei todas as instruções pra elas
+Cliente: Muito obrigado
+Atendente: *Rodrigo Lacerda:* 
+Que nada, Gustavo! Qualquer dúvida a mais, estamos à disposição. 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6026ebcd4b378d88ba38b2cf
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Gustavo. Boa tarde! Sou Carlos do Suporte ChatGuru.
+Atendente: *Carlos:* 
+Tudo bem combinado. Vamos fazer a autorização
+Cliente: Obrigado
+Atendente: *Carlos:* 
+Te ajudo em algo mais por agora?
+Cliente: Só isso mesmo
+Atendente: *Carlos:* 
+Certinho, Gustavo. Boas férias 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602d4db99f49179ac8930acc
+Cliente: https://app5.zap.guru/chats#602550b0ae10c934eaeae775
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde, Gustavo! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Cliente: https://app5.zap.guru/chats#5f05d30695b9db1336588f1d
+Atendente: *Lucas Gusmão:* 
+kkkk Tudo bem! Estamos aqui se precisar 😉
+Cliente: muito obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6047bbab9f49179ac899d8a4
+Cliente: Bom dia!
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Gustavo. Bom dia! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Atendente: *Carlos:* 
+Tem sim. Gustavo. Consigo configurar o que chamamos de Diálogo de Ausência
+Cliente: isso
+Atendente: *Carlos:* 
+Consigo configurar para vocês. Só leva um tempinho. Assim que finalizar, te informo
+Cliente: ta bem
+Cliente: fico no aguardo
+Atendente: *Carlos:* 
+Gustavo, a configuração foi concluída. ✅
+Atendente: *Carlos:* 
+Vou finalizar aqui, mas caso precise de mais alguma ajuda, nos manda mensagem amanhã. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/604938daecec98869e4e13ab
+Cliente: Bom dia
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: esses chats finalizados por falta de interação
+Cliente: eles não mudam de status?
+Atendente: *Gustavo Soares:* 
+Olá Gustavo! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Já verifico o diálogo e vou fazer as devidas correções, só um momento... 😁
+Atendente: *Gustavo Soares:* 
+Amigo realmente precisava de uma correção no diálogo de ausência... Já coloquei certinho para mudar o status para *Fechado*
+
+Consigo te ajudar em algo mais?
+Atendente: *Gustavo Soares:* 
+Isso exatamente você vai conseguir gerar relatório com base nos chats que estão como Fechado 😉
+
+Consigo te ajudar em algo mais amigo?
+Cliente: Seria somente isso
+Atendente: *Gustavo Soares:* 
+Show! Se precisar de algo mais é só me chamar 😉
+Tenha um ótimo dia! 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/604a2b38ecec98869e4e3dc9
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde Gustavo! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+Vou abrir um chamado para o setor responsável.
+Atendente: *Luiz Modestino:* 
+Chamado aberto. Assim que o setor me der um retorno eu te comunico.
+Cliente: ta bem
+Atendente: *Luiz Modestino:* 
+Gustavo, os chats já foram adicionados. Adição normalizada.
+Atendente: *Luiz Modestino:* 
+Gustavo, nosso horário de expediente está se encerrando. Vou finalizar nosso atendimento por aqui. Caso tenha alguma dúvida, por gentileza retorne o contato a partir das 8h. Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/604a8536ecec98869e4e76e8
+Cliente: Oi pessoal
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: estamos de novo com problemas para adicionar contatos
+Atendente: *Vanessa Dias:* 
+Olá Gustavo, tudo bem? Sou a Vanessa do Suporte do ChatGuru. Já estou verificando
+Atendente: *Vanessa Dias:* 
+Gustavo, solicitei que seja feita uma alteração na forma como adicionam chats, assim que liberado vou fazer alguns testes novamente
+Cliente: Vcs sempre estão com problemas quando precisamos adicionar contato
+Atendente: *Vanessa Dias:* 
+Lamento Gustavo, mas essa alteração visa agilizar esse processo eliminando uma etapa no sistema exatamente para evitar esses problemas recorrentes
+Cliente: vamos tentar
+Cliente: tentamos aqui e deu certo
+Cliente: obrigado
+Atendente: *Vanessa Dias:* 
+Esperamos que não volte a ocorrer mais problemas com essa atualização Gustavo!
+Atendente: *Vanessa Dias:* 
+Agradecemos seu contato e apontamento
+Atendente: *Vanessa Dias:* 
+Esse atendimento será encerrado, mas poderá entrar em contato conosco sempre que precisar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6078aca1ecec98869e5ab338
+Cliente: @555181246961 , o GURU não está obedecendo meus comandos
+Cliente: já sai e entrei da plataforma
+Cliente: tento clicar nas conversas e dá esse erro
+Cliente: teria como entrar em contato com o suporte?
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde Gustavo! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: Obrigado
+Atendente: *Luiz Modestino:* 
+Tivemos uma pequena instabilidade, mas já normalizou. Tente sair e acessar novamente a conta.
+Atendente: *Luiz Modestino:* 
+Gustavo, nosso horário de expediente está se encerrando. Vou finalizar nosso atendimento por aqui. Caso tenha alguma dúvida, por gentileza retorne o contato a partir das 8h. Até mais. 😉
+Cliente: Tá bem
+Cliente: Obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/609af029ecec98869e64288e
+Cliente: Oi pessoal! Tudo bem?
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Com quem eu consigo ver valor para adicionar mais um numero de whats ou usuários
+Atendente: *Rodrigo Gadonski:* 
+Boa tarde, Gustavo! Sou o *Rodrigo* e faço parte da equipe de suporte do *ChatGuru!* 🙂
+Atendente: *Rodrigo Gadonski:* 
+Gustavo, vou te passar os valores:
+
+- 1 Usuário Adicional: R$50,00 mensais.
+
+- 1 Número/WhatsApp Adicional: R$297,00 mensais.
+Atendente: *Rodrigo Gadonski:* 
+Gustavo, tem mais alguma dúvida a respeito? Gostaria que eu lhe encaminhasse ao financeiro para adquirir?
+Cliente: Oi Rodrigo
+Cliente: fica 297 + quantidade de usuarios?
+Atendente: *Rodrigo Gadonski:* 
+Não exatamente Gustavo, você pagaria R$297,00 mensais pelo novo número de WhatsApp, já os usuários que você já tem contratados podem fazer o atendimento no número que você já possui e no número que você venha a adquirir sem custo adicional. Se você adquirir mais 1 usuário você irá pagar mais R$50,00 mensais e esse usuário poderá realizar atendimento em todos os seus números contratados.
+Atendente: *Rodrigo Gadonski:* 
+Se você contratar um novo número adicional, recomendo contratar também o módulo de Adicionar Chats que custa R$70,00 mensais, esse serviço sim você paga por número.
+Cliente: Ta bem
+Cliente: estamos avaliando qual a melhor forma
+Atendente: *Rodrigo Gadonski:* 
+Gustavo, ficou alguma dúvida a respeito? Posso te ajudar em mais alguma coisa?
+Cliente: seria somente isso
+Cliente: Obrigado Rodrigo
+Atendente: *Rodrigo Gadonski:* 
+Certinho Gustavo, tenha uma ótima semana e se precisar de algo estamos à disposição! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60a2bdddecec98869e662fc9
+Cliente: Oi pessoal
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Nos colocaram em um grupo de whats
+Cliente: Conseguimos sair?
+Atendente: *Hildesson Ramos:* 
+Olá Gustavo, Boa tarde. Meu nome é *Hildesson*, sou do time de suporte do *ChatGuru*. 😊
+
+Sim, você deseja sair do grupo?
+Cliente: Isso
+Cliente: Foi colocado nosso número por engano
+Atendente: *Hildesson Ramos:* 
+Vou solicitar a exclusão, o nome do grupo é Guilherme Rezende?
+Atendente: *Hildesson Ramos:* 
+Entendi, um momento
+Atendente: *Hildesson Ramos:* 
+Gustavo, fiz a solicitação de saída e exclusão do grupo ao setor técnico, assim que tiver um retorno sinalizo.
+Cliente: Tá bem
+Cliente: Obrigado
+Atendente: *Hildesson Ramos:* 
+Gustavo, grupo excluído!
+
+Posso te ajudar em algo mais?
+Cliente: Oi
+Cliente: Seria somente isso
+Atendente: *Hildesson Ramos:* 
+Tudo bem, qualquer dificuldade é só chamar! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60cba212ecec98869e738064
+Atendente: Gustavo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Pedro Cocaro:* 
+Olá, Gustavo. Boa tarde! Meu nome é Pedro, eu quem prosseguirei com seu atendimento 😀
+Só um momento enquanto verifico.
+Atendente: *Helena Braunger:* 
+Gustavo, tudo bem?
+Meu nome é Helena, sou do time de suporte do ChatGuru. O Pedro está no intervalo, então vou prosseguir com o seu atendimento 😊
+
+Conforme ele explicou, este número está inválido no whatsapp. Chequei também outros números que vocês tentaram adicionar a mais tempo que deram erro, e todos eles não estão cadastrados no whatsapp. 
+
+Isto é, ou o cliente não utiliza o whatsapp com esse número, ou existe algum dígito errado no número informado. Recomendo testar o número com o link que o Pedro enviou e checar com o cliente questões de nono dígito, DDD e DDI.
+
+Te ajudo com algo mais agora? 😁
+Atendente: Gustavo, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Oi pessoal, estamos com instabilidade
+Atendente: *Gabriela Rodrigues:* 
+Bom dia Gustavo, meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, tudo bem?  😊
+
+Irei reiniciar o sistema, ok?
+Cliente: ok
+Atendente: *Gabriela Rodrigues:* 
+Prontinho, Gustavo. Está conectado e com 0 mensagens na fila. 😊 Eu posso te ajudar em algo mais?
+Cliente: seria somente isso
+Cliente: obrigado
+Atendente: *Gabriela Rodrigues:* 
+Por nada, Gustavo. Precisando, só chamar. 😉
+
+Tenha um excelente dia e uma excelente semana. 😊
+Atendente: *Gabriela Rodrigues:* 
+Ih, caiu de novo. 😞 A internet está estável por aí, Gustavo?
+Cliente: diz que a internet está ok sim
+Cliente: o aparelho não fica comigo
+Atendente: *Gabriela Rodrigues:* 
+Hmm entendi. Você está sem acesso ao aparelho, então?
+
+Eu poderia acessar o aparelho pelo AnyDesk?
+Cliente: pedi pra verificarem a internet
+Atendente: *Gabriela Rodrigues:* 
+Beleza, a conexão com a plataforma está oscilando. 😕
+Cliente: disseram que a internet etá ok
+Atendente: *Gabriela Rodrigues:* 
+Certo, eu poderia acessar o aparelho remotamente?
+Cliente: como faz isso?
+Atendente: *Gabriela Rodrigues:* 
+Para isso, vou precisar que *instale* no aparelho os apps a seguir:
+
+> *Anydesk*: https://anydesk.com/pt/downloads/android
+> *Plugin AD-1 Anydesk*: https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1&hl=pt_BR
+
+Os aplicativos acima serão necessários para que o WhatsApp funcione corretamente, e também para que eu possa realizar o acesso remoto no aparelho quando necessário.
+
+Após instalar os aplicativos, você vai realizar o seguinte passo:
+
+- Ativar o plugin AD1 indo em Configurações do aparelho > Acessibilidade > Mais serviços instalados/transferidos por download > Habilitar/Ativar o AD1 Plugin.
+
+Feito isso, por favor:
+
+- Me informe o número do seu endereço (ID) que aparece no aplicativo do AnyDesk;
+
+- Me informe também a marca e o modelo do seu aparelho ChatGuru, e se utiliza o WhatsApp Business ou o normal;
+Cliente: passei pra pessoa que está com o aparelho
+Atendente: *Gabriela Rodrigues:* 
+Certo. Fico no aguardo. 😊
+Cliente: Orientações feitas.
+ID - 531 291 956
+não há nenhum whats cadastrado neste aparelho.
+Cliente: mas segue o número que consta no telefone @555181246961  XT2053-2
+Cliente: esse mesmo, deve ser MOTO G XT
+Cliente: É MOTO E 6S
+Atendente: *Gabriela Rodrigues:* 
+No caso eu preciso acessar o aparelho que está conectado com a plataforma, Gustavo. Assim posso verificar a configuração dele. 😊
+Atendente: *Gabriela Rodrigues:* 
+Entendi, Gustavo. Irei acessar o AnyDesk, ok? O AnyDesk terá que estar aberto no aparelho e meu acesso terá que ser autorizado, ok?
+Cliente: ta bem
+Atendente: *Gabriela Rodrigues:* 
+Gustavo, eu preciso acessar o aparelho que está o WhatsApp que está conectado com a plataforma. 😕
+Atendente: *Gabriela Rodrigues:* 
+Ahh sim, entendi. Desculpe Gustavo. Seu aparelho é alocado. 
+
+Me desculpe.
+Atendente: *Gabriela Rodrigues:* 
+Gustavo, acredito que agora já está tudo ok com a conexão. Estava acompanhando e continua conectado durante um tempo. 
+
+Me desculpe pela confusão. 😅
+
+Posso te ajudar em algo mais?
+Cliente: Seria somente isso
+Cliente: Obrigado
+Atendente: *Gabriela Rodrigues:* 
+Por nada, Gustavo. Precisando, só chamar. 😉
+
+Tenha um excelente dia e uma excelente semana. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60e30ed2aee761eec9a7ffcd
+Cliente: Oi
+Cliente: bom dia, aqui está dizendo que nosso aparelho está sem internet
+Cliente: vcs podem verificar para nós?
+Atendente: Gustavo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gabriela Rodrigues:* 
+Bom dia Gustavo, meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, tudo bem? ❄ Desculpe a demora para responder, estávamos passando por um problema de conexão com a internet.
+
+Os aparelhos alocados (assim como o nosso que estava com esse problema de conexão) estavam sem internet, mas já normalizou, Gustavo. 🙌
+
+A fila está alta, mas estou acompanhando por aqui até zerar, tudo bem?
+Atendente: *Gabriela Rodrigues:* 
+Entendo a sua frustração, Gustavo. 
+
+O que houve foi um acidente que partiu o cabo da telefonia 😕 Estávamos entrando em contato com os clientes com aparelho alocado para avisar deste problema e da previsão da solução, mas a internet acabou voltando antes.
+Atendente: *Gabriela Rodrigues:* 
+Posso ajudar em algo mais, Gustavo?
+Cliente: seria isso
+Atendente: *Gabriela Rodrigues:* 
+Beleza Gustavo! Precisando, só chamar. 😉
+
+Tenha uma excelente sexta-feira e um excelente final de semana. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Gustavo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/610d4d4df390b1b216241859
+

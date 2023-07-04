@@ -1,0 +1,435 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Élcio! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: bom dia Camila, tudo bem?
+Cliente: preciso do boleto para pagamento da mensalidade.
+Atendente: Tudo bem Élcio e com você?
+Atendente: Vou te encaminhar para o financeiro pois eles que fazem essa parte, ta bem?
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Élcio, bom dia!
+Atendente: Segue boleto conforme solicitado
+Cliente: Camila, bom dia...
+Atendente: Bom dia! Te ajudo em algo mais?
+Cliente: sim, gostaria de implantar o zapguru em uma outra empresa que tenho...como faço?
+Atendente: Élcio, só um momento por favor
+Atendente: Élcio, a nova conta será com a mesma configuração da sua atual ?
+Cliente: Não. Será com apenas 4 operadores.
+Cliente: CNPJ 19690707000103
+Cliente: Razao social: Luiz Pereira e Narciso Advogados
+Cliente: Qual seria o valor nesse caso?
+Atendente: So um momento por favor
+Atendente: Elcio, sera apenas com  4 usuarios certo?
+Cliente: isso
+Atendente: Elcio, 
+4 usuarios - R$ 200,00
+1 numero de Whatsapp - R$297,00
+Atendente: Total de R$ 497,00
+Atendente: Porem recomendamos nesse caso o módulo de atendimento para organizar melhor os chats entre os 4 operadores. Esse modulo é R$ 50,00
+Atendente: Ficaria no total R$ 547,00
+Cliente: e aquele módulo de inclusão de chat já está também nesse valor?
+Atendente: Esse é o modulo adicionar contatos que esta no valor de R$70,00
+Cliente: Entendi, não tem como dar um desconto? Fechar em R$ 500,00? Esse meu escritório de advocacia ainda é pequenino, não tem tanta receita quanto a outra empresa...rsss
+Atendente: Élcio, consigo aplicar o mesmo desconto que você já tem, que é de 10%.
+Cliente: ficaria quanto o valor final?
+Atendente: R$ 555,30
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: boa tarde
+Atendente: Élcio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ok. Gostaria de falar com a Camila
+Atendente: Olá Élcio Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: Senhor Élcio no momento não será possível, ela não faz mais parte da equipe =/
+Atendente: mas em que posso ajuda-lo?
+Atendente: Élcio estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia, desculpe, ontem acabei ficando ocupado..
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: eu gostaria de falar sobre a URA, acho que seria até melhor se pudéssemos agendar uma videoconferência para eu explicar um pouco melhor..
+Atendente: Olá Élcio, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Podemos marcar para amanhã Elcio, pode ser as 9h, 11h, 16h ou 17h, qual horário fica melhor para você?
+Cliente: 9h
+Atendente: Ótimo. Agendado. Até amanhã então.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia.
+Atendente: Vamos começar?
+Atendente: https://meet.google.com/fjr-djcx-aks
+Atendente: Só acessar o link.
+Cliente: Bom dia, desculpe, raciocinei 9h horario daqui, ....me dê 15min,ok
+Atendente: Eita, tem a diferença de fuso né.
+Atendente: Sem problema. Aqui deve ser as 10h certo?
+Atendente: Rlx, daqui a 49 minutos fazemos.
+Cliente: já pedi acesso ao meet
+Atendente: Um momento.
+Cliente: Preciso da inclusão de um novo usuário no ZapGuru
+Atendente: OK, ajustes do chatbot serão executados em até 72h.
+Atendente: Vou te encaminhar para o financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Elcio, boa tarde!
+Atendente: bom dia! rsrsrs
+Cliente: bom dia,
+Cliente: preciso da inclusão de mais um usuário no meu plano.
+Atendente: Élcio, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: Ok.
+Cliente: Demanda para o suporte
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá Élcio Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: Esse é um outro chat que criamos e apareceu essa mensagem de erro...
+Cliente: E no celular aparece que ele recebeu e respondeu
+Atendente: entendi Sernhor Élcio, ja tentou reiniciar o aparelho?
+Cliente: qual aparelho, o celular? o problema é que no celular está tudo certo, o problema está só no zapguru
+Atendente: arquivados :D
+Atendente: é para ele refazer as conexões
+Atendente: reinicia o aparelho que deve resolver esse problema de informar
+porque o aparelho informa para o zapguru que não existe conversa ou ela foi apagada, nesse caso quer dizer que o aparelho não passou a informação para o zapguru, por isso deve reiniciar, entendeu?
+Cliente: Bom dia, sabe me dizer se ficou pronto o nosso dialogo de atendimento.
+Atendente: Élcio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Élcio! A pessoa que ficou responsável pela sua alteração está em horário de almoço, assim que ele voltar eu procuro saber quais tarefas ele realizou e nós te damos uma resposta, ok?
+Cliente: Ok. Obrigado.
+Atendente: Boa Tarde Elcio.
+Atendente: Mark aqui.
+Atendente: Precisa falar com você via videochamada para acertar alguns detalhes.
+Cliente: boa tarde
+Atendente: Podemos fazer agora ou prefere agendar?
+Cliente: pode ser agora..
+Atendente: Ok, um momento.
+Atendente: https://meet.google.com/ihr-baqm-xyi
+Atendente: Só entrar
+Atendente: *[ 1 ]* - Troca de Titularidade 
+*[ 2 ]* - 2ª Via de Boleto
+*[ 3 ]* - Nada Consta
+*[ 4 ]* - Reservas de espaços 
+*[ 5 ]* - Lotes de apoio e muro de divisa
+*[ 6 ]* - Cadastro de controle de acesso 
+*[ 7 ]* - Dúvidas sobre construção 
+*[ 8 ]* - Normativas
+*[ 9 ]* - Outros assuntos
+Cliente: [ 1 ] - Troca de Titularidade – texto individual e arquivo individual
+[ 2 ] - 2ª Via de Boleto – atendimento padrão
+[ 3 ] - Nada Consta – atendimento padrão
+[ 4 ] - Reservas de espaços – texto individual
+[ 5 ] - Lotes de apoio e muro de divisa – texto individual
+[ 6 ] - Cadastro de controle de acesso – texto individual
+[ 7 ] - Dúvidas sobre construção – texto individual e arquivo individual
+[ 8 ] – Normativas – arquivo individual
+[ 9 ] - Outros assuntos – atendimento padrão
+Atendente: No aguardo das informações solicitadas para inclusão no chatbot.
+Atendente: Assim que puder só enviar.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Élcio, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Olá Eduardo,  eu preciso saber como está o processo de configuração da nossa URA..
+Atendente: Só um momento que irei verificar e já te dou uma resposta, está bem?
+Atendente: Olá Élcio, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: ok
+Atendente: Élcio, ficamos aguardando você confirmar a inclusão dos arquivos para iniciarmos a configuração de seu chatbot.
+Cliente: mas, já estão prontos os caminhos? se já estiverem eu irei incluir os arquivos já direto na URA
+Atendente: Queria fazer tudo de uma só vez, já inseriu os arquivos no menu arquivos.
+Atendente: ?
+Cliente: isso...pq aí já vejo os caminhos e vou inserindo...isso eu consigo fazer por aqui mesmo..
+Atendente: Então tudo bem. Vou providenciar e depois você insere os textos e arquivos.
+Atendente: Assim que for feito te aviso.
+Cliente: ok
+Atendente: Seu chatbot está quase finalizado. Creio que até amanhã finalizamos.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: Assim que finalizar eu te aviso aqui.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: boa tarde
+Atendente: Élcio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Élcio! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: duas coisas. Primeiro que estou tentando alterar o nome dos usuários Elcio de Aquino Lins para Valquiria Souza...e a usuária Valquiria Souza para Rejane Conceição, mas não consigo
+Cliente: Outro ponto é sobre nosso chatbot
+Cliente: conversei com o Mark recentemente sobre o assunto.
+Atendente: Certo.
+Atendente: Essa alteração nós fazemos aqui.
+Atendente: Vou alterar
+Atendente: Um momento
+Atendente: O email da Valquíria ficara elcio@linsconsultoria.com
+Atendente: ?
+Cliente: isso.
+Atendente: Pronto. Alterado.
+Atendente: Olá Élcio, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: https://meet.google.com/_meet/vtb-bjvv-xkw
+Atendente: Acessa esse link aqui por favor.
+Atendente: Amanhã, assim que puder volte a falar conosco que te ajudamos.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia..
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Élcio! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: duas coisas, preciso ver sobre a contratação de mais um usuário
+Atendente: Certo
+Cliente: e preciso, também, ver sobre o chatboot, o Mark manteve contato comigo para um videoconferência, mas infelizmente não pude acessar..
+Atendente: Vou te encaminhar pra ele. Após ele finalizar, ele te encaminha pro financeiro para a contratação do usuário adicional.
+Atendente: Olá Élcio, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Elcio, precisamos fazer uma videochamada para tirar algumas dúvidas sobre o chatbot. Para hoje, tenho disponível o horário de 16h as 17h pode ser?
+Cliente: ok.
+Atendente: Ótimo. Agendado. Até mais tarde.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Vamos começar?
+Atendente: https://meet.google.com/bob-dzkn-wjg
+Atendente: Só acessar
+Cliente: Me da 10minutinhos..
+Atendente: OK.
+Atendente: Vou te encaminhar para o departamento financeiro, só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Elcio, boa tarde!
+Atendente: Um momento.
+Atendente: Élcio, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: Élcio, bom dia!
+Atendente: Você ainda tem interesse no usuário adicional?
+Cliente: Sim.
+
+Pode mandar o boleto direto para o email fabiana.paiva@consultoriaazevedo.com.br
+Atendente: *✅  Concluído*
+*Lins e Lins Consultoria*
+1 usuário adicional
+*Total de 8 usuarios*
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: ok. O financeiro já pagou?
+Atendente: Ja sim...
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: apenas isso, obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Élcio, Bom dia. Meu nome é Hugo.
+Atendente: no que eu posso ajudar?
+Cliente: Bom dia Hugo, com quem posso falar sobre sugestão de integração por API
+Atendente: Qual seria a sugestão que você quer?
+Cliente: gostaria que vocês integrassem com nosso sistema de gestão de condomínios, chamado Superlógica, eles tem uma API na qual o condômino digita o número de CPF e eles enviam o boleto da taxa de condomínio via whats automaticamente
+Atendente: esse sistema não se integra com o Zapier ou com o Integromat?
+Atendente: Quem faz essa parte da integração são esses programas que eu citei
+Cliente: não sei te falar, mas seria muito importante essa função para nossa empresa, como vc podem ter essa informação?
+Atendente: Elcio, isso que você quer fazer só vai depender do sistema de vocês.
+Cliente: ok. Então, eu preciso perguntar ao Superlógica se eles integram com o Zapier ou o Integromat, certo?
+Atendente: isso mesmo. Mas vale lembrar que a gente aqui não faz essa configuração.
+Atendente: E acabei de dar uma olhada aqui
+Atendente: e vi que você não tem o nosso modulo de API contratada.
+Cliente: e como que faz?
+Atendente: certo, vou explicar como funcionar na ordem
+Cliente: quanto seria esse módulo?
+Atendente: primeiro você vai consultar o Superlógica se eles possuem essa integração de API com o zapier ou integromat. Se sim, é possível fazer essa integração entre os dois sistemas. 
+Depois você entra em contato com a gente e contrata o modulo API que custa apenas R$100,00.
+Cliente: ok. Já mandei email ao Superlógica, assim que tiver a resposta informo.
+Atendente: depois você precisaria de um programador para realizar a configuração no integromat ou no zapier. Nós não teríamos muito como te ajudar pois envolve sistemas de terceiros.
+Atendente: Elcio, eu posso te ajudar com algo mais?
+Cliente: apenas isso, obrigado.
+Atendente: certo. Quando obter a resposta, você nos avisa
+Atendente: Bom dia 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia, preciso adquirir novos usuários
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Élcio! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: Usuário Adicional R$50,00/mês. Quantos deseja contratar?
+Atendente: Élcio? Posso te passar para o setor financeiro?
+Cliente: sim, vou contratar
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Élcio, bom dia :)
+Atendente: Tudo bem?
+Atendente: Quantos novos usuários gostaria?
+Cliente: apenas 1, mas não vou conseguir ter desconto? Já estou com um numero considerável de usuários..
+Atendente: Consigo 10% de desconto.
+Cliente: ok. Agradeço.
+Atendente: Élcio, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: Olá Elcio, bom dia!
+Atendente: Você ainda tem interesse do usuário?
+Atendente: Olá Elcio, bom dia! Estou cancelando esse usuário adicional, caso volte a precisar dele é só nos chamar, ta bem? :)
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: sabe me dizer se o financeiro pagou o boleto do novo usuário da Lins
+Atendente: Olá Élcio, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+
+Só um momento que vou encaminhar para o nosso financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Elcio, bom dia!
+Atendente: Vou verificar, um momento.
+Atendente: Elcio, não encontrei nenhuma solicitação de um novo usuário.
+Cliente: quantos usuários temos cadastrados?
+Atendente: 8 usuarios.
+Cliente: preciso de mais 2 usuários
+Atendente: Fechado, um momento.
+Atendente: Élcio, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Segue comprovante
+Atendente: Um momento.
+Atendente: *✅  Concluído*
+*Lins e Lins Consultoria*
+2 usuários adicionais
+*Total de 10 usuarios*
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Elcio, estou encerrando atendimento, caso preciso de algo é só nos chamar :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: bom dia, preciso de um novo usuário de whatsapp
+Atendente: Élcio Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Élcio, Bom dia. Meu nome é Hugo.
+Atendente: está ciente do valor de apenas R$50 por usuário?
+Cliente: sim
+Atendente: tudo bem. Vou te transferir para o financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Élcio, bom dia!
+Atendente: Será mais 1 usuário?
+Cliente: isso
+Atendente: Um momento.
+Atendente: Élcio, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: Boa noite Élcio!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Segue comprovante de pagamento do usuario adicional
+Atendente: Bom dia!
+Atendente: Um momento.
+Cliente: ok.
+Atendente: *✅  Concluído*
+*Lins e Lins Consultoria*
+1 usuário adicional
+*Total de 11 usuarios*
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Olá, boa tarde
+Atendente: Élcio Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Élcio. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Bom dia, preciso falar no setor de cancelamento.
+Atendente: *Arthur Ferragini:* 
+Certo, vou te ajudar!
+
+Pode me confirmar que informação procura em específico sobre cancelamentos?
+Cliente: Cancelar o plano da nossa empresa com o Zap Guru, não tem fidelidade, certo?
+Atendente: *Arthur Ferragini:* 
+Nesse caso, vou te transferir para outra equipe responsável por essa parte. Pode me confirmar aqui no chat o motivo do cancelamento?
+
+Te espero!
+Cliente: Questão financeira mesmo. Infelizmente a pandemia reduziu nossas receitas.
+Atendente: *Josué Dionizio:* 
+Olá Élcio Boa tarde, tudo bem?
+Meu nome é *Josué* faço parte da equipe de suporte *Nivel 2* do *ChatGuru*, poxa amigo que triste, vou te passar para o financeiro, lá darão continuidade com o cancelamento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa tarde
+Atendente: *Bruna Lira:* 
+Boa tarde Élcio, um momento.
+Cliente: ?
+Atendente: *Bruna Lira:* 
+Élcio, vi que deseja efetuar o cancelamento por questões financeiras, falei com meu diretor a pouco e ele autorizou um desconto na proxima parcela de 50% e nas demais de 15%.
+Cliente: Agradeço pela atenção,  mas infelizmente não dá. Nós vamos cortar todos os custos mesmo, em 100%.
+Cliente: Uma dúvida: a gente paga adiantado? Se sim, caso efetuarmos o cancelamento, até quando poderemos utilizar?
+Atendente: *Bruna Lira:* 
+Que pena Élcio...
+Atendente: *Bruna Lira:* 
+Você pode usar até o dia 21 de abril, no dia 22 você receberá uma confirmação do cancelamento.
+Cliente: Ok. Vamos usar até o dia 14.
+Atendente: Boa noite Élcio!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Bruna Lira:* 
+Bom dia!
+Tudo bem
+Atendente: Olá Élcio, daremos início ao cancelamento da conta Lins e Lins Consultoria. O cancelamento tem efeito imediato. Você não será mais cobrado pela utilização do ChatGuru.
+Atendente: *Bruna Lira:* 
+Elcio, pode desconsiderar a mensagem acima
+Atendente: *Bruna Lira:* 
+Vou programar o cancelamento.
+Cliente: Ok. Aí no dia 14 precisarei que me instruam como retirar um backpu
+Cliente: *backup
+Atendente: *Bruna Lira:* 
+Combinado, o suporte te ajudará
+Atendente: Élcio, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: apenas isso, obrigado. pode encerrar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Élcio, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6064bffbecec98869e5598c8
+Atendente: Olá Élcio, daremos início ao cancelamento da conta Lins e Lins Consultoria. O cancelamento tem efeito imediato. Você não será mais cobrado pela utilização do ChatGuru.
+Cliente: Ola, bom dia...Ok. E o backup das mensagens?
+

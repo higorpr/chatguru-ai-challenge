@@ -1,0 +1,3030 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Bom dia Guiné, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Já conseguiu acessar o ZapGuru?
+Cliente: Gabriel, bom dia
+Cliente: Vou acessar agora
+Atendente: Certo! Qualquer duvida que surgir pode entrar em contato com a gente! Estamos a disposição
+Cliente: Ok..
+Cliente: O atendimento será feito por este aqui mesmo que está cadastrado no ZG? Não pelo meu número pessoal certo
+Atendente: Isso mesmo
+Atendente: Pedimos para você salvar esse número para que sempre tenha o nosso contato em mãos
+Cliente: Blz .. salvei nós dois
+Cliente: Vou fazer o cadastro dos funcionários e tentar seguir o vídeo de primeiros passos ..
+Atendente: Ok! Se precisar de qualquer ajuda é só mandar uma mensagem aqui que iremos te dar suporte
+Atendente: Olá Guiné, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Bom dia Guiné 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Atendente: Olá Guiné, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: sim... estamos indo bem...
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: amanha vou fazer mais um treinamento com a equipe de atendentes...
+Atendente: Wow, ai sim, parabéns, então o senhor aprendeu bem a ferramenta :D
+Cliente: ainda aprendendo
+Atendente: mais está indo Bem :D
+Atendente: o senhor tem mais alguma duvida?
+Atendente: Guiné estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso alterar um usuario... 
+
+Vou desativar roberto loredo e vou ativar uma atendente nova..
+Atendente: certo
+Cliente: CONSEGUE ME AJUDAR COMO FAZER...
+Cliente: Eu tenho que excluir o usuário e fazer um novo?
+Atendente: sim, eu iria pegar para fazer, mas o senhor tem autonomia para faze-lo
+Atendente: Isso, o senhor Exclui o usuário anterior
+cria o novo usuário com um novo Email
+Atendente: o senhor também pode escolher quais permissões esse usuário tenha
+Atendente: se o senhor desejar, temos um video de passo a passo como funciona esse processo, é bom que o senhor recapitula algumas coisas rsrs
+Atendente: posso enviar para o senhor?
+Cliente: pode mandar sim...
+Atendente: https://zap.guru/primeiros-passos/
+Prontinho :D
+Atendente: O senhor conseguiu?
+Cliente: ainda não fiz...
+Cliente: eu preciso fazer alteração no login das atendentes...
+Cliente: Não estão com acesso ao envio do dialogo.
+Atendente: pela a conta de Administrador o senhor tem acesso
+Atendente: vou verificar para o senhor então, peço só que aguarde um momento
+Cliente: Preciso que elas consigam acessar o telefone do contato
+Atendente: certo isso está ocorrendo apenas nesse usuario ou em todos:?
+Cliente: Eu fiz isso agora
+Cliente: já criei o novo login
+Atendente: perfeito, verifique em todos os atendentes se está assim, se não é apenas no novo usuário
+Atendente: se estiver tudo redondinho, perfeito :D
+Cliente: Atendente mikely esta com erra quando vai adicionar chat... consegue dar uma olhada em todas
+Atendente: Olá, Guiné Telecom. Boa tarde! Sou o Lucas, seu suporte ZapGuru! 
+
+Já vi sua solicitação! Respondo em instantes.
+Atendente: Pronto!
+Atendente: Você quer essa permissão para todos os usuários?
+Atendente: Adicionei a permissão de *ver número do whatsapp* para os departamentos de Contratos e Comercial.
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: simmm ... pode colocar pra todos
+Atendente: Já foi alterado!
+Atendente: Ajudo em algo mais?
+Atendente: Estou encerrando seu chat por inatividade.
+
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Será que o login da mikely está com algum problema para incluir chat...
+
+está dando erro..
+Atendente: Olá Guiné Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: verifiquei para voce
+vou lhe passar um procedimento para fazer, Caso o problema persistir, o senhor deve verificar se o numero está ativo no whatsapp ou se foi adicionado corretamente (algum numero errado por exemplo)
+Atendente: Guiné Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Guiné, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: verifiquei algo no addChat de voces, os contatos que forem adicionar, tente não colocar o nove Exemplo:
+11 98656565
+Seria 11 86565656
+Atendente: alguns numeros ainda não possuem o 9 ou ainda está em processo de implantação e pode ocorrer esse erro, colocando sem o 9 voce evita que esse erro ocorra
+Cliente: Ok...
+Atendente: faz o teste, se não der certo, vamos verificar novamente o que pode estar ocorrendo
+Cliente: sim ainda esta com erro
+Cliente: consegue ver... Paloma tentou fazer agora..
+Atendente: Só um momento
+Atendente: O perfil da atendente está  ok
+Atendente: Peço que ao adicionar um chat, visualize na tela do aparelho como o Automate se comporta
+Atendente: Se aparece algum aviso no momento do cadastro do Whatsapp
+Cliente: vou fazer
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: pessoal boa tarde
+Cliente: poderia me ajudar?
+Cliente: como faço para ver arquivo
+Atendente: Boa tarde, tudo bem?
+Atendente: Você quer abrir o arquivo?
+Cliente: isso
+Cliente: por favor
+Cliente: consegue me ajudar
+Atendente: O problema está no arquivo que a pessoa tá enviando. Tá com erro. Tentei aqui e também não abriu.
+Cliente: pelo celular consegui abrir
+Atendente: Que bom!
+Atendente: Ajudo você em algo mais?
+Cliente: blz...
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: pessoal boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos com todos contatos pendentes...
+Atendente: Olá Guiné, Boa tarde. Meu nome é Hugo.
+Atendente: você está com o celular da conta para que possamos resolver isso?
+Cliente: sim..
+Cliente: estou com ele
+Cliente: Conecte ao meu dispositivo abrindo https://start.teamviewer.com/186538491
+Você também pode acessar https://start.teamviewer.com e inserir seu ID do TeamViewer 186538491.
+Cliente: consegue conectar?
+Atendente: não. Você pode baixar o anydesk?
+Cliente: pelo computador aqui?
+Atendente: no celular
+Atendente: da conta do zapguru
+Cliente: vou baixar... que da outra vez fizemos pelo teans
+Cliente: .so um segundo
+Cliente: 779 344 322
+Cliente: id Anydesck
+Cliente: conseguiu?
+Cliente: Me ajuda que ta tudo parado..
+Atendente: Um momento que já vou acessar.
+Cliente: ok...
+Atendente: Só aceitar a conexão.
+Atendente: Pronto, só aguardar o sistema fazer a adição dos contatos pendentes.
+Atendente: Te ajudo em algo mais?
+Cliente: blz.. os que estão pendentes vão entrar?
+Atendente: Se os números estiverem corretos sim, vi que até agora 1 deu erro pois o número não possui whatsapp.
+Atendente: Infelizmente não é possível.]
+Atendente: Te ajudamos em algo mais?
+Cliente: só consigo saber o total por dia... ou em cada acesso deles indiviual..
+Atendente: Você consegue saber quantos chats estão em posse de cada usuário no momento.
+Cliente: a ta... blz
+Atendente: Te ajudo em algo mais?
+Cliente: tudo certo..
+Atendente: Ótimo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal muito bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Guiné! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Eduardo bom dia....
+Cliente: Pode me ajudar com a questão do funil...
+Atendente: Posso sim, do que precisa?
+Cliente: Gostaria de fazer um funil para cada atendente e um unico para meu acesso como gestor...
+Cliente: será que consegue me ligar?
+Cliente: 11976375444
+Atendente: Desculpe, não consigo te ajudar por ligação 😕
+Atendente: Podemos realizar uma call via google meet as 10:00
+Atendente: Porém, se quiser adiantar, consigo te ajudar aqui pelo chat tranquilamente
+Atendente: Me explica a sua ideia de funil
+Cliente: perfeito.... vc entendeu o que preciso fazer?
+Cliente: posso mandar um audio?
+Atendente: Sim, os funis dos atendentes teriam a mesma etapa?
+Atendente: Pode sim
+Atendente: Antes, me tira uma dúvida, os atendentes sempre ficam responsáveis pelo mesmo cliente? Ou o cliente fica trocando de delegação a qualquer momento?
+Atendente: Entendi, creio que você consiga tirar os dados que deseja por meio de relatórios
+Atendente: Não precisando criar vários funis
+Atendente: Basta, lá em relatórios, utilizar como filtro "Delegado a" + "Etapa do funil"
+Cliente: Mas seria pra melhor visualização...
+Atendente: Entendo, então pode fazer sim e criar um para cada
+Atendente: Porém, não é possível limitar a visualização dos usuários a somente um funil
+Cliente: Exemplo... Funil Carteira GUINÈ aparece para todos .... 
+
+Não queria que fosse assim... este teria que ficar apenas na minha visão
+Atendente: O ideal então seria retirar das permissões dos usuários a possibilidade de Ver Funis
+Cliente: Ele não pode ver só o dele?
+Cliente: Minha equipe usa muito o funil em outro sistema que temos... quero matar o de lá e usar só aqui..
+Atendente: No momento ainda não
+Atendente: Vou mandar essa função para a equipe de desenvolvimento, para eles analisarem e verificar se podem colocar no roadmap da plataforma
+Cliente: Seria um ganho incrível para a ferramenta... dizendo como gestor de uma equipe comercial fazendo ativo
+Atendente: Entendo, e por isso mesmo a gente tem uma area só para envio de sugestões de melhoria para a ferramenta
+Atendente: O pessoal do desenvolvimento sempre tá ativo lá
+Atendente: Cesar, te ajudo em algo mais?
+Atendente: Guiné estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: poderia me ajudar com uma duvida...
+Cliente: tinha um contato cadastrado vinculado a uma atendente.... 
+
+e hoje outra atendente conseguiu cadastrar o mesmo  contato...
+Cliente: Estava em nome da atendente Poliana e a atendente mikely conseguiu cadastrar .
+Atendente: Olá Guiné, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: Daniel  tudo bem
+Cliente: conseguiu ver as mensagens?
+Atendente: Sim sim, estava lendo nesse instante.
+Atendente: Guiné, estou vendo com a nossa equipe técnica.
+Cliente: ok...
+Atendente: Por favor, consegue me passar algum número já tenha sido cadastrado na plataforma para utilizarmos como teste?
+Cliente: Pode ser o da foto
+
+65 - 99330399
+Cliente: Tentei cadastrar esse que vc fez o teste e não deu .. diz que já existe
+Atendente: Nesse da foto, eu terei que mandar uma mensagem.
+Posso adicionar e mandar a mensagem?
+Cliente: pode sim.. eu apago aqui... manda so um .
+Atendente: Certo.
+Cliente: Muito louco mesmo...
+Atendente: Pelo que consegui detectar, foi somente uma falha com esse contato em específico.
+Atendente: Somente foi com esse caso?
+Cliente: Sim.. pelo que pude perceber também foi só esse caso
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Guiné, como foi um caso isolado, eu creio que foi algo pontual.
+Até por conta que você fez um teste e nós também, e deu o erro.
+
+Por favor, caso aconteça novamente, nos chame de imediato.
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima quarta-feira!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal boa tarde...
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Guiné Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Cliente: Josué, boa tarde...
+
+Queria saber informação de como funciona o sistema com um segundo numero?
+Cliente: Se podemos agendar amanhã um bate papo pra saber como funciona?
+Atendente: Vou verificar na agenda
+Atendente: mas o funcionamento é o mesmo, não mudaria nada, apenas aumentaria o fluxo pois seria um número extra, consequentemente novos clientes
+Se for necessário, é possível mudar a URA, ou fazer uma URA para esse outro número
+com dois números é possível usar dois chatbots caso deseje, mas também é possível utilizar o mesmo para ambos os números
+Cliente: Se tiver algum material que explique como funicona?
+Atendente: se você tiver addchat, seria necessário fazer um ADDCHat para cada número, pois cada número tem seu próprio fluxo de addchat, então seria necessário contratar esse segundo addchat
+Atendente: pior que não tem meu amigo =/
+Atendente: mas mesmo, assim, se ficar duvidas fazemos uma call, tiro as duvidas por lá se for o caso
+Atendente: Tenho vago amanhã as 4 da tarde, tudo bem?
+Cliente: Então vamos bater um papo no Call...
+Cliente: pode ser as 16:00 horas amanhã...
+Atendente: Show, então combinado :D
+Cliente: Fechado
+Cliente: Vc m chama amanhã com o link?
+Atendente: sim sim, pode ficar tranquilo :D
+Atendente: Guiné, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Ótima Boa tarde 😃
+Suporte Josué 😃
+Cliente: blzzzz
+Atendente: Boa tarde meu amigo tudo bem?
+Daqui a pouco lhe envio o link para nossa call :D
+Cliente: ok... Boa tarde
+Atendente: https://meet.google.com/fmv-pkfm-wgg
+Cliente: entrando...
+Atendente: Cesar, quer que te passe para o financeiro para tirar duvidas?
+Cliente: Cara vou analisar e ver o que vou fazer e amanhã eu chamo o financeiro
+Atendente: Combinado :D
+Atendente: Cesar então, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Ótima Boa tarde 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Pessoal boa tarde...
+
+gostaria de saber valores para colocar mais um numero de telefone...
+
+Queria saber se atendente consegue adicionar chats nos números diferentes?? 
+
+Como fica a visualização dos dois chats?
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, boa tarde! Tudo bem?
+O valor para fazer adição de um número é 297 mensais. 
+Sobre a adição, caso você possua um ou mais números em sua plataforma, no momento da adição, é possível selecionar por qual número será feita :)
+E sobre a visualização, é compartilhada, na visão do(s) atendente e dos usuários, não há diferença nos chats que estão vindo/chamados por um número ou o outro
+Cliente: O numero novo tem que estar em um aparelho também certo?
+Cliente: O aparelho que uso o numero atual de de dois chips posso usar no mesmo?
+Cliente: Outra duvida?
+
+Queria saber se consigo ver quantos chats foram adicionados por atendente individualmente?
+Atendente: Isso mesmo, precisa estar ativo
+Atendente: Não recomendamos usar o mesmo aparelho, com função de dois chips, porque pode gerar um fluxo intenso de mensagens no celular e ocasionar um banimento ou travamento
+Atendente: Sim, também é possível :)
+Cliente: Poderia me dizer como fazer?
+Atendente: Claro, vou enviar alguns prints
+Atendente: Quando você clica em "rleatórios" são exibidas mais opções abaixo:
+Cliente: Acho que consegui... ou será que preciso colocar mais alguma coisa?
+Atendente: Está certo, somente essa configuração mesmo :)
+Cliente: otimo...
+Atendente: consigo ajudar em algo mais?
+Cliente: tUDO CERTO...
+Cliente: Vou adquirir o novo numero e entro em contato para adicionar
+Atendente: Perfeito.
+Atendente: Posso te ajudar com algo mais?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde... E possível fazer um teste com adição de mais um numero?
+
+Ou seja, contratar e caso não de certo posso cancelar  sem multa..
+
+Quanto aos usuários posso fazer da mesma fora...
+
+
+Gostaria de acrescentar mais 5 acessos será que consegue fazer um preço único e uma condição especial para 17 acessos?
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Guiné. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Zapguru* 😀
+Um instante que já vou verificar sua solicitação.
+Atendente: Eu vou transferir seu contato para o nosso setor financeiro que cuida de toda essa parte de contratação de novos usuários para que eles possam te ajudar, ok?
+Cliente: ok... obrigado
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa tarde..
+Atendente: Novos usuários? Quantos novos?
+Cliente: Olá.. 
+
+Hoje estou com 12 e preciso colocar mais 5... total 17
+Atendente: Posso te dar 10% de desconto
+Cliente: no pacote completo dos 17?
+Cliente: Vou precisar colocar mais um numero, quanto consegue fazer? 
+
+um precinho especial... 👍
+Cliente: Consegue melhorar de uma forma geral? 
+
+O que pago hoje e o que estou querendo acrescentar?
+Atendente: Fechando os 17 usuários consegui autorização de 15% de desconto.
+Cliente: Perfeito que boa noticia... 
+
+Hoje meu pagamento está fracionado.. conseguiria juntar tudo em um único? 
+
+me passar o quanto ficaria no valor final?
+
+Quanto conseguiria pelo numero adicional?
+Atendente: Então... como é pagamento via cartão de crédito eu não consigo juntar tudo.
+Atendente: Apenas se for passar para boleto.
+Cliente: Se quiser transformar tudo em boleto... sem problemas...
+
+pode colocar...
+Cliente: e possivel?
+Atendente: é sim... um momento
+Atendente: hoje eu te envio o boleto sobre a contratação desses serviços adicionais ta bem? Ai no proximo mes virá tudo junto
+Atendente: Aí hoje te envio com o valor proporcional.
+Cliente: Consegue me passar como vai ficar o valor final?
+Atendente: Consigo, um momento.
+Atendente: Me passa um e-mail por favor
+Atendente: que deva chegar o boleto
+Atendente: Ele vai para R$1.983,15
+Cliente: Isso já com o numero que vou colocar a mais?
+Cliente: E isso? 
+
+consegue me passar o valor individual dos serviços que tenho contratado..
+Atendente: Isso
+Atendente: Vou te mandar a venda
+Cliente: por favor... outra duvida... caso precise fazer algum cancelamento como funciona?
+Atendente: é só nos solicitar...
+Atendente: que fazemos o cancelameno
+Atendente: cancelamento*
+Cliente: Mas vc colocou 17 usuários a mais e isso? Eu preciso de 17 no total..
+
+por isso achei que ficou caro...
+Atendente: Ah sim rsrs foi mais 17
+Atendente: um momento.
+Cliente: ufaaaaaa
+Cliente: quase cai da cadeira...
+Cliente: kkkk
+Atendente: hahahhaha
+Atendente: Serão 5 usuários a mais então certo?
+Atendente: Só que ai não consigo aplicar os 15%
+Atendente: Chorei para minha diretoria alegando 17 a mais
+Cliente: Me ajuda vai.. Estou tentando levantar o movimento que esta dificil
+Atendente: Infelizmente eu não consigo... o maximo que meu diretor deixa eu aprovar é 10%
+Atendente: hoje chorei pra ele alegando que eram 17 a mais... por isso ele autorizou
+Atendente: até porque você ja tem desconto na sua fatura
+Cliente: ME passa então quanto fica o total com os 10% de desconto...
+Atendente: Fica R$1500,50
+Cliente: Consegue fazer o detalhamento ... pra saber como vou ficar? 
+
+Desculpe estar sendo muito chato..
+Atendente: imagina... não esta sendo chato, to aqui pra isso
+Atendente: Um momento que vou pegar aqui
+Cliente: Fico com 17 usuários e os dois números e o restante como já tenho... funil e etc
+Cliente: mesmo assim consegue colocar em uma única fatura?
+Atendente: Consigo sim
+Atendente: Me passe por favor o e-mail que será enviado o boleto.
+Cliente: Perfeito... Quando o funcionários sair de férias posso fazer uma suspensão temporária?
+
+só pra saber mesmo...
+Cliente: diretoria@guinetelecom.com.br
+Atendente: 🔕 Guiné,  por se tratar do tema *financeiro*, precisamos que toda mensagem seja em formato de texto para que tudo possa ficar devidamente registrado. 
+
+Agradeço sua compreensão.
+Cliente: Quando fiz a 1° contratação acho que tinha a possibilidade de fazer a contratação de um numero de vcs... e possível...
+Atendente: Da para cancelar sim, depois você pode retomar, só não consigo ficar fazendo reembolso, então se puder solicitar antes do pagamento seria melhor
+Cliente: blz... qual seria a data corte?
+Atendente: Na verdade é a alocação o numero fica alocado conosco, mas de qualquer maneira você fornece o numero a nós
+Atendente: Todo dia 14, seu vencimento é 21 porem dia 14 é emitido sua NF
+Atendente: Juntei na sua fatura os serviços adicionais
+Atendente: coloquei ele proporcional ta bem?
+Atendente: Só me confirme depois por favor se tem interesse nesses adicionais solicitados hoje
+Cliente: Perfeito.. então vou passar o numero novo...
+Atendente: A alocação tem valor de R$250,00 mensais.
+Cliente: esse não preciso
+Cliente: Vou fazer igual o 1°
+Atendente: Show, deseja continuar com a contratação então?
+Cliente: pode fechar sim... vamos seguir
+Atendente: Show
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h
+Cliente: perfeito... vou fazer...
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: te mando mais tarde o comprovante
+Atendente: Fechado, obrigada :)
+Cliente: Olá...
+Cliente: boa tarde...
+Cliente: Estava no atendimento com financeiro ontem...
+Atendente: Olá :)
+Atendente: Estão por aqui ainda...
+Cliente: tive uma alteração enorme... kkkk 
+
+ia fazer mais 5 logins e um numero novo... 
+
+MAs estou com 3 usuários afastados por covid e 2 vão sair de férias na segunda feira... 
+
+por este motivo preciso so fazer a contratação do numero novo
+Atendente: rsrsr sem problemas!!
+Atendente: Um momento.
+Cliente: Joia.. então agora vou adicionar o número que mais urgente..
+Cliente: PAGAMENTO REALIZADO...
+Atendente: Show, me encaminha o numero por favor
+Cliente: Para colocar ele no Whatsapp no aparelho tem pode ser no businees?
+Atendente: Desculpe, não entendi
+Cliente: O numero tem que estar no whastapp no aparelho celular, certo
+Atendente: Isso
+Cliente: pode ser o app Whatsapp businees?
+Atendente: Eita, deixa eu perguntar aqui
+Cliente: blz
+Atendente: Pessoal do suporte comentou que se logar no ZapGuru terá que deslogar no Whatsapp Web
+Cliente: ok...
+Cliente: vou passar o numero
+Cliente: 11994988459
+Atendente: O número informado não possui uma conta de whatsapp, o número está correto ? 55 11 994988459
+
+wa.me/5511994988459
+Cliente: desculpe ainda não cadastrei no zap.. só um segundo
+Cliente: Agora já está ok
+Cliente: Já esta cadastrado.
+Atendente: Um momento.
+Atendente: *✅  Concluído*
+*Guine Telecom*
+Numero WhatsApp - +55 11 99498-8459
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Preciso fazer alguma configuração para adiconar o chat... igual fiz do outro parelho
+Cliente: o numero novo está em outro aparelho...
+Atendente: O modulo Add chats é um para cada numero...
+Cliente: blz...
+Cliente: O que estamos cadastrando pelo numero novo não esta conseguindo adicionar
+Atendente: Um momento, vou te encaminhar ao suporte.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Oi, eu sou o Lucas. Vou te ajudar.
+Atendente: Você está tentando adicionar esses chats em qual número?
+Cliente: Esta como claro empresas
+Cliente: foi o novo numero que adicionei
+Atendente: Ok, um momento.
+Cliente: o numero tem que esta no whatsapp business
+Cliente: Está em aparelho diferente do primeiro
+Cliente: olá
+Cliente: consegue me ajudar
+Atendente: Oi, um momento.
+Atendente: Você não tem o módulo addchat contratado no número (11) 9949-88459 - 'Claro Empresas', então, você está tentando adicionar esses contatos no número (11) 95088-9666 - Vivo Empresas. Correto?
+Cliente: Quando fiz o contratação do novo numero não foi passado isso... poderia usar o mesmo adição de chat.. seria apenas um novo numero...
+Atendente: Não, é um módulo addchat para cada número da sua conta.
+Cliente: ai vou ter mais um custo, isso
+Cliente: não foi me passado isso
+Atendente: No caso, você precisa contratar o módulo addchat para o número 8459. O módulo custa R$  70,00 mensal.
+Cliente: Isso faz diferença no aparelho que está o chip?
+Cliente: fazendo a contratação do adiciona chat eu consigo saber em qual chat está sendo conversado?
+Atendente: Com o módulo addchat no número (11) 9949-88459 - 'Claro Empresas', seus atendentes poderão adicionar chats diretamente nesse número.
+Atendente: Você consegue saber com qual número de whatsapp: Claro ou Vivo - aquele cliente está conversando,
+Atendente: Por exemplo:
+Atendente: Aqui tem um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Cliente: Ok... Então preciso fazer aquisição do modulo
+Cliente: consegue me ajudar a agilizar...
+Cliente: Tenho usuários que não estão conseguindo mandar áudio pelo guru...
+
+Consegue me ajudar nessa configuração...
+Atendente: Eles estão usando qual navegador?
+Atendente: Certo. Vou encaminhar você ao financeiro pra dar continuidade na contratação.
+Cliente: crom
+Cliente: Chrome
+Atendente: Eu fiz um teste com meu chat e está enviando áudio normalmente.
+Atendente: Verifique se o google chrome dos atendentes está atualizado, por favor: https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=pt-BR
+Cliente: Quando conecto o fone pede para permitir o uso do microfone mas já esta permitido
+Atendente: Olá, boa tarde! Você deseja contratar o add chat para esse novo numero, certo? Um momento.
+Cliente: Esta feito o pagamento...
+Atendente: Joia, fiz a solicitação da inclusão
+Atendente: Guiné, encaminharei o seu atendimento para o suporte para que possam prosseguir com a instalação do Módulo Add Chats
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá Guiné Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Atendente: temos que fazer o addchat, correto?
+Cliente: olá Josue, tudo bem por ai?
+Cliente: podemos fazer sim
+Atendente: Tudo tranquilo :D
+Atendente: Peço se possível para agilizar o procedimento 😃
+
+faça o Download desses aplicativos
+
+Android
+
+https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=pt_BR
+
+https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR
+
+Ou se preferir, colocar na pesquisa na sua loja de aplicativos
+*"AnyDesk"* e *"Automate"*
+
+Instale esses aplicativos no aparelho qual é responsável pelo WhatsApp ZapGuru.
+Cliente: Vou fazer em uma aparelho que tenho e depois vou passar para outro... 
+
+comprei um novo mas ainda demora cehgar
+Cliente: mas está em um iphone
+Cliente: Da pra fazer?
+Atendente: iphone não =/
+Atendente: incompatível, o aplicativo responsável pelo addchat não tem para Iphone
+Cliente: eita nois... então só consigo amanha...
+Cliente: vou colocar em outro com android
+Atendente: Beleza :D
+Cliente: aproveitndo eu vi que temos novidades no funil..
+
+poderia me dizer o que temos de melhoria na pratica
+Atendente: assim que fizer a troca só chamar novamente :D
+Cliente: ok... chamo amanhã... de manhã
+Cliente: consegue me ajudar no funil
+Cliente: ?
+Cliente: Consegue me ajudar...
+Cliente: Queria saber se agora temos como criar um funil para cada usuario? isso?
+Atendente: Agora é possível restringir o funil para usuários/deptos específicos dentro do zapguru, também é possível definir se o usuário pode visualizar todos os chats que estão no funil ou apenas os que estão delegados a ele ou ao grupo.
+Cliente: eu como adm consigo filtrar o funil que está pra cada usuário dentro de um geral..
+Atendente: você consegue filtrar as etapas do funil que esteja aplicado a todos os contatos que estejam nessa determinada parte do funil
+Atendente: Guiné ajudo em algo mais meu amigo?
+Cliente: bom dia...
+Cliente: estou aguardando o celular carregar a bateria para incluir o novo chat bolt...
+
+acredito que depois do almoço... consegue me ajudar.
+Atendente: ha sim o Addchat
+Cliente: Preciso cancelar o envio do que estão pendentes e possivel?
+Atendente: então sim consigo :D
+mas apenas após as 2 da tarde =/
+Atendente: sim sim é possível, na parte de relatório você consegue filtrar e apagar os que estão pendentes :D
+Cliente: Olá.. podemos fazer ativação chat novo.. já estou com aparelho ok
+Atendente: Podemos fazer o addfchat sim :D
+Cliente: show..
+Atendente: Peço se possível para agilizar o procedimento 😃
+
+faça o Download desses aplicativos
+
+Android
+
+https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=pt_BR
+
+https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR
+
+Ou se preferir, colocar na pesquisa na sua loja de aplicativos
+*"AnyDesk"* e *"Automate"*
+
+Instale esses aplicativos no aparelho qual é responsável pelo WhatsApp ZapGuru.
+Cliente: ja estou fazendo..
+Cliente: anydesk - 553728101
+Cliente: pode acessar.
+Atendente: só aceitar :D
+Atendente: vai ser para esse número que estamos falando né?
+Cliente: não
+Atendente: para qual dos números?
+Cliente: final 8459
+Atendente: legal
+Atendente: preciso que ele esteja conectado com a plataforma ok?
+Atendente: pois preciso enviar um arquivo para ele
+Cliente: feito
+Atendente: Chegou ainda não =/
+Cliente: consegue adicionar
+Cliente: manda para o numero
+
++55 (11) 994988459
+Cliente: conseguiu?
+Cliente: ?
+Atendente: vou tentar mandar então
+Cliente: eu naõ consigo mandar para o outronumero... estou longe do outro aparelho
+Atendente: Amigão carrega esse aparelho
+Atendente: bateria está no osso
+Atendente: está em 5%
+Cliente: está no carregador
+Cliente: eu coloco o carregador e fica dando essa falha
+Cliente: estou trocando de carregador
+Atendente: kk tem que arrumar um legal em
+Atendente: porque assim meu querido, esse aparelho agora tem que ficar conectado sempre e com a tela aberta no whatsapp
+Atendente: só pode ficar aberto no aparelho whats e o automate
+Cliente: agora foi
+Atendente: sim sim :D
+Cliente: esta carregando...
+Atendente: agora vamos fazer o teste
+Cliente: estamos falando por ele, certo
+Atendente: abre o automate desse aparelho que estou mexendo não estou conseguindo
+Atendente: abre o automate agorea
+Atendente: não sei se estou conseguindo ver
+Atendente: mas ve seleciona o whatsbusiness e coloca para sempre abrir com o whatsapp
+Cliente: vou ver
+Cliente: vc quer que coloque o número no zap normal
+Atendente: Tenta adicionar um chat para dar uma oolhada
+Atendente: não precisa
+Atendente: o problema não é esse
+Cliente: vou tentar
+Atendente: e sim porque tem que definir o whatsapp como aplicativo padrão
+Atendente: tem que estar como padrão
+Cliente: posso adicionar por este aqui um numero que está adicionado pelo outro?
+Atendente: tem que escolher o numero da claro quando for adicionar
+Cliente: Tentei adicionar o meu contato pela claro e não entrou.
+Atendente: aqui foi normal
+Atendente: testei2 números inclusive
+Atendente: pera só um momentiniho
+Cliente: blz
+Cliente: Eu como um bom jumento digitei  meu numero errado
+Atendente: kkkkkkkkkkkkkkkkkkkkk
+Atendente: não iria nunca
+Cliente: Ele diz que ja está cadastrado no guru...
+Cliente: e certo isso...
+Atendente: então não da, se tiver em um número não da para colocar no outro =/
+Cliente: ai fudeu... como faço pra conseguir...
+Cliente: A ideia era justamente essa... preciso falar com o mesmo cliente em chats distintos...
+Cliente: Quando fiz os questionamentos foi passado que seria agendas diferentes..  e cadastros separados..
+Atendente: vou ver se tem alguma forma de fazermos isso, aguenta ai
+Cliente: eu consegui adicionar outro... que estava pela vivo e adicionei pela claro..
+Atendente: sim sim vi aqui é possível
+Atendente: dai fica o chat duplicado, mas da para adicionar
+Atendente: você só vai ter que observar na hora de falar com o cliente se está no número da claro ou no número da vivo
+Atendente: acho interessante você aplicar uma Tag viu
+Cliente: vou ter que crias a tag...
+Atendente: cria as tags
+Atendente: vou criar um dialogo de addchat, vai facilitar e ja inserir as tags assim que criar
+Cliente: boa.. me ajuda ai...
+Cliente: valeu...
+Atendente: kk
+Atendente: esse deu erro
+Atendente: mensagem errada desculpe
+Atendente: basta escolher o Dialogo correspondente ao aparelho que será usado para adiconar
+Cliente: show...
+Cliente: vou fazer teste..
+Cliente: muito obrigado
+Atendente: Beleza :D
+Atendente: Guiné, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Ótima Boa tarde 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Pessoal bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou com uma duvida poderia me ajudar?
+Cliente: Quando tiro de EM ATENDIMENTO  e passo para FECHADO, quando o o contato responde ele vai para aberto?
+Atendente: Olá Guiné, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+
+Sim. Quando é alterado para os status resolvido ou fechado, após 30 segundos, se for enviada uma nova mensagem, o chat é reiniciado e marcado como o status de aberto.
+Atendente: Posso te ajudar com algo mais?
+Cliente: Quando ele fica fechado ele vai para arquivados...
+Atendente: Sim. Quando é alterado para fechado ou resolvido, automaticamente o chat é arquivado.
+Para buscar o chat, deve selecionar a opção de "arquivados".
+Cliente: perfeito...
+Atendente: Posso te ajudar com algo mais?
+Cliente: por hora e isso ...
+
+muito obrigado..
+Atendente: Tudo bem, precisando é só entrar em contato, uma ótima tarde pra você 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Olá, boa tarde..
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Queria tirar algumas duvidas...
+Atendente: Olá, Guiné. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Rodrigo tudo bem?
+Atendente: Tudo certo! 🙂
+Cliente: eu como adm consigo fazer o resete de senha de usuario
+Atendente: Não, só quem consegue fazer esse reset é o próprio usuário ou aqui no suporte nós conseguimos fazer essa alteração pra você.
+Cliente: poderia fazer uma nova para paula@guine
+Cliente: paula2021
+Atendente: Certamente! Me dê um minutinho.
+Cliente: blzzz
+Atendente: Resolvido! ✅
+Atendente: Senha alterada com sucesso.
+Cliente: obrigado
+Cliente: Sei que e possivel fazer uma anotação e enviar por e-mail para outro usuario mas não lembro como fazer.
+Atendente: Para que o seu usuário receba a notificação da nota tanto no Zapguru quanto no e-mail, você precisa marcar o e-mail desse usuário na nota com o @ na frente. 
+
+Ex. @ + e-mail >>> @guine@guine.com.br
+Cliente: show.. recebe no guru e no e-mail..
+
+Excelente...
+Cliente: Só vai para quem e usuario do guru ou vai para e-mail externo... 
+
+Tipo e-mail de cliente? 
+
+por qual e-mail e encaminhado? Do usuário que está enviado?
+Atendente: Essas notas somente para os usuários do Zapguru. Não enviamos e-mail externos pela plataforma.
+Cliente: perfeito...
+Cliente: dessa forma?
+Atendente: Essa parte ainda está em desenvolvimento. Hoje ainda não é possível fazer a extração dessas informações.
+Cliente: tem uma precisão do lançamento?
+Atendente: Não, ainda não tenho previsão. Mas temos noção de que essa ferramenta será muito importante pra vocês.
+Cliente: Muito mesmo... boa melhoria para colocar em pratica
+Atendente: A única mudança automática é a mudança do status de *Aberto* para *Em atendimento*. A mudança de status para *Aguardando* e de Aguardando para qualquer um desses dois outros status é feita manualmente dentro do chat.
+Cliente: então se o chat  esta em aberto sofre uma interação vai pra atendimento..
+
+Acho que devo estar fazendo processo errado.. pois coloquei em aguardando para que ele vá para em atendimento..
+Cliente: Mas ai eles vão visualisar o de todos, correto?
+
+Não só o deles?
+Atendente: Sim, pra eles poderem visualizar o gráfico, eles vão precisar ter acesso a todos os chats no funil.
+Cliente: Seria bacana terem acesso ao gráfico só deles.. ai perdem a referencia individual..
+Atendente: Beleza. Eu vou levar essa questão como uma sugestão para minha equipe de desenvolvimento.
+Cliente: excelente...
+Cliente: Preciso adquirir mais um usuário... poderia transferir..
+
+eu agradeço muito os esclarecimentos feitos nesse atendimento...
+Atendente: Foi um prazer te ajudar. Vou transferir pro nosso financeiro para eles te ajudarem. 🙂
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, boa tarde!
+Atendente: Tudo bem?
+Atendente: Será mais 1 usuário?
+Cliente: Boa tarde... tudo certo sim
+Cliente: sim.. apenas 1.. em Janeiro devo fazer outros..
+Cliente: desculpe na verdade são 2
+Atendente: Fechado, um momento.
+Cliente: perdão... o que consegue fazer de valor bacana.
+Atendente: Guiné, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Perfeito.. já vou fazer..
+
+Estou pagando R$ 50,00 por usuário consegue fazer o mesmo valor?
+Cliente: ?
+Atendente: Oiii, ele ainda é esse vaor
+Atendente: valor*
+Atendente: O valor que te passei é proporcional a sua fatura de janeiro
+Atendente: porque não consigo incluir mais nessa de dezembro a NF ja foi emitida
+Cliente: ta ok...
+Cliente: obrigado
+Atendente: esse valor é proporcional a 36 dias
+Cliente: Segue o comprovante...
+Cliente: Já fiz o pagamento do vencimento 21-12 também
+Atendente: Um momento.
+Cliente: ok...
+Cliente: Deu certo?
+Atendente: Fiz a solicitação, ja ja te respondem
+Cliente: PERFEITO
+Atendente: *✅  Concluído*
+*Guine Telecom*
+2 usuários adicionais
+*Total de 14 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: PERFEITO...
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Muito obrigado pela sua atenção
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Olá bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Financeiro, por favor...
+Atendente: Bom dia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Atendente: Um momento. Vou te encaminhar.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Minha cobrança está sendo feita via boleto e ainda estou recendo as cobranças via digitall..
+
+esse acabou de ser lançado no meu cartão..
+Atendente: Oiii eu ja pedi o estorno
+Atendente: vi hoje pela manhça
+Atendente: manhã*
+Cliente: ok... obrigado..
+
+fico no aguardo...
+Atendente: Bom dia!
+Atendente: Segue reembolso
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Olá, muito boa tarde...
+
+Desejo um feliz 2021 para toda equipe *chat guru*
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ok
+Atendente: Boa tarde Guiné! Meu nome é Luiz.
+Atendente: Não é possível.
+Cliente: ok... só fazendo o acesso de cada usuário individual
+Atendente: isso
+Atendente: Posso ajudar em algo mais?
+Cliente: Quero fazer uma equipe..
+
+um supervisor com 2 vendedores...
+
+como consigo fazer?
+Atendente: No menu do canto esquerdo você vai acessar a aba de Usuários. Você clicar no botão *Novo Departamento*. Quando abrir a tela você selecionar quais usuários farão parte dessa equipe, vai dar um nome pra esse departamento e decidir sobre as permissões que esses usuários terão dentro do departamento. No final da página você vai clicar em Salvar.
+Cliente: Perfeito...
+Cliente: vou tentar fazer...
+Cliente: Gostaria de verificar uma informação com o financeiro. E possivel?
+Atendente: Claro que sim! Só pra agilizar o atendimento, seria sobre o quê?
+Cliente: cobranças...
+Atendente: Perfeito, um instante que já vou te transferir.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Estava fazendo via paypal e passei para boleto...
+Atendente: Olá, boa tarde!
+Cliente: Boa tarde....
+Atendente: Eu vi que foi cobrado 100 de vocês pelo paypal
+Atendente: Ja solicitei o estorno ta bem?
+Cliente: Pode me da uma ajuda?
+
+Queria saber como está minha contratação e pagamento...
+
+agora estou fazendo via boleto mas antes era via paypal....  (estava fracionado) 
+
+Recebi dia primeiro um cobrança de R$ 100,00
+Cliente: eu tinha outra se não me engano...
+Cliente: pois fiz um pagamento do boleto total em dezembro...
+Cliente: E possível já solicitar o cancelamento de todos via paypal...
+Atendente: é sim, ja solicitamos
+Atendente: o de dezembro ja foi feito estorno
+Cliente: Consegue me dizer como está agora e qual seria o próximo vencimento?
+
+vou precisar de mais 2 acesso... 
+
+mas estou bem confuso quanto as cobranças..
+Atendente: Seu vencimento é sempre dia 21
+Atendente: referente aos aditivos, hoje você paga sempre o proporcional ate sua proxima fatura
+Atendente: por exemplo se você contratar hoje 2 usuarios, você pagará R$28,33 por cada
+Cliente: a data corte qual seria?
+Atendente: ela será inclusa na sua fatura
+Atendente: Dia 14
+Cliente: Perfeito.... Data corte 14 com vencimento 21... show...
+Atendente: Isso
+Cliente: Vc consegue fazer os dois novos então...
+
+Agora vou passar para 16 usuários no total com dois números de atendimento... será que consegue me fazer uma redução para  vencimento outros vencimentos.. 
+
+Descontinho básico...
+Atendente: Desculpe não entendi
+Cliente: Se consegue dar uma desconto em todo meu pacote...
+Cliente: Não para esse vencimento de janeiro, para os proximos..
+Cliente: Pode gerar o boleto para os 2 acessos novos
+Atendente: Bom, isso eu teria que solicitar a minha diretoria.
+Atendente: Bele, um momento.
+Atendente: Guiné, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Bom dia...
+Cliente: Pagamento do boleto foi efetuado agora
+Cliente: segue o comprovante
+Atendente: Um momento.
+Atendente: *✅  Concluído*
+*Guine Telecom*
+2 usuários adicionais
+*Total de 16 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte, bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Guiné. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Arthur, muito bom dia..
+Cliente: Cara queria ver se consegue agendar um treinamento onde minha equipe adm vai participar referente ao status do atendimento...
+
+Estamos com dificuldades de intender o processo... 
+
+Também a questão de passar o atendimento de um usuário para outro.
+Atendente: Claro, conseguimos sim! Para quando deseja agendar?
+Cliente: o quanto antes.... consegue para hoje a tarde?
+Cliente: Outra coisa... o telefone da claro não está adicionando contatos..
+
+será que consegue acessar ele remoto pra ver se tem alguma falha?
+Cliente: final do telefono 8459
+Atendente: Podemos marcar ainda hoje uma chamada de 1h para hoje às 13h, o que acha?
+Atendente: Só um momento que vou verificar
+Cliente: consegue para as 14:00?
+Atendente: Estou verificando e já te confirmo :)
+Atendente: Sobre isso, vou te mandar umas instruções iniciais. Peço que siga e me confirme por aqui se o problema foi solucionado
+Atendente: Guiné Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção que possui o nome da sua conta.
+3) Clicar em START
+Atendente: Guiné, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: *Observação*, muito provável que o nome que irá apareça no automate é o *nome da sua conta ChatGuru* 😉
+Cliente: Fiz esse procedimento mas não rolou
+Atendente: Certo. Nesse caso vou acessar o aparelho remotamente. Por gentileza, acessa o aplicativo "Anydesk" e me passa aqui o código de acesso
+Cliente: 553728101
+Atendente: Acabo de solicitar acesso. Agora é só ir na tela do celular e liberar
+Atendente: Assim que liberar o acesso me confirme aqui que inicio a verificação.
+Cliente: ok
+Atendente: Entrei. Peço que não utilize o celular por alguns minutos enquanto faço alguns processos
+Cliente: feito
+Atendente: Os números que falhou ao adicionar são esses?
+
+Dario (11) 991513303
+Uelber (11) 971740132
+Cliente: sim
+Atendente: Fiz uma alteração e testei o Dario, deu certo.
+
+Vou te pedir para tentar adicionar o Uelber agora. Estou acompanhando
+Cliente: vou pedir para adicionar
+Atendente: Sua chamada de treinamento às 14h está confirmada, e acabo de enviar o convite para diretoria@guinetelecom.com.br. Se precisar incluir mais alguém, nos avise :)
+
+A chamada será feita através do Google Meets
+Atendente: Quanto ao número pendente, a adição deve funcionar normalmente após as últimas modificações, mas nos avise se precisar de qualquer suporte :)
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Perfeito... combinado
+Cliente: por hora tudo certo...
+Cliente: volto a chamar as 14:00
+Atendente: Tá ótimo. Acabo de sair do celular também. Qualquer dúvida nesse meio tempo, é só chamar :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Olá, só para eu confirmar: você precisa que todos os chats que estão nas etapas do funil *proposta enviada 25%* e *proposta ganha 50%* agora estejam na nova etapa de funil *EM NEGOCIAÇÃO*.
+É isso, né?
+
+Estou perguntando só para confirmar e fazer a alteração aqui. :)
+Cliente: Olá ... e isso mesmo...
+Cliente: pode fazer sim...
+Atendente: Perfeito, irei fazer as alterações e assim que estiver realizado te aviso para você testar. 🙂
+Atendente: Boa tarde. :)
+Fiz os ajustes aqui. 
+
+Sempre que vocês add um chat ele entrará como "em aberto" e na etapa do funil *aguardando interação*. Assim que o cliente responder o chat irá para "em atendimento" e mudará para a etapa do funil *em negociação*
+Cliente: Excelente....
+Atendente: Posso lhe ajudar em algo mais?
+Cliente: por hora tudo certo...
+
+segunda feira voltamos com 100% da equipe e pode ser que vamos ajustanto alguma coisa...
+
+muito obrigado
+Atendente: Por nada. 😊
+Precisando é só nos acionar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte, bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Guiné! 
+Eu sou o Lucas Andrade, *suporte* do *ChatGuru*. 
+Como posso ajudar?
+Cliente: Preciso de uma ajuda, Lucas...
+
+A usuaria Mikely foi desligada e queria colocar outra em seu lugar...
+
+criei uma tag (MIKELY) para colocar em todos os chats dela.. e possível fazer isso em massa?
+Atendente: Vi que tem 113 chats delegados à Mikely. Você quer colocar a tag "Mikely" nesses chats?
+Cliente: sim
+Atendente: Ok, você também quer transferir os chats que estavam com ela para algum atendente?
+Cliente: Substituir o cadastro da mikely por este:
+
+*ANA LICE DE SOUZA CONSTANTINO*
+
+email: vendaonline2@guinetelecom.com.br
+
+Nova senha: vendaonline2
+Cliente: Na verdade eu ia criar um novo atendente mas ai já deixo a nova com o acesso dela.. só trocar os dados...
+Atendente: Alterei aqui.
+Atendente: Posso mandar os chats da Mikely para a Ana Lice?
+Cliente: Vc só alterou o nome do usuário mikely para ana lice, os chats ficam automaticos para ana lice, certo?
+
+Para saber os que estava, sendo tratados pela mikely só coloquei a tag..
+Atendente: Sim, os chats da Mikely já estão com a Ana Lice. 
+Você ainda quer colocar a TAG neles?
+Cliente: sim... colocar a tag (MIKELY) por favor..
+Cliente: Tenho o numero final 8459 que esta em amarelo aguardando carregar.... o que tenho que fazer?
+Atendente: Finalizado ✅
+Cliente: show
+Atendente: Deixe o celular conectado ao wifi, ligado na tomada, com a tela desbloqueada e aberto no whatsapp.
+Cliente: ok... esta assim
+Atendente: Faça novamente a leitura do qr-code.
+Atendente: Acesse o link dessa chamada: https://meet.google.com/ziw-wcao-yde
+Cliente: vou fazer a leitura.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Pessoal boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso de uma ajudinha..
+Atendente: Boa tarde, Guiné! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Cliente: Lucas, boa tarde
+Cliente: consegue me ajudar nessa alteração
+Atendente: Pronto! Está alterado.
+Atendente: Ajudo em mais alguma coisa?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: pessoal esta reclamando que o guru está muito lento para carregar
+Atendente: Olá Guiné! Bom dia tudo bem? Sou o Gustavo do Suporte do *ChatGuru*, como posso te ajudar? 😁
+Atendente: Está lento para carregar as mensagens dos chats?
+Cliente: Sim, está demorando para enviar e receber...
+Cliente: Parece que agora está voltando ao normal...
+Atendente: Aqui na plataforma eu verifiquei que estão conectados e não há mensagens na fila, se ocorrer de novo é só entrar em contato conosco, ok? 😁
+Atendente: Guiné eu vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui que lhe atenderemos 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: PESSOAL BOA TARDE
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: SUPORTE
+Cliente: Poderia me ajudar?
+Cliente: Esse cliente nos enviou arquivos em pdf... recebemos eles no celular mas não no guru.
+Atendente: Olá Guiné, Boa tarde. 
+Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ChatGuru*!  🙂
+
+Amigo(a) cliente, estamos ciente deste problema relacionado aos arquivos da plataforma, já foi rastreado a causa e estamos trabalhando na solução, peço desculpas por qualquer desconforto que possa ter sido derivado disso, mas não se preocupe que já está sendo solucionado, assim que o problema for resolvido irei lhe informar, pode ficar tranquilo.
+
+Vou fazer uns testes aqui na sua conta e logo lhe dou um retorno.
+Atendente: Olá, Já fiz os ajustes e testes aqui e a plataforma já voltou a receber arquivos. 🙂
+te ajudo em algo mais?
+Cliente: e isso mesmo..
+Cliente: obrigado
+Atendente: Por nada. Precisando é só nos chamar. :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Pessoal, bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Guiné. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Rodrigo, bom dia
+
+Preciso de mais 2 acessos ao sistema...
+Atendente: *Rodrigo Lacerda:* 
+Entendi. Essa contratação é feita com o nosso setor financeiro. Aguarde um instante que irei te transferir.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, bom dia! Será mais 2 usuários?
+Cliente: Bruna, bom dia
+Cliente: isso, são mais 2 acessos...
+Atendente: Guiné, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Bruna, segue o comprovante...
+Cliente: Quando conseguir liberar o acesso pode me avisar...
+Atendente: *Bruna Lira:* 
+Aviso sim, um momento.
+Cliente: ok... obrigado
+Cliente: será que conseguiu liberar os acessos?
+Cliente: Bruna, meu pagamento era feito via paypal mas já estamos fazendo boleto a 3 meses... ainda estou sendo cobrado em duplicidade... 
+
+poderia verificar com urgência...
+Atendente: *Bruna Lira:* 
+Encontrei aqui, vou pedir o reembolso e cancelar.
+Atendente: *✅ Concluído*
+
+*Guine Telecom*
+2 usuários adicionais
+*Total de 18 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Bruna ode me encaminhar o cancelamento de todas as cobranças pelo paypal... mes passado achei que ja tinha cancelado
+Atendente: *Bruna Lira:* 
+Desculpe não era que que fazia as cobranças por isso passou
+Atendente: *Bruna Lira:* 
+agora sou eu quem faço
+Cliente: ok... muito obrigado Bruna
+Atendente: *Bruna Lira:* 
+Imagina, peço desculpas pelo ocorrido
+Atendente: *Bruna Lira:* 
+solicitei o estorno.
+Cliente: ok
+Atendente: *Bruna Lira:* 
+Foi feito.
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60194e9e73116bf23e414f5a
+Cliente: olá, boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Nathally Dantas:* 
+Olá Guiné, Boa tarde !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Cliente: tudo bem Nathally
+Cliente: hoje tivemos alguns contatos adicionados e que não ficaram vinculados aos atendes que o fizeram..
+Cliente: como essa imagem que mandei
+Atendente: *Nathally Dantas:* 
+Só um momento por favor
+Atendente: *Nathally Dantas:* 
+Precisarei acessar seu aparelho para verificar, tem algum outro exemplo, ou apenas esse?
+Cliente: o outro exemplo acabei ajustando e não tirei print
+Atendente: *Nathally Dantas:* 
+Entendi, você tem algum número agora para adicionar e testar e verificar se funcionou.
+Cliente: vou tentar
+Cliente: como faço pra baixar arquivo recebido?
+Atendente: *Nathally Dantas:* 
+Só clicar e baixar normal.
+Atendente: *Nathally Dantas:* 
+Qual o arquivo você quer baixar?
+Atendente: *Nathally Dantas:* 
+Clica com o botão esquerdo do mouse e salvar como.
+Atendente: *Nathally Dantas:* 
+Olá. Nosso horário de expediente está se encerrando. Vou finalizar nosso atendimento por aqui. Caso tenha alguma dúvida, por gentileza retorne o contato a partir das 8h. Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c620873116bf23e4255ee
+Cliente: Pessoal, muito boa tarde..
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Tenho dois funcionários que foram desligados e preciso desativar o login deles ou trocar a senha... só para que eles não acessem mais o sistema..
+Atendente: *Luiz Modestino:* 
+Você pode apagar os usuários.
+Cliente: Mas só queria deixar inativo... ainda vou tratar os chats que eles tem adicionados..
+
+era só pra não acessarem mesmo.
+Atendente: *Luiz Modestino:* 
+ok
+Cliente: como faço
+Atendente: *Luiz Modestino:* 
+me informa os usuários e a senha que vai ficar
+Atendente: *Luiz Modestino:* 
+eu altero aqui
+Cliente: consegue mudar a senha:
+
+Senha: @desligado
+
+Roberto Loredo
+Eliene - vendaonline3
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Luiz Modestino:* 
+Feito
+Atendente: *Luiz Modestino:* 
+Senhas alteradas.
+Cliente: obrigado...
+Atendente: *Luiz Modestino:* 
+Por nada. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6021a73973116bf23e4336f3
+Cliente: Bom dia
+Cliente: poderia me ajudar
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Guiné, Bom dia. Meu nome é Hugo. Vou te enviar um passo a passo de como resolver isso.
+Atendente: Guiné Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção que possui o nome da sua conta.
+3) Clicar em START
+Atendente: Guiné, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: *Observação*, muito provável que o nome que irá aparecer no automate é o *nome da sua conta ChatGuru* 😉
+Cliente: fiz esse processo e não atualizou
+Cliente: .vou fazer novemanete
+Cliente: não atualizou
+Atendente: *Hugo:* 
+você ainda tem o app anydesk instalado no celular 9666 (vivo empresas)
+Atendente: *Hugo:* 
+?
+Cliente: sim
+Atendente: *Hugo:* 
+me informa o id para que eu possa acessar o seu aparelho.
+Cliente: 779344322
+Atendente: *Hugo:* 
+mantem o app aparecendo na tela.
+Cliente: ok
+Atendente: *Hugo:* 
+quando deixar o anydesk na tela me avisa aqui.
+Cliente: ja está
+Atendente: *Hugo:* 
+Se o app não estiver aparecendo na tela do celular o anydesk não permite a conexão.
+Cliente: emtrou
+Cliente: entrou..
+Cliente: tenta agora
+Atendente: *Hugo:* 
+Resolvido. Era problema na rede mesmo. Só precisei apertar o Start que voltou a funcionar.
+Cliente: Perfeito.. muito obrigadp
+Atendente: *Hugo:* 
+por nada. Qualquer coisa é só nos chamar.
+Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6033bdfc9f49179ac8946c38
+Cliente: Suporte, muito bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Eduardo, bom dia ...
+Cliente: tudo bem por ai?
+Atendente: *Eduardo Victor:* 
+Tudo em ordem 😁 E por ai?
+Cliente: Tenho alguns funcionários que foram desligados e acredito que possam estar acessando o sistema de fora do escritório...
+Cliente: 1° eu queria trocar a senha de todos os usuários...
+Cliente: Depois queria ver se podemos colocar alguns usuários acessando apenas pelo meu endereço de ip do escritório..
+Atendente: *Eduardo Victor:* 
+Todos eles, incluindo o administrador?
+Cliente: Alteração de senha, sim...
+Atendente: *Eduardo Victor:* 
+Tudo bem, eu posso alterar aqui pra você. Todos terão uma senha única ou diferente para cada?
+Atendente: *Eduardo Victor:* 
+Isso você consegue mudar diretamente na configuração da sua conta.
+Cliente: Vou fazer senhas individuais... diferentes...
+Cliente: posso fazer isso por usuário?
+Atendente: *Eduardo Victor:* 
+Certo, é só me mandar o e-mail do usuário e qual senha deve ser.
+Atendente: *Eduardo Victor:* 
+Não, nesse caso de IP, a configuração é para a conta toda
+Cliente: no caso eu com ADM acesso de casa... só o meu acesso pode ser liberado?
+Atendente: *Eduardo Victor:* 
+Não 😕 Mas você tem a opção de permitir vários ip's, então é só colocar o do escritório e o da sua casa
+Cliente: excelente
+Cliente: seria aqui... já está o meu ip...
+Atendente: *Eduardo Victor:* 
+Exatamente, ai mesmo
+Cliente: tem como saber se algum login acessou em outro ip?
+
+Se não for ip fixo?
+Atendente: *Eduardo Victor:* 
+Nesse caso ele não vai conseguir acessar, apenas se estiver com o IP permitido na configuração
+Cliente: blz.. ai tenho que colocara todo dia que ele for acessar... certo..
+Atendente: *Eduardo Victor:* 
+Seria o caso sim... Você também pode limitar o acesso dos usuários por horário e não por ip, se preferir, assim você consegue escolher qual terá a limitação ou não.
+Cliente: mas o problema e que acho que pode estar acessando de fora do escritório...
+Atendente: *Eduardo Victor:* 
+Mesmo após a mudança da senha, você acredita que continuarão acessando assim?
+Cliente: Acho que não... as primeiras senhas eu coloquei um padrão fica fácil de descobrir..
+Atendente: *Eduardo Victor:* 
+Então, acredito que alterando a senha para uma nova e colocando o limite de horário, esses casos de acesso em locais diferentes podem parar ou diminuir.
+Cliente: acredito que sim também...
+Cliente: mas vou dar uma bloqueada no ip também e depois eu volto... ai já cai geral..
+Atendente: *Eduardo Victor:* 
+Entendi, fico no aguardo da nova senha então 😉
+Cliente: posso enviar por aqui ou por e-mail?
+Atendente: *Eduardo Victor:* 
+Por aqui mesmo, eu preciso que você me envie nesse formato:
+
+Usuário: usuário@email.com
+Senha: novasenha123
+Cliente: vou enviar até o final do dia..
+Atendente: *Eduardo Victor:* 
+Tudo bem então, fico no aguardo 😁 Fora isso, eu consigo te ajudar em algo mais no momento?
+Cliente: e isso por hora..
+Atendente: *Eduardo Victor:* 
+Tudo bem, vou finalizando o seu chamado por ora e assim que estiver com as novas senhas, é só chamar, tá certo?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6046469e9f49179ac8994b69
+Cliente: Bom dia...
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Tudo bem pro ai... acho que comi bola mais uma vez... poderia solicitar ao financeiro o envio do boleto...
+Atendente: *Josué Dionizio:* 
+Olá Guiné Bom dia, tudo bem?
+Meu nome é *Josué* faço parte da equipe de suporte *Nivel 2* do *ChatGuru*, vou te transferir para o setor financeiro amigo😃
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá,bom dia!
+Um momento.
+Cliente: Bruna, muito obrigado..
+
+Deixa fazer uma pergunta.. tenho 3 usuários que foram desligados e devo demorar 2 meses para repor.. posso suspender o login deles e depois voltar .. para não ficar gerando custos..
+Atendente: *Bruna Lira:* 
+Pode sim
+Atendente: *Bruna Lira:* 
+Quer que ja remova desse boleto?
+Cliente: seria excelnte.
+Cliente: são 3 usuarios
+Atendente: *Bruna Lira:* 
+Você exclui esses usuarios, por favor?
+Cliente: tenho que excluir ou apenas inativar... os contatos que eles incluíram vão continuar?
+Cliente: vc consegue refazer o boleto?
+Atendente: *Bruna Lira:* 
+Você exclui eles por favor
+Atendente: *Bruna Lira:* 
+Finalizando aqui eu te envio o boleto, me avisa quando excluir eles por favor.
+Cliente: eu exclui o usurário roberto... consigo ver os chats que ele adicionou? eles são transferidos  automaticamente para outro? ou fica sem nenhum usuario?
+Atendente: *Bruna Lira:* 
+fica sem nenhum usuário, fica como "ninguem delegado", o suporte consegue ver os add chats via relatório e conseguem também  pegar os chats não delegados e atribuir a algum usuário caso tu queira
+Cliente: SHOWWW
+Atendente: *Bruna Lira:* 
+Você excluiu os 3 ja?
+Cliente: falta dois... só um segundo
+Cliente: sim.. agora sim
+Atendente: *Bruna Lira:* 
+Show,um momento.
+Atendente: *Bruna Lira:* 
+Vou te encaminhar um novo boleto
+Atendente: *Alteração Feita*
+✅
+*Guine Telecom*
+Remoção de 3 usuários
+*Total de 15 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/605b4894ecec98869e52ccfc
+Cliente: Pessoal boa tarde..
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Juliana Mota:* 
+Olá Guiné, Bom dia. Tudo bem com você?
+Seja Bem-Vindo(a) a *ChatGuru*!  🙂
+
+Como posso te ajudar?
+Cliente: Juliana,  bom dia
+Cliente: Preciso de uma ajuda... Fiz o desligamento de uma funcionaria..
+
+danielly.atila@guinetelecom.com.br
+
+Criei uma Tag (DANY) queria colocar em todos os chats que foram adicionados por ele e se possível transferir todos para meu usuário.
+
+Cesar Alberto Almeida Guiné..
+
+Já fiz isso uma vez de forma massiva.
+Cliente: consegue me ajudar?
+Atendente: *Juliana Mota:* 
+Consigo sim...
+Só para confirmar:
+
+Você quer que todos os chats que estão delegados a Danielly, recebam a TAG "dani" e sejam delegado ao usuário César Alberto.
+
+É isso, certo?
+Cliente: Perfeito.
+Atendente: *Juliana Mota:* 
+Alberto, já criei o diálogo, agora é só você criar a campanha. 
+Vou mandar um print com o passo a passo:
+Atendente: *Juliana Mota:* 
+Depois é só escolher os chats que irão ser delegados e receberão a tag, e para isso é só filtrar os chats delegados a danielly, e em seguida salvar campanha. (conforme imagem abaixo)
+Cliente: Vc consegue fazer?
+Atendente: *Hugo:* 
+Olá Guiné, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. A Juliana precisou sair para o intervalo e pediu que eu continuasse o agendamento. Eu já executei a campanha. Todos os chats que antes estavam com a danielly agora estão com o Cesar e todos receberam a tag "Dani".
+Atendente: *Hugo:* 
+Posso te ajudar com algo mais?
+Cliente: Perfeito.. preciso agora trocar a senha de dois usuários
+quality@guinetelecom.com.br
+danielly.atila@guinetelecom.com.br
+
+As duas foram desligas e não sei se consigo repor.. até sexta feira falo pra ver se vou excluir..
+
+Senha pode ser:
+
+#Guine21
+Atendente: *Hugo:* 
+senha alterada. Posso te ajudar com algo mais?
+Cliente: muito obrigado
+Atendente: *Hugo:* 
+por nada. Qualquer coisa é só nos chamar.
+Boa tarde! =D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/606c912eecec98869e57324e
+Cliente: Olá, boa tarde
+
+suporte...
+Cliente: preciso de uma ajuda
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Guiné! 
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Tudo bem? 😃
+Atendente: *Lucas Andrade:* 
+Como posso ajudar?
+Cliente: lucas blz
+Atendente: *Lucas Andrade:* 
+Tudo bem e você?
+Cliente: queria uma ajuda.. em relatoria de chat..
+Cliente: fiz umapesquisa e queria trabalhar o resultado entrando nos chats.. ]
+Cliente: mas quando entro ele da login duplicado.
+Atendente: *Lucas Andrade:* 
+Você pode me enviar um print da mensagem que aparece?
+Cliente: ele vai pra o cliente mas depois perde a pesquisa.. poderia me ensinar como posso usar melhor esse recurso?
+Cliente: vou para o chat e depois como eu volto
+Cliente: sim.. quando faço isso o login princila da log em duplicidade.. ai perco o 1°
+Cliente: desta forma em relatorio deu certo...
+Cliente: quando esta salvo..
+Atendente: *Lucas Andrade:* 
+Nesse caso, há quantas guias do ChatGuru abertas no navegador?
+Cliente: aconteceu
+Cliente: tem a minha.. e a nova que abri..
+Atendente: *Lucas Andrade:* 
+Sim
+Atendente: *Lucas Andrade:* 
+Você pode usar o modo anônimo do seu navegador
+Atendente: *Lucas Andrade:* 
+Navegando no modo anônimo você pode abrir quantas guias quiser sem dar duplicidade de login: https://computerworld.com.br/plataformas/como-ativar-o-modo-anonimo-no-chrome-edge-firefox-e-safari/
+Atendente: *Lucas Andrade:* 
+Isso, você pode abrir no máximo duas guias do ChatGuru
+Atendente: *Lucas Andrade:* 
+No modo anônimo, como orientei acima, você pode abrir mais guias
+Atendente: *Lucas Andrade:* 
+https://computerworld.com.br/plataformas/como-ativar-o-modo-anonimo-no-chrome-edge-firefox-e-safari/
+Cliente: blz.. vou testar
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde!
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Guiné. Boa tarde! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Estou com problemas para abrir os chats
+Cliente: está instável
+Cliente: Usuário victor não consegue visualizar as conversas do chat..
+Atendente: *Carlos:* 
+Verifiquei e a conexão está normal
+Atendente: *Carlos:* 
+Pode ser a internet oscilando
+Atendente: *Carlos:* 
+Como aparece para o usuário Victor? alguma mensagem? não carrega a página? não entra na conta?
+Atendente: *Carlos:* 
+se me explicar, creio que consifgo ajudar
+Atendente: *Carlos:* 
+Guiné, vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60760613ecec98869e59c320
+Cliente: bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Está apresentando uma mensagem: "não foi possivel abrir o chat indicado" quando eu tento abrir alguns chats
+Cliente: alguns funcionam e alguns não...
+Atendente: *Luiz Modestino:* 
+Pode enviar um print do erro?
+Cliente: estou tentando, mas a imagem fica carregando e não envia...
+Atendente: *Luiz Modestino:* 
+Diz o nome de chat
+Atendente: *Luiz Modestino:* 
+que esta com problema
+Cliente: todos estão com essa instabilidade, eu envio mensagens, ela fica "cadastrando mensagem" as vezes envia, as vezes não...
+Atendente: *Luiz Modestino:* 
+"cadastrando mensagem": isso geralmente ocorre devido falha na internet. Reinicia o roteador, Por aqui o acesso a conta esta normal.
+Cliente: é que todos os usuários estão normais, somente o meu está assim...
+Atendente: *Luiz Modestino:* 
+Todos utilizam a mesma rede?
+Cliente: sim
+Atendente: *Luiz Modestino:* 
+Reinicia tua máquina
+Cliente: ok
+Cliente: agora aparenta ter voltado ao normal..
+Atendente: *Luiz Modestino:* 
+Show. Posso ajudar em algo mais?
+Cliente: Não, somente.. obg.
+Atendente: *Luiz Modestino:* 
+Por nada. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6076eac1ecec98869e59e379
+Cliente: Boa tarde.
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Guiné! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Eduardo, boa tarde
+Cliente: Acredito que seja com o financeiro... 
+
+Tenho dois usuários que foram deligados a 10 dias e vou excluir.. que ver de abater os valores e verificar a inclusão de mais um numero de atendimento.
+Atendente: *Eduardo Victor:* 
+Tudo bem, a conclusão é com eles mesmo. Você já excluiu os 2 usuários que vai remover da conta?
+Cliente: SIM.. ESTOU REMOVENDO AGORA.
+Cliente: Já foram excluidos..
+Atendente: *Eduardo Victor:* 
+Vou te encaminhar para o Financeiro, só um momento
+Cliente: ok.. obrigado..
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Estou saindo para almoçar rapidinho e volto em 20 minutos
+Cliente: Acredito que seja com o financeiro...
+
+Tenho dois usuários que foram deligados a 10 dias e vou excluir.. que ver de abater os valores e verificar a inclusão de mais um numero de atendimento
+Atendente: *Bruna Lira:* 
+Olá, boa tarde! é aqui sim
+Atendente: *Bruna Lira:* 
+Você exclui por favor os usuarios que nao deseja mais?
+Atendente: *Bruna Lira:* 
+Referente ao numero, o valor é de R$297,00 mensais
+Cliente: olá, os usuarios já foram excluidos..
+Cliente: Para adicionar o numero será dentro da minha estrutura atual.. o Custo seria só esse de R$ 297,00?
+
+Temo como melhorar um pouco o valor final total com o numero a mais?
+Atendente: *Bruna Lira:* 
+Consigo dar 10% de desconto.
+Cliente: No valor final total...??
+Cliente: consegue me passar como ficaria?
+Cliente: tirando os dois usuários e colocando um numero a mais
+Cliente: Consegue me passar?
+Atendente: *Bruna Lira:* 
+Consigo,um momento.
+Atendente: *Bruna Lira:* 
+No numero.
+Atendente: *Bruna Lira:* 
+Vai ficar R$1930,10
+Cliente: fica muito puxado... infelizmente estamos tentando dar uma reduzida nos custos.. 
+
+mas ok.. pode excluir os dois usuários e depois decido na contratação de mais uma numero..
+Atendente: *Bruna Lira:* 
+Combinado,um momento.
+Atendente: *Bruna Lira:* 
+Pedi a remoção, vou te enviar o boleto atualizado.
+Atendente: *Alteração Feita*
+✅
+*Guine Telecom*
+Remoção de 2 usuários
+*Total de 13 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/607edb37ecec98869e5c1884
+Cliente: boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Eu novamente esquecendo de pagar o boleto.. poderia reenviar com a data de hoje?
+Atendente: *Eduardo Victor:* 
+Boa tarde, Guiné! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+
+Vou te encaminhar para o nosso Financeiro, tudo bem?
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: edurado, aproveitando estamos percebendo que está lento o site... 
+
+está meio esquisito ... consegue verificar
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: Bruna eu novamente.. pode atualizar o boleto
+Cliente: esqueci de pagar mas uma vez...
+Atendente: *Bruna Lira:* 
+Segue
+Cliente: obrigado...
+Atendente: *Bruna Lira:* 
+Por nada
+Atendente: *Bruna Lira:* 
+vou te devolver ao suporte para resolver a questão da lentidão
+Cliente: obrigado..
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: *Vanessa Dias:* 
+Olá Guiné, tudo bem? Sou a Vanessa do Suporte do ChatGuru. Informou que está enfrentando lentidão no sistema, correto?
+Cliente: ISSO
+Atendente: *Vanessa Dias:* 
+No momento não encontrei fila. Estava com fila no envio de mensagens?
+Cliente: esta com lentidão para carregar os chats
+Atendente: *Hugo:* 
+Olá Guiné, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. A Vanessa precisou sair para o intervalo e pediu que eu desse continuidade ao atendimento. Eu acessei sua conta e os chats estão abrindo normalmente. Se o problema ainda estiver ocorrendo, tenta realizar um teste de velocidade por favor.
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte, boa tarde..
+
+Preciso de ajuda..
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Guiné! Tudo bem?
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso ajudar? 😃
+Cliente: Lucas, Esta difícil trabalhar o funil ... Estou abrindo no modo anônimo em uma outra aba e a principal fecha por mult login...
+Atendente: *Lucas Andrade:* 
+Mesmo abrindo na aba anônima? Você pode gravar um vídeo e me enviar, por favor?
+Cliente: cara dificil video... pode conectar remoto.
+Atendente: *Lucas Andrade:* 
+Você tem o Anydesk instalado no PC?
+Cliente: sim...
+Cliente: tenho que entrar em uma reunião de ultima hora agora.. será que poderia as 14:30
+Atendente: *Lucas Andrade:* 
+Sim, volte a falar às 14h30. Por enquanto ajudo em algo mais?
+Cliente: por hora e isso..
+Atendente: *Lucas Andrade:* 
+Tudo bem. Estou finalizando seu atendimento.
+Qualquer coisa, entre em contato! 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/608adeddecec98869e5fa208
+Cliente: lucas
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Podemos?
+Cliente: quando puder..
+Atendente: *Vanessa Dias:* 
+Olá Guiné, tudo bem? Sou a Vanessa do Suporte do ChatGuru, como posso te ajudar?
+Cliente: Esta difícil trabalhar o funil ... Estou abrindo no modo anônimo em uma outra aba e a principal fecha por mult login
+
+ou estou fazendo alguma coisa errada..
+Atendente: *Vanessa Dias:* 
+Qual navegador está utilizando? Eu localizei o nome da empresa, mas não seu nome pessoal. Pode me informar seu nome por favor
+Cliente: Cesar Guine
+Atendente: *Vanessa Dias:* 
+Oi Cesar. Está utilizando o chrome como navegador?
+Cliente: sim
+Cliente: sim..
+Cliente: Ja fiz de todo jeito...
+Cliente: ambos como anonimo... quando volto a principal saiu
+Atendente: *Vanessa Dias:* 
+Teria que usar um como anônimo e outro normal. De qualquer forma, eu posso te auxiliar nas dúvidas sobre o Funil. Está fazendo testes come ele?
+Cliente: ja fiz dessa forma...
+Cliente: vc quer acessar remoto aqui..
+Atendente: *Vanessa Dias:* 
+Nós não temos permissão para acessar computadores, apenas celular.
+Cliente: eita...
+Cliente: vamos fazer uma reunião e compartilho a tela.. pode ser
+Atendente: *Vanessa Dias:* 
+Nesse horário estamos com o time reduzido e reuniões acabam impactando, mas se for apenas para ver a sua tela e a maior parte das dúvidas continuamos a conversar por aqui, é possíve. Ou se puder aguardar até as 16 horas, fica mais fácil para fazermos essa reunião
+Cliente: pode ser as 16:00
+Cliente: amanhã vou bater funil com a equipe e preciso estar afiado
+Atendente: *Vanessa Dias:* 
+Cesar, obrigada por ter aguardado! Não consegui encaixar essa breve reunião nem agora às 16 horas. Você tentou acessar no modo anônimo no Chorome e no normal em outro navegador já?
+Cliente: vou tentar fazer em dois navegadores..
+Atendente: *Vanessa Dias:* 
+Ok Cesar. Pode nos informar se deu certo por favor
+Atendente: *Vanessa Dias:* 
+Oi Cesar. Deu certo de usar dois navegadores?
+Cliente: nÃO
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Vanessa Dias:* 
+Bom dia Cesar, tudo bem? Você informou ontem que não conseguiu abrir duas abas da plataforma mesmo usando dois navegadores, certo? Se tiver disponibilidade antes das 10 de fazermos uma reunião rápida e você me mostrar, estou à disposição
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Luiz, bom dia
+
+preciso de uma ajuda... 
+
+Acredito que seja uma melhoria... como trabalho com corporativo, ou seja meus cadastros todos são por CNPJ precisava uma forma de fazer a pesquisa pelo CNPJ..
+Cliente: Seria incluir o campo CNPJ no momento de cadastra o chat.
+Cliente: Se possivel colocar abaixo do campo aparelho ou do campo responsável...
+Atendente: *Luiz Modestino:* 
+Entendi. Vou sugerir ao setor de desenvolvimento.
+Cliente: e possível? consegue me dar um retorno quando?
+Atendente: *Luiz Modestino:* 
+A viabilidade de implementação fica a cargo do setor de desenvolvimento avaliar. Infelizmente não tenho como te da um prazo. Novas funcionalidades você pode acompanhar pelo link que te enviamos no final do atendimento.
+Cliente: essa solicitação já fiz algum tempo... acho que a dois meses...
+
+até o momento não tive retorno...
+Atendente: *Luiz Modestino:* 
+Possivelmente foi enviada para o backlog. A partir dai o setor precisa de um tempo para iniciar implementação, devido as outras demandas da fila.
+Cliente: e que não tive nem retorno se e posivel..
+Atendente: *Luiz Modestino:* 
+Em si, é algo que creio que seja possível de ser feito. Seria um dado a mais de filtro. O que os desenvolvedores avaliam também é se é viável construir esse recurso na ferramenta. Por isso que ainda não deram um retorno.
+
+Você pode ir acompanho as demandas em produção por esse link https://app.getbeamer.com/zapguru/en
+Cliente: certo, essa que solicitei teria como saber ?
+Atendente: *Luiz Modestino:* 
+Infelizmente não tenho como saber, por se tratar de procedimentos de um outro setor.
+Atendente: *Luiz Modestino:* 
+Posso te ajudar em algo mais?
+Cliente: e possível falar com alguém do setor de desenvolvimento?
+Atendente: *Hugo:* 
+Olá Guiné, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. O Luiz precisou sair para o intervalo e pediu que eu seguisse com o atendimento.
+Atendente: *Hugo:* 
+Não é possível. Quando recebemos alguma sugestão nós registramos ela para que seja avaliada. Não temos como dar um retorno se/ quando a sugestão será implantada. 
+Você pode ficar acompanhando as atualizações realizadas na ferramenta por esse link:  https://app.getbeamer.com/zapguru/en
+Cliente: ok
+Cliente: obrigado pelas informações..
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar. 
+Boa tarde! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60ae68a3ecec98869e6a321d
+Cliente: Pessoal, muito bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Guiné, Bom dia. Meu nome é Hugo e eu sou do suporte do ChatGuru. No que eu posso te ajudar?
+Cliente: Preciso ativar  mais um usuário e gostaria de acrescentar mais um numero
+Cliente: bom dia hugo
+Atendente: *Hugo:* 
+O valor de um usuário adicional é de apenas R$50/ mês e o do número adicional é de apenas R$297/ mês. Lembrando que o número adicional terá todos os módulos do número principal, exceto o módulo addchat.
+Cliente: Não consigo adicionar chat?
+Atendente: *Hugo:* 
+Consegue, mas é necessário contratar mais um módulo addchat para o novo número. O módulo addchat é contratado por número.
+Cliente: queria fazer igual aos que ja tenho... 
+
+preciso ter um numero de cada operadora.
+Cliente: quanto custaria
+Atendente: *Hugo:* 
+Vou te encaminhar para o financeiro para que eles te passem melhor os valores. 😊
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: consegue fazer um preço bacana?
+Cliente: estou indo levar minhas filhas na escola volto em 25 minutos...
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Conseguimos 10% de desconto
+Cliente: boa... cheguei
+Cliente: kkk
+Cliente: consegue me passar quanto ficaria
+Atendente: *Bruna Lira:* 
+R$312,30
+Cliente: Fechado...
+Cliente: podemos incluir..
+Atendente: *Bruna Lira:* 
+Show, um momento.
+Atendente: *Bruna Lira:* 
+Ah! uma coisa importante
+Atendente: *Bruna Lira:* 
+Lembrando que o número adicional não acompanha o Módulo de Adicionar Chats, esse módulo é cobrado a parte para cada número.
+Cliente: Bruna mas nesse valor vc não colocou o adiciona chat?
+Cliente: Preciso ter o numero das 3 operadoras adicionando... 
+
+Vivo, Claro e Tim...
+Cliente: consegue?
+Atendente: *Bruna Lira:* 
+Não... com o add chats fica:R$375,30:  1 numero, add chats e 1 usuario.
+Cliente: valor de adicionar o chat qual seria?
+Atendente: *Bruna Lira:* 
+R$70,00 mensais
+Cliente: Blz... consegue dar um descontinho no geral...
+
+ai ja fechamos..
+Cliente: bora lá
+Atendente: *Josué Dionizio:* 
+Guiné, peço que aguarde um momenot o financeiro está em horário de almoço, assim que retornar dará continuidade :D
+Cliente: Agurado sim..
+Cliente: Aguardo..
+Atendente: *Bruna Lira:* 
+Oiiii
+Atendente: *Bruna Lira:* 
+bora, olha, consigo desta vez 15%
+Cliente: blz...
+Cliente: quanto fica final?
+Cliente: Pode fechar... só me passa o valor de quanto ficou?
+Atendente: *Bruna Lira:* 
+R$354,45
+Atendente: *Bruna Lira:* 
+Pode seguir?
+Cliente: pode sim
+Atendente: Guiné, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Feito...
+Cliente: fico só no aguardo...
+Cliente: ja estou com o numero aqui no aparelho
+Cliente: vou almoçar rapidinho.
+Atendente: *Bruna Lira:* 
+Me passa o numero por favor
+Atendente: *Alteração Feita*
+✅
+*Guine Telecom*
+1 usuário adicional
+*Total de 14 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Numero para adicionar...
+
+11930120631
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: ok
+Cliente: podemos ativar o numero?
+Cliente: OLÁ..
+Atendente: *Bruna Lira:* 
+Aguarde o retorno por favor
+Cliente: OK... Obrigado Bruna..
+Atendente: *Bruna Lira:* 
+Por nada!
+Ai depois te passo para o suporte configurar seu Add chats
+Cliente: ok... fico no aguardo do suporte
+Cliente: bom dia..
+Atendente: Bom dia Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Será que podemos incluir o novo numero
+Cliente: bom dia
+Cliente: Será que podemos incluir o novo numero
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Atendente: *Bruna Lira:* 
+Vou falar com o responsável.
+Cliente: Olá, bom dia...
+Cliente: Gostaria de colocar agora pela manhã para equipe.
+Cliente: obrigado
+Atendente: *Alteração Feita*
+✅
+_Guine Telecom_
+Numero de whatsapp adicional: +55 11930120631
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Bruna Lira:* 
+Vou te enviar ao suporte para que configurem seu add chats nele
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: ok
+Atendente: *Hildesson Ramos:* 
+Olá Guiné, Bom dia. Meu nome é *Hildesson*, sou do time de suporte do *ChatGuru*. 😊
+
+Vou te ajudar nessa etapa de configuração do seu aparelho.
+Cliente: vamos lá, bom dia
+Cliente: aparelho ja esta aqui
+Cliente: pode acessar
+Atendente: *Hildesson Ramos:* 
+Preciso que você instale os aplicativos abaixo antes de iniciarmos a configuração.
+
+✅ AnyDesk Remote Control (App Principal):  https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid
+✅ AnyDesk Plugin Ad1 (Complemento): https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1
+✅ Automate: https://play.google.com/store/apps/details?id=com.llamalab.automate
+✅ Automate superuser: https://play.google.com/store/apps/details?id=com.llamalab.automate.ext.superuser
+✅ keepscreenon: https://play.google.com/store/apps/details?id=fr.lkstudios.keepscreenon
+
+Depois disso, basta ir nas *configurações do aparelho*, em *Acessibilidade*, ir em *Serviços instalados ou transferidos* e deixar o *Anydesk Plugin Ad1* como *Ativado*.
+
+assim que foram instalados, me fala para que eu possa acessar seu aparelho
+Cliente: ja estão
+Atendente: *Hildesson Ramos:* 
+Ótimo, deixe o Anydesk aberto na tela do aparelho para que eu possa acessar.
+Atendente: *Hildesson Ramos:* 
+Pode aceitar a conexão
+Atendente: *Hildesson Ramos:* 
+Não estou conseguindo ter acesso ao aparelho, preciso que você vá em *acessibilidade, ir em Serviços instalados ou transferidos e deixar o Anydesk Plugin Ad1 como Ativado.*
+
+só assim vou conseguir acessar o aparelho.
+Cliente: deu certo
+Cliente: seria ai
+Atendente: *Hildesson Ramos:* 
+vou lá no topo da tela
+Atendente: *Hildesson Ramos:* 
+clica em serviços transferidos
+Atendente: *Hildesson Ramos:* 
+provavelmente o aoo abaixo não está instalado
+
+✅ AnyDesk Plugin Ad1 (Complemento): https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1
+
+por favor, baixa ele e faz esse mesmo caminho para ativa-lo.
+Atendente: *Hildesson Ramos:* 
+pode desativar o automate
+Atendente: *Hildesson Ramos:* 
+basta ir na play store e digitar *AnyDesk Plugin Ad1*
+Cliente: so um segundo
+Atendente: *Hildesson Ramos:* 
+Tranquilo
+Cliente: foi
+Cliente: ja esta abrindo..
+Atendente: *Hildesson Ramos:* 
+Pronto, agora você vai ativar o plung em configurações do aparelho,> acessibilidade, > serviços instalados ou transferidos e deixar o Anydesk Plugin Ad1 como ativado.
+Atendente: *Hildesson Ramos:* 
+primeiro aguarde instalar
+Atendente: *Hildesson Ramos:* 
+ai mesmo, é só ativar
+Cliente: acho que agora ok.
+Cliente: acho que ja esta ativado
+Atendente: *Hildesson Ramos:* 
+favor desconsiderar a essa mensagem
+Atendente: *Hildesson Ramos:* 
+desconsidera isso, pode ativar
+Cliente: consegue mexer agora?
+Cliente: onde estou agora?
+Atendente: *Hildesson Ramos:* 
+Isso, pode ativar!
+Atendente: *Hildesson Ramos:* 
+agora reinicia o aparelho
+Cliente: acho que foi?
+Cliente: estou reiniciando
+Atendente: *Hildesson Ramos:* 
+ok, fico no aguardo
+Atendente: *Hildesson Ramos:* 
+quando reiniciar me avisa, para que eu realize um novo acesso
+Cliente: pode acessar
+Atendente: *Hildesson Ramos:* 
+Não consigo ter acesso ao playstory, por favor baixa o app abaixo
+
+✅ keepscreenon: 
+https://play.google.com/store/apps/details?id=fr.lkstudios.keepscreenon
+Atendente: *Hildesson Ramos:* 
+por favor pode colocar na tela do anydesk novamente?
+Cliente: TA LA
+Cliente: Conseguiu?
+Atendente: *Hildesson Ramos:* 
+sim
+Atendente: *Hildesson Ramos:* 
+Pronto, aparelho configurado, para evitar a desconexão é importante seguir as orientações abaixo:
+
+❌ Não desconecte seu aparelho da tomada.
+❌ Não desconecte seu aparelho da internet
+❌ Evite usar o aparelho para outros fins, se for necessário utilizar o chip para qualquer outro tipo de ação, retire do aparelho e coloque em outro.
+❌ Não conecte seu aparelho em outra plataforma (Ex: Whatsapp Web). Isso irá interromper a conexão com o Chatguru.
+❌ Não arquive conversas, pois isto pode interromper a sincronização com a plataforma. As conversas arquivadas no aparelho continuam consumindo memória e não há necessidade de arquivá-las fora da plataforma
+⚠ Deixe sempre a tela aberta com os dois aplicativos (Whatsapp e Keep my screen on) abertos como está configurado.
+✅ Seguindo tudo direitinho nunca terá problemas.
+Atendente: *Hildesson Ramos:* 
+já fez a leitura do QRcode? caso negativo pode realizar a leitura.
+Atendente: *Hildesson Ramos:* 
+Aparelho conectado, tem mais alguma dúvida?
+Cliente: consegui conectar
+Cliente: preciso de uma ajuda no cadastro de equipe
+Cliente: pode me ajudar?
+Cliente: Estou incluído um novo acesso que será minha supervisora..
+
+como faço pra criar a equipe?
+
+ele terá 3 consultores abaixo dela
+Atendente: *Hildesson Ramos:* 
+Você deseja criar um departamento, né isso?
+Cliente: ja até criei...
+Cliente: Comercial 2
+
+Erika seria a supervisora e deveria ver os chat das consultoras dela... 
+
+Ana lice
+Julia
+Lavinia (Ainda será criado)
+Atendente: *Hildesson Ramos:* 
+Entendi, um momento
+Cliente: obrigado
+Atendente: *Hildesson Ramos:* 
+Erika já possui usuário criado?
+Cliente: acabei de criar
+Cliente: Já esta la dentro
+Cliente: Consegue me ajudar?
+Atendente: *Hildesson Ramos:* 
+Sim
+Atendente: *Hildesson Ramos:* 
+Você precisa apenas que a Erika também tenha acesso aos chats de Ana lice, Julia, Lavinia, correto?
+Cliente: isso..
+Cliente: ela precisa ver o delas
+Atendente: *Hildesson Ramos:* 
+ok, vou dá o start aqui
+Atendente: *Hildesson Ramos:* 
+Preciso de uma ajuda sua, você pode criar duas tag uma com o nome de Julia e a outra com o nome de ana lice?
+Cliente: ok.. vou criar
+Atendente: *Arthur Ferragini:* 
+Para te ajudarmos melhor, preciso de mais algumas informações.
+
+A Erika precisa ser adicionada apenas aos chats atuais do departamento, ou também aos chats futuros, como no rodizio?
+Cliente: olá..
+Cliente: Ela tem que ser adicionada aos chats atuais e futuros ... Nos não fazemos rodizio
+Cliente: Quero que ela como supervisora veja os chats da equipe dela..
+
+preciso que ela veja o funil da equipe dela também...
+Atendente: *Arthur Ferragini:* 
+Sobre os chats *futuros*, precisamos definir como um chat chegará ao departamento comercial 2.
+
+Isso será feito via rodizio ou via chatbot?
+Cliente: E possivel a erika ver o funil do departamento dela
+Cliente: os chats são sempre incluidos pelos consultores... 
+
+sempre ativos...
+Cliente: Arthur vc prefere me ligar e explico caso naço tenha entendido
+Cliente: deu certo?
+Atendente: *Arthur Ferragini:* 
+Opa, acho que entendi: os chats que vão para a Ana Lice, por exemplo, *são sempre adicionados por ela*, é isso mesmo?
+Cliente: São adicionados por elas.. isso mesmo..
+
+MAs a supervisora tem sempre ver os chats delas
+Cliente: a Erika ainda não ve os chast das meninas..
+Atendente: *Hildesson Ramos:* 
+Entendi, vou iniciar a configuração nesse momento.
+Cliente: joia.. obrigado
+Cliente: despois que fizer tenho uma duvida do funil
+Atendente: *Hildesson Ramos:* 
+Enquanto a campanha está rodando posso te ajudar com a dúvida do funil?
+Cliente: OPA
+Cliente: Tem como usuario:
+
+Exemplo: Julia 
+
+Só ver o funil dela e não visualizar o restante que esta no departamento dela?
+Atendente: *Hildesson Ramos:* 
+Campanhas finalizadas com sucesso, todos os chats antigos que pertencem a Julia e Ana Lise, também estão delegados para Erika, para que os novos chats também sejam delegados será necessário executar um dialogo manual, só assim o sistema irá delegar manualmente para a Erika.
+Cliente: entendi... da pra deixar isso já automático em todos chats adicionados por elas?
+Atendente: *Hildesson Ramos:* 
+vou precisar criar um dialogo para que os chats sejam direcionados para o comercial 2
+Atendente: *Hildesson Ramos:* 
+Posso seguir?
+Cliente: mas se a julia estiver dentro do comercial 2 ela vai ver os dela e todos os outros..
+
+teria como só ver o dela?
+Cliente: pode sim...
+Atendente: *Hildesson Ramos:* 
+A Erika e supervisora dos três números?
+Cliente: NÃO
+Cliente: OPA
+Cliente: DOS 3 NUMEROS MAS SÓ DAS 3 CONSULTORAS..
+Cliente: SERIA ISSO..
+Atendente: *Hildesson Ramos:* 
+Sim!
+Cliente: BOA.. VOU TESTAR.
+Atendente: *Hildesson Ramos:* 
+Ficou alguma dúvida?
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Suporte, bom dia..
+Cliente: preciso de uma ajuda... 
+
+a funcionaria Paloma não esta mais na empresas...
+
+Preciso passar todos os chatas dela para meu nome (Cesar Guiné) deixando identificado com a TAG (PALOMA). Eu ja criei a tag.
+
+Usuário dela será passado para outro.... 
+
+
+ vendaonline1@guinetelecom.com.br
+
+Senha: @#Lavinia.0106
+Cliente: Nome do novo Usuário:
+
+Lavínia Gonçalves Barros
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Gadonski:* 
+Bom dia, Guiné! Sou o *Rodrigo* e faço parte da equipe de suporte do *ChatGuru!* 🙂
+Atendente: *Rodrigo Gadonski:* 
+Aguarde um momento por favor.
+Cliente: Rodrigo, bom dia
+Cliente: ok
+Cliente: Consegue me ajudar?
+Atendente: *Rodrigo Gadonski:* 
+Sim, já estou trabalhando nisso. 😉
+Cliente: isso mesmo..
+Cliente: perfeito
+Atendente: *Rodrigo Gadonski:* 
+Na próxima tela você pode iniciar a campanha e me avisa para que possa acelerar o processo pra você. Quando terminarmos vou alterar o usuário conforme solicitado.
+Cliente: vc consegue colocar pra rodar a campanha?
+Cliente: vou me ausentar por 10 minutos..  ja volto.
+Atendente: *Rodrigo Gadonski:* 
+Infelizmente não é possível, não temos permissão para realizar ações nas contas dos clientes, só posso alterar o usuário e acelerar a campanha.
+Atendente: *Luana Cavalcanti:* 
+Olá!
+Me chamo Luana. O Rodrigo precisou sair para uma reunião, mas eu seguirei com seu atendimento. 😊
+Cliente: PERFEITO.
+Atendente: *Luana Cavalcanti:* 
+Posso te ajudar em algo mais?  🙂
+Cliente: vou colocar pra rodar..
+Atendente: *Luana Cavalcanti:* 
+Excelente! 😊
+Cliente: fico em duvida... na semana passada fiz isso duas vezes e o próprio suporte fez ..
+Atendente: *Luana Cavalcanti:* 
+Por padrão não temos permissão para Criar/Realizar campanhas para os clientes, apenas acelerar ou tirar dúvidas. Podem ter feito para lhe auxiliar pontualmente, mas o certo é apenas indicarmos ao cliente como realizar a campanha. 😊
+Atendente: *Luana Cavalcanti:* 
+Conseguiu executar a campanha? 😊 Posso ajudar em algo mais?
+Cliente: joia...
+Cliente: estou com a equipe aqui e não consegui fazer ainda...
+Cliente: sabe me dizer se os dados do usuários foram alterados.
+Atendente: *Luana Cavalcanti:* 
+Desculpe, não entendi a pergunta. Por gentileza me informe se está perguntando se alteramos permissão de usuários? Se sim, não fizemos nenhuma alteração. 😊
+Cliente: preciso de uma ajuda...
+
+a funcionaria Paloma não esta mais na empresas...
+
+Preciso passar todos os chatas dela para meu nome (Cesar Guiné) deixando identificado com a TAG (PALOMA). Eu ja criei a tag.
+
+Usuário dela será passado para outro....
+
+
+vendaonline1@guinetelecom.com.br
+
+Senha: @#Lavinia.0106 08:33
+
+Nome do novo Usuário:  Lavínia Gonçalves Barros
+Cliente: vc consegue fazer uma video conferencia para que eu possa colocar pra rodar..
+Atendente: *Luana Cavalcanti:* 
+Certo, isso é o que você deseja que a campanha execute. Isso mesmo?
+Criou a campanha seguindo o passo a passo que o Rodrigo lhe enviou? 😊
+Atendente: *Rodrigo Gadonski:* 
+Cesar voltei, os dados do usuário ainda não foram alterados, vamos executar a campanha primeiro para que nenhum chat seja perdido. Assim que finalizar a campanha eu altero os dados do usuário pra você.
+Cliente: vamos lá
+Cliente: manda de novo o passo a passo
+Cliente: por favor
+Atendente: *Rodrigo Gadonski:* 
+Na próxima tela você pode iniciar a campanha e me avisa para que possa acelerar o processo pra você. Quando terminarmos vou alterar o usuário conforme solicitado.
+Cliente: boa
+Cliente: Ta feito
+Atendente: *Hugo:* 
+Olá Guiné, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. O Rodrigo precisou sair para o intervalo e pediu que eu seguisse com o atendimento até ele retornar. Já fiz a alteração solicitada no usuário e já estou acelerando a campanha.
+Cliente: show de bola hugo... 
+
+Os chats dela vão ficar no meu nome mas com a TAG *PALOMA*
+Atendente: *Hugo:* 
+A campanha já foi finalizada.
+Atendente: *Hugo:* 
+Posso te ajudar com algo mais?
+Cliente: Alteração do ususario já esta ok?
+Atendente: *Hugo:* 
+ja sim.
+Cliente: perfeito... muito obrigado..
+Atendente: *Hugo:* 
+Por nada. Posso te ajudar com algo mais? 😊
+Cliente: Queria marcar com vc uma conferencia pra me dar umas dicas de relatorios e gestão..
+
+fico meio perdido...
+Atendente: *Hugo:* 
+você pode hoje as 16h?
+Cliente: consegue amanhã as 16:00?
+Atendente: *Hugo:* 
+esse horário está sem agenda disponível, pode ser amanhã as 17h?
+Atendente: *Hugo:* 
+ou amanha as 11h
+Cliente: SIMMMM.. PODE SIM
+Atendente: *Hugo:* 
+qual dos dois horários? 17h ou 11h?
+Cliente: 17:00 pode confirmar
+Atendente: *Hugo:* 
+Está agendado. Posso te ajudar com algo mais?
+Cliente: era so isso mesmo..
+Cliente: muito obrigado
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar.
+Boa tarde! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60be432cecec98869e6ee8a9
+Cliente: Boa tarde
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Guiné. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Hugo, tudo certo para nosso bate papo?
+Atendente: *Hugo:* 
+Tudo certo sim. 😊
+Cliente: blz
+Cliente: ja estou por la
+Atendente: *Hugo:* 
+Então vou acesso agora também. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60bfdb6aecec98869e6f9892
+Cliente: boa tarde..
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso de uma ajuda do suporte..
+Atendente: *Gabriela Rodrigues:* 
+Boa tarde Guiné, meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, tudo bem? 
+
+Como posso te ajudar?
+Cliente: Gabriela boa tarde
+Cliente: preciso trocar a ordem que aparece o funil no chat...
+Cliente: pode me ajudar
+Atendente: *Gabriela Rodrigues:* 
+Posso sim! Qual seria a ordem que você gostaria que aparecesse?
+Cliente: Comercial deveria ficar no topo..
+Cliente: quando eu abro funil esta o funil 
+
+Carteira Guiné
+Cliente: Queria que o Funil 
+
+Comercial ficasse em 1°
+Atendente: *Gabriela Rodrigues:* 
+Eu entendi a sua solicitação, mas infelizmente não é possível alterar a ordem de criação do funil, mas levarei a sua sugestão para a nossa equipe técnica. 
+
+Só mais uma coisa, você gostaria que todos os usuários que visualizam o funil Carteira Guiné também visualizem o Comercial?
+Cliente: sim...
+Cliente: são duas gestões...
+Cliente: uma tenho o vencimento do contrato dos clientes da carteira.. 
+
+outro seria das negociações...
+Atendente: *Gabriela Rodrigues:* 
+Ah, sim. Entendi. Me desculpe, anteriormente eu tinha entendido que você gostaria de mudar a ordem das etapas do funil.
+
+Levarei a sua sugestão para a nossa equipe técnica, ok? Fora isso, posso te ajudar em algo mais? 😊
+Atendente: *Gabriela Rodrigues:* 
+Guiné, posso te ajudar em algo mais? 😊
+Atendente: *Gabriela Rodrigues:* 
+Guiné, encontrei uma solução para o seu problema. 😊
+
+A ordem dos funis é feita por ordem alfabética. Dessa forma, você pode alterar o nome dos funis por numerais, de forma que o primeiro que quer que apareça seja *1. Comercial*, e assim vai.
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: BOM DIA
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Guiné. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Apenas para comunicar ao financeiro que o boleto foi pago
+Atendente: *Arthur Ferragini:* 
+Combinado!
+
+Te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Desculpe mas precisa de mais uma ajuda
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde ! Meu nome é Luiz. Tudo bem com você? 
+
+Em que posso te ajudar? 😃
+Cliente: Luiz, boa tarde
+
+alteração dos dados de um usuário
+
+de: gustavo.cardoso@guinetelecom.com.br
+
+Para: julia.oliveira@guinetelecom.com.br
+
+Nova Senha: @#Julia21
+Cliente: consegue me ajudar?
+Atendente: *Luiz Modestino:* 
+Sim. Um momento.
+Atendente: *Luiz Modestino:* 
+Alteração concluída
+Cliente: obrigado
+Atendente: *Luiz Modestino:* 
+Por nada. 😊
+Posso ajudar em algo mais?
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde...
+Atendente: Guiné Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Guiné! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Tudo bem Eduardo? 
+
+Preciso de uma ajuda no funil..
+Atendente: *Eduardo Victor:* 
+Tudo bem, sim! Qual a sua dúvida com os funis?
+Cliente: Tenho dois.. Esta uma bagunça...
+Cliente: Tenho como zerar o funil comercila..
+Cliente: Ou posso excluir e começar outro do zero?
+Atendente: *Eduardo Victor:* 
+Você pode excluir e criar um novo, com as mesmas etapas, porém isso seria irreversível. Você também pode criar um novo sem excluir o antigo.
+Cliente: blz..
+Cliente: Se eu apagar a etapa tudo que esta lá sai do cadastro também ?
+Atendente: *Eduardo Victor:* 
+Sairá sim! Você pode apagar e criar elas novamente.
+Cliente: Perfeito...
+Cliente: Vou precisar contratar mais dois acessos.. consegue me passar para o financeiro?
+Atendente: *Eduardo Victor:* 
+Consigo sim! Só um momento... Lembrando que o usuário adicional está por R$ 50,00 mensais, tudo bem?
+Cliente: sim.... ela até faz um descontinho pelo que ja tenho contratado.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Olá..
+Cliente: tudo bem
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Tudo bem?
+10% né? rs
+Cliente: opa.. 10% ja ajuda
+Cliente: Desculpe a demora..
+Atendente: *Bruna Lira:* 
+Imagina, um momento.
+Atendente: Guiné, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Pagamento efetuado..
+Atendente: *Bruna Lira:* 
+Me envia o comprovante por favor?
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: ok
+Atendente: *Alteração Feita*
+✅
+*Guine Telecom*
+2 usuários adicionais
+*Total de 16 usuários*
+Atendente: Guiné, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Muito obrigado..
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60dda27eaee761eec9a68ad8
+Cliente: Bom dia..
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Guiné. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Arthur, bom dia
+Cliente: tenho algumas duvidas, pode me ajudar..
+Cliente: Teria como tirar a visão de anexos dos usuários? ou deixar alguns apenas?
+Cliente: Tenho essa mesma duvida para as Tags.
+Cliente: ?
+Atendente: *Arthur Ferragini:* 
+Removendo a permissão de enviar/criar anexos, o botão de anexo no topo do chat (clips) irá sumir. Ainda sim, o usuário poderá enviar anexos copiando e colando nos chats, tudo bem?
+Cliente: MAs continua podendo enviar por aqui?
+Atendente: *Arthur Ferragini:* 
+Não, esse botão também ficará acessível, pois esse botão dá acesso à lista de arquivos.
+
+Só será possível enviar arquivos copiando eles na janela dos chats
+Cliente: entendi... 
+
+Queria limitar a visão dos arquivos por usuarios.
+Atendente: *Arthur Ferragini:* 
+Perfeito! 
+
+Infelizmente esse nível de permissão não está disponível :( os usuários com acesso à lista poderão ver todos os arquivos salvos, tudo bem?
+Cliente: Nem se colocar as tags consigo limitar?
+Atendente: *Arthur Ferragini:* 
+As tags podem ser usadas para filtrar a lista, mas não irão afetar o *acesso* aos arquivos. 
+
+Elas podem ser úteis para cada agente de atendimento saber quais arquivos deve mantar, mas não irão criar uma restrição.
+Cliente: ok..
+Cliente: tenho um novo projeto e gostaria de saber os valores para uma nova contratação..
+Atendente: *Arthur Ferragini:* 
+Opa, vamos te ajudar!
+
+Atualmente a conta que utiliza possui  16 usuários, 3 Whatsapp diferentes e os seguintes módulos ativos:
+- Chatbot
+- Funil de vendas
+- Adicionar chats
+- Status de Atendimento.
+
+A nova contratação será nesses mesmos modelos, ou haverá alguma diferença nos módulos/quantidades?
+Cliente: Acho que será um pouco diferente:
+
+Não preciso do funil
+Cliente: 1 Whatsapp e dois usuários inicialmente... mas acredito que vou ter um volume muito grande de usuários. diferentes e os seguintes módulos ativos:
+- Chatbot
+- Funil de vendas
+- Adicionar chats
+- Status de Atendimento.
+Atendente: *Arthur Ferragini:* 
+Opa, pode me confirmar se o módulo funil será necessário na nova conta?
+Cliente: Não será..
+Cliente: teremos apenas um numero de whatsapp
+Atendente: *Arthur Ferragini:* 
+Perfeito, então a contratação será assim:
+
+1 Whatsapp  (R$297)
+2 usuários (R$50 por usuário)
+- Chatbot (R$150)
+- Adicionar chats (R$70)
+- Status de Atendimento (R$50)
+
+A mensalidade dessa conta seria R$667. Para ter mais detalhes sobre as condições ou seguir com a contratação, *me confirme* que já te transfiro para o financeiro :)
+Cliente: Será que consegue fazer um descontinho pelo meu volume do contrato atual?
+Atendente: *Arthur Ferragini:* 
+Guiné, para ter esse detalhe estou te transferindo ao nosso setor financeiro.
+
+Aguarde que eles já te dão um retorno aqui na conversa. Só um momento 😊
+Cliente: Perfeito.. fico no aguardo..
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Tudo bem? 
+Vai ser uma conta separa?
+Atendente: *Bruna Lira:* 
+separada*
+Cliente: Bruna tudo bem? aqui tudo certo..
+Cliente: Cera uma conta separada... vou fazer um teste para um novo projeto
+Cliente: *sera
+Atendente: *Bruna Lira:* 
+Combinado, um momento.
+Atendente: *Resumo da Proposta*: CF7-00014844
+
+*Nome:* Guiné Telecom
+*Email:* diretoria@guinetelecom.com.br
+*Empresa:* Guiné Telecom
+
+*2* Usuário(s)
+*1* Nº de WhatsApp
+
+*Módulos*
+Chatbot
+Atendimento
+Adicionar Chats    
+------------------------------------
+*Valor Mensal* = R$ 667,00
+
+*Desconto 15%* = R$ 100,05
+*Valor Mensal com desconto = R$ 566,95*
+
+
+*Investimento Inicial* = SETUP R$ 500,00 + R$ 566,95* (1ª Mensalidade) = *R$ 1.066,95*
+
+*À partir da 2ª Mensalidade R$ 566,95*
+
+*Importante:* Instalação do Módulo AddChats ocorre após 48h da Ativação da Conta e configurações iniciais realizadas.
+Cliente: Consegue fazer um desconto no setup? eu ja fiz na outra contra e ja sei como usar o sistema
+Atendente: *Bruna Lira:* 
+Um momento que vou verificar.
+Atendente: *Bruna Lira:* 
+Consegui 50% de desconto no setup.
+Cliente: Bruna, excelente... 
+
+vou reunir com meu sócio amanhã e já te falo.
+Atendente: *Bruna Lira:* 
+combinado!! Fico no aguardo.
+Cliente: bom dia
+Cliente: Preciso alterar o e-mail cadastrado de um usuario
+
+poderia me ajudar?
+Cliente: Usuário: Lavínia Gonçalves Barros
+
+De: vendaonline1@guinetelecom.com.br
+
+Para: lavinia.barros@guinetelecom.com.br
+Atendente: *Bruna Lira:* 
+Vou te encaminhar ao suporte, um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: *Gabriela Rodrigues:* 
+Bom dia Guiné, meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, tudo bem? 😊
+
+Você gostaria que fizesse a alteração apenas do e-mail?
+Cliente: Sim... seria só e-mail mesmo
+Atendente: *Gabriela Rodrigues:* 
+Prontinho, e-mail alterado com sucesso. 😊
+
+Posso te ajudar em algo mais?
+Cliente: Perfeito... muito obrigado..
+Atendente: *Gabriela Rodrigues:* 
+Por nada. Precisando, só chamar. 😉
+
+Tenha um ótimo dia! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60e45d88aee761eec9a88899
+Cliente: Bom dia..
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Uma pergunta?
+
+Para o novo projeto que estou iniciando... posso colocar a linha em um iphone?
+Atendente: *Gustavo Soares:* 
+Olá Guiné! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Não recomendamos o uso de iPhone.
+Ao utilizar iPhone, não conseguimos configurar para ter uma melhor estabilidade. Clientes que já utilizaram iPhone tiveram diariamente problemas de conexão e as vezes não chegava os chats a plataforma e era necessário reiniciar o aparelho aqui no servidor. Sem contar também que depois você não vai conseguir fazer backup das conversas do iPhone e restaurar em um android nativamente. Terá que pagar por um software que faça isso...
+Vou te enviar a lista de aparelhos recomendados
+Atendente: *Gustavo Soares:* 
+*Recomendação Geral para Contas*
+
+✅ Smartphone com Android 9 ou acima
+✅ Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+✅ No mínimo 32gb de memória de armazenamento em disco
+✅ No mínimo 2gb de memória RAM
+✅ Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+✅ Tela desbloqueada e ligada* com o WhatsApp aberto e na tomada para não descarregar
+✅ Não usar Emuladores
+
+*Aparelhos Recomendados *
+
+✅ Samsung - S8, S9, S10, S20, A10, A11, A20, A21, A30, A31, A51, A71 ( Preferencialmente   )
+✅ LG - K71, K61, K62, K52
+
+Recomendação Geral para Contas com muitos chats.
+Para contas com alto volume usar aparelho com bom poder de processamento e memória.
+
+✅ Smartphone com Android 10 ou acima
+✅ Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+✅ No mínimo 64gb de memória de armazenamento em disco
+✅ No mínimo 4gb de memória RAM
+✅ Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+✅ Tela desbloqueada e ligada* com o WhatsApp aberto e na tomada para não descarregar
+✅ Não usar Emuladores
+
+*Aparelhos Recomendados*
+
+✅ Samsung - S10, S20, A31, A51, A71 ( Preferencialmente  )
+✅ LG - K71, K61, K62, K52
+
+*Marcas e Linhas Não recomendadas*
+
+❌ Xiaomi
+❌ Motorola ( Linhas G e E )
+❌ Alcatel
+❌ Multilaser
+❌ Apple ( Iphone )
+❌ Samsung ( Linha J )
+❌ Samsung (Linha Core)
+
+Dê preferência para modelos mais modernos como as linhas S e linha A da Samsung e nunca aparelhos com nomes, letras ou siglas no final como por exemplo A10 Core, A10 Prime, A10+ e A10 Plus, são só alguns exemplos.
+Atendente: *Gustavo Soares:* 
+Fora isso consigo te ajudar em algo mais? 😁
+Cliente: era isso.. vou procurar um aparelho então
+Atendente: *Gustavo Soares:* 
+Certo, se precisar de algo mais é só nos chamar 😉
+Tenha uma ótima tarde 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60e71d49aee761eec9a99371
+Cliente: Bom dia
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Gostaria de falar com a Bruna Lira:, finaceiro..
+
+Terminar uma contratação que estava fazendo.. 
+
+por favor.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Tudo bem?
+Cliente: Bruna, bom dia
+Cliente: Resumo da Proposta: CF7-00014844
+
+Nome: Guiné Telecom
+Email: diretoria@guinetelecom.com.br
+Empresa: Guiné Telecom
+
+2 Usuário(s)
+1 Nº de WhatsApp
+
+Módulos
+Chatbot
+Atendimento
+Adicionar Chats    
+------------------------------------
+Valor Mensal = R$ 667,00
+
+Desconto 15% = R$ 100,05
+Valor Mensal com desconto = R$ 566,95
+
+
+Investimento Inicial = SETUP R$ 500,00 + R$ 566,95 (1ª Mensalidade) = R$ 1.066,95*
+
+À partir da 2ª Mensalidade R$ 566,95
+
+Importante: Instalação do Módulo AddChats ocorre após 48h da Ativação da Conta e configurações iniciais realizadas.
+
+Gostaria de fazer a contração pra o novo projeto... 
+
+*Com o 50% no SETUP*
+
+Gostaria de saber se tem como deixar uma previsão de custo para cada usuário adicionado.
+
+Cada usuário custa R$ 50,00 estou com 15% de desconto (isso?)
+
+Acima de 10 Usuarios : R$ ? (poderia passar para R$ 40,00)
+Acima de 20 Usuarios : R$ ? (poderia passar para R$ 37,00)
+
+Exemplo;
+Atendente: *Bruna Lira:* 
+Nao consigo fazer assim, ja estamos aplicando 15% de desconto na sua fatura...
+Cliente: Ok... 
+
+Então fechamos
+
+Resumo da Proposta: CF7-00014844
+
+Nome: Guiné Telecom
+Email: diretoria@guinetelecom.com.br
+Empresa: Guiné Telecom
+
+2 Usuário(s)
+1 Nº de WhatsApp
+
+Módulos
+Chatbot
+Atendimento
+Adicionar Chats
+------------------------------------
+Valor Mensal = R$ 667,00
+
+Desconto 15% = R$ 100,05
+Valor Mensal com desconto = R$ 566,95
+
+
+Investimento Inicial = SETUP R$ 500,00 + R$ 566,95 (1ª Mensalidade) = R$ 1.066,95*
+
+À partir da 2ª Mensalidade R$ 566,95
+
+Importante: Instalação do Módulo AddChats ocorre após 48h da Ativação da Conta e configurações iniciais realizadas.
+
+Gostaria de fazer a contração pra o novo projeto...
+
+Com o 50% no SETUP
+Atendente: *Bruna Lira:* 
+Combinado, me envia os seguintes dados:
+Nome da conta
+CNPJ
+Email
+Boleto ou cartão
+Cliente: Ja vou te passar... 
+
+Estes dados depois podem ser alterados? 
+
+Ainda não tenho os dados da nova empresas... vou fazer com a mesma empresa que ja tenho e depois se for possível faço alteração.
+Atendente: *Bruna Lira:* 
+Pode sim, mas o boleto e NF ja será emitido nesse que enviar
+Cliente: ok...
+Cliente: CG CONSULTORIA EM TELECOMUNICAÇÕES LTDA - ME
+31238825000172
+diretoria@guinetelecom.com,br
+Cartão Master Card
+N° 5536590253061131
+Val: 11/24
+Cliente: O que mais vc precisa?
+Cliente: Já consegue fazer a criação da conta ?
+Atendente: *Bruna Lira:* 
+Só isso, um momento.
+Atendente: *Bruna Lira:* 
+O cartão você insere ta bem?
+Cliente: Não entendi?
+Atendente: *Bruna Lira:* 
+https://invoice.stripe.com/i/acct_1J0pJTFzpDeT8oC8/invst_Jq98XtZn3s5lV7Tw8ylASvPHtFNIWdc
+Atendente: *Bruna Lira:* 
+O Start de sua conta será iniciado com a confirmação de pagamento.
+Para agilizar o processo, é só enviar o comprovante de pagamento.
+Cliente: ja estou fazendo..
+
+mas preciso que seja em endereços de acessos diferentes do que tenho hoje..
+
+ok?
+
+Será que expliquei corretamente.
+Atendente: *Bruna Lira:* 
+Sim, essa conta será 100% separada da sua.
+Cliente: show...
+Cliente: ja esta pago
+Atendente: *Bruna Lira:* 
+Certo, um momento.
+Cliente: ok
+Cliente: Conseguiu?
+Cliente: Desculpe ficar incomodando... mas tenho uma apresentação para um cliente do projeto novo amanhã e queria apresentar o chatguru que será um diferencial.
+
+Nem preciso ativar o numero agora mas apenas poder fazer os chat bolts.
+Cliente: ?
+Atendente: Boa noite Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: BOM DIA
+Cliente: Olá, Bom dia
+Cliente: Boa tarde
+Cliente: Será que conseguimos fazer o start da nova conta?
+Cliente: por favor.
+Atendente: Guiné para darmos início em sua implantação, preciso apenas de algumas informações que devem ser preenchidas através do link abaixo:
+
+👉  https://links.chatguru.com.br/QugL5o
+
+São poucas perguntas, *você pode preencher de onde estiver*, não demora mais do que 1 minutinho!
+
+Fico no aguardo para seguirmos adiante!
+Cliente: FEITO
+Cliente: Bom dia.. Tudo bem por ai..
+Atendente: Bom dia Guiné!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Bom dia..
+Cliente: Recebeu o meu cadastro?
+Cliente: Pessoal muito bom dia
+Cliente: Está acontecendo alguma coisa? Estou tentando contato para ativar a minha nova conta e não estou conseguindo.
+Cliente: Bom dia
+Cliente: Olá
+Cliente: bom dia
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Cliente: Bom dia
+Cliente: Estou tentando ativar a nova conta
+Atendente: *Bruna Lira:* 
+Estou confirmando com o responsável, um momento.
+Cliente: Chamei pelo particular
+Atendente: *Bruna Lira:* 
+Ele informou que esta no processo ja...
+Cliente: ESTOU AGUARDANDO PARA ATIVAR A CONTA
+Atendente: url: https://s11.chatguru.app
+Email: diretoria@guinetelecom.com.br
+Senha: f93882cbd8fc7fb794c1011d63be6fb6
+Cliente: A senha não esta entrando
+Cliente: consegue me ajudar?
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: agora foi
+Atendente: *Eduardo Victor:* 
+Boa tarde, Guiné! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? Como posso te ajudar? 👨‍💻
+Cliente: obrigado
+Cliente: Ja consegui resolver...
+Cliente: obrigado
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Guiné 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60ef10bbfd40cc4cef028ed6
+Cliente: Olá bom dia..
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia! Meu nome é Luiz. Tudo bem com você? 
+
+Em que posso te ajudar? 😃
+Cliente: Luiz, tudo bem por ai
+Atendente: *Luiz Modestino:* 
+Tudo joia
+Cliente: ainda estou com problemas na abertura da segunda aba do funil... 
+
+quando clinco para ver o chat pelo funil a minha pagina original fecha como estando conectado em varias abas
+Cliente: https://app5.zap.guru/login_multiple
+Atendente: *Luiz Modestino:* 
+Só um instante.
+Cliente: por favor... toda ora tenho que ficar entrando no funil.. 
+
+acabo me perdendo.
+Atendente: *Luiz Modestino:* 
+Quantas abas ficam abertas?
+Cliente: uma só
+Cliente: a original e a que e aberta.
+Atendente: *Luiz Modestino:* 
+O padrão são duas abas. No caso do funil, ficaria: funil + aba de chats.
+
+Em contato com minha supervisão, fui informado que se trata de um bug que já foi repassado para o setor de desenvolvimento. Já está em implementação um correção, porém não temos um prazo definido, por envolver diversas etapas de desenvolvimento e procedimentos internos do setor responsável.
+
+Assim que for lançada a correção informaremos.
+Cliente: ok... e que a gestão fica bem comprometida... 
+
+com apenas uma aba aberta a outra ja encerra por multiplo acesso...
+Atendente: *Luiz Modestino:* 
+Entendo. Em alguns casos pode ocorrer de ficar aberta as duas, porém fica instável.
+Atendente: *Luiz Modestino:* 
+Posso te ajudar em alguma outra solicitação?
+Atendente: Guiné, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: bom dia..
+
+suporte poderia me chamar pelo numero da outra conta..
+
+preciso fazer a troca do aparelho de celular.. 
+
+5511955805236
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Guiné. Bom dia!
+Tudo bem? 
+
+Meu nome é Hugo e eu sou do suporte do ChatGuru. Esse número pertence a alguma outra conta de vocês?
+Cliente: sim
+Atendente: *Hugo:* 
+Você pode pedir para entrarem em contato conosco? Eu não consigo iniciar contato por aqui.
+Cliente: qual é o telefone
+Atendente: *Hugo:* 
+esse mesmo que eu estou falando com você.
+Cliente: ddd
+Atendente: *Hugo:* 
++1 (334) 276 8366 ou +1 (256) 559-3008
+Atendente: *Hugo:* 
+Não é Brasil, DDD +1 é dos Estados Unidos.
+Atendente: *Hugo:* 
+DDI*
+Atendente: *Hugo:* 
+Agora está correto. Porém está ficando pendente. O número está conectado ao ChatGuru?
+Atendente: *Hugo:* 
+Conseguiram mandar mensagem para a gente?
+Cliente: sim... ja mandei na outra conta
+Atendente: *Hugo:* 
+Certo. Então iremos seguir com o atendimento por lá. Posso te ajudar com algo mais por aqui no momento?
+Cliente: ok.. acho que e isso
+Atendente: *Hugo:* 
+Tudo bem. Qualquer coisa é só nos chamar por aqui. Iremos seguir o atendimento pelo outro número.
+Bom dia e uma ótima semana.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6107e492f390b1b21621e538
+Cliente: Bom dia..
+Atendente: Guiné Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gustavo Soares:* 
+Olá Guiné! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: Bom dia,  
+
+preciso fazer alteração de um usuário..
+
+DE :
+LARISSA GARBELINI
+larissa@guinetelecom.com.br
+
+PARA:
+VICTORIA IZABEL DAVID
+victoria.david@guinetelecom.com.br
+Senha: #@Victoria21
+Cliente: pode me ajudar?
+Atendente: *Gustavo Soares:* 
+Alteração feita Cesar! =D
+Fora isso consigo te ajudar em algo mais?
+Cliente: era só isso mesmo
+Atendente: *Gustavo Soares:* 
+Certo, se precisar de algo mais é só nos chamar 😉
+Tenha uma ótima semana! 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Guiné, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/61111f59f390b1b21624db05
+

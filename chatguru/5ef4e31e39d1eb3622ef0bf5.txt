@@ -1,0 +1,381 @@
+Cliente: Bom ida
+Cliente: Dia*
+Cliente: Leandro da Fiat florença aqui de Curitiba
+Cliente: Poderia gerar um boleto com nova data de vencimento para assim podermos estar lançando para o nosso financeiro pois acabou passando despercebido por mim essa nota , peço desculpa e se por gentileza enviar um novo boleto com nova data de até 3 dias antes do vencimento ficaremos  agradecidos .
+
+Olá, Paranguá - FLORENCA VEICULOS S A
+Verificamos que você tem um boleto no valor de R$ 843,20 que está em aberto e venceu dia 21/06/2020.
+Atendente: Leandro, boa tarde!
+Atendente: Os boletos são sempre enviados com 7 dias de antecedência.
+Atendente: Eu consigo ainda te enviar o boleto com vencimento no dia 26 sem juros. 
+Depois disso o meu sistema não permite que eu gere o boleto.
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: teria a nota
+Cliente: também ?
+Atendente: Leandro, você não recebeu em seu email ?
+Cliente: nao recebi
+Cliente: o Thiago recebeu
+Cliente: ouro Ti nosso aqui e nao me repassou
+Cliente: tem outro boleto tambem de 50$
+Cliente: preciso prorrogacao deste tambem
+Atendente: Bom dia Leandro!
+Atendente: Constatei que o pagamento desse boleto já foi realizado.
+Cliente: Bom ida
+Cliente: dia
+Cliente: ótimo entao obrigado
+Cliente: Ola boa tarde
+Cliente: Leandro da Fiat FLorença aqui
+Cliente: estou com um boleto de vocês em DDA
+Cliente: no caso recebi a nota mas nao o boleto e assim venceu poderia enviar um boleto com nova data de vencimento para no minimo 4 dias antes do vencimento do documento
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Cliente: ola
+Atendente: Leandro Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Leandro, Boa tarde, meu nome é Mark! Vou te encaminhar para o departamento financeiro, só um momento.
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Cliente: ok
+Cliente: bom dia
+Atendente: Leandro Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Leandro da Fiat Florença de Curitiba
+Atendente: Leandro, me chamo Daniel. Como posso te ajudar?
+Cliente: Recebi 2 DDA de boletos para pagamento que nao foi enviado para nós , é o segundo mês que ligo ou mando um whats pedindo para direcionarem os boletos e notas fiscais para tal e-mail para assim nao entrar em DDA
+Cliente: Beneficiário:	IUGU SERVICOS NA INTERNET S.A
+Razão Social:	IUGU SERVICOS NA INTERNET S.A 
+CNPJ:	15.111.975/0001-64
+Beneficiário final:	FD MARKETING DIGITAL LTDA ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0003-07
+Dados do pagamento:
+Código de barras:	00190-00009-03075-800007-83020-059172-3-83540000177820
+Instituição Emissora:	001 - BANCO DO BRASIL SA
+Dados do boleto:
+Espécie do documento:	DS DUPLICATA DE SERVICO
+Número do documento:	83020059
+Nosso número:	00030758000083020059
+Data do documento:	05/08/2020
+Data de vencimento:	21/08/2020
+Data limite para pagamento:	até 05/10/2020
+Aceite:	Não
+Valor do documento:	R$ 1.778,20
+Descontos:	R$ 0,00
+Juros/Mora:	R$ 0,59 (dias corridos)  após 22/08/2020
+Multa:	R$ 53,34 após  22/08/2020
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 1.778,20
+Cliente: e
+Cliente: Beneficiário:	IUGU SERVICOS NA INTERNET S.A
+Razão Social:	IUGU SERVICOS NA INTERNET S.A 
+CNPJ:	15.111.975/0001-64
+Beneficiário final:	FD MARKETING DIGITAL LTDA ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0005-79
+Dados do pagamento:
+Código de barras:	00190-00009-03075-800007-81890-560170-1-83540000114200
+Instituição Emissora:	001 - BANCO DO BRASIL SA
+Dados do boleto:
+Espécie do documento:	DS DUPLICATA DE SERVICO
+Número do documento:	81890560
+Nosso número:	00030758000081890560
+Data do documento:	11/08/2020
+Data de vencimento:	21/08/2020
+Data limite para pagamento:	até 05/10/2020
+Aceite:	Não
+Valor do documento:	R$ 1.142,00
+Descontos:	R$ 0,00
+Juros/Mora:	R$ 0,38 (dias corridos)  após 22/08/2020
+Multa:	R$ 34,26 após  22/08/2020
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 1.142,00
+Cliente: e tambem temos uma nata que foi lançada e fomos pagar hj porém deu bloqueio como se o boleto estivesse cancelado
+Cliente: que é de 1.042,00 para nossa filial do Bacacheri CNPJ 77.968.980/0005-79 porém esse de 1.142,00 tambem é para o bacacheri nao tem algo de errado ?
+Atendente: Leandro, vou encaminhar o seu atendimento para a Bruna, o nosso financeiro. Tudo bem?
+Cliente: ta ok ..
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: bom dia ..
+Atendente: Olá Leandro, bom dia!
+Cliente: certo
+Cliente: Recebi 2 DDA de boletos para pagamento que nao foi enviado para nós , é o segundo mês que ligo ou mando um whats pedindo para direcionarem os boletos e notas fiscais para tal e-mail para assim nao entrar em DDA
+ Beneficiário:	IUGU SERVICOS NA INTERNET S.A
+Razão Social:	IUGU SERVICOS NA INTERNET S.A 
+CNPJ:	15.111.975/0001-64
+Beneficiário final:	FD MARKETING DIGITAL LTDA ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0003-07
+Dados do pagamento:
+Código de barras:	00190-00009-03075-800007-83020-059172-3-83540000177820
+Instituição Emissora:	001 - BANCO DO BRASIL SA
+Dados do boleto:
+Espécie do documento:	DS DUPLICATA DE SERVICO
+Número do documento:	83020059
+Nosso número:	00030758000083020059
+Data do documento:	05/08/2020
+Data de vencimento:	21/08/2020
+Data limite para pagamento:	até 05/10/2020
+Aceite:	Não
+Valor do documento:	R$ 1.778,20
+Descontos:	R$ 0,00
+Juros/Mora:	R$ 0,59 (dias corridos)  após 22/08/2020
+Multa:	R$ 53,34 após  22/08/2020
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 1.778,20
+Beneficiário:	IUGU SERVICOS NA INTERNET S.A
+Razão Social:	IUGU SERVICOS NA INTERNET S.A 
+CNPJ:	15.111.975/0001-64
+Beneficiário final:	FD MARKETING DIGITAL LTDA ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0005-79
+Dados do pagamento:
+Código de barras:	00190-00009-03075-800007-81890-560170-1-83540000114200
+Instituição Emissora:	001 - BANCO DO BRASIL SA
+Dados do boleto:
+Espécie do documento:	DS DUPLICATA DE SERVICO
+Número do documento:	81890560
+Nosso número:	00030758000081890560
+Data do documento:	11/08/2020
+Data de vencimento:	21/08/2020
+Data limite para pagamento:	até 05/10/2020
+Aceite:	Não
+Valor do documento:	R$ 1.142,00
+Descontos:	R$ 0,00
+Juros/Mora:	R$ 0,38 (dias corridos)  após 22/08/2020
+Multa:	R$ 34,26 após  22/08/2020
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 1.142,00
+e tambem temos uma nata que foi lançada e fomos pagar hj porém deu bloqueio como se o boleto estivesse cancelado
+que é de 1.042,00 para nossa filial do Bacacheri CNPJ 77.968.980/0005-79 porém esse de 1.142,00 tambem é para o bacacheri nao tem algo de errado ?
+Atendente: São CNPJs diferentes.
+Atendente: Vou emitir de novo o boleto.
+Cliente: preciso do boleto e nota por favor
+Cliente: esses do bacacheri sao do mesmo CNPJ
+Cliente: 1.042,00 e 1.142,00
+Atendente: R$1142,00 teve uma inclusão de 2 usuários no dia 11/08
+Cliente: as ja foram pagos
+Atendente: O boleto ou o usuário?
+Cliente: to tentando entender se é esses 2 boletos mesmos um de 1.042,00 e outro 1.142,00 para pagar ou se é so 1
+Atendente: é só esse de R$1142 que foi que eu enviei agora pra você.
+Cliente: certo
+Cliente: tem a nota fiscal tbm por favor ?
+Cliente: os boletos e as notas de ambas que mandei acima
+Cliente: pois esta indo para o email de um colabodor nosso que nao esta vindo assim nao chega para mim e com isso nao consigo efetuar o pagamento das faturas
+Cliente: nfecpd@florenca.com.br
+Atendente: Claro, um momento.
+Atendente: Vou emitir a outra, um momento.
+Cliente: ok
+Atendente: Pode retirar o e-mail do Thiago?
+Cliente: sim por favor
+Cliente: se quiser me mandar elas todas no email tbm fico mais facil
+Atendente: Pronto.
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: obrigado , por enquanto é só muito obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: por gentileza
+o financeiro
+Atendente: Leandro Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Leandro, Bom dia. Meu nome é Hugo. Eu sou do suporte ZapGuru.
+Atendente: O sr. pode me falar qual sua solicitação? Pra que eu possa verificar se consigo resolver por aqui?
+Cliente: DDA em outro boleto
+Cliente: que apareceu aqui pra gente
+Atendente: Leandro, peço desculpas pela demora.
+Atendente: Vou transferir pro financeiro
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Oi Leandro
+Cliente: ola
+Cliente: recebmos outro DDA
+Cliente: Beneficiário:	IUGU SERVICOS NA INTERNET S.A
+Razão Social:	IUGU SERVICOS NA INTERNET S.A 
+CNPJ:	15.111.975/0001-64
+Beneficiário final:	FD MARKETING DIGITAL LTDA ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0008-11
+Dados do pagamento:
+Código de barras:	00190-00009-03075-800007-30420-017177-5-83540000084320
+Instituição Emissora:	001 - BANCO DO BRASIL SA
+Dados do boleto:
+Espécie do documento:	DS DUPLICATA DE SERVICO
+Número do documento:	30420017
+Nosso número:	00030758000030420017
+Data do documento:	13/08/2020
+Data de vencimento:	21/08/2020
+Data limite para pagamento:	até 05/10/2020
+Aceite:	Não
+Valor do documento:	R$ 843,20
+Descontos:	R$ 0,00
+Juros/Mora:	R$ 0,28 (dias corridos)  após 22/08/2020
+Multa:	R$ 25,29 após  22/08/2020
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 843,20
+Atendente: Esse é do parangua
+Atendente: Coloca naquele mesmo e-mail?
+Cliente: sim por favor
+Atendente: pronto, vou emitir a NF pra você também
+Cliente: muito obrigado
+Cliente: show so falta o boleto deste
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: so isso obrigado pelo retorno
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Leandro Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Leandro, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: Boa tarde Mark
+Cliente: recebi hoje um boleto do zap guru
+Cliente: porém nao veio com a nota fiscal
+Cliente: e para lançarmos precismos da nota
+Atendente: OK! Vou te encaminhar para o departamento financeiro, só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa tarde
+Atendente: Olá Leandro, tudo bem?
+Atendente: Um momento.
+Atendente: Qual das empresas?
+Cliente: obrigado
+Atendente: Leandro, foi varias vezes com nome de outro cliente, mas é o seu mesmo, desculpe...
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar
+Cliente: muito obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Leandro Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Leandro! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Atendente: Leandro?
+Cliente: Opa o Thiago ja vai falar com vocês
+Atendente: Tudo bem então, finalizo esse chamado aqui no seu número?
+Cliente: sim por favor
+Atendente: Beleza, qualquer coisa é só entrar em contato 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Leandro Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: financeiro por favor
+Cliente: Leandro da Fiat Florença aqui
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Bom dia
+Atendente: Oi Leandro, tudo bem?
+Atendente: Bom dia!
+Cliente: tudo sim e contigo ?
+Cliente: Falo da Fiat Florença de curitiba
+Cliente: nao recebemos a nota fiscal desde boleto
+Atendente: Está programada pra você receber a NF
+Atendente: Quando você recebe o link da fatura
+Atendente: do lado não tem a opção da NF?
+Cliente: nao
+Cliente: e como vence  dia 21 nossa vianuvem por onde lancamos para nosso financeiro efetuar o pagamento so aceita ate 3 dias antes do vencimento
+Atendente: Está nesse e-mail
+Cliente: isso esse mesmo
+Atendente: Ah sim
+Atendente: A NF está cadastrado em outro e-mail
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: so isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia Leandro! Meu nome é Luiz. 
+
+Identificamos que o aparelho da sua conta está desconectado da  plataforma. Ocorreu algum problema?
+Cliente: Bom dia
+Cliente: teria o numero de qual aparelho esta desconectado ?
+Atendente: +55 (41) 21527400
+Cliente: ta conectado
+Cliente: normal aqui
+Cliente: com automate e tudo
+Cliente: isso
+Cliente: essa mesma
+Cliente: refiz o processo
+Cliente: pode verificar ? aqu iesa ok agora
+Atendente: Ah Show
+Atendente: Já esta conectado :)
+Atendente: Obrigado Leandro. Precisando de ajuda é só falar com a gente.
+Cliente: eu que agradeço
+Cliente: bom dia
+Atendente: Igualmente
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Olá, Boa tarde Leandro. Vi aqui que seu WhatsApp apresenta desconexão de nossa plataforma, isso pode acarretar em falhas na execução de seu chatbot e mudanças de status dos chats, prejudicando seu atendimento. Podemos te ajudar verificando as configurações de seu dispositivo para evitar que as desconexões continuem?
+Cliente: Boa tarde
+Atendente: Leandro Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso falar com o financeiro por gentileza
+Cliente: ok
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: boa tarde
+Atendente: Leandro Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: ola
+Atendente: *Bruna Lira:* 
+Olá Leandro, boa tarde!
+Cliente: Boa tarde Bruna
+Cliente: preciso de um Help dos grandes
+Cliente: to tentando falar com voces a mais de 1 semana
+Cliente: estamos com um DDA em um boleto
+Cliente: que se nao for pago hoje vai causar a pausa do app da nossa empresa
+Cliente: Pagando para
+Beneficiário:	FD MARKETING DIGITAL LTDA ME
+Razão Social:	FD MARKETING DIGITAL LTDA ME por Banco BS2 
+CNPJ:	71.027.866/0001-34
+Beneficiário final:	FD MARKETING DIGITAL LTDA - ME
+CNPJ:	17.878.549/0001-86
+Responsável
+Pagador:	FLORENCA VEICULOS S A
+CNPJ:	77.968.980/0003-07
+Dados do pagamento:
+Código de barras:	21890-01007-04532-970805-26409-483182-4-85480000177820
+Instituição Emissora:	218 - BANCO BS2 S.A
+Dados do boleto:
+Espécie do documento:	DM DUPLICATA MERCANTIL
+Número do documento:	2128197
+Nosso número:	80264094831
+Data do documento:	25/02/2021
+Data de vencimento:	03/03/2021
+Data limite para pagamento:	até 02/05/2021
+Aceite:	Não
+Valor do documento:	R$ 1.778,20
+Descontos:	R$ 0,00
+Juros/Mora:	 1,00000 percentual ao mês corrido  após 04/03/2021
+Multa:	 3,00000% após  04/03/2021
+Total de encargos:	R$ 0,00
+Valor a pagar:	R$ 1.778,20
+Cliente: consegue confirmar pra mim se é essa conta ?
+Atendente: *Bruna Lira:* 
+Sim, é essa
+Atendente: *Bruna Lira:* 
+Esse boleto vence todo dia 21
+Atendente: *Bruna Lira:* 
+eu troquei para o dia 3
+Atendente: *Bruna Lira:* 
+referente a solicitação de vocÊs.
+Cliente: sim , poreém eu respondi no e-mail que nao seria possivel ser pago dia 03/3 e pedi a alteração e não tive retorno
+Cliente: preciso que seja alterado para o dia 11/03
+Cliente: para podermos efetuar o pagamento
+Cliente: sem o cancelamento do protudo
+Cliente: preciso da nota e do boleto
+Atendente: *Bruna Lira:* 
+Leandro, ok, lembrando que os serviço é pré pago, não conseguimos fazer dessa forma, vamos abrir essa exceção devido a nossa parceria.
+Cliente: certo , era pra ser resolvido antes mas nao obtive retorno dos 2 e-mails que enviei a vocês
+Cliente: obrigado pela compreensão
+Atendente: Leandro, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Leandro, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6043a2989f49179ac898f1a0
+

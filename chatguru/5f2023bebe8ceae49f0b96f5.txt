@@ -1,0 +1,1012 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Rush, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Como eu posso te ajudar?
+Atendente: Por falta de inatividade vou encerrar o atendimento. Mas se surgir qualquer duvida é só entrar em contato!
+Cliente: ok
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Rush! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde Suporte! Tudo bem? Preciso incluir dois acessos aqui para corretora. Atualmente estamos com 8.
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Me orientaram que o valor por pessoa (acesso) é 50 reais. Precisamos incluir mais dois funcionários. Pediram para eu entrar em contato via chat do SUPORTE para incluir. Podem me ajudar?
+Atendente: Olá Rush Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: Preciso incluir dois acessos aqui para corretora. Atualmente estamos com 8
+Cliente: Me orientaram que o valor por pessoa (acesso) é 50 reais. Precisamos incluir mais dois funcionários. Pediram para eu entrar em contato via chat do SUPORTE para incluir. Podem me ajudar?
+Cliente: ??
+Atendente: perfeito, vou transferir o senhor para o departamento financeiro, lá eles executam a tramitação :D
+peço que aguarde um pouco
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola, boa tarde!
+Atendente: Voce precisa de mais dois usuarios?
+Cliente: isso
+Cliente: hoje temos 8 e precisamos de mais 2
+Atendente: So um momento por favor
+Cliente: ok
+Atendente: Rush, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: Ok
+Cliente: Podem alterar o e-mail de envio
+Cliente: por favor?
+Cliente: a Shirlei não faz mais parte da nossa equipe
+Cliente: é o Corretora@rushseguros.com.br
+Cliente: O boleto veio com data de vencimento para hoje, meu financeiro não vai realizar o pagamento agora as 16h
+Cliente: podem atualizar para amanhã?
+Atendente: Sim, porem so consigo autorizar os usuarios quando o pagamento for feito, tudo bem?
+Cliente: ok
+Cliente: preciso que atualizem o boleto para amanha e que encaminhem no email correto
+Cliente: conforme informado
+Atendente: Prontinho
+Atendente: Rush, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Tudo bem?
+Atendente: Olá Rush, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: Oi! Eu preciso enviar um comprovante de pagamento
+Cliente: sobre a abertura de mais dois acessos no zap gurur
+Atendente: OK, vou solicitar aqui a liberação. Um momento.
+Cliente: oK
+Atendente: Liberados: 02 Usuários
+Total: 10 Usuários
+Atendente: Rush, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Como eu faço para criar o usuario desses dois funcionarios?
+Atendente: https://wiki.zap.guru/usuarios
+Atendente: 👆 Nesse link tem um passo a passo de como realizar o cadastro de um usuário.
+Atendente: Te ajudo em algo mais?
+Atendente: Se precisar de ajuda, só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia.
+Cliente: Estamos com problema no Login e QR Code do ZapGuru. 
+
+Podem nos ajudar?
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Rush! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Atendente: Só um momento que irei verificar e já te dou uma resposta, está bem?
+Cliente: Perfeito, obrigado.
+Atendente: Pode tentar reler o QR Code?
+Cliente: Está nos apresentando isso:
+Cliente: E não sai dessa tela
+Atendente: Reiniciei aqui pra vocês, ainda está da mesma forma?
+Atendente: Ele leva um tempo, essa tela significa que está carregando
+Cliente: Estou aguardando
+Cliente: Mas por enquanto nada
+Cliente: Ainda nada
+Atendente: Estou mudando umas configurações aqui da conta de vocês, só um momento
+Cliente: Ok
+Atendente: Estou reiniciando o aparelho, te aviso assim que puder reler o QR Code
+Cliente: Ok
+Atendente: Por gentileza, só tenta abrir a tela de leitura quando eu te informar aqui
+Atendente: Eu vou liberar aqui, só aguardar as configurações ficarem salvas
+Cliente: Ok
+Atendente: Tenta agora, por favor
+Cliente: Ainda aparece essa
+Cliente: Tela
+Atendente: Se você atualizar a pagina, continua bloqueado?
+Cliente: Sim
+Cliente: O que faço?
+Atendente: O servidor e as configurações do seu aparelho precisam de uma melhora, nós estamos configurando aqui
+Cliente: Ok
+Cliente: Ainda não está entrando...
+Atendente: Agora conseguiu, correto?
+Atendente: Rush estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi, boa tarde!
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O automate não está funcionando...
+Atendente: Olá, boa tarde! Tudo bem?
+Ao adicionar acontece algo na plataforma?
+Cliente: Vou mandar o print
+Atendente: Clique na mensagem laranja e aperte Start, por favor
+Atendente: Clique para voltar, por favor
+Atendente: acredito que será necessário reinstalar o flow
+Cliente: Como farei isso?
+Cliente: Vocês entrarão por TeamViewer?
+Atendente: Nós usamos o Anydesk
+Atendente: Basta instalar ele em seu celular
+Cliente: Um minuto
+Cliente: Estou baixando
+Atendente: Você utiliza o Whatsapp Business ou no normal?
+Cliente: *Igor Tomaz:* 
+Conseguimos já
+Cliente: *Igor Tomaz:* 
+Acredito que o problema foi por conta da Internet.
+Atendente: Legal, Igor
+Cliente: *Igor Tomaz:* 
+Obrigado!
+Atendente: Eu que agradeço :)
+Atendente: Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição.  Boa tarde.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *ERIC TEIXEIRA:* 
+Suporte, boa tarde!
+
+Aqui quem fala é Eric da Rush Corretora de Seguros.
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *ERIC TEIXEIRA:* 
+Gostaria de saber quanto custa e de que se tratam os produtos abaixo:
+
+Chatbot.
+Funil.
+Adicionar Chats.
+Atendimento.
+Atendente: Boa tarde Eric! Meu nome é Luiz. Aguarde um momento, vou te passar os valores.
+Cliente: *ERIC TEIXEIRA:* 
+Queremos também saber se é possível que todas as mensagens sejam recebidas por uma única pessoa e essa pessoa direcione essas mensagens para os demais usuários.
+Atendente: Para isso, coloque apenas um usuário no rodízio de atendimento e dê a ele a permissão de delegação. Assim, só ele recebe os chats e delega para os outros usuários.
+Cliente: *ERIC TEIXEIRA:* 
+Como faço isso?
+Cliente: *ERIC TEIXEIRA:* 
+Luiz?
+Atendente: Um momento
+Atendente: Módulo Atendimento: 
+R$50,00
+https://wiki.zap.guru/chats/interface#status-de-atendimento
+Permite gerenciar seus chats através de STATUS
+
+Módulo Adicionar Chats (Necessário aparelho android)
+R$70,00
+https://wiki.zap.guru/chats/interface#modulo-adicionar-chat
+Possibilita a criação de chats diretamente da plataforma
+
+Módulo Funil
+R$25,00
+https://wiki.zap.guru/funil-inteligente
+Criar etapas para gerenciar um fluxo de atendimento
+
+Módulo Chatbot
+R$150,00
+https://wiki.zap.guru/chatbot/configurando-chatbot
+Criar automações, como uma URA com subníveis e com diferentes ações (delegar um chat, responder, criar anotações...) e diálogos personalizados.
+
+Todos os valores são mensais.
+Atendente: Vou te mostrar
+Cliente: *ERIC TEIXEIRA:* 
+O adicionar chats se a gente não tiver não dá pra incluir clientes na plataforma mais?
+Cliente: *ERIC TEIXEIRA:* 
+Quanto custa por usuário ao mês, Luiz?
+Atendente: Você terá que iniciar a conversa diretamente pelo aparelho
+Atendente: R$50
+Cliente: *ERIC TEIXEIRA:* 
+Aaaaaah, então sem isso a gente só começa chat se for com o aparelho na mão, é isso?
+Cliente: *ERIC TEIXEIRA:* 
+Onde fica esse rodízio?
+Atendente: Um chat novo. Depois que ele aparecer na plataforma, é só continuar o atendimento pelo ZapGuru
+Atendente: Na aba de usuários
+Cliente: *ERIC TEIXEIRA:* 
+Beleza, Luiz.
+
+Solicitamos o cancelamento de três usuário e do funil e do chatbot.
+Atendente: Vou te passar para o setor financeiro. Só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, boa tarde!
+Atendente: Você solicita o cancelamento de três usuário e do funil e do chatbot.
+Atendente: Olá, boa tarde! Deseja continuar com essa solicitação?
+Cliente: *ERIC TEIXEIRA:* 
+Sim.
+Atendente: *✅  Concluído*
+*RUSH CORRETORA DE SEGUROS*
+-Remoção Modulo Funil
+-Remoção Modulo Chatbot
+-Remoção 3 usuários
+*Total de 7 usuários*
+Atendente: Rush, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *ERIC TEIXEIRA:* 
+Por enquanto é só, pode ratificar por e-mail no atendimento@rushseguros.com.br?
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: email enviado agora mesmo :)
+Atendente: Consigo ajudar em algo mais?
+Cliente: *ERIC TEIXEIRA:* 
+Por enquanto é só.
+
+Muito obrigado pelo retorno.
+Atendente: Eu que agradeço, Eric.
+Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *ERIC TEIXEIRA:* 
+Bom dia!
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Eric! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *ERIC TEIXEIRA:* 
+Por favor, não estamos conseguindo cadastrar contatos no Zap Guru.
+Atendente: Rush Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Rush, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: *Observação*, muito provável que o nome que irá apareça no automate é o *nome da sua conta ZapGuru* 😉
+Atendente: Eric, conseguiu?
+Cliente: *ERIC TEIXEIRA:* 
+Consegui, obrigado.
+Atendente: Por nada, te ajudo em algo mais?
+Atendente: Rush estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *RAQUEL ALONSO:* 
+Bom dia Suporte, ainda estamos com problema para abrir novos contatos/conversas
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *RAQUEL ALONSO:* 
+demora para abrir e fica na fila como pendente
+Cliente: *RAQUEL ALONSO:* 
+quando não da erro e não adiciona
+Atendente: Bom dia! Me chamo Lucas Gusmão e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Atendente: Isso está ocorrendo pois o automate não está funcionando corretamente.
+Atendente: Somente abra o app e verifique se o problema foi resolvido
+Cliente: *RAQUEL ALONSO:* 
+Bom dia! Sempre que adicionamos novos chats da problema, fica na fila como pendente ou até mesmo da erro e não adiciona.
+Atendente: Costuma ficar pendente quando o app automate não está funcionando no seu celular. Basta abrir o aplicativo. E o erro ocorre quando você adiciona o número errado ou quando o número não possui whatsapp.
+Atendente: Nos informe caso o problema ainda esteja ocorrendo.
+Atendente: Rush, por inatividade iremos encerrar este atendimento.
+
+Caso precise de ajuda, não hesite em nos chamar. Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *ERIC TEIXEIRA:* 
+Bom dia!
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Eric! Eu sou o Lucas. Como posso te ajudar? 😃
+Cliente: *ERIC TEIXEIRA:* 
+Tudo bem, Lucas?
+Atendente: Tudo bem e você?
+Cliente: *ERIC TEIXEIRA:* 
+Cara, já tem três dias que estamos com problema para adicionar chats no Zap Guru.
+Cliente: *ERIC TEIXEIRA:* 
+Só estamos conseguindo adicionar pelo celular.
+Cliente: *ERIC TEIXEIRA:* 
+Pode verificar este problema?
+Atendente: Certo, no celular (11) 2284-1900, abre o aplicativo *anydesk* e me informa a ID que aparece.
+Atendente: Estou encerrando seu chat por inatividade.
+
+Se precisar de ajuda, volte a falar com a gente! 🧐
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *ERIC TEIXEIRA:* 
+Boa tarde.
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *ERIC TEIXEIRA:* 
+ok.
+Atendente: Olá Rush, Boa tarde. Meu nome é Hugo.
+Atendente: no que eu posso te ajudar?
+Cliente: *ERIC TEIXEIRA:* 
+Nao estamos conseguindo incluir chats no Zap Guru pelo computador, nem mesmo quando damos start no automate funciona
+Cliente: *ERIC TEIXEIRA:* 
+Ok, eu sei.
+
+Vou verificar.
+Atendente: Atualmente os estados de SP, RJ e MG são os unicos que precisam adicionar os números com o nono digito.
+Cliente: *ERIC TEIXEIRA:* 
+Ok, obrigadi,
+Atendente: posso te ajudar com algo mais?
+Cliente: *ERIC TEIXEIRA:* 
+Por enquanto é só, obrigado, meu querido.
+Atendente: Por nada. Qualquer coisa é só nos chamar. 😄
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Olá bom dia
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Rush. Bom dia! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Olá, Carlos a companhia Bradesco nos deu um atendimento Whatsapp de uns tempos para cá tentamos utilizar várias vezes esse canal, mas ele não tem resposta, como se o número estivesse bloqueado de ser utilizado
+Cliente: O número é 2140042703
+Cliente: Nosso chat de suporte não está funcionando
+Atendente: *Carlos:* 
+Localizei o chat. Mas não há nada de errado com ele. As mensagens foram enviadas normalmente. Fiz um teste de outro número e a URA dele foi ativada de imediato. O problema está na URA deles
+Atendente: *Carlos:* 
+A sua mensagem não está ativando o chatbot deles. Isso deve ser erro da própria configuração de Chatbot de lá
+Cliente: Vcs mandando tb não vai?
+Atendente: *Carlos:* 
+eu mandei de outro número e ativou
+Atendente: *Carlos:* 
+Creio que a URA dele só ative para *novos contatos*
+Cliente: Minha dúvida, pelo seu zap guru aí eles respondem?
+Cliente: Particular tem resposta normal
+Cliente: Mas pelo zap guru nao
+Cliente: Veja abaixo como ê a resposta
+Atendente: *Carlos:* 
+Eu não tenho autorização para fazer isso com meu acesso do ChatGuru
+Atendente: *Carlos:* 
+Nosso número é apenas receptivo.
+Atendente: *Carlos:* 
+Sugiro entrar em contato com eles mesmo para averiguar. Nós não fazemos nenhum bloqueio nesse sentido
+Cliente: Mas nenhum suporte pode obter fazer esse envio? por que em aparelhos pessoais vão, mas no zapguru não obtemos resposta
+Atendente: *Gustavo Soares:* 
+Boa tarde tudo bem? Aqui é o Gustavo, o Carlos foi para o intervalo dele, enquanto isso vou te ajudar :D Então na verdade isso não é um problema do ChatGuru, a plataforma do Chatguru é como se fosse um *espelhamento do seu apalreho.* Ou seja, os chats que aparecem nele, são sincronizados e aparecem na plataforma. Da mesma forma, quando você envia pelo Chatguru uma mensagem ele faz com que *seu aparelho pessoal cadastrado na plataforma* envie a mensagem. Ou seja, quem recebe a mensagem não identifica se ela veio do ChatGuru ou não. Você pode fazer um teste com o aparelho que está sincronizada ao Chatguru e fazer um envio ao Bradesco para verificar se irá aparecer as opções deles 😉 Como o Carlos disse, é um problema da plataforma do Badresco, ou eles utilizam alguma plataforma que não está ativando com este contato específico, ou ela é apenas uma mensagem simples para novos contatos 😁
+Atendente: *Gustavo Soares:* 
+Rush eu vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui que lhe atenderemos 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6012eae373116bf23e401a78
+Cliente: Bom dia!
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Rush! 😃
+Meu nome é Lucas Andrade, sou suporte do ChatGuru. 
+Como posso ajudar?
+Cliente: Bom dia!
+
+Estou tentando usar o Chat Guru é não estamos conseguindo.
+
+Pode me ajudar?
+Atendente: *Lucas Andrade:* 
+O celular está desconectado da plataforma. Vou enviar um passo a passo para resolver isso.
+Cliente: Ok
+Atendente: *Lucas Andrade:* 
+No celular (11) 22841900 > vá no whatsapp > whatsapp web> clique em  desconectar/encerrar todas as sessões/aparelhos > depois faça novamente a leitura do QR-Code do ChatGuru
+Atendente: *Lucas Andrade:* 
+Me avise quando realizar o procedimento 😊
+Cliente: Fiz.
+Atendente: *Lucas Andrade:* 
+Um momento.
+Cliente: Ok
+Cliente: Olá!
+Cliente: ?
+Atendente: *Lucas Andrade:* 
+Peça para alguém da TI liberar o IP 192.99.69.98
+Cliente: Como faço isso?
+Atendente: *Lucas Andrade:* 
+Liberar o firewall para o IP acima.
+Atendente: *Lucas Andrade:* 
+Você precisa falar com alguém de TI da sua empresa.
+Cliente: Como eu faço pra fazer o Firewall liberar o IP acima?
+
+E por que, de repente, o Firewall resolveu enfim dar problema com o IP?
+Atendente: *Lucas Andrade:* 
+Um momento.
+Atendente: *Lucas Andrade:* 
+Pode ler o qr-code agora.
+Cliente: Ok, está carregando
+Cliente: Um.minjto
+Atendente: *Lucas Andrade:* 
+Prontinho, já está conectado.
+Atendente: *Lucas Andrade:* 
+Ajudo você em algo mais?
+Atendente: Rush, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia
+Cliente: Estamos com problema, nossas mensagens não estão sendo enviadas
+Cliente: Podem nos ajudar?
+Cliente: Bom dia...
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Rush. Bom dia! Sou Carlos do Suporte ChatGuru. Um momento enquanto verifico
+Cliente: Obrigada
+Atendente: *Carlos:* 
+Tudo certinho. Normalizou. Consigo ajudar em algo mais?
+Cliente: *Maitê Lacerda:* 
+Muito obrigada
+Cliente: *Maitê Lacerda:* 
+Por enquanto somente
+Atendente: *Carlos:* 
+Imagina, Maitê. Qualquer coisa, só nos chamar novamente. Um ótimo dia 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6086baa4ecec98869e5e06c3
+Cliente: *ANDERSON  COSTA:* 
+oi
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá,  Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: *ANDERSON  COSTA:* 
+Oi Rodrigo, tudo bem?
+Cliente: *ANDERSON  COSTA:* 
+Gostaria de saber como eu coloco para todas mensagens novas ir para o meu nome?
+Atendente: *Rodrigo Lacerda:* 
+Tudo bem, Anderson!
+Atendente: *Rodrigo Lacerda:* 
+Anderson, você vai fazer o seguinte: 
+
+1) Acesse a aba de *Usuários* no menu do canto esquerdo
+2) Clique na opção *Rodízio de Atendimento*
+3) Exclua quem estiver na lista e deixe somente o seu nome. 
+
+Pronto, todos os chats que fizerem contato com o seu número a  partir de agora entrarão para o seu usuário.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6087298decec98869e5e6d50
+Cliente: *ANDERSON  COSTA:* 
+oi
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *ANDERSON  COSTA:* 
+ok
+Atendente: *Gustavo Soares:* 
+Olá Rush! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: *ANDERSON  COSTA:* 
+Opa Gustavo, boa tarde! Tudo bem?
+Cliente: *ANDERSON  COSTA:* 
+tem alguns contatos que estão pentendes para adicionar.
+Cliente: *ANDERSON  COSTA:* 
+pendentes **
+Cliente: *ANDERSON  COSTA:* 
+pode me ajudar?
+Atendente: *Gustavo Soares:* 
+Claro, só um momento que irei verificar
+Cliente: *ANDERSON  COSTA:* 
+ok
+Atendente: *Gustavo Soares:* 
+Pode me passar o código do aplicativo Anydesk do aparelho por gentileza para que eu possa acessá-lo =D
+Cliente: *ANDERSON  COSTA:* 
+como eu vejo?
+Atendente: *Gustavo Soares:* 
+Só abrir um aplicativo chamado *Anydesk* (vermelho) e me passar o código que aparece, depois só aceitar a conexão
+Cliente: *ANDERSON  COSTA:* 
+ata
+Cliente: *ANDERSON  COSTA:* 
+Lilian,
+Segurado informou que quem escolheu as coberturas foram a Rush e que precisa de cobertura de RC.  
+
+Questionei qual é a necessidade dele e o mesmo pediu para entrar em contato amanhã.
+Abraços!
+Cliente: *ANDERSON  COSTA:* 
+506 665 773
+Atendente: *Gustavo Soares:* 
+Preciso acessar o *aparelho celular*
+Se não tiver o aplicativo instalado, vou precisar que instale
+Atendente: *Gustavo Soares:* 
+*Aplicativo Anydesk (por meio dele vou conseguir acessar o aparelho remotamente):* https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR&gl=US
+
+*Plugin AD1 do Anydesk (por meio dele vou conseguir controlar sem complicações):*
+https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1&hl=pt_BR&gl=US
+
+Por favor, após a instalação vá até as configurações do aparelho > Acessibilidade > Mais serviços instalados/transferidos e habilite o AD1 Plugin. 😁
+Atendente: *Gustavo Soares:* 
+Opa amigo tudo bem? Verifiquei que os chats foram adicionados...
+Mudamos a forma de adicionar chats agora não é necessário utilizar o automate porém mesmo assim recomendo deixar instalado. Apenas toque em *Stop* na parte do automate =D
+Atendente: *Gustavo Soares:* 
+Rush vou encerrar nosso atendimento por aqui por conta do horário de expediente. Mas qualquer coisa pode nos chamar por aqui mesmo que assim que possível lhe atenderemos! 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/609af0e8ecec98869e64295a
+Cliente: *ANDERSON  COSTA:* 
+Bom dia!
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Anderson! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *ANDERSON  COSTA:* 
+Opa Eduardo, boa tarde! Tudo bem? Preciso de uma ajuda. Hoje somente eu e a Lilian são os administradores do acesso. Precisava saber como eu faço para deixar visível os telefones de contato para os demais.
+Cliente: *ANDERSON  COSTA:* 
+Ok obrigado!
+Atendente: *Eduardo Victor:* 
+Por nada! Eu consigo te ajudar em algo mais?
+Cliente: *ANDERSON  COSTA:* 
+somente
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Anderson 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60abcc7becec98869e69202f
+Cliente: *ANDERSON  COSTA:* 
+Ola
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde Anderson! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: *ANDERSON  COSTA:* 
+Opa Luiz, boa tarde! Como vai?
+Cliente: *ANDERSON  COSTA:* 
+Tira uma dúvida! Qual é o limite de usuarios no guru?
+Atendente: *Luiz Modestino:* 
+Não tem limite
+Cliente: *ANDERSON  COSTA:* 
+serio?
+Cliente: *ANDERSON  COSTA:* 
+como eu faço para criar um novo usario?
+Cliente: *ANDERSON  COSTA:* 
+se eu incluir mais um usuario será cobrado a mais?
+Atendente: *Luiz Modestino:* 
+Sim. Cada usuário tem o custo de Usuário Adicional 
+R$50,00/mês e a contratação é feita pelo setor financeiro.
+Cliente: *ANDERSON  COSTA:* 
+e qual é o limite usuario sem cobrança?
+Atendente: *Luiz Modestino:* 
+Todas as licenças de usuários são pagas Anderson.
+Cliente: *ANDERSON  COSTA:* 
+entendi,
+Cliente: *ANDERSON  COSTA:* 
+Como eu faço para alterar um usuario?
+Atendente: *Luiz Modestino:* 
+Alteções de nome e email nós fazemos por aqui.
+Atendente: *Luiz Modestino:* 
+*alterações
+Cliente: *ANDERSON  COSTA:* 
+a blz
+Cliente: *ANDERSON  COSTA:* 
+então altera a Maite para Leandro Souza.
+Cliente: *ANDERSON  COSTA:* 
+o email é leandro@rushseguros.com.br.
+Atendente: *Luiz Modestino:* 
+Deseja alterar a senha?
+Cliente: *ANDERSON  COSTA:* 
+Por favor
+Cliente: *ANDERSON  COSTA:* 
+para " leandro006242 "
+Atendente: *Luiz Modestino:* 
+Feito
+Atendente: *Luiz Modestino:* 
+Posso ajudar em algo mais?
+Cliente: *ANDERSON  COSTA:* 
+somente obrigado!
+Atendente: *Luiz Modestino:* 
+Ok. Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60ad423fecec98869e69c9f8
+Cliente: Boa tarde
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Rush! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: Gustavo Boa tarde
+Cliente: Estámos com problema
+Cliente: O guru está funcionando somente pelo celular
+Cliente: As mensagens não estão sendo enviadas pelo computador
+Atendente: *Gustavo Soares:* 
+O servidor está funcionando corretamente, tanto que o site acessado pelo celular e pelo computador é o mesmo. Se você consegue acessar a plataforma pelo celular mas não pelo computador então o computador está com a conexão lenta ou então está com problema no navegador.
+Pode testar por gentileza a internet do computador? https://www.speedtest.net/
+Cliente: Vou tentar
+Cliente: Internet está normal
+Cliente: *ANDERSON  COSTA:* 
+oPA
+Cliente: *Isabelly - Rush Corretora:* 
+Boa tarde1
+Cliente: Está voltando aos poucos
+Cliente: Voltou aqui, muito obrigada
+Atendente: *Gustavo Soares:* 
+Booa tarde Anderson e Isabelly
+Para mim está tudo normal, tanto a conexão do seu aparelho com a plataforma quanto o nosso servidor
+Atendente: *Gustavo Soares:* 
+Imagina =D
+Fora isso consigo ajudar em algo mais?
+Cliente: *Isabelly - Rush Corretora:* 
+Somemnte
+Cliente: *Isabelly - Rush Corretora:* 
+Muito Obrigada !
+Atendente: *Gustavo Soares:* 
+Imagina, se precisar de algo mais é só nos chamar 😉
+Desejo uma ótima tarde para todos vocês 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d4e643aee761eec9a410ab
+Cliente: Bom dia
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Rush! Tudo bem?
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso ajudar? 😁
+Cliente: Bom dia! Lucas, tudo em ordem?
+Atendente: *Lucas Andrade:* 
+Tudo ótimo e com você?
+Cliente: Nosso guru pelo computador, não esta funcionando
+Cliente: Apresenta whats foi deslogado
+Atendente: *Lucas Andrade:* 
+Vou verificar sua conta. Só um momento.
+Cliente: Ok
+Cliente: Não usamos o web
+Cliente: Não usamos o Web, usamos diretamente o app do ZapGuru
+Atendente: *Lucas Andrade:* 
+Certo, de qualquer forma, faça o procedimento que eu falei acima no celular (11) 2284-1900 e depois refaça a leitura do QR-Code do ChatGuru, por gentileza.
+Atendente: *Lucas Andrade:* 
+Você está com o celular (11) 2284-1900 em mãos?
+Cliente: É nesta tela?
+Cliente: Sim
+Atendente: *Lucas Andrade:* 
+Abra o whatsapp > Clique nos *três pontinhos* > Depois em whatsapp web > *Encerre/finalize* todas as sessões abertas. Depois, faça novamente a leitura do QR-Code do ChatGuru.
+Cliente: Meu Deus que isso 😩
+Atendente: *Lucas Andrade:* 
+Só um momento
+Cliente: Ok
+Atendente: *Lucas Andrade:* 
+A equipe técnica já está resolvendo. Por favor, aguarde. Aviso assim que estiver tudo funcionando e pronto para você ler o QR-Code.
+Cliente: Ok
+Atendente: *Lucas Andrade:* 
+Pode ler o qr-code agora
+Cliente: *ANDERSON  COSTA:* 
+agora foi
+Cliente: *ANDERSON  COSTA:* 
+Obrigado!
+Atendente: *Lucas Andrade:* 
+Maravilha! Posso ajudar em algo mais?
+Cliente: *ANDERSON  COSTA:* 
+somente
+Atendente: *Lucas Andrade:* 
+Estou finalizando seu atendimento.
+Qualquer coisa, entre novamente em contato! ✌😁
+Atendente: *Lucas Andrade:* 
+Tenha um ótimo dia
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60e59f1caee761eec9a8f613
+Cliente: *Isabelly - Rush Corretora:* 
+Bom Dia!
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hildesson Ramos:* 
+Olá Rush, Bom dia. Tudo bem? 
+
+Meu nome é *Hildesson*, sou do time de suporte do *ChatGuru*. 
+
+Me fala como posso te ajudar?
+Cliente: *Isabelly - Rush Corretora:* 
+Hildesson, Bom Dia!
+
+Temos 7 acessos ao Guru e gostariamos de incluir mais 1, queria saber qual seria o valor?
+Cliente: *Isabelly - Rush Corretora:* 
+Consegue nos ajudar?
+Atendente: *Hildesson Ramos:* 
+Isabelly, o investimento para incluir um usuário adicional em sua conta é de R$50,00/mensal.
+
+A compra é realizada junto ao nosso time financeiro, caso concorde com o valor é só falar que direciono seu chat para que você possa concluir a compra.
+Atendente: *Hildesson Ramos:* 
+Isabelly, você ainda tem interesse em contratar usuário adicional?
+Cliente: *Isabelly - Rush Corretora:* 
+Estamos em contato com a diretoria, assim que tivermos um retorno eu volto o contato
+Cliente: *Isabelly - Rush Corretora:* 
+eles estão em reunião no momento
+Atendente: *Hildesson Ramos:* 
+Ahhh entendi, posso te ajudar em algo mais?
+Cliente: *Isabelly - Rush Corretora:* 
+Por enquanto somente isso, muito obrigada!
+Atendente: *Hildesson Ramos:* 
+Por nada, então vou encerrar o atendimento e quando decidirem contratar o usuário adicional é só chamar! 🤜🤛
+
+Tenha um excelente dia! 🙋‍♂️
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60ec4f45aee761eec9aace2d
+Cliente: *Isabelly - Rush Corretora:* 
+Bom Dia!
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Isabelly - Rush Corretora:* 
+Acabamos de receber o Ok do nosso diretor
+Atendente: *Helena Braunger:* 
+Bom dia, Isabelly! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Legal, seria para contratar um usuário adicional na plataforma?
+Cliente: *Isabelly - Rush Corretora:* 
+Bom Dia Helena, sim seria sobre isso
+Atendente: *Helena Braunger:* 
+Legal, vou te encaminhar ao nosso setor financeiro então :)
+
+Conforme foi passado anteriormente, o usuário adicional está por R$ 50,00 mensais.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Isabelly - Rush Corretora:* 
+Bom dia!
+Cliente: *Isabelly - Rush Corretora:* 
+Gostariamos de realizar a inclusão de mais um usuário em nosso plano
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Claro, um momento.
+Cliente: *Isabelly - Rush Corretora:* 
+Tudo bem, obrigada!
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Isabelly - Rush Corretora:* 
+Estou encaminhando o boleto para o nosso financeiro, assim que recebermos o comprovante encaminho
+Atendente: *Bruna Lira:* 
+Combinado, obrigada.
+Cliente: *Isabelly - Rush Corretora:* 
+Boa Tarde!
+Cliente: *Isabelly - Rush Corretora:* 
+Segue comprovante de pagamento, referente a inclusão de mais um usuário ao plano
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: *Isabelly - Rush Corretora:* 
+Ok
+Cliente: *Isabelly - Rush Corretora:* 
+Deu tudo certo?
+Atendente: *Bruna Lira:* 
+Ainda não incluíram, um momento.
+Cliente: *Isabelly - Rush Corretora:* 
+sem problemas
+Atendente: *Alteração Feita*
+✅
+*RUSH CORRETORA DE SEGUROS*
+1 usuário adicional
+*Total de 8 usuários*
+Atendente: Rush, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Isabelly - Rush Corretora:* 
+Pode encerrar, muito Obrigada!!
+Atendente: *Bruna Lira:* 
+Por nada!
+Boa semana =)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60ec8efbaee761eec9ab05d9
+Cliente: *ANDERSON  COSTA:* 
+Boa tarde! Tudo bem?
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luana Cavalcanti:* 
+Olá, Rush. Boa tarde!
+Tudo bem? 😊
+
+Por aqui tudo ótimo, obrigada por perguntar! 
+
+Meu nome é Luana, eu quem prosseguirei com seu atendimento. 💐
+
+Por gentileza, como posso te ajudar?
+Cliente: *ANDERSON  COSTA:* 
+Luana, gostaria de realizar a troca de usuários
+Cliente: *ANDERSON  COSTA:* 
+De Anderson para Maitê Lacerda
+Cliente: *ANDERSON  COSTA:* 
+usuario: maite@rushseguros.com.br
+senha: maite006242
+Atendente: *Luana Cavalcanti:* 
+Por gentileza, me informe o nome e e-mail antigos que desejam trocar e qual será o nome e e-mail novos. A questão de senha, quando a realização da troca for finalizada, o novo usuário precisará clicar em redefinir a senha. 😊
+Cliente: *ANDERSON  COSTA:* 
+usuario antigo: anderson@rushseguros.com.br
+Cliente: *ANDERSON  COSTA:* 
+Nome: Anderson
+Atendente: *Luana Cavalcanti:* 
+Por gentileza, me autoriza trocar o usuário? 
+
+De:
+ANDERSON NAZARETH DA COSTA
+anderson@rushseguros.com.br
+
+Para o novo usuário:
+MAITÊ LACERDA
+maite@rushseguros.com.br
+Cliente: *ANDERSON  COSTA:* 
+sim
+Atendente: *Luana Cavalcanti:* 
+Prontinho, troca realizada com sucesso!
+Para redefinir a senha, basta a usuária Maitê tentar fazer o login com o novo e-mail e clicar no botão de "Esqueci a senha".
+Cliente: *ANDERSON  COSTA:* 
+beleza
+Cliente: *ANDERSON  COSTA:* 
+Obrigada!
+Atendente: *Luana Cavalcanti:* 
+Rush, posso te ajudar em algo mais?  🙂
+Cliente: *ANDERSON  COSTA:* 
+Sim, por favor
+Cliente: *ANDERSON  COSTA:* 
+como faço para incluir mais um usuario/
+Cliente: *ANDERSON  COSTA:* 
+?
+Atendente: *Luana Cavalcanti:* 
+Certo, você deseja contratar mais um usuário ou somente adicionar um usuário novo na vaga que ainda tem disponível? 
+Atualmente você tem 7 usuários e pode criar mais um, totalizando 8.
+Cliente: *ANDERSON  COSTA:* 
+eu consegui adicionar aqui
+Cliente: *ANDERSON  COSTA:* 
+obrigada
+Atendente: *Luana Cavalcanti:* 
+Que legal, excelente! 🙂
+Precisa de mais alguma ajuda, Anderson? 😊
+Atendente: Rush, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Maitê Lacerda:* 
+Bom dia! Tudo bem?
+Atendente: Rush Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Rush. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: *Maitê Lacerda:* 
+Arthur, bom dia
+Cliente: *Maitê Lacerda:* 
+Queria trocar os usuarios
+Cliente: *Maitê Lacerda:* 
+Pode me ajudar?
+Atendente: *Arthur Ferragini:* 
+Posso ajudar, sim, Maitê :)
+
+Por gentileza, informe aqui no chat o e-mail atual do usuário que deseja alterar, e quais as alterações que já dou seguimento.
+Cliente: *Maitê Lacerda:* 
+??
+Cliente: *Maitê Lacerda:* 
+Alterar: de: mariana@ rushseguros.com.br 
+Para: igor@rushseguros.com.br
+Cliente: *Maitê Lacerda:* 
+??
+Atendente: *Arthur Ferragini:* 
+Maitê, pedimos desculpas pela demora no retorno.
+
+A alteração foi feita, e o Igor já pode acessar a plataforma usando o endereço igor@rushseguros.com.br e a mesma senha anterior.
+
+Para alterar a senha, basta clicar na opção "Esqueceu a senha?" na tela de login, tudo bem?
+Cliente: *Maitê Lacerda:* 
+Obrigada!
+Atendente: *Arthur Ferragini:* 
+Imagine :)
+
+Te ajudo em algo mais ou posso encerrar seu atendimento por ora?
+Cliente: *Maitê Lacerda:* 
+Por enquanto, somente
+Cliente: *Maitê Lacerda:* 
+POde encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/610bf767f390b1b216238078
+Cliente: *Maitê Lacerda:* 
+Suporte, boa tarde! Tudo bem?
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Eduardo Victor:* 
+Boa tarde, Maitê! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? Como posso te ajudar? 👨‍💻
+Cliente: *Maitê Lacerda:* 
+Boa tarde Eduardo
+Cliente: *Maitê Lacerda:* 
+tudo bem e você ?
+Cliente: *Maitê Lacerda:* 
+Preciso de um auxilio, havíamos solicitado a troca de usuários a um tempinho.
+Cliente: *Maitê Lacerda:* 
+Porem, na parte de " Responsável" , onde delegamos o usuário a conversa, aparece o nome antigo, poderia verificar?
+Atendente: *Eduardo Victor:* 
+Posso sim! Vou verificar isso pra você, só um momento.
+Cliente: *Maitê Lacerda:* 
+Ok!
+Atendente: *Eduardo Victor:* 
+Maitê, atualiza a sua pagina e confirma se o nome foi alterado agora, por gentileza.
+Cliente: *Maitê Lacerda:* 
+Perai
+Cliente: *Maitê Lacerda:* 
+Foi alterado sim!
+Cliente: *Maitê Lacerda:* 
+Muito obrigada!
+Atendente: *Eduardo Victor:* 
+Por nada! Eu consigo te ajudar em algo mais?
+Cliente: *Maitê Lacerda:* 
+Por enquanto, somente.
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Maitê 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611e84e0f390b1b21629bdf6
+Cliente: *Maitê Lacerda:* 
+Boa tarde!
+Atendente: Rush Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Helena Braunger:* 
+Boa tarde, Maitê! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Como posso ajudar?
+Cliente: *Maitê Lacerda:* 
+Helena, boa tarde! Tudo sim e você?
+Cliente: *Maitê Lacerda:* 
+Para mudar de senha, basta clicar em esqueci minha senha?
+Atendente: *Helena Braunger:* 
+Tudo bem também :)
+
+Isso, pode clicar em esqueci minha senha se você não estiver logada e assim consegue alterar a senha com o email. Ou se estiver logada pode clicar no seu nome de usuário (que fica no canto superior esquerdo) e alterar dentro da plataforma mesmo 😊
+Cliente: *Maitê Lacerda:* 
+Combinado então! Obrigada
+Atendente: *Helena Braunger:* 
+Imagina!
+
+Precisa de algo mais agora? 😁
+Cliente: *Maitê Lacerda:* 
+Somente por enquato
+Cliente: *Maitê Lacerda:* 
+Enquanto ***
+Atendente: *Helena Braunger:* 
+Beleza, Maitê =)
+
+Vou encerrar o atendimento então, mas qualquer dúvida você entra em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Rush, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611e9d5cf390b1b21629d3ac
+

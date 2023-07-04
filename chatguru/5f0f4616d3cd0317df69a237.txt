@@ -1,0 +1,473 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Olá Fane, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Boa tarde Fane 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: https://ovh-fanetecidos-01.zap.guru/static/media/FaneTecidos/OLVYYDCJQ7_140567128660048.pdf
+Atendente: Fane Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: era esse link?
+Cliente: https://app5.zap.guru/chats/5f0f4c70b0a6700bbee66f5c
+Atendente: Certo, muito obrigado por encaminhar o link!
+Cliente: !
+Atendente: Fane Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: https://app5.zap.guru/chats/5f1824e3dbd6d144c3a7b5e8
+Cliente: estamos com um problema nos chats
+Atendente: Bom dia Fane! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: nos fizemos a implantacao com um aparelho de celular, e ontem nos trocamos esse aparelho celular por um mais novo!
+fiz os backups do whats e dos contatos ontem a noite e em seguida trocamos para o celular novo!
+Hoje ao abrirmos o zap guru com o celular novo, essa mensagem de erro comecou a aparecer em todos os contatos que nos tentamos inciar uma conversa pelo zap guru, o clientes que iniciam a conversa nos conseguimos responder normalmente
+Cliente: Bom dia!
+Cliente: Mensagem de erro continua aparecendo
+Cliente: segue o link
+Cliente: https://app5.zap.guru/chats/5f0f4cacb0a6700bbee6750e
+Atendente: Ok. Vou analisar. Só um momento.
+Atendente: Quando a mensagem de erro aparece é porque o chat provavelmente não está mais no aparelho, com isso, tem que adicionar manualmente.
+Cliente: Ok, Grato!
+Atendente: Te ajudo com algo mais?
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá...
+No ZapGuru não está aparecendo a foto do contato.
+Será que é alguma configuração?
+Atendente: Bom dia Fane! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Fane, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: não tem essa opção na aba
+Atendente: Peça para um usuário admin permitir para você!
+Atendente: Ele precisa liberar
+Atendente: Fane, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Ok ajuda de grande valia. Grato!
+Atendente: Precisando de algo mais é só mandar mensagem novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: se puder nos dar o passo a passo... ajudaria
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Fane! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Vai na aba usuário, clicar no usuário e vai abrir a pagina de permissões do usuário. Só clicar e salvar a permissão que deseja dar para esse usuário.
+Atendente: Te ajudo com algo mais?
+Atendente: Precisando de mais alguma ajuda é só mandar mensagem novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Fane, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Ola, bom dia. 
+as fotos que tiro por celular nao ficão salvas no zapguru
+Atendente: Fane Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: https://app5.zap.guru/chats/5f0f4ca9b0a6700bbee674b0
+Cliente: poderia verificar
+Atendente: Bom dia Fane! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Fane normalizou o problema?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Os emojis estão com falha na ordem e em preto e branco...
+Alguma configuração?
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Isso acontece em vários PCs
+Atendente: Boa tarde, Fane! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: isso é por causa da versão do navegador!
+Cliente: Grato!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa noite, ZapGuru.
+Seja bem vindo a *FANE TECIDOS!*
+
+Nosso horário de atendimento é de Segunda à Sexta feira, das 8:30hs as 18hs, 
+e aos Sábados das 9:00 as 12:00.
+Obrigado.
+Atendente: Boa noite Fane!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: teste 😁
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: boa tarde foi orientado a atualizar o navegador porque os emojis ficam preto e foi feito o procedimento porem o problema permanece.
+Atendente: Boa tarde, Fane! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: É necessário instalar no computador as fontes do windows, para aparecerem os emojis coloridos!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Não estamos conseguindo conectar microfones para enviar audio
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Fazemos esse procedimento mas não envia assim mesmo
+Atendente: Boa tarde, Fane! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Seu computador possui microfone?
+Cliente: Feno de ouvido Caio...
+Cliente: *fone
+Atendente: O que ocorre quando você tenta gravar o áudio?
+Cliente: Aparece a mensagem que eu printei acima
+Cliente: e no cadeado à esquerda está tudo permitido...
+Atendente: Certo, já está permitido o uso, caso tente agora, o que ocorreo?
+Cliente: quando clico no microfone a direita da tela, pra enviar o audio... aparece isso...
+Atendente: Certo
+Atendente: Nesse caso, não há microfone conectado
+Atendente: já tentou verificar a entrada?
+Cliente: simm.. inclusive inverti as entradas mas não dá certo
+Cliente: interessante que isso está acontecendo em máquinas distintas
+Cliente: não é só em uma
+Atendente: Verifique por gentileza se seu navegador está atualizado!
+Cliente: Chrome
+Cliente: está atualizado...
+Atendente: Estou aguardando um retorno do setor responsável, aguarde um momento por gentileza!
+Cliente: Boa tarde Caio!
+Cliente: Conseguiu ver algo?
+Atendente: Ainda não consegui uma resposta :(
+Atendente: Bom dia, Fane! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Seu problema foi resolvido?
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Everaldo:* 
+Boa tarde!
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Fane! 
+Meu nome é Lucas Andrade, sou *suporte* do *ChatGuru*. 
+Como posso ajudar?
+Cliente: *Everaldo:* 
+Estou com um probleminha técnico aqui
+Cliente: *Everaldo:* 
+cliente mandou audio e recebi no wats do celular e no PC não recebi
+Atendente: Amigo(a) cliente, estamos ciente deste problema relacionado aos arquivos da plataforma, já foi rastreado a causa e estamos trabalhando na solução, peço desculpas por qualquer desconforto que possa ter sido derivado disso, mas não se preocupe que já está sendo solucionado, assim que o problema for resolvido irei lhe informar, pode ficar tranquilo.
+Atendente: O recebimento de arquivos, inclusive, de áudio, já está funcionando.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa noite, ZapGuru.
+Seja bem vindo a *FANE TECIDOS!*
+
+Nosso horário de atendimento é de Segunda à Sexta feira, das 8:30hs as 18hs, 
+e aos Sábados das 9:00 as 12:00.
+Obrigado.
+Atendente: Boa noite Fane!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: *Everaldo:* 
+Boa tarde Suporte!
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Fane! Boa tarde tudo bem? Sou o Gustavo do Suporte do *ChatGuru*, como posso te ajudar? 😁
+Cliente: *Everaldo:* 
+Estamos com um probleminha aqui... na verdade dois
+Cliente: *Everaldo:* 
+imagens não estão abrindo, conforme pode ver acima
+Cliente: *Everaldo:* 
+E problemas também com o recebimento de áudio
+Cliente: *Everaldo:* 
+recebemos no celular, mas em alguns PC s não abrem...
+Atendente: *Gustavo Soares:* 
+Amigo, vou reiniciar o aparelho aqui no servidor e solicitar para que verifique se o problema ainda ocorre, só aguardar ok? :D
+Cliente: *Everaldo:* 
+Ok aguardo! Agradecido!
+Atendente: *Gustavo Soares:* 
+Amigo não estou conseguindo conectar novamente mas já solicitei ajuda da equipe de Infra para resolvermos isso o mais breve possível, só um momento.... ?D
+Atendente: *Gustavo Soares:* 
+:D*
+Atendente: *Gustavo Soares:* 
+Amigo já resolvemos esse problema. Agora poderá enviar e receber mídia normalmente, ok? Peço desculpas pelo inconveniente 😅 Eu posso te ajudar em algo mais? 😊
+Cliente: *JHENNYFER:* 
+Muito obrigada pela ajuda!!
+no momento esta tudo certinho, qualquer coisa retornamos pra você ! 😊🙏
+Atendente: *Gustavo Soares:* 
+Imagina 😁 Eu que agradeço, qualquer coisa é só nos chamar 😉 Uma ótima tarde para todos vocês do Fane Tecidos!!
+Cliente: *JHENNYFER:* 
+Obrigada!! 
+Igualmente 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60255dbd73116bf23e447b6a
+Cliente: *Everaldo:* 
+Oláá´
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: *Everaldo:* 
+Então.... 
+As imagens que estamos enviando, via celular... está demorando pra envio.
+Isso não é corriqueiro, começou hoje pela manhã.
+O ZAP envia, mas com certa demora
+Atendente: *Lucas Gusmão:* 
+Esse atraso, muito provavelmente, está relacionado a conexão com a plataforma. Você pode confirmar se as etapas abaixo estão sendo seguidas?
+Atendente: *Lucas Gusmão:* 
+✔ Aparelho sem bloqueio de tela.
+✔ What’s App aberto em primeiro plano.
+✔ Conexão estável com a internet.
+✔ Utilização do aparelho apenas para plataforma ChatGuru.
+Atendente: *Lucas Gusmão:* 
+Por nada! Fico feliz em poder ajudar. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60257d5873116bf23e448ef6
+Atendente: *Lucas Gusmão:* 
+Desculpa, encerrei nosso atendimento equivocadamente rss.
+Atendente: *Lucas Gusmão:* 
+Conseguiu verificar? 🙂
+Cliente: *Everaldo:* 
+dessa forma meu amigo...
+Cliente: *Everaldo:* 
+VCc encaminha a imagem e ela demora pra ser enviada...
+Cliente: *Everaldo:* 
+enquanto pelo celular vai bem rápido
+Atendente: *Lucas Gusmão:* 
+Everaldo, isso pode estar ocorrendo por desconexão da plataforma com o aparelho. Isso pode ocorrer por diversos motivos, como, por exemplo, oscilação na sua internet ou bloqueio de tela no aparelho
+Atendente: *Lucas Gusmão:* 
+Por isso, é importante que siga essas etapas:
+Atendente: *Lucas Gusmão:* 
+✔ Aparelho sem bloqueio de tela.
+✔ What’s App aberto em primeiro plano.
+✔ Conexão estável com a internet.
+✔ Utilização do aparelho apenas para plataforma ChatGuru.
+Atendente: *Lucas Gusmão:* 
+Se as etapas acima estiverem sendo seguidas, me avise que iremos fazer alguns testes. Tá bom?!
+Atendente: *Lucas Gusmão:* 
+Fane, por inatividade iremos encerrar este atendimento.
+
+Caso precise de ajuda, não hesite em nos chamar. Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60259a4073116bf23e449fa1
+Cliente: *Everaldo:* 
+Bom dia Suporte!
+Atendente: Fane Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Everaldo:* 
+Mesmo problema que ocorreu semana passada
+Cliente: *Everaldo:* 
+Audio abre no Celular mas não abre no PC
+Atendente: *Lucas Gusmão:* 
+Bom dia, Fane! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+O audio enviado foi reproduzido normalmente na nossa conversa.
+Atendente: *Lucas Gusmão:* 
+Esse chat que você enviou é um erro isolado ou aconteceu em outras conversas?
+Cliente: *Everaldo:* 
+Acontece em outras conversas também... em outros PCs também
+Atendente: *Lucas Gusmão:* 
+Se quiser, pode enviar o chat que vamos analisar.
+Atendente: *Lucas Gusmão:* 
+De todo modo, gostaria de reiniciar sua conexão para atualizar todas as configurações. Posso fazer isso? 🙂
+Cliente: *Everaldo:* 
+Pode ser...
+Atendente: *Lucas Gusmão:* 
+Pronto! Já está sincronizando.
+Atendente: *Lucas Gusmão:* 
+Essa é uma ação pra atualizar possíveis edições.
+Atendente: *Lucas Gusmão:* 
+Se algum arquivo isolado não carregar, você pode fazer novamente o download da forma que te mostrei
+Atendente: *Lucas Gusmão:* 
+Ajudo em mais alguma coisa? 😊
+Cliente: *Everaldo:* 
+agradecido!
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar. 😄
+Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602e83fc9f49179ac8936379
+Cliente: *Everaldo:* 
+Bom dia ZapGuru!
+Atendente: Fane Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Everaldo:* 
+Um problema recorrente aqui
+Cliente: *Everaldo:* 
+Quando vc responde uma mensagem do dia, ou de alguns dias anteriores, marcando a mesma, está dando erro.
+Segue print.
+Atendente: *Arthur Ferragini:* 
+Olá, Everaldo. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Agradecemos o feedback!
+
+A função "responder", liberada há alguns meses, ainda tem essa limitação: é possível responder apenas mensagens do mesmo dia, ou de até 24h atrás.
+
+Mas nossa equipe de desenvolvimento está trabalhando em melhorias para ir além disso nas atualizações futuras, tudo bem?
+Cliente: *Everaldo:* 
+Entendido!
+Grato pelo retorno.
+Atendente: *Arthur Ferragini:* 
+Imagine! Tem algo mais em que posso ajudar, ou seria apenas isso por hora?
+Cliente: *Everaldo:* 
+isso por hora, tenha um bom dia!
+Atendente: *Arthur Ferragini:* 
+Obrigado! Pra você também :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/604769f99f49179ac8999bad
+Cliente: Bom dia 
+O sistema não está carregando
+Cliente: *Everaldo:* 
+Boa tarde! Tudo bem?
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Everaldo:* 
+Um probleminha tem sido recorrente, que é quanto a atualização das fotos de perfil do cliente no PC.
+Pelo celular atualiza facilmente e no PC não aceita atualização.
+Grato!
+Atendente: *Lucas Andrade:* 
+Oi, Fane! 
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso te ajudar?
+Cliente: *Everaldo:* 
+Então Lucas, é exatamente isso que fazemos e não está funcionando.
+No inicio da utilização do ZAP funcionava e hoje não mais...
+Atendente: *Lucas Andrade:* 
+Você pode me enviar o link do chat desses clientes?
+Cliente: *Everaldo:* 
+https://app5.zap.guru/chats#5f0f4ca8b0a6700bbee67494
+Cliente: *Everaldo:* 
+Esse é um que está acontecendo nesse momento
+Atendente: *Lucas Andrade:* 
+Um momento, vou verificar.
+Atendente: *Lucas Andrade:* 
+Ajudo você em algo mais?
+Cliente: *Everaldo:* 
+Somente isso.
+Agradeço a agilidade!
+Atendente: *Lucas Andrade:* 
+Tudo bem. Estou finalizando seu atendimento.
+Qualquer dúvida, entre em contato! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6053af7cecec98869e50f6d6
+Cliente: *Everaldo:* 
+Boa tarde! Bem?
+Atendente: Fane Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Fane. Boa tarde! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: *Everaldo:* 
+Ontem vcs me ajudaram numa questão... que é de atualização ou recarregar foto do perfil
+Cliente: *Everaldo:* 
+Vou mandar um print pra ver como está meu login
+Cliente: *Everaldo:* 
+E abaixo segue o link do cliente pra ver como está
+Cliente: *Everaldo:* 
+https://app5.zap.guru/chats#5f0f4ca8b0a6700bbee67494
+Cliente: *Everaldo:* 
+Será que seria um problema no meu PC, ou alguns PCs?
+Atendente: *Carlos:* 
+os usuários que estão vendo a mesma foto que você são todos do tipo "Normal"
+Atendente: *Carlos:* 
+?
+Atendente: *Carlos:* 
+A permissão de recarregar foto do perfil é ativável por usuários do tipo "Administrador"
+Cliente: *Everaldo:* 
+O login da Zuila e da Jennyfer estão como administrador mas não altera foto do perfil
+Atendente: *Carlos:* 
+Everaldo?
+Atendente: *Carlos:* 
+Com esses perfis ADM escolhe a opção de recarregar a imagem do perfil nesse chat por favor
+Cliente: *Everaldo:* 
+Feito mas não atualizou
+Atendente: *Carlos:* 
+tenta o CTRL + F5 no seu navegador
+Atendente: *Carlos:* 
+o problema não é o usuário. Pelo visto é o navegador/computador
+Cliente: *Everaldo:* 
+Carlos... dessa forma atualizou
+Atendente: *Carlos:* 
+então era o navegador mesmo
+Atendente: *Carlos:* 
+Esse atalho limpa dados de cache
+Cliente: *Everaldo:* 
+Consigo resolver facil isso?
+Atendente: *Carlos:* 
+já resolveu
+Cliente: *Everaldo:* 
+Então a partir de agora consigo atualizar/recarregar as fotos do perfil no "recarregar foto do perfil"?
+Atendente: *Carlos:* 
+Consegue se seu usuário tiver essa permissão 😬
+Atendente: *Carlos:* 
+Mas se algum ADM fizer também atualiza para você. Se não atualizar, use esse atalho no navegador
+Atendente: *Carlos:* 
+consigo ajudar em algo mais?
+Cliente: *Everaldo:* 
+Por hora isso meu amigo
+Atendente: *Carlos:* 
+Beleza, Everaldo. Qualquer coisa, só chamar novamente 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Fane, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/605509a1ecec98869e51653a
+

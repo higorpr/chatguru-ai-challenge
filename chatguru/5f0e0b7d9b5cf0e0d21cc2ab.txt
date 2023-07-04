@@ -1,0 +1,426 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Moura Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Moura, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: Oi
+Cliente: Esta dando erro no envio das mensagens pelo ZAP guru
+Cliente: Oii
+Atendente: Moura, o WhatsApp está passando por instabilidades nesse momento e está afetando diretamente o uso no ZapGuru. Solicitamos que aguarde ate a estabilização do serviço do WhatsApp.
+Atendente: Voltou a funcionar?
+Atendente: Observei que tudo voltou ao normal!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ola
+Atendente: Moura Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Moura, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Preciso do boleto
+Atendente: Vou te encaminhar para o departamento financeiro, só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, um momento por favor.
+Atendente: Assim que efetuar o pagamento, por gentileza nos envie o comprovante para que possamos dar baixa.
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ok
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Pronto
+Atendente: Carol, muito obrigada!
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+De nada
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oii
+Atendente: Moura Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Carol! Tudo bem?
+Como podemos ajudar?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ainda está aparecendo a mensagem de bloqueio
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ja efetuei o pagamento ontem e mandei o comprovante
+Atendente: Perfeito, Carol. Vou verificar internamente para podermos liberar o acesso a você.
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Bom dia
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Estou tentando pagar o boleto que vence hoje
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Porem esta aparecendo que o boleto nao tem registro
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Me manda o boleto correto pra efetuar o pagamento
+Atendente: Olá Carol, bom dia
+Atendente: Vou te encaminhar outro boleto
+Atendente: um momento.
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Obrigado
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Efetuei o pagamento já
+Atendente: Show!
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi , Bom dia
+Atendente: Moura Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Moura, Bom dia, meu nome é Mark! Em que posso te ajudar?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Gostaria de cancelar o recurso de adicionar chats
+Atendente: Certo, um mometo.
+Atendente: Vou te encaminhar para o departamento financeiro, só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Carol, bom dia!
+Atendente: Tudo bem?
+Atendente: Você deseja cancelar o add chats certo?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Isso
+Atendente: Um momento.
+Atendente: *✅  Concluído*
+*Moura Moveis*
+Remoção Módulo Add Chats
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Moura Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Mande o boleto
+Atendente: Oi Carol, boa tarde!
+Atendente: Mando sim, um momento.
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Obrigado
+Atendente: Assim que efetuar o pagamento, por favor nos envie o comprovante para que eu consiga dar baixa.
+Atendente: Muiito obrigada!!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Moura Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Carol.
+Atendente: Meu nome é Lucas. Como posso te ajudar?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Fiz o pagamento da mensalidade ontem , e hoje está aparecendo a mensagem de bloqueio em 24hrs
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Gostaria que retirasse isso
+Atendente: Ok, Carol. Vou solicitar a remoção da tarja ao financeiro. Aguarde, por gentileza.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Carol | Comercial Moura Moveis.:* 
+ok
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Oi Carol
+Atendente: Um momento.
+Atendente: Carol
+Atendente: saiu?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Sim
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Carol, estou encerrando atendimento caso precise de algo é só nos chamar :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Moura Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Boa noite Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Preciso que mandem o boleto antes do vencimento pra gente
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ou nos fale onde consigo baixar o boleto todo mes
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Bom dia Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oii  ZapGuru, Bom dia Tudo bom ?
+Atendente: Bom dia Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *Carol | Comercial Moura Moveis.:* 
+oi
+Atendente: Olá, bom dia!
+Atendente: Chega nesse e-mail todo dia 10
+Atendente: luildson@live.com
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Poderia mudar pro email mouramoveisplanejados@outlook.com
+Cliente: *Carol | Comercial Moura Moveis.:* 
+??
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Eu consigo pagar com o mesmo boleto que ta com data pro dia 17/11
+Atendente: Posso claro.
+Atendente: Troquei o e-mail
+Atendente: Enviei o boleto nele, verifique por favor se chegou
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ok
+Atendente: Olá Recebemos o pagamento.
+Atendente: obrigada :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oii  ZapGuru, Bom dia Tudo bom ?
+Atendente: Moura Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Moura, Bom dia !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Estou com uma duvida, Tenho notado que algumas mensagens estão chegando no nosso aparelho e não esta aparecendo aqui na plataforma
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Audios principalmente
+Atendente: Carol,  vou verificar, só um momento.
+Atendente: através de qual link você realiza o login?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+https://app4.zap.guru/
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Atraves desse
+Cliente: *Carol | Comercial Moura Moveis.:* 
+O que sempre fizemos , esse erro começou essa semana
+Atendente: certo, só um momento.
+Atendente: Carol, testa pra mim, verifica se voltou, por favor.
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Sim. Voltou
+Atendente: Algo mais em que eu possa te ajudar?
+Atendente: Qualquer coisa só falar, Carol!
+Atendente: até mais!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Moura Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Carol! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Estou com um problema.  Recebo imagens e videos mas nao consigo abrir e visualizar
+Atendente: *Gustavo Soares:* 
+Poderia me enviar por gentileza um chat de exemplo que ocorreu isso? Parece que está tudo normal...
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Vc tem acesso aos chats daqui?
+Atendente: *Gustavo Soares:* 
+O chat daqui com o suporte? 
+É só me passar um chat que aconteceu isso e me autorizar a verificar se a imagem/vídeo chegou normalmente, por favor =D
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Certo
+Cliente: *Carol | Comercial Moura Moveis.:* 
+O nome do chat e PROJETOS
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Tentamos abrir um video e imagem.mas nao deu certo
+Atendente: *Gustavo Soares:* 
+Ah sim é um grupo correto? Para isso vou solicitar para que liberem o envio e recebimento de mídias em grupos. E após essa liberação os *próximos* vídeos/imagens irão carregar normalmente =D
+Atendente: *Gustavo Soares:* 
+Pronto, agora as próximas mídias de grupo irá chegar normalmente =D
+Te ajudo em algo mais?
+Atendente: Moura, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Me envia o boleto
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Segue comprovante de pagamento
+Atendente: *MENSAGEM AUTOMÁTICA* 
+
+Esse telefone não recebe ligações via WhatsApp, para falar com nossa equipe comercial entre em contato através de nosso número fixo: +55 11 3042.0035 
+
+Para suporte, prossiga com sua dúvida aqui mesmo 😀
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Efetuei o pagamento do boleto
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Quero só que baixe o pagamento ai
+Atendente: *Bruna Lira:* 
+Oi Carol, dei baixa aqui, obrigada!
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Moura, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6086c265ecec98869e5e0eec
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Oi
+Atendente: Moura Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Helena Braunger:* 
+Boa tarde, Carol!
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Como posso ajudar?
+Atendente: *Helena Braunger:* 
+Carol, ainda precisa de ajuda?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Manda o boleto em aberto
+Atendente: *Helena Braunger:* 
+Carol, vou te encaminhar ao nosso setor financeiro, só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Ok
+Atendente: Boa noite Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Bruna Lira:* 
+Bom dia!
+Muito obrigada!
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carol | Comercial Moura Moveis.:* 
+Não
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Moura, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d32dbdaee761eec9a355a9
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Oi
+Atendente: Moura Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gabriela Rodrigues:* 
+Bom dia Carolina! ✨✨ Meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, como você está? ❄
+
+Como posso te ajudar hoje? 😊
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Estou precisando de um login
+Atendente: *Gabriela Rodrigues:* 
+Um novo login, Carolina? Gostaria de contratar um novo usuário?
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Exatamente..um novo usuario
+Atendente: *Gabriela Rodrigues:* 
+Certo, irei te transferir para o financeiro, ok? Um momento, por gentileza. 🤗
+
+Tenha um excelente feriado. 🤩
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, peço desculpa mas não pude responder o seu problema anteriormente, mas ficarei feliz em ajudar agora. Caso deseje continuar a nossa conversa por favor responda com 'sim'.
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Olá
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Deseja contratar mais 1 usuario?
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Sim.
+Atendente: Moura, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Certo
+Atendente: *Alteração Feita*
+✅
+*Moura Moveis*
+1 usuário adicional
+*total de 7 usuários*
+Atendente: Moura, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Obrigado
+Atendente: *Bruna Lira:* 
+Por nada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Moura, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6138c0d2dd3292a7a70c81a5
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Oi
+Atendente: Boa noite Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Olá. Bom dia
+Cliente: *Carolina | Comercial Moura Moveis.:* 
+Oi
+Atendente: Boa tarde Moura!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Moura, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6151aab8dd3292a7a71508ce
+

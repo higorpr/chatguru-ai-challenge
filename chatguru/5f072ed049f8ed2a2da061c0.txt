@@ -1,0 +1,1895 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá Demape, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Bom dia Demape 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Atendente: Olá Demape, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: *DOUGLAS SANTOS:* 
+Boa tarde ! Estou precisando de duas coisas para iniciar a montagem da integração com meu ERP.
+
+1. Preciso de orientações de como capturar o CNPJ / CPF do cliente via gatilho ou Bot.
+
+2. Tem um exemplo básico de integração em qualquer linguagem que você poderia me mandar ?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: 1) Podemos agendar uma videochamada para amanhã para te explicar melhor o funcionamento dos gatilhos do chatbot.
+2) Infelizmente não oferecemos suporte nas formas de integração.
+Atendente: Qualquer dúvida, só chamar.
+Cliente: *DOUGLAS SANTOS:* 
+Mark , desculpe a demora em te responder.
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: *DOUGLAS SANTOS:* 
+Oi Josué !
+Vc tem alguma documentação que me ajude a criar um gatilho para capturar o CNPJ CPF do contato e armazenar em campo personalizado ?
+Atendente: só um momento, vou verificar Douglas :D
+Atendente: sim é possível
+vou lhe enviar um vídeo de como fazer
+
+https://www.youtube.com/watch?v=sYkVEP70A2w&feature=youtu.be
+Cliente: *Douglas Santos | Demape:* 
+Sem usar aplicações externas não tem como fazê-lo ? OU seja usando só o ZapGuru.
+Atendente: Para adicionar dados de clientes em campos personalizados, você pode inserir manualmente ou via API.
+Atendente: *API do ZapGuru*
+Através da nossa API é possível que sistema de terceiros interajam de forma ativa para o envio de mensagens através do ZapGuru. Você pode ver mais a respeito em nossa documentação: 
+
+👉 https://wiki.zap.guru/api/api-documentacao-v1
+Atendente: Demape, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Douglas Santos | Demape:* 
+Imagine só que preciso fazer a seguinte integração : Preciso alimentar alguns campos personalizados do contato com dados de faturamento a partir do meu ERP.
+
+Então pensei fazer o seguinte : 
+
+1. criar um gatilho que aciona um WebHook aqui no meu servidor. 
+2. O webhook me enviaria o CNPJ e o Telefone do contato para meu webservice
+3. O webservice consulta os dados do CNPJ e faz as chamadas de API para atualização do campo personalizado 
+
+Faz sentido esta abordagem ? Ou estou complicando demais ?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: Eu sei que é possível mas não sei te auxiliar como deve ser feito essas integrações
+o você ja tem um profissional para isso?
+Atendente: Todas as nossas integrações são feitas via Zapier ou Integromat.
+Atendente: E não nos responsabilizamos por integrações.
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Douglas Santos | Demape:* 
+Ao enviar uma requisição para a API de integração, estou recebendo a mensagem de "id/key não autorizado" . Existe alguma autorização extra que vocês precisem fazer internamente ?
+Atendente: Boa tarde, Demape! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Qual o tipo de requisição e como você está enviando?
+Cliente: *Douglas Santos | Demape:* 
+tipo = Post
+Atendente: Como está enviando?
+Atendente: Qual endpoint que você está usando? (URL)
+Cliente: *Douglas Santos | Demape:* 
+a mesma que está na documentação da API
+Cliente: *Douglas Santos | Demape:* 
+https://app.zap.guru/api/v1
+Cliente: *Douglas Santos | Demape:* 
+Está certo ?
+Atendente: Sim
+Atendente: Por esse link você vai ver como realizar o procedimento.
+Atendente: https://www.youtube.com/watch?v=sYkVEP70A2w&feature=youtu.be
+Atendente: Vou finalizar por aqui
+Atendente: qualquer coisa é só chamar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Bom dia ! Consigo criar um relatório com Numero X Usuario Responsável ?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Demape!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 
+
+Como posso te ajudar? 😀
+Cliente: *Douglas Santos | Demape:* 
+Eu preciso que o campo saia no relatório
+Cliente: *Douglas Santos | Demape:* 
+Tem jeito ?
+Atendente: Campos personalizados?
+Cliente: *Douglas Santos | Demape:* 
+Sim
+Atendente: Não, nesse caso, se você quer *exportar* os dados que estão nos campos personalizados para, por exemplo, um *relatório* ou *planilha* etc, você pode fazer por integração via integromat ou zapier com outros apps.
+Cliente: *Douglas Santos | Demape:* 
+Exportar para o Excel
+Atendente: Nesse caso, você precisa contratar o módulo API para fazer integração via Integromat ou Zapier. Assim, poderá usar webhook para mandar essas informações para o Excel.
+Atendente: Nós, do ZapGuru, não se responsabilizamos por integrações, só damos a documentação da API.
+Atendente: Nesse caso, é necessário que você saiba fazer a integração ou contrate um programador.
+Cliente: *Douglas Santos | Demape:* 
+Não se trata de integração... só quero exportar meus contatos para o Excel, CSV, ou qualquer coisa simples que deveria constar na opção de "Relatórios".
+Atendente: Não. Nesse caso só via API.
+Atendente: Ou seja, não é possível um relatório com as informações disponíveis nos campos personalizados.
+Cliente: *Douglas Santos | Demape:* 
+Pelo menos com o nome do "Responsável" eu consigo ?
+Atendente: Sim
+Cliente: *Douglas Santos | Demape:* 
+Até aí eu cheguei ! Mas o campo não sai no relatório ?
+Atendente: Pois é, como eu falei, você precisa usar o Integromat para exportar essas informações por webhook para o Excel.
+Atendente: Aqui seguem alguns links que podem explicar melhor: ttps://wiki.zap.guru/api/instrucoes-basicas
+Atendente: https://wiki.zap.guru/api/api-documentacao-v1
+Cliente: *Douglas Santos | Demape:* 
+legal, pode deixar , vou pesquisar a respeito.
+Atendente: Demape, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Bom dia pessoal ! Me ajuda aí !
+Antes de contratar a Zap.Guru, eu utilizava cerca de 10 linhas de celular com whatsapp para comunicar com os clientes. Existe alguma maneira ( paga ou não ) de eu mandar o histórico de mensagens destas linhas para a plataforma ?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Douglas! Tudo bem?
+Você utilizava aproximadamente 10 números de telefone e deseja importar o histórico das conversas pra esta sua conta na plataforma do ZapGuru?
+Cliente: *Douglas Santos | Demape:* 
+Existe esta possibilidade ?
+Cliente: *Douglas Santos | Demape:* 
+Sim , se possível gostaria de importá-los.
+Atendente: Infelizmente não, Douglas :(
+Você consegue importar o histórico apenas de um número por conta na plataforma do ZapGuru. Pois o histórico é vinculado ao número.
+Cliente: *Douglas Santos | Demape:* 
+Eu teria que "portar" os números para vocês para que isto fosse possível. Cero ?
+Atendente: Isso, Douglas. O mais próximo que podemos fazer, seria a  contratação de novos números para a plataforma da ZapGuru, mas cada conversa ficaria em uma conta, não há como vincular os históricos.
+Cliente: *Douglas Santos | Demape:* 
+Ok Então ! Valeu !
+Atendente: Nós que agradecemos, Douglas :)
+Atendente: Posso te ajudar em algo mais?
+Cliente: *Douglas Santos | Demape:* 
+por enquanto é só isto memso
+Cliente: *Douglas Santos | Demape:* 
+*mesmo
+Atendente: Perfeito, Douglas. Vou finalizar nosso atendimento por enquanto. Para qualquer dúvida, ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Boa tarde ! Consegue me ajudar na criação de um diálogo com gatilho para capturar CNPJ ?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Cliente: *Douglas Santos | Demape:* 
+Oi Eduardo !
+Criei um grupo chamado "Captura de Informações"
+O Diálogo eu dei o nome de "Capturar CNPJ"
+Adicionei um Gatilho do tipo CNPJ
+Cliente: *Douglas Santos | Demape:* 
+Adicionei uma ação para fazer um POST para meu CRM.
+Como posso ter certeza que ele enviou o POST ?
+Atendente: Ele é manual? ou é automático?
+Cliente: *Douglas Santos | Demape:* 
+a ideia é ser automatico
+Atendente: Poderia me mandar o link de um chat para verificar se foi ativo?
+Atendente: Ai consigo te mostrar melhor
+Cliente: *Douglas Santos | Demape:* 
+https://app5.zap.guru/chats/5f36bcb92c5ca8a9a3e9035c
+Atendente: Essa opção nos permite ver se o diálogo foi executado, nesse caso, funcionou corretamente
+Cliente: *Douglas Santos | Demape:* 
+eu adicionei duas ações.... então ele executou duas ações certo ?
+1. mandar uma resposta 
+2. fazer o post
+Atendente: Isso
+Atendente: Todas as ações que estavam no diálogo foram executadas
+Atendente: Douglas, posso te ajudar em mais alguma coisa?
+Atendente: Demape estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Boa tarde pessoal !
+Por favor tira uma dúvida muito técnica de WebHook.
+Quando a ação é disparada e é chamado a URL do WebHook...
+como são passadas as variáveis são passadas ?
+
+é enviado variavel por variável ou é enviado um único TXT Json dentro o POST ?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*
+Atendente: No caso é enviado uma única vez em TXT Json
+Cliente: *Douglas Santos | Demape:* 
+Oi Lucas, obrigado por esclarecer.
+Atendente: Por nada Sr Douglas. 
+Auxílio o Sr com algo mais?
+Cliente: *Douglas Santos | Demape:* 
+por enquanto não ! logo precisarei ! Abraços !
+Atendente: Ta certo :) 
+Vou encerrar por aqui.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Bom dia pessoal ! Por favor , me esclareçam uma coisa...
+Estou enviando chats e anotações via integração de API e precisaria saber :
+
+Como faço para incluir quebra de linha nas mensagens via API ? Tem alguma possibilidade de formatação negrito/italico ?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+Atendente: Só um momento que irei verificar e já te dou uma resposta, tudo bem?
+Cliente: *Douglas Santos | Demape:* 
+Ok .. sem pressa
+Atendente: Douglas, vou pedir o senhor permanecer aguardando que estamos pesquisando se há uma maneira. 
+Assim que conseguir a resposta, te informarei.
+Cliente: *Douglas Santos | Demape:* 
+ok
+Atendente: Douglas, perdão pela demora.
+Essa dúvida gerou uma pesquisa por quase todo o suporte ZapGuru. 😀
+Pelas informações que encontramos e com base no Intregromat, para inserir uma quebre de linha API somente colocar pelo comando Shift+Enter e para a formatação negrito/itálico, utilizar os mesmos atalhos do utilizados no WhatsApp (*/_/~). Porém, acreditamos que somente funciona a formatação negrito (*).
+Cliente: *Douglas Santos | Demape:* 
+Bem... vou tentar aqui... 
+deve ter algum jeito e se eu descobrir eu lhe aviso !
+Atendente: Combinado.
+Atendente: Desculpe por talvez não ajudar com muita precisão.
+Atendente: Posso te ajudar com algo mais?
+Atendente: Demape, estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Daniela | Demape:* 
+Bom dia
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Daniela | Demape:* 
+Solicito alteração do e-mail de cadastro (envio de faturas e NFs)
+Atendente: Bom dia, Daniela! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Cliente: *Daniela | Demape:* 
+Favor alterar de *financeiro@demape.com.br* para *marketing@demape.com.br*
+Atendente: Vou te encaminhar para o Financeiro e eles concluem essa operação para vocês, tudo bem?
+Cliente: *Daniela | Demape:* 
+Ok. Obrigada
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!
+Atendente: Trocar o e-mail?
+Atendente: Vai trocar o do financeiro por esse marketing@demape.com.br?
+Cliente: *Daniela | Demape:* 
+Bom dia
+Isso mesmo.
+Atendente: Bom dia!
+Atendente: Feito
+Atendente: Demape, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Douglas Santos | Demape:* 
+Bom dia !
+
+Os usuários estão se queixando de que a plataforma não está entregando as mensagens aos destinatários.
+
+Vocês estão com algum problema aí ?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, Boa tarde. Meu nome é Hugo.
+Atendente: os clientes não estão recebendo as mensagens do usário?
+Cliente: *Douglas Santos | Demape:* 
+eles dizem que as mensagens enviadas não estão sendo entregues.... mesmo a mensagagem que eu enviei para vc levou um bom tempo para ser entregue
+Atendente: quanto tempo Douglas?
+Cliente: *Douglas Santos | Demape:* 
+não sei te dizer... mas não foi "instantaneo" da froma que costuma ser
+Atendente: entendi.
+Atendente: então Douglas, por aqui está tudo normal.
+Atendente: pelo que pude analisar vocês tem um fluxo de mensagens bem grande.
+Atendente: pode ser que o celular de vocês esteja ficando sobrecarregado
+Atendente: geralmente existe um delay mesmo de alguns segundos que é natural
+Atendente: mas se estiver demorando demais pode ser por conta da quantidade de mensagem que esta sendo enviada ao mesmo tempo. Lembrando que mídias (fotos, arquivos, audio, etc) demoram um pouco mais para enviar.
+Cliente: *Douglas Santos | Demape:* 
+quanto tempo eu posso considerar como normal ? 10 - 15 minutos ?
+Atendente: minutos de forma alguma. Segundos.
+Atendente: se demorar minutos é porque o telefone desconectou.
+Cliente: *Douglas Santos | Demape:* 
+O pessoal tem reclamado de VARIOS MINUTOS
+Atendente: perdeu a conexão com a internet ou algo do genero.
+Cliente: *Douglas Santos | Demape:* 
+Se o telefone desconectou ele volta sozinho ou precisa de intervenção manual de vocês ?
+Atendente: se ele perder conexão com a internet ele volta sozinho
+Atendente: quando a internet voltar é claro.
+Atendente: mas ai Douglas eu preciso que você entre em contato comigo quando a mensagem estiver demorando para ser enviada
+Atendente: pois nesse momento estamos conversando aqui
+Atendente: e quando eu olho na fila não tem nenhuma mensagem de vocês pendente
+Cliente: *Douglas Santos | Demape:* 
+ok ! vou ficar de olho aqui !
+Cliente: *Douglas Santos | Demape:* 
+Se der problema novamente eu aviso você
+Atendente: eu posso te ajudar com algo mais?
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Viviane Wirth | Demape:* 
+Olá, bom dia!! Tudo bem?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Demape, Bom dia, meu nome é Mark! Em que posso te ajudar?
+Cliente: *Viviane Wirth | Demape:* 
+Gostaríamos, por gentileza, de alterar o e-mail de envio da NF
+Cliente: *Viviane Wirth | Demape:* 
+Para o e-mail marketing@demape.com.br
+Atendente: Certo, um momento que vou te encaminhar para o financeiro.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *Viviane Wirth | Demape:* 
+Ok, obrigada
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Viviane Wirth | Demape:* 
+No aguardo
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!
+Atendente: Vi que quer trocar o e-mail
+Atendente: me passa o novo por favor
+Cliente: *Viviane Wirth | Demape:* 
+Para o e-mail marketing@demape.com.br
+Atendente: eu retiro o email do financeiro ou apenas acrescento esse?
+Atendente: Esse e-mail ja está cadastrado.
+Cliente: *Viviane Wirth | Demape:* 
+Pode tirar todos e deixar apenas o marketing@demape.com.br
+Atendente: Feito.
+Cliente: *Viviane Wirth | Demape:* 
+Obrigada.
+Atendente: Demape, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *Renata Pereira | Demape:* 
+Bom dia
+Tudo bem:
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *Renata Pereira | Demape:* 
+Estou com dúvida em uma programação da plataforma
+Atendente: Qual seria?
+Cliente: *Renata Pereira | Demape:* 
+A permissao do usuario nao esta com flag de alterar chatbot, mas esta aparecendo para todos os usuarios
+Atendente: Eles conseguem alterar?
+Cliente: *Renata Pereira | Demape:* 
+sim
+Cliente: *Renata Pereira | Demape:* 
+conseguem
+Atendente: Qual o usuário tá assim?
+Cliente: *Renata Pereira | Demape:* 
+Todos estao conseguindo alterar
+Cliente: *Renata Pereira | Demape:* 
+Esses dois prints sao as configuracoes do usuario
+Cliente: *Renata Pereira | Demape:* 
+Nao esta marcado para permitir ligar e desligar
+Cliente: *Renata Pereira | Demape:* 
+Tinhamos mais de 300 chats desligados, Religuei manualmente quase 200 já, mas precisamos que parem de ter a permissao de desligar.
+
+E se possível, voces religarem todos os desligados, agradeço
+Atendente: Tem algum usuário que eu possa fazer o login na conta deles? Ele ficará sem acesso por alguns minutos
+Cliente: *Daniela | Demape:* 
+Um minuto. Vamos verificar
+Cliente: *Renata Pereira | Demape:* 
+Edna Zacarias - testar nesse por favor
+Atendente: Aqui existe Edna Souza
+Atendente: Seria essa?
+Cliente: *Renata Pereira | Demape:* 
+sim
+Atendente: Vou pedir pro pessoal do desenvolvimento dar uma olhada, tudo bem?
+Atendente: Em breve te dou um retorno
+Atendente: Renata, o pessoal do desenvolvimento vai providenciar uma solução para isso, pois realmente as configurações que vocês fizeram estão certas
+Atendente: Até lá, o recomendado é que seja passado para os usuários que não desativem o chatbot mesmo
+Atendente: Fora isso, Renata, te ajudo em algo mais?
+Cliente: *Daniela | Demape:* 
+Somente isso mesmo.
+Vocês conseguem nos dar um feedback sobre essa alteração?
+Atendente: Foi passado para o pessoal do desenvolvimento, eles identificaram e vão aplicar uma correção já na próxima atualização, então será breve, mas não tenho uma data certa
+Cliente: *Daniela | Demape:* 
+Perfeito. Obrigada
+Atendente: Por nada, precisando, é só chamar 😁 Uma ótima tarde para vocês
+Cliente: *Daniela | Demape:* 
+Para vocês tbm
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, estou tentando cadastrar um usuário mas recebo a mensagem:
+Cliente: *Renata Pereira | Demape:* 
+Esse e-mail não está cadastrado, podem verificar?
+Atendente: Oi, Demape📲! Eu sou o Lucas. 
+Qual é o usuário e e-mail que você está tentando cadastrar?
+Cliente: *Renata Pereira | Demape:* 
+licitacao01@demape.com.br
+Atendente: Consta aqui que esse e-mail foi cadastrado em nome da Marina, por isso você não consegue cadastrá-lo novamente.
+
+Quem será o usuário que utilizará este e-mail na plataforma? me passe, por gentileza, o nome dele que irei reativar o usuário da marina e substituí-lo pelo novo usuário.
+Cliente: *Renata Pereira | Demape:* 
+Aonde está cadastrado por favor que não visualizo
+Atendente: Então, o usuário não vai aparecer aí, porque ele foi excluído. Ele fica registrado dentro da plataforma e vinculado ao e-mail (só nós aqui temos essa visualização).
+Por isso aconselhamos que quando você quiser trocar um usuário dentro da plataforma que você não exclua o que vai ser removido, mas sim nos informe da troca que a gente faz aqui.
+Cliente: *Renata Pereira | Demape:* 
+Entendi, consegue liberar para que eu posso cadastra-lo?
+Atendente: se vai ser utilizado o mesmo e-mail (licitacao01@demape.com.br) só a gente consegue fazer essa alteração. Qual o nome do usuário que utilizará esse e-mail?
+basta me informar que faço a alteração aqui.
+Cliente: *Renata Pereira | Demape:* 
+Marina Veiga
+Atendente: Feito
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada
+Atendente: Por nada. Disponha.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Duvida, e qual senha foi cadastrada para inciiar?
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Demape📲! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *Renata Pereira | Demape:* 
+Fui auxiliada quanto a criação de um usuario mas não me passaram a senha
+Cliente: *Renata Pereira | Demape:* 
+Usuario: licitacao01@demape.com.br
+Atendente: A senha padrão de acesso dessa conta agora é mudar123, você pode alterar ela após acessar a plataforma e clicar no nome do usuário, no canto superior esquerdo
+Atendente: Tenta acessar e me confirma se conseguir, por favor
+Cliente: *Renata Pereira | Demape:* 
+Obrigada
+Atendente: Conseguiu?
+Atendente: Demape📲 estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+POr favor, preciso criar uma TAG, como procedo apos entrar em CHATBOT?
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Demape📲! 
+Eu sou o Lucas Andrade, *suporte* do *ChatGuru*. 
+Você quer colocar uma tag no diálogo "Saudação". É isso?
+Cliente: *Renata Pereira | Demape:* 
+Ja localizei, obrigada
+Atendente: Por nada. Qualquer dúvida, entre em contato!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Daniela | Demape:* 
+Bom dia
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Daniela! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *Daniela | Demape:* 
+Seria possível verificar na nossa URA a configuração da Saudação?
+Por algum motivo ela não esá disparando para os contatos iniciais
+Cliente: *Daniela | Demape:* 
+Tentei alterar mas segue não disparando
+Atendente: Vou verificar aqui pra você
+Atendente: Essa URA foi criada por vocês?
+Cliente: *Daniela | Demape:* 
+Na realidade é a inicial de vocês, mas ela parou de funcionar.
+Cliente: *Daniela | Demape:* 
+Aquela que vem como modelo. Mas alteramos pois nao estava funcionando.
+Mas não consegui solucionar
+Atendente: entendi, eu alterei algumas coisas aqui, consegue verificar se voltou a funcionar?
+Cliente: *Daniela | Demape:* 
+Parece que sim. Obrigada
+Atendente: Por nada, fora isso, consigo te ajudar em algo mais?
+Cliente: *Daniela | Demape:* 
+Somente isso, obrigada
+Atendente: Se precisar de algo, é só falar 😁 Um excelente dia pra você, Daniela
+Cliente: *Daniela | Demape:* 
+Obrigada. Para você tambem!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a nossa pesquisa de satisfação: https://app5.zap.guru/nps/60082592937cc06739689f57
+Cliente: *Daniela | Demape:* 
+Bom dia
+Atendente: Bom dia Demape📲!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: *Daniela | Demape:* 
+Bom dia
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Demape📲. Bom dia! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: *Daniela | Demape:* 
+Bom dia Carlos
+Vocês implementaram uma nova funcionalidade nesta noite,
+De selecionar usuários/departamentos para utilizar os diálogos, correto?
+Cliente: *Daniela | Demape:* 
+O que ocorre é que agora pela manhã nenhum diálogo está disponível para a equipe, mesmo não estando clicado.
+Cliente: *Daniela | Demape:* 
+Testei configurar um para um usuário e somente assim apareceu para ele.
+Atendente: Oi, Daniela. Identificamos hoje mais cedo que está acontecendo esse problema e estamos agindo para resolver. Muito em breve deve voltar ao normal
+Cliente: *Daniela | Demape:* 
+Ok. Obrigada.
+Atendente: Resolvemos aqui. Por favor atualiza a página e veja se voltou ao normal.
+Cliente: *Daniela | Demape:* 
+Funcionou. Obrigada
+Cliente: *Daniela | Demape:* 
+Uma outra dúvida.
+Cliente: *Daniela | Demape:* 
+Quando tentamos incluir um contato que já está na plataforma as vezes ela permite e inclui e a conversa passa a ter 2 delegados.
+Eu já fiz esse questionamento para vocês um tempo atras e vocês ficaram de avaliar.
+Atendente: Isso. É a configuração padrão do sistema. Porque toda vez que chega um chat novo, a delegação é feita pela fila de atendimento.
+Atendente: Daniela, por gentileza, envie o link desse chat para que eu possa avaliar melhor.
+Atendente: Demape📲, você poderia por favor enviar o link do chat para que possamos analisar?
+Atendente: Oi, Daniela. Você ainda está aí?
+Atendente: Estou encerrando seu chat por inatividade.
+
+Se precisar de ajuda, volte a falar com a gente! 🧐
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/600b046c32840069e0cad66e
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, está duplicando os anexos que estamos enviando
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Renata! Sou o *Eduardo*, faço parte da equipe de suporte do *ChatGuru*! 😁 Vou verificar isso pra você, só um momento
+Cliente: *Renata Pereira | Demape:* 
+Segue exemplo
+Atendente: *Eduardo Victor:* 
+Verifica se o erro vai persistir, por favor. A nossa equipe de desenvolvimento estava trabalhando na solução dessa questão e identificamos que os arquivos apenas aparecem duplicados na nossa plataforma, então não são enviados duas vezes para o cliente.
+Cliente: *Renata Pereira | Demape:* 
+Obrigada
+Atendente: *Eduardo Victor:* 
+Conseguiu verificar? Ainda está duplicado?
+Atendente: *Eduardo Victor:* 
+Demape📲, vou finalizando aqui por questão do horário, continuamos amanhã pela manhã, tudo bem? Uma ótima noite pra você 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601477d573116bf23e4098a6
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, o cliente do anexo aparece com a mensagem lida impactando no acompanhamento.
+Preciso de correção.
+Obrigada!
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Nathally Dantas:* 
+Olá Demape📲, Boa tarde !  Sou a Nathally do Suporte do ChatGuru.
+Atendente: *Nathally Dantas:* 
+Só um momento enquanto verifico.
+Atendente: *Nathally Dantas:* 
+Renata, você quer tirar a notificação de recebimento de mensagem, é isso?
+Cliente: *Renata Pereira | Demape:* 
+Nao, a mensagem de não lida não está aparecendo
+Atendente: *Nathally Dantas:* 
+Entendi só um momento por favor.
+Atendente: *Nathally Dantas:* 
+Renata, confirma pra mim se voltou?]
+Atendente: *Nathally Dantas:* 
+Olá. Nosso horário de expediente está se encerrando. Vou finalizar nosso atendimento por aqui. Caso tenha alguma dúvida, por gentileza retorne o contato a partir das 8h. Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60186bed73116bf23e41309e
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Vou testar e posiciono.
+Obrigada!
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Bom dia, Renata! Perfeito. Estamos à disposição!
+Atendente: *Lucas Gusmão:* 
+Renata, você conseguiu testar? Está tudo funcionando bem?
+Cliente: *Renata Pereira | Demape:* 
+Até o momento, ok.
+Atendente: *Gustavo Soares:* 
+Excelente Renata, então eu vou encerrar nosso atendimento mas se acontecer qualquer problema só nos retornar neste mesmo número, ok? 😉
+Atendente: *Gustavo Soares:* 
+Demape📲 eu vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui que lhe atenderemos 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6019833773116bf23e416f99
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, continua o erro, cliente do anexo aparece com a mensagem lida impactando no acompanhamento.
+Mudou o status para resolvido sem termos alterado.
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Demape📲, Boa tarde. Meu nome é Hugo. Vou verificar. O status está mudando para resolvido quando vocês enviam o anexo para o cliente. É isso?
+Atendente: *Hugo:* 
+Renata?
+Atendente: *Hugo:* 
+Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c229273116bf23e422e31
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+POr favor, ao adicionar um dialogo na chave CHAT, não estou localizando o usuario Rafael Vieira
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia,  Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁 Vou verificar isso pra você
+Cliente: *Renata Pereira | Demape:* 
+Deveria estar assim:
+Cliente: *Renata Pereira | Demape:* 
+Aparece pra mim mas não aparece para demais usuários
+Atendente: *Eduardo Victor:* 
+Todos os usuários devem ter acesso a esse diálogo?
+Atendente: *Eduardo Victor:* 
+Renata?
+Atendente: *Eduardo Victor:* 
+Demape📲 estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6023f54473116bf23e43ca23
+Cliente: *Renata Pereira | Demape:* 
+ok, obrigaada
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Oi, Renata, o diálogo deve ficar dessa forma mesmo?
+Cliente: *Renata Pereira | Demape:* 
+Não. Preciso que fique visivel para todos.
+Cliente: *Renata Pereira | Demape:* 
+Por favor, deu certo?
+Cliente: *Renata Pereira | Demape:* 
+Ou me fornecer o caminho que executo
+Atendente: *Juliana Mota:* 
+Ei Renata, o Eduardo está no intervalo, darei continuidade a seu atendimento.
+estou verificando sua solicitação e já te dou um retorno aqui.
+Atendente: *Juliana Mota:* 
+Renata, fiz o ajuste.
+Poderia, por gentileza, fazer um teste para ver se o diálogo está aparecendo para os outros usuários?
+Atendente: *Eduardo Victor:* 
+Renata, conseguiu?
+Atendente: *Rodrigo Lacerda:* 
+Demape📲, estou encerrando nosso contato por inatividade. Qualquer dúvida a mais, estamos à disposição! 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60243baf73116bf23e43f5a7
+Cliente: *Renata Pereira | Demape:* 
+Julian,a bom dia!
+Obrigada, está correto.
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia, Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Renata 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6025140d73116bf23e440d45
+Cliente: *Renata Pereira | Demape:* 
+Obrigada, igualmente Eduardo!
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602554f373116bf23e4476b5
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, existe a possibilidade alterar um nr de telefone?
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Boa tarde, Demape📲. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico o histórico 👨‍💻
+Atendente: *Arthur Ferragini:* 
+Renata, existe sim a possibilidade de trocar o número!
+
+A troca de número custa R$159, porém a *primeira troca* é gratuita. Teria interesse?
+Cliente: *Renata Pereira | Demape:* 
+Seria a troca de um nr de cliente cadastrado aqui no zap
+Atendente: *Arthur Ferragini:* 
+Opa, não sei se compreendi bem.
+
+Vocês precisam chamar um número que ainda não conversou com vocês, seria isso?
+Atendente: *Arthur Ferragini:* 
+Renata, devido ao horário de atendimento estamos encerrando.
+
+Caso ainda precise de ajuda, por gentileza, retorne com mais detalhes que te responderemos assim que possível!
+
+Tenha uma ótima noite.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602c33589f49179ac892c5b2
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Tenho um nr cadastrado de cliente aqui no zap.
+Esse cliente gostaria de alterar o nr dele.
+É possível mudar?
+Obrigada!
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Demape📲. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+Atendente: *Rodrigo Lacerda:* 
+Não é possível fazer essa alteração porque o histórico de conversa é relacionado somente ao número em que vocês trocam mensagem. Como ele vai trocar de número, ele vai precisar entrar em contato com vocês novamente pelo novo número.
+Atendente: Demape📲, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Obrigada!
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Demape📲, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602d0c8c9f49179ac892db7c
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Por favor, não me recordo como devo proceder para inserir DDD para uma pessoa
+Atendente: *Rodrigo Lacerda:* 
+Olá, Demape📲. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+
+Nesse caso na hora de adicionar um novo chat na plataforma?
+Cliente: *Renata Pereira | Demape:* 
+A programação não esta correta...
+Cliente: *Renata Pereira | Demape:* 
+Não localizo ( )
+Cliente: *Renata Pereira | Demape:* 
+Não localizo or...
+Atendente: *Rodrigo Lacerda:* 
+Qual o nome desse diálogo?
+Atendente: *Rodrigo Lacerda:* 
+Olá?
+Cliente: *Renata Pereira | Demape:* 
+Dian
+Cliente: *Renata Pereira | Demape:* 
+Está aparecendo como copia
+Atendente: *Rodrigo Lacerda:* 
+Renata, eu vi que, diferente do print mandado anteriormente, você conseguiu inserir os () e também a condição or.
+Atendente: *Rodrigo Lacerda:* 
+No que mais a gente consegue te ajudar ?
+Cliente: *Renata Pereira | Demape:* 
+por que está aprecendo copia?
+Cliente: *Renata Pereira | Demape:* 
+vou te mandar o print...
+Cliente: *Renata Pereira | Demape:* 
+E a programção está em cópia....
+Atendente: *Arthur Ferragini:* 
+Olá, Demape📲. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+O Rodrigo precisou se ausentar mas vou seguir seu atendimento.
+
+A palavra "cópia" apareceu no início do diálogo porque ele foi copiado de outro diálogo usando o botão "copiar". Para tirar essa palavra, basta clicar nela e apagar como um texto comum.
+Atendente: *Arthur Ferragini:* 
+Dei uma olhada agora nesse diálogo (a "cópia") e me parece estar correto. 
+
+O gatilho é: 
+o texto é "dian" & o contexto é "0.0"
+OU 
+o contexto é "1.3.2" & o DDD é um dos que você escreveu (61, 62 etc).
+Atendente: Demape📲, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Renata Pereira | Demape:* 
+Dian está como Renováveis ou revenda?
+Atendente: *Arthur Ferragini:* 
+Não sei se entendi bem a pergunta, mas eu encontrei um usuário chamado Dian na sua ferramenta, e ele faz parte do departamento "Comercial Renováveis".
+Atendente: *Arthur Ferragini:* 
+Oi, Renata. Ainda está por ai?
+Atendente: Demape📲, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, ontem exclui o usuário Rafael Vieira mas não transferi os contatos dele antes.
+Como faço para localizar esses contratos?
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, Demape📲! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁 Os contatos dele tinham alguma marcação, como uma tag própria?
+Atendente: *Eduardo Victor:* 
+Você tem cerca de 171 chats delegados ao departamento com o mesmo nome do usuário excluído. Esse seria o total de chat deles?
+Cliente: *Renata Pereira | Demape:* 
+Tinha TAG com o nome dele Rafael
+Atendente: *Eduardo Victor:* 
+Eu não consegui achar essa tag na conta de vocês, apenas 171 chats delegados a um departamento com o nome Rafael
+Cliente: ➡ *Estamos direcionando seu atendimento!*
+Atendente: *Eduardo Victor:* 
+Renata?
+Cliente: *Renata Pereira | Demape:* 
+Eduardo, agradeço foi solucionado internamente.
+Atendente: *Eduardo Victor:* 
+Tudo bem, eu consigo te ajudar em alguma outra coisa?
+Atendente: *Eduardo Victor:* 
+Demape📲 estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603685e89f49179ac895a03c
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, tenho um contato de usuario no CHAT que sumiu,,,
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Esse de cima é um exemplo
+Cliente: *Renata Pereira | Demape:* 
+O que sumiu foi:
+
+Dian - Coml Revenda (DDD 61 62 63 64 65 66 67 68 69 91 92 93 94 95 96 97)
+Cliente: *Renata Pereira | Demape:* 
+?
+Atendente: *Luiz Modestino:* 
+Bom dia Demape📲! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+https://app5.zap.guru/chats#5f2db65d749abf7a9f1b4c2d
+Atendente: *Luiz Modestino:* 
+Veja se é esse o chat
+Cliente: *Renata Pereira | Demape:* 
+Não é isso
+Cliente: *Renata Pereira | Demape:* 
+Caminho: Diálogos / ChatBox
+Cliente: *Renata Pereira | Demape:* 
+Nessa primeira parte sumiu ....
+Cliente: *Renata Pereira | Demape:* 
+Qual nr de telefone para falar com voce?
+Atendente: *Luiz Modestino:* 
+Sumiu um diálogo no caso
+Cliente: *Renata Pereira | Demape:* 
+Possui um nr de contato?
+Atendente: *Luiz Modestino:* 
+O atendimento é feito apenas por aqui ou por conferência no meet
+Cliente: *Renata Pereira | Demape:* 
+Ao acessar CHAT / BOX temos:
+Cliente: *Renata Pereira | Demape:* 
+No Chat que sumiu.
+Cliente: *Renata Pereira | Demape:* 
+Na URA está ok, entendeu?
+Atendente: *Luiz Modestino:* 
+Ok
+Cliente: *Renata Pereira | Demape:* 
+Consigo no meet falar com voce?
+Atendente: *Luiz Modestino:* 
+https://meet.google.com/pao-taku-wzj
+Atendente: *Luiz Modestino:* 
+Só entrar no link
+Atendente: *Luiz Modestino:* 
+Renata, ajudo em algo mais?
+Cliente: *Renata Pereira | Demape:* 
+Não, obrigada!
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Renata 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603918ac9f49179ac896639a
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Por favor, tem alguma dificuldade para novos cadastros?
+Atendente: *Lucas Gusmão:* 
+Bom dia, Demape📲! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+O site App5 passou por uma instabilidade nessa manhã, mas já estamos verificando todos os detalhes
+Atendente: *Lucas Gusmão:* 
+Peço que aguarde um minutinho até adicionar um novo número pela plataforma.
+Cliente: *Renata Pereira | Demape:* 
+ok,obrigada!
+Atendente: *Gustavo Soares:* 
+Renata o Lucas foi para uma reunião mas já consegui acessar o aparelho e está adicionando os chats normalmente agora =D
+Consigo te ajudar em algo mais?
+Atendente: *Lucas Gusmão:* 
+Demape📲, por inatividade iremos encerrar este atendimento.
+
+Caso precise de ajuda, não hesite em nos chamar. Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6048de63ecec98869e4dddfe
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, não localizo um contato: 77 992016346
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Renata! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Só um momento que já vou verificar =D
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada e agradeço a dica!
+Atendente: *Gustavo Soares:* 
+Imagina, consigo te ajudar em algo mais? =D
+Atendente: Demape📲, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape📲 Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Demape📲! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+POr favor, por que esse cadastro aparece com a TAG de REVENDA se já exclui?
+Atendente: *Gustavo Soares:* 
+Quando você exclui a tag não tem como adicionar ela novamente porém os chats que já tinham esta tag continuam com ela
+Atendente: Demape📲, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, toda vez que essa cliente digita o nome Rafael na conversa direciona para o Dian.
+Preciso que pare esse comando.
+Como devo proceder?
+Atendente: Demape📲 Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Vanessa Dias:* 
+Olá Demape📲, tudo bem? Sou a Vanessa do Suporte do ChatGuru. Entendi, vou analisar, só um momento por favor
+Cliente: *Renata Pereira | Demape:* 
+OK Vanessa.
+Atendente: *Vanessa Dias:* 
+Renata, obrigada por ter aguardado! De fato está programado para atribuir ao Dian quando o cliente digitar Rafael ou Dian. Vou retirar o nome Rafael tudo bem?
+Cliente: ➡ *Estamos direcionando seu atendimento!*
+Cliente: Olá *ZapGuru*, Tudo bem?
+
+Sou o *Dian* da Demape, especialista comercial que fará o seu atendimento.
+
+Peço que adicione este contato em sua agenda para podermos enviar notificações e promoções.
+Este é o *WhatsApp oficial da Demape*.
+Atendente: *Vanessa Dias:* 
+Consegue visualizar meu chat agora Renata?
+Atendente: *Vanessa Dias:* 
+Eu ja retirei o nome Rafael
+Atendente: *Vanessa Dias:* 
+Podemos ajudar em algo mais Renata?
+Atendente: Demape📲, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Vanessa Dias:
+Renata, obrigada por ter aguardado! De fato está programado para atribuir ao Dian quando o cliente digitar Rafael ou Dian. Vou retirar o nome Rafael tudo bem? 1
+
+Sim, favor reti]rar
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Demape! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Já foi retirado =D
+Consigo te ajudar em algo mais?
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Por favor, estou cadastrando um usuario e vem a mensagem que esse email ja esta cadastrado.
+Cliente: *Renata Pereira | Demape:* 
+email: licitacao02@demape.com.br
+Atendente: *Rodrigo Gadonski:* 
+Boa tarde, Demape! Sou o *Rodrigo* e faço parte da equipe de suporte do *ChatGuru!* 🙂
+Atendente: *Rodrigo Gadonski:* 
+Aguarde um momento por favor
+Atendente: *Rodrigo Gadonski:* 
+Prontinho, já pode utilizar esse e-mail para cadastrar um novo usuário 😉
+Atendente: *Rodrigo Gadonski:* 
+Posso ajudar em mais alguma coisa?
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/609985a6ecec98869e639742
+Cliente: *Renata Pereira | Demape:* 
+Por favor, a mesma dificuldade com o email:
+atendimento04@demape.com.br
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Renata! Tudo bem?
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+
+Pode tentar cadastrar o usuário novamente com o email: atendimento04@demape.com.br
+Cliente: *Renata Pereira | Demape:* 
+Deu certo, obrigada!
+Atendente: *Lucas Andrade:* 
+Por nada.
+Estou finalizando seu atendimento.
+Qualquer coisa, entre em contato! 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/609988e8ecec98869e639a11
+Cliente: *Renata Pereira | Demape:* 
+Ola, foi excluido um departamento licitacao, pode volta-lo por favor?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+criei outro por cima e não deu certo, se precisar pode desfazer esse ultimo
+Atendente: *Rodrigo Lacerda:* 
+Olá, Renata. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+
+Depois que um departamento é excluído, nós não temos como recuperá-lo. Me informe o que está dando errado em relação ao departamento criado atualmente com o nome de licitação pra eu te ajudar a acertar?
+Cliente: *Renata Pereira | Demape:* 
+com o email licitacao01 sumiram os contatos
+Atendente: *Rodrigo Lacerda:* 
+Entendi. 
+
+O que provavelmente aconteceu, Renata, é que os chats que estavam delegados a esse departamento ficaram sem delegação após a exclusão do departamento. Essa informação nós não temos como recuperar.
+Cliente: *Renata Pereira | Demape:* 
+E aonde encontro esses contatos para amaralos com outros?
+Cliente: *Renata Pereira | Demape:* 
+Ops amarra-los
+Atendente: *Rodrigo Lacerda:* 
+Caso esses chats estiverem marcados com uma TAG específica em que a gente consiga identificar os chats que estavam nesse departamento, conseguimos fazer uma delegação para o novo departamento.
+Cliente: *Renata Pereira | Demape:* 
+Estão como TAG de licitacao?
+Atendente: *Rodrigo Lacerda:* 
+Então, é isso que eu preciso saber. Caso eles tenham sido marcados com a TAG licitação, esses que estão marcados, conseguiremos fazer uma campanha e delegá-los em massa para o novo departamento. Os outros só manualmente mesmo.
+Cliente: *Renata Pereira | Demape:* 
+Localizados, obrigada!
+Atendente: *Rodrigo Lacerda:* 
+Por nada, Renata!
+Atendente: *Rodrigo Lacerda:* 
+Por agora consigo te ajudar em algo mais?
+Cliente: *Renata Pereira | Demape:* 
+Sim, email revenda02@demape.com.br consta cadastrado
+Cliente: *Renata Pereira | Demape:* 
+Email:
+instalador01@demape.com.br
+instalador07@demape.com.br
+
+Constam cadastrados...
+Atendente: *Rodrigo Lacerda:* 
+Sim, verifiquei que todos esses já haviam sido utilizados em outros usuários que foram excluídos.
+Atendente: *Rodrigo Lacerda:* 
+Aguarde um instante que vou fazer a liberação desses e-mails para que eles possam ser utilizados novamente.
+Atendente: *Rodrigo Lacerda:* 
+Pronto, Demape. Resolvido! ✅
+Cliente: *Renata Pereira | Demape:* 
+Obrigada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60999e12ecec98869e63ad09
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, preciso alterar o DDD para alguns recursos, nao me recordo do caminho a realizar alteração na programaçaõ.
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Demape! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Seria o DDD do número que está na plataforma?
+Cliente: *Renata Pereira | Demape:* 
+Sim, a programação....qual o caminho?
+Cliente: *Renata Pereira | Demape:* 
+Se precisar fazer um call o
+Atendente: *Hildesson Ramos:* 
+Olá Demape, Boa tarde. Meu nome é Hildesson e eu sou do suporte do ChatGuru. o Gustavo precisou se para o intervalo, eu irei seguir com seu atendimento. peço que aguarde que irei analisar as configurações.
+Atendente: *Hildesson Ramos:* 
+Renata, me explica melhor qual o DDD você deseja alterar?
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, o usuário Edi Carlos e eu tentamos transferir um contato para o usuário Geovani e a transferência é realizada para o Edi Carlos.
+Preciso que verifique o que está acontecendo.
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+De fato estava delegando para o usuário Edi Carlos. Fiz um ajuste. Faz novo teste, por favor.
+Cliente: *Renata Pereira | Demape:* 
+Erro permanece
+Atendente: *Carlos:* 
+Certo. Havia ajustado apenas a delegação. Agora ajustei o texto. Pode testar novamente.
+Cliente: *Renata Pereira | Demape:* 
+Deu certo!
+Sabe o que aconteceu?
+Atendente: *Carlos:* 
+Pelo visto foi só um problema de ajuste ao configurar esse diálogo mesmo.
+Atendente: *Carlos:* 
+Consigo ajudar em algo mais por agora?
+Atendente: *Carlos:* 
+Vou precisar finalizar pelo horário, mas se ainda precisar de ajuda, nos chama novamente que amanhã pela manhã responderemos. Uma ótima noite! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60a57d5fecec98869e6754d8
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, preciso alterar um endereço de email no zap:
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Como procedo?
+Quando uso a função editar não abre no campo email
+Atendente: *Carlos:* 
+Oi, Renata. Bom dia! Essa informação nós que alteramos. Para qual e-mail gostaria de alterar?
+Cliente: *Renata Pereira | Demape:* 
+renovaveis01@demape.com.br
+Atendente: *Carlos:* 
+Alteração feita, Renata. ✅ Por agora, consigo ajudar em algo mais?
+Cliente: *Renata Pereira | Demape:* 
+1 minuto
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada!
+Atendente: *Carlos:* 
+Imagina. Qualquer coisa, só nos chamar novamente. Um ótimo dia 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60a67392ecec98869e67967d
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, o Danilo não está na sequencia de nr e grupo.
+Como realizo correção?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá. Boa tarde!
+Tudo bem? 😊
+
+Meu nome é Luana, eu quem prosseguirei com seu atendimento.
+Atendente: Como posso ajudar?
+Cliente: *Renata Pereira | Demape:* 
+Luana, ao criar o Danilo ele ficou fora da ordem, como corrigir?
+Atendente: Um instante por favor.
+Cliente: *Renata Pereira | Demape:* 
+ok
+Cliente: *Renata Pereira | Demape:* 
+Por favor, conseguiu verificar?
+Atendente: Só mais um instantinho, por favor.
+Cliente: *Renata Pereira | Demape:* 
+Por favor, alguma devolutiva?
+Atendente: Estou fazendo a verificação por aqui Renata, pode ficar tranquila que estou vendo seu caso. Favor aguardar um instantinho.
+Cliente: *Renata Pereira | Demape:* 
+Luana, te agradeço.
+Já efetuada a correção.
+Atendente: Oi Renata. 
+Que bom, desculpe a demora.
+Atendente: Precisa de mais alguma ajuda?
+Atendente: *Luana Cavalcanti:* 
+Demape, posso te ajudar em algo mais?
+Atendente: Renata, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+A transferencia não está correta.
+Efetuamos para Rafael Silva e foi para Danilo conforme print.
+Atendente: Renata Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia Renata! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada!
+Atendente: *Luiz Modestino:* 
+Por nada. Qualquer dúvida é só chamar. Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Renata, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60b79b7fecec98869e6d3aaf
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, o chat guru do Rafael está "em conflito" com o do Danilo.
+Quando o Rafael manda  mensagem para os clientes, entra para o Danilo.
+Atendente: Renata Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Por favor, pode verificar o que está ocorrendo?
+Atendente: *Lucas Andrade:* 
+Oi, Renata! Tudo bem?
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+
+Vou verificar o chat que você me enviou. Um momento.
+Cliente: *Renata Pereira | Demape:* 
+ 61
+62
+63
+64
+65
+66
+67
+68
+69
+91
+92
+93
+94
+95
+96
+97
+Cliente: *Renata Pereira | Demape:* 
+Esses são os DDD's que o Danilo atende
+Cliente: *Renata Pereira | Demape:* 
+41
+42
+43
+44
+45
+46
+47
+48
+49
+51
+53
+54
+55
+Cliente: *Renata Pereira | Demape:* 
+Esses são os DDD's que o Rafael atende.
+Atendente: *Lucas Andrade:* 
+Ok, vou realizar uma configuração para que não ocorra mais o que aconteceu no chat do Márcio
+Atendente: *Lucas Andrade:* 
+Por favor, aguarde, aviso quando finalizar
+Cliente: *Renata Pereira | Demape:* 
+OK.
+Cliente: *Renata Pereira | Demape:* 
+Lucas, por favor, concluiu?
+Atendente: *Lucas Andrade:* 
+Ainda não, Renata. Aguarde mais um momento.
+Atendente: *Lucas Andrade:* 
+Renata, alterações concluídas ✅
+Atendente: *Lucas Andrade:* 
+Ajudo você em algo mais?
+Atendente: *Lucas Andrade:* 
+Só mais um momento.
+Cliente: *Renata Pereira | Demape:* 
+Lucas, concluidas as alterações?
+Cliente: *Renata Pereira | Demape:* 
+71 73 74 75 77 79 81 82 83 84 85 86 87 88 89 98 99
+Esses são os DDD's que a Nivea atende
+Cliente: *Renata Pereira | Demape:* 
+Não entendi porque apareceu Rafael para voce
+Atendente: *Lucas Andrade:* 
+Eu que executei manualmente o diálogo do Rafael, só para fazer um teste
+Atendente: *Lucas Andrade:* 
+No fluxo normal seria para a Nívea mesmo
+Atendente: *Lucas Andrade:* 
+Eu invoquei o diálogo do Rafael para fazer um teste
+Cliente: *Renata Pereira | Demape:* 
+Ok, então resolvido?
+Atendente: *Lucas Andrade:* 
+Sim, resolvido.
+Atendente: *Lucas Andrade:* 
+Posso ajudar em algo mais?
+Atendente: Renata, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada!
+Atendente: Renata Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, as mensagens de áudio e arquivo não estão saindo.
+Podem verificar?
+Atendente: Renata Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Renata! Tudo bem?
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Vou verificar sua conta.
+Cliente: *Renata Pereira | Demape:* 
+Ok, estou no aguardo
+Cliente: teste
+Atendente: *Lucas Andrade:* 
+Renata, as mensagens estão sendo enviadas e recebidas nas conversas.
+Cliente: *Renata Pereira | Demape:* 
+Mensagens de voz não estão sendo enviadas
+Atendente: *Lucas Andrade:* 
+Acabai de verificar que os áudios não estão sendo enviados mesmo. Posso reiniciar a sua conta? Em alguns segundos a conexão será restabelecida.
+Cliente: *Renata Pereira | Demape:* 
+Nao perderemos nenhum dado, correto?
+Voces possuem backup caso necessario?
+Atendente: *Lucas Andrade:* 
+Não, nenhum dado é perdido. Esse reset é apenas da conexão da sua conta, não é para excluir dados.
+Cliente: *Renata Pereira | Demape:* 
+ok
+Cliente: *Renata Pereira | Demape:* 
+Foi efetuado?
+Posso testar novamente?
+Atendente: *Lucas Andrade:* 
+Ainda está reiniciando. Só mais um momento, por favor.
+Atendente: *Lucas Andrade:* 
+Renata, verifiquei que o disco de armazenamento da sua conta está cheio, por isso você não está conseguindo enviar arquivos de áudio, por exemplo. Vou solicitar à equipe técnica para limpar alguns logs e liberar espaço.
+Cliente: *Renata Pereira | Demape:* 
+Lucas, por favor, deu certo?
+Atendente: *Lucas Andrade:* 
+Renata, por gentileza, aguarde mais um momento. Ainda estamos finalizando o procedimento de limpeza dos logs.
+Cliente: *Renata Pereira | Demape:* 
+Oi Lucas
+Atendente: *Lucas Andrade:* 
+Assim que o procedimento de limpeza dos logs for finalizado a conexão da conta será restabelecida e você já vai conseguir enviar arquivos de áudio 🙌
+Cliente: *Renata Pereira | Demape:* 
+Lucas, essa limpeza não apagará nenhuma informação, correto?
+Cliente: *Renata Pereira | Demape:* 
+Qual nr de contato com voces por favor, caso não consiga por aqui?
+Atendente: *Lucas Andrade:* 
+Correto.
+Atendente: *Lucas Andrade:* 
+Nosso suporte é apenas pelo whatsapp. Caso seja necessário fazemos uma videochamada pelo google meet.
+Cliente: teste
+Atendente: *Lucas Andrade:* 
+ Pronto, Renata. Procedimento de limpeza dos logs finalizado ✔ Os áudios já estão sendo enviados.
+Cliente: *Renata Pereira | Demape:* 
+Ok, te agradeço!
+Muito obrigada!
+Atendente: *Lucas Andrade:* 
+Por nada! Posso ajudar em algo mais?
+Cliente: *Renata Pereira | Demape:* 
+Não, agradeço.
+Atendente: *Lucas Andrade:* 
+Estou finalizando seu atendimento.
+Qualquer coisa, entre novamente em contato! ✌😁
+Atendente: *Lucas Andrade:* 
+Tenha um excelente dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Renata, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d9ca4eaee761eec9a502fc
+Cliente: *Douglas Santos | Demape:* 
+Bom dia !
+
+Estou precisando de suporte para a criação de um dialogo para integração com RD Station.
+Atendente: Renata Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia Douglas! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: *Douglas Santos | Demape:* 
+Criei um dialogo com as seguintes configurações :
+Cliente: *Douglas Santos | Demape:* 
+O diálogo está sendo executado, mas não estou recebendo nada no RD Station.  Já conferi os tokens/chave e estão corretos.
+Atendente: *Luiz Modestino:* 
+Estou analisando seu caso. Só um instante.
+Cliente: *Douglas Santos | Demape:* 
+Como posso ter certeza que está mandando as informações para a RDStation ?
+Atendente: *Luiz Modestino:* 
+Douglas, para enviar informações para o RD Station você precisa de uma plataforma que faça essa integração: Integromat, Zapier, por exemplo.
+
+Na ação de CRM você escolhe POST PARA URL e no campo URL, um link de webhook. Assim, as informações serão encaminhadas para a plataforma de integração e em seguida para o RD STATION
+Atendente: *Luiz Modestino:* 
+Posso te ajudar em algo mais Douglas?
+Cliente: *Douglas Santos | Demape:* 
+Dentro das ações do ChatGuru , existe uma ação específica RS_STATION. Ela não faz nada ?
+Atendente: *Eduardo Victor:* 
+Boa tarde, Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁 Vou te auxiliar enquanto o Luiz está em horário de almoço, tudo bem?
+
+A ação especifica do RD Station não é mais utilizada, pois agora existe a função de "Post para url" que possibilita a comunicação com diversos sistemas, incluindo o rd station.
+Atendente: *Eduardo Victor:* 
+Douglas*, perdão 😅
+Atendente: *Eduardo Victor:* 
+Para que os dados sejam utilizados e enviados para o seu rd station, você precisa ter um link de integração e colocar no campo "URL". Isso vai fazer com que sempre que o diálogo seja executado, ele envie as informações do chat para a integração correspondente ao link que está na url.
+Cliente: *Douglas Santos | Demape:* 
+Só não entendo porque existe uma opção RD_STATION se ela não faz nada.
+Atendente: *Eduardo Victor:* 
+Entendo, Douglas! Ela até faz, mas ainda é necessário informar a URL para onde essa informação vai. 
+
+A URL é como o endereço da sua conta, por mais que você tenha definido o sistema (rd station) e tenha as credenciais de acesso, nas integrações via API é necessário informar também o endpoint (a URL).
+Atendente: *Eduardo Victor:* 
+Você também precisa definir no seu sistema de integração como as informações enviadas pela nossa plataforma serão utilizadas. Se irão atualizar um cadastro, se irão criar um cadastro, alterar outros dados e etc..
+Cliente: *Douglas Santos | Demape:* 
+Ok. Então.
+Atendente: *Eduardo Victor:* 
+Douglas, eu consigo te ajudar em algo mais? Você já possui o link da nossa documentação de API?
+Atendente: Renata, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, as mensagens não estão sendo enviadas.
+Atendente: *Pedro Cócaro:* 
+Bom dia Demape, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Certo, irei verificar 👨‍💻
+Cliente: *Renata Pereira | Demape:* 
+Resolvido, obrigada!
+Atendente: *Pedro Cócaro:* 
+Certo, era uma fila de envio mesmo 😉
+Atendente: *Pedro Cócaro:* 
+Posso ajudar em mais alguma coisa, Renata?
+Cliente: *Renata Pereira | Demape:* 
+Não, obrigada!
+Atendente: *Pedro Cócaro:* 
+Perfeito, qualquer coisa é só entrar em contato conosco novamente 🙋‍♂️ Tenha um ótimo dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60eeeabdfd40cc4cef026d14
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, o marcador de mensagem não está aparecendo.
+Pode verificar?
+Atendente: *Luana Cavalcanti:* 
+Olá, Demape. Boa tarde!
+Tudo bem? 😊
+
+Meu nome é Luana, eu quem prosseguirei com seu atendimento. 💐
+
+Por gentileza, aguarde um instante.
+Atendente: *Luana Cavalcanti:* 
+Renata, por gentileza você se refere ao balãozinho de notificações de mensagens?
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+em todas as mensagens nao mostra se encaminhou, leu...etc
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Boa tarde, ! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? 😁
+
+Vou verificar isso pra você, só um momento
+Cliente: *Renata Pereira | Demape:* 
+obrigada
+Cliente: *Renata Pereira | Demape:* 
+Continua sem aparecer...
+Atendente: *Eduardo Victor:* 
+Ainda no chat do Caco? 🤔
+Cliente: *Renata Pereira | Demape:* 
+Devido ao nr de usuários preciso da correção em todos por favor
+Cliente: *Renata Pereira | Demape:* 
+Deu certo, obrigada!
+Atendente: *Eduardo Victor:* 
+Renata, verifiquei aqui e o erro ainda persiste, então eu vou precisar reiniciar a conexão de vocês para aplicar uma solução em todos os chats. Você prefere que eu realize isso agora ou após o horário comercial?
+Cliente: *Renata Pereira | Demape:* 
+após o horario, por favor
+Atendente: *Eduardo Victor:* 
+Tudo bem! Vocês finalizam agora às 18h?
+Cliente: *Renata Pereira | Demape:* 
+Sim
+Atendente: *Eduardo Victor:* 
+Tá certo, vou deixar o chamado de vocês em aberto aqui e reinicio assim que finalizarem.
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada!
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por gentileza, deu certo?
+Atendente: *Eduardo Victor:* 
+Bom dia, Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? 😁
+
+Estou em contato agora mesmo com a equipe de desenvolvimento, revisando as correções aplicadas na sua conta durante a noite.
+Atendente: *Eduardo Victor:* 
+Renata, poderia confirmar se está normalizado para vocês? Pode testar aqui com esse chat mesmo.
+Atendente: *Eduardo Victor:* 
+Renata?
+Cliente: *Renata Pereira | Demape:* 
+Sim, deu certo.
+Muito obrigada!
+Atendente: *Eduardo Victor:* 
+Por nada! Se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Renata 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60f02c9afd40cc4cef02ed41
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por gentileza, é possível realizar alteração de um nr de telefone já cadastrado?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia, Renata! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? 😁
+
+Você gostaria de trocar o número de vocês?
+Cliente: *Renata Pereira | Demape:* 
+Não, o nr de um cliente cadastrado
+Atendente: *Eduardo Victor:* 
+É possível trocar sim! Preciso saber qual será o novo número.
+Cliente: *Renata Pereira | Demape:* 
+Consigo realizar ou a troca é feita por voces?
+Atendente: *Eduardo Victor:* 
+Ah, em relação aos clientes não 😅 Se você adicionou um número incorreto, você pode adicionar o número correto e cadastrar um novo chat relacionado ao cliente.
+Cliente: *Renata Pereira | Demape:* 
+Não, o cliente mudou o nr dele
+Cliente: *Renata Pereira | Demape:* 
+E gostaria de alterar para manter o histórico
+Atendente: *Eduardo Victor:* 
+Ah sim. Não é possível, pois o WhatsApp próprio WhatsApp criptografa as conversas individualmente por número e apenas os números envolvidos na conversa tem acesso a mesma. Como o cliente mudou o número, isso bloqueia a antiga conversa e é necessário iniciar um contato com o novo número, que terá sua própria criptografia entre os números envolvidos.
+Cliente: *Renata Pereira | Demape:* 
+Ok, obrigada!
+Atendente: *Eduardo Victor:* 
+Por nada! Se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Renata 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60f58500fd40cc4cef04922a
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+POr gentileza, é possível apagar um audio?
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gabriela Rodrigues:* 
+Boa tarde Demape, meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, tudo bem? ❄
+
+Infelizmente não é possível apagar nenhuma mensagem enviada *individualmente*. 😕
+Cliente: *Renata Pereira | Demape:* 
+Ok, obrigada!
+Atendente: *Gabriela Rodrigues:* 
+Por nada Renata! Posso te ajudar em algo mais?
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Por favor, preciso efetuar o cadastro de um usuário mas informa que já existe usuário nesse  e-mail.
+Pode verificar?
+Atendente: *Helena Braunger:* 
+Boa tarde, Demape! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Claro, só um momento :)
+Atendente: *Helena Braunger:* 
+Renata, vocês tinham um usuário antigo com esse email, o Luis Silva. Alterei o email desse usuário antigo para você conseguir cadastrar um novo com o mesmo email 😊
+Atendente: *Helena Braunger:* 
+Precisa de algo mais agora, Renata? =)
+Cliente: *Renata Pereira | Demape:* 
+Não, somente isso.
+Obrigada!
+Atendente: *Helena Braunger:* 
+Imagina!
+
+Vou encerrar o atendimento então, mas qualquer dúvida você entra em contato novamente. 
+
+Boa noite e um excelente final de semana pra vocês 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60fb2acef390b1b2161e4e24
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Helena Braunger:* 
+Bom dia, Renata! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Como posso ajudar?
+Cliente: *Renata Pereira | Demape:* 
+As mensagens não estavam saindo Helena...
+Atendente: *Helena Braunger:* 
+Tivemos um problema com a internet dos aparelhos alocados hoje :/
+
+Houve um acidente e partiu o cabo e consequentemente a redundância de link também 😕
+
+Felizmente, agora foi resolvido, chequei que a conta de vocês está conectada novamente também, que ótimo!
+Cliente: *Renata Pereira | Demape:* 
+Obrigada!
+Atendente: *Helena Braunger:* 
+Imagina! Precisa de algo mais agora? 😊
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Hugo:* 
+Olá Demape. Boa tarde!
+Tudo bem? 
+
+Meu nome é Hugo e eu sou do suporte do ChatGuru. No que eu posso te ajudar?
+Cliente: *Renata Pereira | Demape:* 
+Boa tarde!
+Cliente: *Renata Pereira | Demape:* 
+Tudo bem!
+Cliente: *Renata Pereira | Demape:* 
+Por favor, eu exclui esse usuario e ainda consta.
+Gostaria de entender o porque.
+Atendente: *Hugo:* 
+Renata?
+Cliente: *Renata Pereira | Demape:* 
+DEpartamento?
+Cliente: *Renata Pereira | Demape:* 
+Esse Departamento não está aparecendo ...
+Cliente: *Renata Pereira | Demape:* 
+Localizei, obrigada!
+Atendente: *Hugo:* 
+Por nada. Posso te ajudar com algo mais?
+Atendente: *Hugo:* 
+Renata?
+Cliente: *Renata Pereira | Demape:* 
+Não, muito obrigada!
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar.
+Boa tarde! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611d348ff390b1b216292cfc
+Cliente: *Renata Pereira | Demape:* 
+BOM DIA!
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Hildesson Ramos:* 
+Olá Demape, Bom dia. Tudo bem? 
+
+Eu sou o *Hildesson* e faço parte da equipe de Suporte do *ChatGuru*, estou muito feliz por atende-lo(a) 😁.
+
+Me fala o que posso fazer por você hoje?
+Cliente: *Renata Pereira | Demape:* 
+Por favor, acabei de inserir DDD's para 1 vendedora e não etão aparecendo.
+Cliente: *Renata Pereira | Demape:* 
+Vendedora Mayara Martins
+Cliente: *Renata Pereira | Demape:* 
+DDD's inseridos: 47 48 49 51 53 54 e 55
+Cliente: *Renata Pereira | Demape:* 
+O que ocorreu?
+Atendente: *Hildesson Ramos:* 
+Pode me informar um chat que foi delegado para a vendedora para que eu possa analisar?
+Atendente: *Hildesson Ramos:* 
+Ainda precisa de ajuda?
+Cliente: *Renata Pereira | Demape:* 
+Sim, preciso.
+Cliente: *Renata Pereira | Demape:* 
+Direcionei DDD's para ela atender...
+Cliente: *Renata Pereira | Demape:* 
+Esses DDD's não estão aparecendo para ela
+Atendente: *Hildesson Ramos:* 
+Pode me detalhar como você direcionou esses chats para ela?
+Atendente: *Hildesson Ramos:* 
+É através de automação?
+Atendente: *Hildesson Ramos:* 
+Você ainda está ai?
+Atendente: *Hildesson Ramos:* 
+Se puder me enviar um chat de exemplo eu posso analisar para você.
+Atendente: *Hildesson Ramos:* 
+Demape, vou encerrar o atendimento por ausência de resposta, mas não se preocupe, caso ainda precise de ajuda, basta enviar uma mensagem para o nosso suporte, que teremos o prazer em te ajudar!
+
+Até mais!  🙋‍♂️
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, preciso cadastrar um novo usuario com o email: renovaveis06@demape.com.br
+Ocorre que entra a mensagem que esse usuário já está cadastrado.
+Podem verificar e liberar?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Hildesson Ramos:* 
+Olá Demape, Bom dia. Tudo bem? 
+
+Eu sou o *Hildesson* e faço parte da equipe de Suporte do *ChatGuru*, estou muito feliz por atende-lo(a) 😁.
+
+Um momento enquanto acesso a conta.
+Cliente: *Renata Pereira | Demape:* 
+OK
+Atendente: *Hildesson Ramos:* 
+Renata, pode realizar um nova tentativa de criar o usuário com o e-mail renovaveis06@demape.com.br, por favor?
+Atendente: *Hildesson Ramos:* 
+Renata, deu certo? posso ajudar em algo mais?
+Cliente: *Renata Pereira | Demape:* 
+Vou testar
+Atendente: *Hildesson Ramos:* 
+Tudo bem, fico no aguardo!
+Cliente: *Renata Pereira | Demape:* 
+Deu certo, obrigada!
+Atendente: *Hildesson Ramos:* 
+Por nada, qualquer dificuldade é só chamar! 🤜🤛
+
+Tenha uma ótima tarde! 🙋‍♂️
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Demape, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/613f830bdd3292a7a70eae65
+Cliente: *Renata Pereira | Demape:* 
+Bom dia!
+Por favor, quando a colaboradora Juliana Campos casdastra um usuário novo é compartilhado com o colaborador Walamo Claudio.
+Podem verificar?
+Atendente: Demape Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gabriela Rodrigues:* 
+Bom dia Renata! ✨✨ Meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, como você está? 🌼
+
+Certo, irei verificar. 😊
+Cliente: *Renata Pereira | Demape:* 
+Exatamente, somente a ela.
+Atendente: *Gabriela Rodrigues:* 
+Certo, irei fazer a alteração Renata
+Cliente: *Renata Pereira | Demape:* 
+Agradeço
+Atendente: *Gabriela Rodrigues:* 
+Prontinho Renata! Posso te ajudar em algo mais?
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Renata Pereira | Demape:* 
+Muito obrigada
+Atendente: Demape Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Pedro Cócaro:* 
+Boa tarde Demape, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Como posso te ajudar?
+Atendente: *Hildesson Ramos:* 
+Demape, vou encerrar o atendimento por ausência de resposta, mas não se preocupe, caso ainda precise de ajuda, basta enviar uma mensagem para o nosso suporte, que teremos o prazer em te ajudar!
+
+Até mais!  👋🏻👳🏻‍♂️
+Atendente: Demape, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+

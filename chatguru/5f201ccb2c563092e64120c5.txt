@@ -1,0 +1,539 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Cliente: A *OpenTV* agradece o seu contato. Como podemos ajudar?
+Cliente: Ok, mas e a solução do meu problema?
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Bruno! Eu sou o Lucas, seu suporte do ZapGuru. Como posso ajudá-lo?
+Cliente: Estava em atendimento ontem no outro número e ficaram de resolver hoje
+Cliente: Pagamento duplicado
+Cliente: E também a URA mais uma vez está muito lenta, já reclamei várias vezes isso
+Atendente: Um minuto! Vou verificar.
+Cliente: Vou conseguir resolver hj?
+Atendente: Bruno, um momentinho, estou verificando. Já enviei seu caso para o financeiro, irão falar com você logo.
+Atendente: Sua URA está demorando pra enviar as respostas, é isso? Em média, quanto tempo?
+Cliente: Agora normalizou.
+Atendente: Ok, legal, Bruno! 🙌 Vou encerrar seu atendimento e transferí-lo para o financeiro.
+Cliente: Ok
+Cliente: ?????
+Cliente: Esqueceram de mim aqui?
+Cliente: Estou desde ontem aguardando a solução para a cobrança duplicada
+Atendente: Bruno, desculpa! Esqueci não.
+Atendente: Passei para o responsável vamos efetuar o reembolso.
+Atendente: Só um momento por favor.
+Cliente: Ok, mas o reembolso é na conta antiga fabio.lasa@hotmail.com
+Cliente: A conta para pagamento continuará sendo a bmarchi@mandic.com.br
+Atendente: Tudo bem
+Atendente: Bruno, reembolso feito.
+Atendente: Bruno, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Tudo bem, muito obrigado!
+Cliente: Tenha uma ótima tarde
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez as mensagens estão ficando muito tempo na fila que não estão sendo liberadas, preciso liberar manualmente.
+Cliente: Já perdi as contas de quantas vezes já pedi correção
+Atendente: Olá Bruno, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Olha, aqui atualmente não existe nenhuma fila de mensagens na sua conta.
+Cliente: Sim, mas quando envio uma mensagem ela fica como se fosse agendada
+Atendente: Sim, todas as mensagens levam alguns segundos antes de serem enviadas.
+Atendente: Teste aqui, sem mensagens na fila, leva cerca de 8 a 10 segundos para chegar a mensagem.
+Atendente: Te ajudo em algo mais?
+Cliente: Tudo bem, parece que no momento está melhor
+Cliente: Não sei o que acontece, mas acontece com frequência, as vezes fica muito lento mesmo.
+Atendente: Acontece o seguinte, o whatsapp só envia uma mensagem por vez. Faça os cálculos comigo. Se antes da sua mensagem, seu robô responde com 2 mensagens cada cliente, digamos que seu sistema na hora esteja respondendo 5 clientes x 2 mensagens cada a mais ou menos 10 segundos cada mensagem, fora as mensagens de outros usuários, levaria em torno de 2 minutos cada resposta. Aí vai depender do seu fluxo de mensagens. As vezes se o aparelho está desconectado do zapguru, demora um pouco mais até conexão se restabelecer.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: Novamente, o que informei ontem e vários outros dias
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Dois minutos e a mensagem ainda não saiu daí
+Atendente: Bom dia, Bruno! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Desde que contratei informo isso, todos os meses acontece a mesma varias vezes.
+Cliente: Estou com um cliente agora aqui, já tem 2 minutos que a pessoa digitou a opção no MENU e nem sequer o diálogo entrou na fila ainda
+Cliente: ?????
+Atendente: Teste agora por favor!
+Atendente: :D
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bruno, bom dia! 
+Recebi uma mensagem do PayPal dizendo que não foi possível processar seu pagamento.
+Cliente: Bom dia
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Poderia processar o pagamento novamente? Já corrigi o erro.
+Cliente: Ou eu que tenho que fazer alguma ação na minha conta do PayPal?
+Atendente: Olá Bruno, Bom dia. Meu nome é Hugo.
+Atendente: Eu vou te transferir pro financeiro pra poder tirar essas duvidas
+Atendente: tudo bem?
+Atendente: tenha um bom dia.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Eles tentarão novamente em 5 dias.
+Atendente: Te mandei apenas como aviso caso esteja com algum problema.
+Atendente: Bruno, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Tudo bem
+Cliente: Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez estou com problemas de conexão.
+Cliente: Mais uma vez estou com problemas de lentidão
+Cliente: O cliente digita e o diálogo não está executando
+Cliente: A pessoa digita a opção no menu e recebe a mensagem 3 minutos de pois
+Cliente: Toda hora isso
+Atendente: Olá Bruno Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: certo. poderia me mandar a conversa em que ocorreu isso para poder rastrear o erro?
+Atendente: o link da conversa
+Cliente: https://app3.zap.guru/chats/5efe21cc8186fc21744611d9
+Cliente: https://app3.zap.guru/chats/5f2d9a839ba2841df987991c
+Cliente: Mensagens recebidas com 1, 2, 3 minutos
+Atendente: Vou testar aqui a partir do meu PESSOAL
+Atendente: meu querido, não está com delay nenhum
+Fiz os testes aqui perfeito
+o delay real vem do usuário
+
+*Porém a cargo informativo*
+O Zapguru tem uma fila de espera, essa fila é para lhe dar segurança e que o whatsapp não venha banir o seu numero por algum motivo que eles aleguem de politica interna, as vezes o senhor está recebendo varias chamadas simultaneamente, então as msgs ficam nessa lista de espera *POR SEGURANÇA* do Contratante, que no caso, é o senhor
+entende? :D
+Cliente: Sim, eu acompanhei, com vc realmente não houve delay
+Cliente: Tudo bem, obrigado.
+Atendente: então provavelmente quando ocorrer isso, dê graças a Deus e diga "OPA VÁRIOS CLIENTES SIMULTÂNEOS" kkk
+Atendente: te ajudo em algo mais Bruno?
+Cliente: Não foi o caso, mas tudo bem rs
+Cliente: Não, muito obrigado.
+Cliente: Tenha uma boa tarde.
+Atendente: kkkkk mas será meu amigo
+Atendente: Bruno, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez, o ZapGuru está apresentando MUITA lentidão, em alguns casos, 7 minutos para executar um diálogo.
+Cliente: Isso está ficando insuportável, quase todo dia tenho que entrar em contato, quando isso vai ser resolvido definitivamente?
+Cliente: Olha o tempo que o cliente precisa aguardar o diálogo, 7 minutos????????
+Cliente: Isso é normal?
+Cliente: Estou nesse momento com um cliente que já está aguardando 4 minutos para o diálogo ser executado
+Atendente: Bom dia, Bruno!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 
+
+Como posso te ajudar? 😀
+Atendente: Estou verificando
+Atendente: Um momento!
+Cliente: https://app3.zap.guru/
+Cliente: Isso está se tornando insuportável Lucas
+Cliente: Isso está acontecendo cada vez mais frequente
+Atendente: Estou verificando! Peço que aguarde
+Cliente: Parou tudo
+Cliente: Eu contratei o ZapGuru para facilitar o atendimento, mas sinceramente está me dando mais problema do que solução.
+Atendente: Bruno, estou alterando suas configurações. Um momento, por favor!
+Atendente: Abri um solicitação sobre o seu problema. Em alguns minutos será resolvido.
+Atendente: Peço que aguarde.
+Cliente: Já estou aguardando
+Cliente: ZapGuru inativo, vários clientes entrando em contato sem atendimento
+Atendente: Estamos resolvendo seu problema.
+Atendente: Um dos nossos programadores já está resolvendo seu caso.
+Atendente: Por favor, para agilizar sua solicitação, desbloqueie seu aparelho e abra no app do whatsapp. Em seguida, faça a leitura do qr code.
+Cliente: O aparelho sempre fica desbloqueado, com o Whatsapp aberto e tela ligada.
+Cliente: Tem previsão para resolver? Voltou aqui mas está lento demais ainda
+Cliente: Alguns diálogos nem estão sendo executados
+Atendente: Seu whatsapp está conectado e você não possui mais mensagens na fila.
+Cliente: Mas alguns dialogos não estão sendo executados, estou precisando executar tudo manualmente
+Cliente: Está horrível
+Atendente: Verifique se *status* está *ligado* e a *execução* no *automático*.
+Cliente: Olha isso
+Cliente: Diaologo era pra ser executado às 12:06h
+Cliente: 8 minutos passaram e ainda está como agendado
+Cliente: Eu sei como funciona.
+Cliente: A configuração do diálogo está correta
+Cliente: ?????
+Atendente: Bruno, nossa ferramenta tem uma atraso por questão de segurança contra bloqueio. Caso você queira, podemos diminuir esse tempo, mas poderá acarretar em bloqueio.
+Cliente: Atraso de 10 minutos? 12?
+Cliente: Está horrivel hoje
+Atendente: Verifiquei que é um problema de lentidão recorrente
+Atendente: Um dos nossos programadores, o Iaron, constatou que é problema no sistema. Ele já está resolvendo.
+Atendente: Peço que aguarde mais um pouco. Por favor!
+Cliente: Sim, recorrente desde que contratei, há 4 meses, e já relatei umas 30 vezes isso
+Cliente: Isso está me causando um transtorno e queimando a relação da minha marca com os clientes.
+Atendente: Super entendo você, mas a partir de hoje não ocorrerá mais,
+Atendente: Nosso programador especialista está solucionando esse delay no envio das mensagens.
+Atendente: Bruno, novas informações!
+Atendente: Iaron está fazendo um upgrade que irá melhorar muito a velocidade da sua conta. S
+Atendente: Até amanhã, essa atualização já estará disponível.
+Atendente: 🙌
+Cliente: Boa  tarde
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Gostaria de saber se foi feita atualização que informaram, e que nunca mais iria acontecer lentidão.
+Cliente: O sistema todo está muito lento, impossível de trabalhar
+Cliente: Lento para abrir uma conversa, lento pra tudo!!!
+Cliente: Cada vez que entro em contato para informar lentidão piora mais.
+Cliente: Fui informado que não iria mais acontecer este problema de lentidão, já reclamei mais de 30x disso, e hoje está pior ainda.
+Cliente: As vezes fica a mensagem *Carregando...* e não aparece as mensagens dos clientes
+Atendente: Estamos verificando essa lentidão no APP3, já estamos trabalhando no seu caso
+Cliente: Ok, só pra lembrar (vide histórico) estou aguardando a solução desse problema há 3 meses, ou seja, desde que contratei o ZapGuru
+Cliente: E no ultimo contato me informaram que isso não voltaria acontecer, e 24h depois voltou acontecer.
+Atendente: Pedimos desculpas pelo inconveniente, mas fique tranquilo que já estamos focados na correção desse problema, principalmente para que ele não volte a acontecer.
+Atendente: Assim que for solucionado te darei um retorno, por isso não fecharei seu atendimento até a confirmação de que está tudo ok.
+Atendente: Bruno, por gentileza, verifica se está tudo ok
+Cliente: Sim, parece que voltou ao normal
+Atendente: Ótimo! Esperamos que não volte a acontecer novamente, mas se por um imprevisto algo acontecer, pode entrar em contato conosco.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia,
+Gostaria de contratar um usuário adicional
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Olá???
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Gostaria de contratar um usuário adicional
+Atendente: Ok, Bruno!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Alguém pode me ajudar?
+Cliente: Repetindo, Gostaria de contratar um usuário adicional
+Atendente: Ola Bruno, sim, um momento por favor.
+Atendente: *CheckOut PayPal - 01 Usuário*
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZZ3TRE8BGXF6
+Atendente: *✅  Concluído*: 
+
+*Bruno Marchi*
+*OpenTV Pro*
+1 usuário adicional
+*Total de 3 usuários*
+Cliente: Muito obrigado!
+Cliente: Tenha um excelente dia!
+Atendente: Bruno, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Não, obrigado.
+Cliente: Pode encerrar
+Atendente: Um excelente dia para você também :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá novamente
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pelo segundo mês vcs geraram uma cobrança duplicada
+Atendente: Olá Bruno, Boa tarde. Meu nome é Hugo.
+Cliente: Mês passado ocorreu, e esse mês ocorreu novamente
+Atendente: entendi
+Cliente: Vocês estão cobrando 2x a mensalidade do ZapGuru
+Atendente: vou te transferir pro financeiro pra que possamos corrigir isso
+Atendente: tudo bem?
+Cliente: Na conta do Paypal correta e na conta Paypal antiga
+Cliente: OK
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Pelo segundo mês vcs geraram uma cobrança duplicada.
+
+Mês passado ocorreu, e esse mês ocorreu novamente.
+Cliente: Vocês estão cobrando 2x a mensalidade do ZapGuru, na conta PayPal antiga e na conta Paypal nova
+Cliente: Cobraram na conta Paypal bmarchi@mandic.com.br no dia 07
+Cliente: E na conta fabio.lasa@hotmail.com
+Cliente: Já informei que a conta a ser debitada é bmarchi@mandic.com.br
+Cliente: E a conta fabio.lasa@hotmail.com deverá ser removida.
+Atendente: Oi Bruno, peço desculpas pelo ocorrido, vou verificar.
+Cliente: E ai?
+Cliente: 3h esperando uma resposta
+Atendente: Bruno, me desculpe.
+Atendente: Vou agilizar aqui, um momento.
+Atendente: Vou te fazer o reembolso tudo bem?  E estou pedindo para cancelar assinatura no PayPal
+Atendente: Qual peco? o seu ou do Fabio?
+Atendente: Me passa novamente por favor os dados bancários.
+Cliente: Do Fábio
+Cliente: Mês passado vc só reembolsaram e estornou no cartão, não foi preciso fazer depósito
+Cliente: A única conta PayPal que irá continuar pagando a mensalidade é a minha conta do PayPal.
+Atendente: Bruno, fizemos o reembolso
+Atendente: e excluimos a conta
+Cliente: Tudo bem, muito obrigado
+Atendente: Boa noite Bruno!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bruno, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Não, obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Boa tarde Bruno!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Mais uma vez, PELA MILÉSIMA VEZ
+Cliente: Estou sofrendo com lentidão
+Cliente: Quando isso será solucionado?
+Cliente: E agora não tem suporte!
+Cliente: Estou há 4 meses e vcs não resolvem isso! Estão atrapalhando todo meu trabalho e de minha equipe
+Cliente: Deley enorme!
+Cliente: Já relatei esse problema diversas vezes!!
+Atendente: Bom dia, Bruno! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Agradecemos a sua mensagem. Não estamos disponíveis no momento, nosso horário de atendimento é de *segunda à sábado de 9:00 às 22:00*.  Assim que possível entraremos em contato.
+Atendente: Que tipo de deley você está tendo?
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok, fico no aguardo
+Atendente: Boa tarde Bruno! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Boa tarde Luiz, aconteceu um problema, gostaria de saber se vc pode me dar alguma sugestão
+Cliente: É possível eu mandar um áudio pra explicar melhor? Prometo tentar ser o mais breve possível.
+Atendente: Sim
+Atendente: Entendi.
+Atendente: Podemos sim realizar a troca de número da plataforma.
+Atendente: O Whatsapp deu alguma resposta da sua solicitção?
+Cliente: Ainda não, tem umas 5h que mandei mensagem pra eles.
+Cliente: Acha melhor eu esperar um retorno deles primeiro?
+Cliente: Pode me ajudar?
+Cliente: Dar uma sugestão, pois estou sem saber o que fazer
+Atendente: Vamos lá.
+Atendente: Você já tem um outro número?
+Cliente: Ainda não, mas consigo outro a qualquer momento.
+Atendente: Vou te passar as informações sobre troca de número.
+Atendente: Bruno, a troca do número do WhatsApp já cadastrado no ZapGuru é cobrado um valor pela relocação do novo número nos nossos servidores, o valor é de R$ 159,00 por troca. 
+
+Contudo, tendo em vista nossa parceria... vamos te dar essa primeira troca como uma cortesia! Mas nas próximas trocas futuras que vier a ter, será cobrado o valor.
+Cliente: Entendi, mas o que pedi para este momento é uma sugestão do que posso fazer agora.
+Cliente: Espero uma resposta do Whatsapp?
+Cliente: Ou já troco o número na URA e esqueço o número antigo?
+Atendente: Se a ausência do número hoje não lhe trouxer impactos no atendimento, aguarde a resposta do Whatsapp pelo menos até que faça umas 24horas da solicitação.
+Atendente: Caso não obtenha resposta, entre em contato conosco.
+Atendente: Para realizar a troca do número.
+Cliente: Ah sim, então vou fazer isso.
+Se não tiver jeito de reaver esse número entro em contato para fazer a troca.
+Cliente: Muito obrigado
+Atendente: Caso você venha fazer a troca do número, temos duas recomendações a fazer:
+
+Trocar o aparelho para começar do zero OU ao menos formatar
+Cliente: Pode deixar, vou fazer isso
+Atendente: Show
+Atendente: Posso te ajudar em algo mais?
+Cliente: Não, muito obrigado.
+Atendente: Tranquilo. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Bruno! Sou o *Eduardo*, seu suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Estive conversando com um colega seu ontem, pois tive o Whatsapp banido e gostaria de alterar o número da URA
+Atendente: No caso a troca seria do número na nossa plataforma, correto?
+Cliente: Isso mesmo
+Atendente: Qual seria o novo número?
+Cliente: 21 99544-0437
+Atendente: Irei solicitar a troca do número  (21) 35006002 para o número (21) 99544-0437, confirmado?
+Cliente: Confirmado
+Atendente: irei abrir a solicitação e quando for realizada a troca, eu te retorno
+Atendente: Lembrando de seguir as recomendações passadas, sobre trocar ou formatar o aparelho
+Cliente: Ok, obrigado
+Atendente: E também a questão de ser cortesia dessa vez 😁
+Cliente: Sim, estou usando em um novo aparelho
+Cliente: Sim 😀
+Cliente: Tem previsão de quando será feito a troca?
+Atendente: O pessoal responsável já está verificando, vou pedir um retorno
+Atendente: Só um momento
+Cliente: Nossa, 1h só pra trocar um número?
+Atendente: O prazo para a troca de número é de até 24 horas, consegui falar com o responsável para dar uma adiantada no seu caso
+Cliente: 24h? Como assim gente?
+Cliente: Em nenhum momento foi falado esse prazo.
+Atendente: É que não envolve apenas um número cadastrado, tem questão de servidor e conectividade, além das outras demandas do setor
+Atendente: Mas fique tranquilo, o seu caso já está sendo trabalhado e eu te avisarei de qualquer novidade. Não vou encerrar o atendimento até a trocar ser feita 😉
+Cliente: Ok
+Atendente: Bruno, foi feita a troca do número 😁
+Atendente: Me confirma se conseguiu acessar normalmente, fico no aguardo
+Cliente: Eu perdi todo o histórico das conversas?
+Atendente: Foi feito o backup do antigo aparelho para o novo? Geralmente o whatsapp salva um backup no e-mail e no aparelho
+Cliente: Sim, mas é um outro número, o Whatsapp não deixa restaurar um backup de um número diferente para um novo
+Cliente: Eu pensei que esse as conversas ficariam no ZapGuru
+Cliente: Vou ter que adicionar todos os clientes novamente.
+Cliente: Não tem como recuperar os chats no ZapGuru?
+Cliente: ???
+Cliente: Alguém?
+Atendente: Um momento
+Cliente: Poderia me dar uma resposta?
+Atendente: Bruno, o ZapGuru espelha as conversas do seu número. Cada número tem os seus chats. Não é possível responder aos chats que estavam cadastrados anteriormente com esse novo número, pois eles pertencem ao número que foi banido.
+Cliente: Ok, então preciso que configure o *Automate* no novo aparelho
+Cliente: Tentei configurar por conta própria e não consegui
+Atendente: Certo.
+Atendente: Tem o AnyDesk instalado nesse aparelho?
+Cliente: Não, mas eu instalo agora
+Cliente: 915 209 186
+Cliente: Esse é o código
+Atendente: Certo
+Atendente: Esse Whatsapp é normal ou Business
+Atendente: ?
+Cliente: Business
+Cliente: Caso queira já pode acessar
+Atendente: acessando
+Atendente: Envia esse arquivo para o novo número
+Cliente: ok, um momento
+Atendente: Vou tentar conectar novamente no aparelho.
+Atendente: Deixa o AnyDesk aberto
+Cliente: Posso importar no Automate?
+Atendente: Sim.
+Atendente: Se souber realizar o procedimento é só ir marcando as permissões e instalando o que for solicitado.
+Atendente: Depois da START
+Cliente: Fiz, mas não está inicializando
+Atendente: Abre o AnyDesk
+Cliente: aberto
+Cliente: Aceitei
+Atendente: Reinicia teu aparelho
+Cliente: ok
+Cliente: reiniciando
+Cliente: pronto
+Atendente: Foi
+Cliente: Valeu!
+Cliente: Obrigado!!!!
+Atendente: Tenta cadastrar um chat pela plataforma
+Cliente: Tá. um momento por favor
+Cliente: Foi
+Cliente: Tudo certo
+Atendente: Ótimo.
+Atendente: Te ajudo em algo mais?
+Cliente: Não, muito obrigado
+Cliente: Pode encerrar
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O sistema está muito lendo hoje, estão com algum problema?
+Atendente: Bom dia, Bruno! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Que tipo de lentidão?
+Cliente: Bom dia Caio
+Cliente: Ao executar um diálogo, fica uma mensagem *Cadastrando mensagem...*
+Cliente: ????
+Atendente: Atualize a página clicando em *Ctrl* + *F5*
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O problema continua, o sistema está bem lento. Está oscilando.
+Cliente: Não está acontecendo só comigo, acontece com outros usuários também
+Cliente: Fica carregando bem lento.
+Atendente: Boa tarde Bruno! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: ok
+Atendente: Abri uma solicitação no suporte técnico. Estão verificando.
+Cliente: Ok, obrigado
+Atendente: Serviço normalizou.
+Cliente: Ok, pedi para meu funcionário verificar.
+Atendente: Bruno, vou finalizar por aqui. Caso precise de algum suporte, só chamar. Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ok, muito obrigado
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Bruno Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Bruno! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Estou mais uma vez com problemas.
+
+Mensagens demorando a sair, diálogos que deveriam ser executados não estão executando e eu preciso reprocessar a mensagem manualmente para o diálogo processar.
+
+O problema é intermitente, tem horas que acontece, tem horas que não acontece.
+
+Tirei alguns print para exemplificar o problema.
+Cliente: Olha, todos os meses relato mais de 10x problemas. O serviço não é barato, não tem como resolver esses problemas definitivamente?
+Cliente: É muito chato ter que todos os meses relatar problemas diversas vezes.
+Cliente: Se esse for o normal do ZapGuru, peço que sejam sinceros e me avise, pois irei procurar outra solução que não me dê tantos problemas.
+Cliente: Não teve 1 mês desde que contratei que não tivesse problemas.
+Atendente: Entendo sua frustração Bruno, mas vamos resolver. Pode ficar tranquilo. Vou encaminhar seu caso agora mesmo para o setor técnico verificar qual o motivo dessa instabilidade e recorrência. Por gentileza, você pode me enviar os links dos chats acima?
+Cliente: https://app3.zap.guru/chats/5f6cd110955f5e74007736f1
+
+https://app3.zap.guru/chats/5f6cdac1955f5e74007737c4
+
+https://app3.zap.guru/chats/5f6cdb9c955f5e74007737d0
+Atendente: Ok. Um momento.
+Cliente: https://app3.zap.guru/chats/5f6cdb9c955f5e74007737d0
+Cliente: Segunda vez só essa semana.
+Cliente: Quer dizer, em 3 dias, 2 com problemas.
+Cliente: E isso é constante, desde que contratamos.
+Cliente: A solução nunca é definitiva, sempre é paliativa.
+Atendente: Bruno, anexei os links e prints que você  me enviou e encaminhei ao setor técnico para análise. Por gentileza, peço que aguarde. Assim que o setor me der uma posição, te informo.
+Cliente: Ok
+Atendente: Bruno foi verificado uma falha no sistema de processamento de mensagens que causava esses atrasos. Já foi feita a correção e atualização. Você pode verificar se os diálogos estão sendo enviados normalmente agora?
+Cliente: Sim, no momento está ok, como disse, o problema era intermitente.
+Atendente: Compreendo. Assim, peço que durante a utilização da plataforma verifique se a fila de mensagens se mantém zerada  e sem atraso nos envios. Em qualquer caso, nos comunique. Ok?
+Cliente: Ok , obrigado
+Atendente: Posso te ajudar em algo mais?
+Cliente: Não, pode encerrar.
+Obrigado.
+Atendente: Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: Estamos com problemas, o ZAPGURU não está funcionando, não está recebendo as mensagens.
+Atendente: Bruno Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Bruno, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+Atendente: Só um momento que irei verificar e já te dou uma resposta, tudo bem?
+Cliente: Tentei recapturar o QR-Code mas está bloqueado, nem isso consigo fazer
+Cliente: Ok
+Cliente: Obrigado
+Atendente: Bruno, por favor, tente agora fazer a leitura do QR Code.
+
+E aproveitando, veja se no aparelho há alguma atualização para ser feito no WhatsApp.
+Cliente: Atualizei o Whatsapp Business e fiz a leitura
+Atendente: Show de bola.
+Atendente: Vou monitorar por mais alguns minutos para termos a certeza da estabilidade de conexão.
+Cliente: Acho que resolveu
+Cliente: Obrigado
+Atendente: Por nada!
+Atendente: Posso te ajudar com algo mais?
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima terça-feira!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Bruno, bom dia!
+Tudo bem?
+Atendente: *Bruna Lira:* 
+Temos um valor de R$50,00 reais que não vem sendo pago é referente a 1 usuario
+Atendente: *Bruna Lira:* 
+Estamos trocando nosso sistema de cobrança do carão, gostaria de mudar o seu, tudo bem?
+Atendente: *Bruna Lira:* 
+Bruno, boa tarde!
+Tudo bem? Vou te encaminhar o link ok?
+Atendente: *Bruna Lira:* 
+Bruno, vou solicitar o cancelamento desse usuario ta bem?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Bruno, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/606c79e2ecec98869e57243b
+

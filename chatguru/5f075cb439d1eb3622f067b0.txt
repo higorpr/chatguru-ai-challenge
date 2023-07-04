@@ -1,0 +1,30 @@
+Cliente: Boa tarde
+Atendente: Olá Renan Boa tarde!
+*Não temos nenhum registro seu em nosso atendimento.*
+
+Por *questões de segurança* realizamos apenas atendimento neste número apenas para pessoas autorizadas pelo administrador da conta.
+
+Lembrando que se você for usuário, você pode nos contactar diretamente pelo próprio número cadastrado no ZapGuru.
+
+Como o admin da conta pode autorizar seus usuários: https://youtu.be/-YT9FwQ7Oyo
+Atendente: Renan, o seu chat está autorizado para suporte.
+Atendente: Olá Renan, Boa tarde! Sou o Daniel do time de suporte do ZapGuru , como posso te ajudar hoje?
+Cliente: Boa tarde
+Cliente: Eu gostaria de trocar o número de celular
+Cliente: Não encontrei no painel
+Cliente: É só com suporte?
+Atendente: Sim, por aqui mesmo
+Atendente: Essa á a sua primeira troca de número na plataforma ?
+Cliente: Sim
+Atendente: Renan, essa primeira troca é cortesia, mas caso deseje troca posteriormente é gerado cobranças, combinado?
+Atendente: Me encaminhe o seu novo número que irá usar,  por gentileza
+Cliente: Ok
+Cliente: 43 8841-1777
+Atendente: Renan, abri um chamado solicitando a alteração do número. O prazo é de até 24h, mas já acionei o responsável para que a atualização ocorre o quanto antes, beleza?
+Cliente: Ok
+Cliente: Obrigado
+Atendente: Eu que agradeço e fico à disposição! Caso tenha dúvidas, também recomendo a visita em nossa Wiki! https://wiki.zap.guru/
+Atendente: Qualquer coisa só chamar a gente aqui, até mais! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

@@ -1,0 +1,477 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Nelson Anastacio De Araujo
+Email: suporte@1risjc.com.br
+Senha: a00e5eb0973d24649a4a920fc53d9564
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Boa tarde, Saulo! 
+Sou a Camila e estarei realizando seu atendimento.
+Atendente: Olá Saulo, Boa tarde. Meu nome é Camila.
+Seja Bem-Vindo a ZapGuru!
+
+Vou te ajudar a configurar o seu ZapGuru. Já conseguiu acessa-lo?
+Cliente: Camila não estou na empresa no momento
+Cliente: Quem está  configurando é  o Nelson
+Cliente: Como faço para ele falar com você?
+Atendente: Saulo, poderia pedir par ele mandar mensagem para esse número, por favor: +13 (34) 2768366
+Cliente: Grato
+Atendente: Por nada!
+Atendente: Fico no aguardo do Nelson.
+Atendente: Saulo, assim que possível, recomendamos que assista o vídeos dos primeiros passos para que entenda e se habitue a plataforma, esta bem? Feito isso, podemos marcar sua Call de Onboarding.
+Atendente: Gostaria de já deixar marcado sua Call de Onboarding?
+Cliente: Camila boa tarde o Nelson entrou em cotato mas o whats não foi reconhecido por vocês, ele utiliza o número 12-3203-0103.
+Gostaria de agendar a CALL o mais rápido possível
+Cliente: Poderia ser quando
+Cliente: Segue celular do Nelson caso precise de algo 55-12-99713-7711
+Atendente: Tenho disponibilidade para amanhã na parte da manhã, pode ser?
+Cliente: Sim estamos aqui a partir das 09:00hs.
+Atendente: Pode ser de 10:30 até às 11:30?
+Cliente: Sim
+Cliente: Perfeito
+Atendente: Perfeito, combinado!
+Atendente: Sobre o Nelson, tem que solicitar permissão para que ele possa entrar em contato conosco. Vou solicitar permissão.
+Cliente: Ok
+Atendente: Pode me passar seu email para enviar o convite da  reunião, por favor?
+Cliente: suporte@1risjc.com.br
+Atendente: Obrigada!
+Cliente: Sim
+Atendente: O número para liberação de contato do Nelson é o 55-12-99713-7711?
+Cliente: Sim este mesmo
+Atendente: Feito a liberação.
+Atendente: Agora ele já pode entrar em contato conosco.
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só um momento estou tentando a conexão e está dando erro estou verificando se é erro no meu firewall
+Atendente: ok
+Cliente: Olá, estava tendo atendimento através do número anterior.
+Cliente: Fiz a contratação para 12 usuários, estamos configurando o sistema e prevendo uma demanda para 30 usuários, como procederia caso necessite aumentar ? Qual valor ficaria ?
+Atendente: Cada usuário fica no valor de R$50 mensais. Caso queira contratar posso te passar para o financeiro.
+Cliente: Pode me encaminhar por favor, vou precisar de mais 8 usuários neste momento
+Cliente: Vou receber o boleto
+Cliente: ?
+Atendente: Ok. Só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Saulo, boa tarde!
+Cliente: Boa tarde
+Atendente: gostaria de contratar mais 8 usuarios é isso?
+Cliente: Sim
+Cliente: Preciso de mais 8 usuários
+Cliente: Poderia me informar o valor do módulo de atendimento e do módulo funil ?
+Atendente: Modulo atendimento está R$ 50,00
+Modulo Funil está R$ 25,00
+Cliente: Inclua para mim os 8 atendentes e estes 2 módulos
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: Segue anexo comprovante de pagamento
+Atendente: Saulo, bom dia!
+Liberado.
+Cliente: Obrigado
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Para este caso somente isto
+Cliente: Obrigado
+Atendente: 8 inclusoes de usuarios + Modulo atendimento + Modulo Funil
+Total de 20 usuarios.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Camila sobre a Call de Onboarding agora as 10:30hs está com algum problema no link ?
+Atendente: Saulo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Saulo! Tudo bem? É a Camila, vou te enviar o link. Só um momento, por favor.
+Cliente: Nelson que está cadastrado no Suporte e a Oficial também querem participar
+Atendente: https://meet.google.com/coe-fadh-xyo?authuser=0
+Atendente: Saulo, vou enviar o modelo de fluxo de atendimento. Caso precisem que a gente faça a seu Chatbot é só enviar um documento(em word ou pdf), vamos verificar se esta correto e encaminhar para a fila de realização.
+Cliente: ok
+Cliente: Camila sobre a alocação fiquei com algumas dúvidas, seria com você ou com outra pessoa ?
+Atendente: Pode falar comigo mesmo, Saulo.
+Cliente: Uma dúvida na alocação o aparelho fisico ou o chip, ele ficará aqui no escritório ou eu precisarei encaminhar algum deles para algum local ?
+Atendente: Vou verificar, só um momento por favor.
+Cliente: Ok
+Atendente: Saulo, verifiquei e me informaram que só vai precisar (quando for alocado) desinstalar o Whatsapp e enviar um código que vai chegar pra você (o código de ativação). O aparelho e o chip vão ficar com você. Quando a locação for feita o suporte entrará em contato e te explicará melhor. Enquanto não esta alocado você deve: manter o celular ligado e conectado na internet, e aberto no Whatsapp para ter a sincronização das mensagens, esta bem?
+Cliente: Camila o módulo de contatos que vc mencionou como faço a contratação, existe mais algum módulo que eu não tenha contratado ?
+Atendente: O módulo de Adicionar Chats custa apenas R$ 70,00 mensal. Nós liberamos com o envio do comprovante. Como seu aparelho será alocado, a equipe de alocação fará a instalação dele(com isso, é necessário aguardar a alocação feita). Posso te encaminhar para o financeiro para fazer a contratação?
+Cliente: Sim
+Atendente: Só um momento que vou te encaminhar.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Saulo, boa tarde!
+Atendente: So um momento por favor
+Atendente: Saulo, no que posso te ajudar?
+Atendente: Você gostaria de contratar modulo de add chat?
+Cliente: 1 - Vou precisar contratar O módulo de Adicionar Chats.
+Cliente: Existe algum outro módulo ou serviço o que eu não tenha contrato?
+Atendente: Saulo, segue boleto, nos encaminhe o comprovante para darmos continuidade
+Atendente: Olá Saulo, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Camila bom dia !
+Cliente: Conseguiria agendar uma call para hoje no final do Dia ?
+Atendente: Saulo, voce gostaria de falar com o Suporte?
+Cliente: Bom dia, segue o comprovante financeiro da aquisição do módulo
+Cliente: E sim eu preciso falar no suporte
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: Conseguiria agendar uma call para hoje no final do Dia ?
+Cliente: Para criação dos Gatilhos.
+Atendente: Bom dia Saulo, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Vou te dar uma mãozinha
+Cliente: Bom dia!
+Atendente: Infelizmente hoje nossa agenda está lotada, teria algum outro dia que você tenha disponibilidade?
+Cliente: Qual a data mais próxima
+Cliente: ?
+Cliente: Gostaria de configurar o mais breve possivel
+Atendente: O agendamento pode ser para amanhã? Teria horário disponivel?
+Cliente: O mais cedo possível
+Atendente: Certo, só um momento que vou confirmar a questão dos horários disponiveis
+Cliente: Estamos com pressa para por o sistema em funcionamento
+Cliente: Conseguiu verificar o horário para amanhã ?
+Atendente: Certo, então amanhã as 10h da manhã, tudo bem?
+Cliente: ok
+Cliente: Vc vai encaminhar o convite
+Cliente: ?
+Atendente: Sim, é enviado por email
+Atendente: Poderia por favor me enviar o seu email?
+Cliente: suporte@1risjc.com.br
+Atendente: Certo, o agendamento foi feito Saulo. Algo mais que eu possa fazer por você?
+Cliente: Vc poderia me encaminhar para o financeiro, preciso ver se deu tudo ok com um pagamento e a liberação do módulo de contatos.
+Atendente: Claro, encaminho sim, um momento
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa tarde, realizei o pagamento para a aquisição do módulo contatos. poderia verificar se deu tudo certo e se já foi liberado ?
+Atendente: Saulo, o seu processo de alocação está agendado para o final do dia de hoje.
+Cliente: Certo, vou precisar fazer algum procedimento
+Cliente: Devo estar com o aparelho em mãos
+Atendente: Exatamente!
+Cliente: Teria o horário aproximado
+Cliente: Ficamos até  as 18hs
+Atendente: so um instante que vou perguntar.
+Cliente: Ok no aguardo
+Cliente: Começamos a receber uns alertas no ZapGuru, seria algo sobre a alocação.
+Cliente: Já estou com o aparelho em maõs
+Cliente: Prezados boa tarde, estou precisando saber sobre a alocação do número estou com o aparelho precisando saber os procedimentos.
+Atendente: Saulo, vou te transferir para o Suporte, um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: Prezados boa tarde, estou precisando saber sobre a alocação do número estou com o aparelho precisando saber os procedimentos.
+Cliente: Será na data de hoje mesmo ?
+Atendente: Momento Saulo, irei verificar!
+Cliente: Estou precisando tirar algumas sobre a alocação ? Devido este aparelho ser de uso da proprietária.
+1- Tenho que estar com o aparelho em mãos para o procedimento ?
+2- Após o procedimento a proprietária poderá usar o aparelho para receber e fazer ligações.
+3- O aparelho precisará estar sempre ligado ?
+
+Poderia me responder o mais breve possível pois estou precisando informar isto para a proprietária.
+Atendente: 1 - sim
+2 - sim
+3 - não
+Cliente: Grato no aguardo sobre a confirmação da alocação
+Cliente: O atendimento poderá ocorrer hoje após as 18hs ?
+Cliente: Ou podemos encerrar e continuamos amanhã
+Atendente: Ainda não obtive resposta Saulo
+Atendente: Amanhã Pode entrar em contato novamente!
+Cliente: Hoje encerra as 18:00hs ?
+Atendente: Sim
+Cliente: Ok
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Cliente: Preciso saber sobre o processo de alocação, foi me passado o prazo de 3 dias e nós estamos aguardando desde a segunda-feira
+Cliente: Preciso confirmar com o Financeiro o pagamento referente a compra de um serviço.
+Atendente: Bom dia Saulo!
+Cliente: Bom dia!
+Atendente: Tens disponibilidade para realizarms o processo de alocação agora?
+Cliente: Poderia ser as 13:30
+Cliente: ?
+Atendente:  Pode ser sim
+Atendente: Mas vou te passar já o 1º Passo, ok ?
+Atendente: Assim já podemos adiantar
+Cliente: Ótimo
+Atendente: *1 Passo.*
+Encaminharei para você a credencial de uma conta Gmail, usuário e senha. Você deve inserir essa conta no smartphone e depois realizar um backup do whatsapp nessa conta, segue um passo a passo:
+
+https://faq.whatsapp.com/android/chats/how-to-back-up-to-google-drive?lang=pt_br
+
+Obs. marque a opção de *Fazer backup no Google Drive = Diária*
+
+👉 Imediatamente após realizar o backup, comunique-nos para que possamos confirmar se está 100%.
+Atendente: cartoriosjc1@gmail.com
+sjc1@cart
+Cliente: Certo o aparelho só avisando  é um iphone
+Atendente: 😰
+Cliente: Corre o risco de perder algumas informações
+Cliente: Certo
+Atendente: Saulo, como mencionamos anteriormente, para transferir o histórico dos chats e manter o backup, só é possível quando é Android.
+Atendente: Exatamente.
+Atendente: Teria algum problema para vocês ?
+Cliente: Acredito que não
+Cliente: Mas posso proceder conforme acima
+Cliente: Te chamo as 13:30 ou assim que liberar o aparelho
+Cliente: Este histórico de chats e backup é só das mensagens anteriores a implantação da alocação  após passo a ter backup e histórico
+Cliente: ??
+Atendente: Você terá no zapguru apenas o que acontecer de agora em diante.
+Atendente: o anterior não terá mais
+Cliente: Estão me trazendo o aparelho para a configuração.
+Esta conta google eu não consigo colocar no iphone igual nos celulares android (inicialização). Seria um login no Gmail através do Safari do iphone ?
+Atendente: Esses dados que te passei servem apenas quando é Android
+Atendente: No caso do iPhone, não servirá :(
+Atendente: Futuramente caso vocês não desejem mais utilizar o zapguru, todo o backup estará nessa conta que te passei
+Atendente: daí você pode restaurar tudo em um android.
+Atendente: Não é possível em Iphone.
+Cliente: Certo então para a alocação usando o iphone o que eu irei precisar fazer ? Qual meu primeiro passo ?
+Atendente:  *2 Passo*
+Solicitaremos um código de verificação via SMS do WhatsApp, esse processo requer *total atenção*.
+
+Você precisará nos informar o código com o máximo de brevidade, caso contrário, pode ser necessário solicitar novamente e o tempo entre cada requisição pode aumentar exponencialmente.
+
+👉 Recomendamos que envie um SMS para o número para *testar* que o mesmo esteja recebendo corretamente mensagens e ligações.
+
+No caso de ligação com o código, por questões de segurança, muitas vezes o próprio whatsapp limita o envio com intervalos de 1h!
+Atendente: O aparelho já está com você ?
+Cliente: O motorista está chegando com o aparelho
+Atendente: Assim que chegar, me avisa que já solicito o SMS, ok ?
+Cliente: só mais uma pergunta, já estou com a URA configurada no sistema inclusive já usando. Comecei agora a pouco vou perder o que foi feito ? no sistema ?
+Cliente: Inclusive as mensagens ?
+Atendente: O que esta no sistema não será perdido. 
+Inclusive os chats que estão lá, continuarão (inclusive histórico) porém a partir desse momento você só poderá integrar com os chats que fale algo com você.
+Atendente: As configurações de sua URA permanecem
+Cliente: Ok, chegando o aparelho te informo
+Atendente: Saulo, vou ter que me ausentar por 30min
+Cliente: Ok,  as 15:00hs te chamo e fazermos o procedimento
+Atendente: Saulo, boa tarde
+Atendente: posso solicitar o SMS ?
+Atendente: Saulo ?
+Cliente: 10 im
+Cliente: Só finalizando um atendimento de emergencia aqui
+Cliente: Finalizando já chamo, desculpe
+Cliente: Voltei
+Cliente: Pode me encaminhar o SMS
+Cliente: Jà estou com o aparelho
+Atendente: Vou pedir agora
+Cliente: OK
+Cliente: 127-506
+Atendente: Será solicitado dentro de 1h mais um código, ok ?
+Cliente: oK
+Cliente: Via SMS
+Cliente: ?
+Atendente: Sim
+Cliente: Assim que chegar já encaminho
+Atendente: Joia
+Cliente: Caso ajude, assim que chegar o outro código informo
+Atendente: Saulo, posso solicitar o novo código agora?
+Cliente: sIM
+Cliente: Celular está aqui comigo
+Atendente: Solicitado
+Cliente: 306-715
+Cliente: Deu certo
+Cliente: ?
+Atendente: Não :(
+Atendente:  Pediu mais 1h por questão de segurança
+Cliente: Vocês irão prosseguir hoje ou irá adiar ?
+Cliente: Nós podemos esperar tranquilamente
+Atendente: Se você tiver disponibilidade de ficar com o aparelho hoje, podemos fazer
+Atendente: Jóia!
+Atendente: Poderemos pedir dentro de 47 min
+Cliente: 18:20
+Cliente: Ok no aguardo
+Cliente: Mas o chat não irá encerrar ?
+Cliente: Quer tentar mandar o código novamente
+Atendente: Boa noite Saulo!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: oi
+Atendente: Estou aqui
+Cliente: Quer tentar o código novamente
+Cliente: Estou com o aparelho aqui
+Atendente: Vou solicitar agora novamente
+Cliente: 295-546
+Atendente: Saulo, não foi novamente :( 
+Agora pediu 7h. 
+
+Você teria disponibilidade para amanhã de amanhã ?
+Cliente: Amanhã o meu gerente estará com o telefone
+Cliente: Posso te passar o contato dele
+Cliente: Ele ja está cadastrado no suporte
+Cliente: Nelson Anastácio de Araújo
+12-99713-7711
+Cliente: Pode chamar ele que ele vai estar aguardando
+Cliente: A partir das 09hs
+Cliente: Qqer coisa pode me chamar também
+Cliente: Interajo amanhã com vc
+Atendente: Boa noite Saulo!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia Saulo!
+Atendente:  Podemos solicitar o SMS agora?
+Cliente: Bom dia
+Cliente: O aparelho está  com o meu gerente Nelson
+Cliente: Ele está cadastrado no suporte
+Cliente: Pode mandar msg para ele faz o procedimento
+Atendente: Pronto Saulo! o procedimento de alocação foi concluído com êxito :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia Saulo 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Bom dia está certo com a implantação
+Cliente: Só preciso adicionar mais uma pessoa no Suporte
+Cliente: Seria o programador que trabalha conosco que irá fazer a integração da API
+Cliente: Poderia adicionar por favor
+Atendente: Olá Saulo, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Iniciei a conversa aqui com ele.
+Atendente: te ajudo em algo mais?
+Cliente: Somente isto no momento muito agradecido
+Atendente: Ótimo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Saulo, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Bom dia
+Cliente: Estou precisando de suporte
+Cliente: Bom dia Saulo 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Bom dia está certo com a implantação
+Cliente: Só preciso adicionar mais uma pessoa no Suporte
+Cliente: Seria o programador que trabalha conosco que irá fazer a integração da API
+Cliente: Poderia adicionar por favor
+Cliente: Olá Saulo, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: Iniciei a conversa aqui com ele.
+Cliente: te ajudo em algo mais?
+Cliente: Somente isto no momento muito agradecido
+Cliente: Ótimo.
+Cliente: Se precisar de ajuda, é só chamar! 😊
+Cliente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Preciso que este funcionário tenha acesso ao suporte
+Cliente: Na Segunda feira foi solicitado
+Atendente: Olá Saulo, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Já falamos com seu programador, mas ele não nos respondeu.
+Atendente: Vamos agendar uma videochmada
+Atendente: Pode ser?
+Cliente: Por favor
+Cliente: Pra amanhã poderia ser ?
+Cliente: Após 13hs seria o ideal
+Atendente: Consigo para amanhã as 16h ou 17h, qual melhor para vocês?
+Cliente: 16
+Atendente: Ótimo. me diz um e-mail por favor para eu colocar aqui no agendamento.
+Cliente: suporte@1risjc.com.br
+Atendente: Pronto, convite enviado. Videochamada agendada. Só acessar amanhã as 16h o link.
+Atendente: https://meet.google.com/hwo-ybiq-ayi
+Atendente: Fale com o programador para ele participar também por favor.
+Atendente: Até amanhã.
+Cliente: Obrigado
+Cliente: Ele é o principal interessado
+Cliente: Até  amanhã
+Atendente: Até.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Estamos com este erro Zap Guru
+Atendente: Olá Saulo, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Qual nome ou link do chat?
+Cliente: Rafael Renan Castro dos Santos
+Atendente: Pronto, resolvido. Basta mandar novamente as mensagens pendentes e apagar as que não foram enviadas.
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isto obrigado
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde; Preciso falar no financeiro
+Cliente: Preciso saber sobre 2 notas fiscais:
+R$ 475,
+Atendente: Olá Saulo, Boa tarde, meu nome é Mark! Vou te encaminhar para o departamento financeiro, só um momento.
+Cliente: R$ 475,00 pago dia 21/07/2020
+R$ 70,00 pago dia 22/07/2020
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa tarde! preciso saber sobre 03 notas fiscais:
+
+R$ 475,00 pago dia 21/07/2020
+R$ 70,00 pago dia 22/07/2020
+R$ 26,67 pago dia 04/08/2020
+Atendente: Ola Saulo, um momento por favor
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Somente isto
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia preciso falar no financeiro
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Saulo
+Atendente: No que posso ajudar?
+Cliente: Boa tarde!
+Precisaria saber se existe a possibilidade de os boletos e notas fiscais serem encaminhadas para o e-mail financeiro@1risjc.com.br. Juntamente com o do Suporte
+Cliente: Ou seja eu gostaria de que fosse encaminhada para os dois e-mails suporte@1risjc.com.br e financeiro@1risjc.com.br
+Cliente: Gostaria que os e-mails fossem encaminhados para suporte@1risjc.com.br (já recebe) e financeiro@1risjc.com.br (adicionar)
+Atendente: Claro, um momento.
+Atendente: Prontinho.
+Cliente: Obrigado
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Somente isto
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Atendente: Saulo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso de atendimento para o Financeiro
+Atendente: *Helena Braunger:* 
+Boa tarde, Saulo! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Claro, vou te encaminhar ao nosso setor financeiro, só um momento :)
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Ólá Saulo, tudo bem?
+Cliente: Boa tarde
+Cliente: A fatura da empresa vence no dia 20/07
+Cliente: Estou precisando que seja reenviado o e-mail
+Cliente: Poderia reenviar para suporte@1risjc.com.br
+Atendente: *Bruna Lira:* 
+Um momento.
+Atendente: *Bruna Lira:* 
+Saulo, enviado.
+Cliente: Bruna recebi o e-mail, mas ele está gerando o Invoice e nele está me dando a opção de pagar somente com cartão de crédito ou o gPay
+Cliente: Preciso do boleto para o financeiro da empresa poder pagar
+Cliente: dfjdksafjasklfja
+Cliente: Poderia providenciar o boleto ?
+Atendente: *Bruna Lira:* 
+Você clicando do lado, consegue gerar o boleto. 
+Apenas incluir as informações da empresa.
+Cliente: Consegui imprimir aqui
+Cliente: Muito obrigado
+Atendente: *Bruna Lira:* 
+Show! Por nada :)
+Atendente: Saulo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Saulo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/61000338f390b1b2161f54ae
+

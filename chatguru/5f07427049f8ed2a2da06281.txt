@@ -1,0 +1,414 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Thaíse Giacomin
+Email: thaiseg@gmail.com
+Senha: d23422b17813e5eb024a4f3b4c9d97a5
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Cliente: ok
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Isabela!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Vou te ajudar no início da plataforma!
+Atendente: Já acessou o ZapGuru?
+Cliente: oi Caio
+Cliente: sim, mas ainda nao escaneie
+Cliente: estou esperando a pessoa que está com o aparelho fazer isso
+Atendente: Certo Isabela! :D
+Atendente: Vou encerrar aqui, quando precisar de ajuda pode chamar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Isabela, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Olá, gostaria de colocar um submenu na URA, é possível?
+Atendente: Boa noite Isabela!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: para garantir que farei tudo certinho, gostaria que algum tecnico me acompanhasse nessa configuraçao de ura e chatbot inicial
+Cliente: é possivel?
+Atendente: Olá Isabela, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Seguinte Isabela, é possível sim criar um submenu na URA, para facilitar, nós podemos fazer essa configuração para você, basta criar um documento no word, com todas as informações e etapas que deseja incluir na URA e enviar aqui no whatsapp do suporte, assim te damos uma prazo para realizar a configuração solicitada.
+Cliente: Bom dia Mark
+Cliente: Ok, vou enviar!
+Atendente: Ótimo. Ficamos no aguardo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Boa tarde Isabela 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Vou enviar hj o roteiro para criarem a URA
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Perfeito, só enviar pelo chat que enviamos para realizar a configuração solicitada.
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ola, boa noite
+Atendente: Boa noite Isabela!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Segue em anexo o caminho para configuraçao da URA
+Cliente: quanto tempo vcs precisam para configurar?
+Atendente: Olá Isabela, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Isabela me reenvia esse arquivo no meu e-mail por favor.
+Atendente: mark@zapguru.com.br
+Atendente: Assim que analisar te dou um prazo.
+Cliente: Bom dia Mark! Enviado
+Atendente: OK, um momento.
+Atendente: OK, vi aqui, falta algumas coisas, por exemplo, o texto inicial, qual será?
+Atendente: Várias opções do submenu também estão sem diálogos.
+Atendente: Você precisa dizer para quem será delegado o cliente que escolher s opções do submenu, para um usuário ou para um departamento.
+Atendente: Crie antes todos os departamentos mencionados.
+Atendente: Outra coisa, o texto na parte branco entra onde, não consegui compreender.
+Cliente: Ok, vou incluir!
+Atendente: OK, no aguardo das alterações.
+Atendente: Vou encerrar aqui, assim que possível, só enviar aqui.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Isabela, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: https://docs.google.com/spreadsheets/d/1oytqQnh3hdIDnu8MrbuY3Yohc8NhaIP1fThCn4f-7iQ/edit?usp=sharing
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Segue o link da planilha atualizada
+Atendente: Olá Isabela. Pode enviar para o email solicitado acima para se verificado, por favor?
+Atendente: Isabela, assim que possível nos envie pelo email, por favor.
+Atendente: Precisando é só mandar mensagem novamente.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Enviei, conseguiu verificar?
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mark, estou fazendo um mapa mental
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: acho que vai ficar melhor para vc
+Atendente: Olá Isabela, Boa tarde! Sou o Daniel do time de suporte do ZapGuru !
+Cliente: oi Daniel, tudo bem?
+Atendente: Tudo bem Isabela, iremos analisar o fluxo que nos encaminhou e qualquer coisa entraremos em contato contigo caso tenhamos alguma dúvida, combinado ?
+Cliente: Daniel, eu estou fazendo em outro programa, tava mto confuso e faltando dialogo
+Cliente: Espera um pouco que já mando
+Cliente: https://mm.tt/1567055402?t=4yFwP8QxFa
+Cliente: esse é o link correto
+Cliente: mandei por email tb
+Atendente: Recebemos aqui Isabela, iremos verificar e se estiver tudo de acordo em até 72h estará implementado em sua conta, combinado ?
+Cliente: Ok!
+Atendente: Estarei encerrando o atendimento, qualquer dúvida não hesite em nos chamar! Até mais. 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ola
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Isabela, tudo bem? Eu sou o Gabriel do ZapGuru, como eu posso te ajudar?
+Atendente: Bom tarde Isabela. Meu nome é Luiz. Tivemos algumas alterações no nosso fluxo de trabalho e o seu chatbot que estava previsto para entregar dia 22/07 esta passando por uma revisão e será implementado dia 23/07. Desde já conto com sua compreensão.
+Cliente: ok, obrigada
+Cliente: gostaria de saber se os campos que capturamos no chatbot possuem o recurso de validaçao de dados, para que possamos subir para o sistema. Tipo diferenciaçao de campo numero e de texto, quantidade de caracteres para CPF, telefone... @ para email... essas coisas
+Atendente: Sim, conseguimos validar apenas a quantidade de números sem pontos ou traços e e-mail validando dados após o @, mas não validamos se o número está correto ou não. Basta utilizar o gatilho de acordo com o que queira, cpf, e-mail, cnpj, etc.
+Cliente: blza, obrigada
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Isabela, boa tarde. Tudo bem? Sou Luiz. A respeito do seu chatbot. Fiz uma revisão e verifiquei que o fluxo de atendimento é bem extenso. Os primeiros níveis de atendimento para o cliente não apresentam nenhum problema, porém ao se aprofundar na URA, devido a quantidade de perguntas, o cliente ele pode ficar confuso. Você pretende utilizar API juntamente com essa URA?
+Cliente: Oi Luiz, boa tarde!
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: FUturamente é uma opçao a API sim
+Cliente: a API que queremos de imediato é com RD Station... gostaria da sua ajuda para entender melhor como funciona
+Cliente: pq acha que o cliente pode ficar confuso? na verdade estamos substituindo um formulario, para que a experiência seja melhor
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: como visualizamos essas respostas?
+Atendente: Infelizmente não damos suporte a integração com outras ferramentas.
+Atendente: Devido a extensão da URA. A usabilidade de um formulário nesses casos se torna mais prática. Iriamos ter a URA inicial, e depois poderia ser encaminhado para um atendente que enviaria um link com um formulário do Google.
+Atendente: Para capturarmos as respostas deverá ser utilizada uma API, porém como falamos não damos suporte a essas outras ferramentas.
+Cliente: mas para onde vao as informaçoes?
+Atendente: Quando o cliente responde, permanece apenas no chat. Essa captura de informações só pode ser possível se for com uso de API.
+Cliente: Entendi. Então a parte do formulário vamos precisar mesmo direcionar para o Google forms
+Atendente: Você poderia reconfigurar o fluxo para que possa dar andamento a URA.
+Atendente: ?
+Atendente: Mantendo os atendimentos que você acha pertinente e os demais ficam com formulários do Google.
+Atendente: Assim que você tiver reconfigurado, você me envia, certo?
+Atendente: Vou finalizar por aqui. Aguardo seu contato.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ola, já atualizei o arquivo!
+Atendente: Boa noite Isabela!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Esses sao os audios da Eleonora que menciono no fluxo para enviar
+Atendente: Bom dia Isabela! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Ok Isabela. Vou dar continuidade a criação do chatbot. O prazo para entrega é no dia 29/07. Ok?
+Cliente: Nossa gente, estamos com urgencia
+Atendente: Isabela, tentarei agilizar ao máximo. Como temos o fim de semana agora, acaba afetando nosso cronograma. Como eu já tinha dado início aos níveis primários da URA o processo já esta adiantado. O prazo para o dia 29 é justamente a etapa de testes que se ocorrer tudo bem podemos te entregar antes.
+Cliente: Tudo bem... Conto com vcs, obrigada!
+Atendente: Isabela, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Isabela, bom dia. Tudo bem. Aqui é o Luiz. Seu chatbot ja está configurado na plataforma. Não o deixei ativo ainda, pois estou finalizando uns básicos, mas hoje mesmo já estará disponível.
+
+Fiz uma alteração na URA que foi em em relação ao nome. O chatbot não o grava o nome de um nível para outro. Sendo assim, utilizei o recurso DAY_GREETING que traz o primeiro do contato.
+
+Peço que faça o upload de uma imagem e um link que não estava no mapa mental. Segue abaixo.
+Atendente: O link localizei. Então só a imagem mesmo.
+Atendente: Fico no aguardo.
+Cliente: Bom dia!
+Cliente: Obrigada Luiz!
+Cliente: Me avise quando estiver ativo pf
+Cliente: o infográfico ainda nao está pronto...
+Cliente: consegue entao editar o texto, deixando apenas os audios?
+Atendente: Sim. Vou editar.
+Atendente: Isabela
+Atendente: Um outro contato da Casa Coach informou que vocês desejam colocar um outro número na URA
+Atendente: Esse
+Atendente: +55 11 99023-7635
+Cliente: Oi Luiz, sim
+Cliente: já vou alterar no fluxo e te aviso
+Cliente: na verdade precisa criar um novo usuario
+Cliente: vc consegue?
+Cliente: vai mudar o plano para 5 usuarios
+Atendente: No caso, primeiro necessário a contratação. Nesse caso te encaminho para o setor financeiro.
+Cliente: está bem
+Atendente: É contratação de quantos usuários?
+Cliente: Luiz, o problema é que tem gente que coloca o nome uma frase... ai fica super estranha a saudaçao! rs
+Cliente: mais um, no total serao 5
+Cliente: perai... parece que a Luana já está cadastrada
+Atendente: Mas só vai trazer o primeiro nome do contato. Se o contato se chama João Paulo, vai aparecer. Olá João.
+Cliente: pois é, mas tem casos que a pessoa coloca no nome tipo "Deus é amor" aí fica, bom dia Deus
+Cliente: kkk
+Atendente: Entendi. O ideal seria puxar o nome do cliente mesmo. No entanto a plataforma não armazena esses dados. Depois  da primeira interação vocês podem modificar o nome do cliente, aí não ocorreria esse problema.
+Atendente: Talvez com o uso de API integrada com outro  sistema você consiga extrair o nome.
+Cliente: hummm, legal
+Cliente: como faço para integrar com a RD Station?
+Atendente: Aí como te falei antes. Integração com softwares de terceiros não temos como da suporte. Fornecemos a documentação da API na Wiki lá no site justamente para auxiliar nesse integração.
+Atendente: Quanto ao usuário extra, você deseja contratar?
+Cliente: nao vai precisar, a pessoa ja estava cadastrada
+Atendente: Ok.
+Cliente: olha, é um ajuste só no fluxo
+Cliente: Ao invés de transferir para Eleonora, transfere para Seleção
+Cliente: consegue ativar a URA?
+Atendente: Estou aguardando a confirmação do setor técnico que esta revisando os níveis da URA. Como ela é um pouco extensa, demora um pouco.
+Cliente: Ok, qual a previsão
+Atendente: Isabela, as 19:00.
+Cliente: obrigada!
+Atendente: Boa noite Isabela!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: já está no ar?
+Atendente: Sim Isabela. Habilitei. A URA inicial não vai aparecer devido ao horário de funcionamento.
+Cliente: ah está bem, obrigada!
+Atendente: Já ta tudo funcionando. Amanha entro em contato com você para alinharmos só alguns detalhes para aprimoramos ainda mais o funcionamento da URA.
+Atendente: Vou encerrando por aqui. Boa noite. :)
+Cliente: ótimo, muito obrigada!
+Cliente: boa noite
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi Luiz, tudo bem?
+Atendente: Isabela Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Comecei a testar o chat, está bem legal
+Cliente: acho que podemos mudar a saudaçao inicial já com o nome da pessoas
+Atendente: Boa tarde, Isabela! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: oi Caio
+Atendente: Luiz está em seu horário de intervalo, em uma hora ele está de volta!
+Cliente: coloquei a opçao e nao retornou nada... precisa corrigir
+Atendente: Você pode aguardar esse tempinho enquanto ele volta? :)
+Atendente: Isabela, boa tarde. Luiz aqui. Vou verificar, só um momento.
+Cliente: obrigada!
+Atendente: Isabela, poderia testar novamente. Aparentemente aqui ta normal.
+Atendente: Fazer esse mesmo caminho.
+Cliente: sim vou testar
+Atendente: Isabela, vou encerrar por aqui. Depois me dê o seu feedback.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi Luiz, bom dia
+Atendente: Isabela Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: precisamos ajustar o chatbot
+Atendente: Bom dia, Isabela!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 😁
+Atendente: Quais as alterações?
+Cliente: Oi Lucas, estou alterando no fluxo
+Cliente: uma parte do público é bem simples
+Cliente: sao candidatas a vagas de empregadas domesticas
+Cliente: e elas nao estao entendendo
+Cliente: entao estou simplificando para elas reponderem sim ou nao
+Atendente: Isabela, como foi o Luiz quem fez seu chatbot, irei pedir para ele fazer as alterações.
+Atendente: Agora ele está em call. Mas assim que estiver disponível, ele fala com você! Pode ser? 😄
+Cliente: Ok, obrigada
+Cliente: Esse é o infográfico que ficou pendente, para incluir no fluxo
+Atendente: Você quer incluir o infográfico em qual etapa?
+Cliente: Juntos com os audios que anexamos
+Cliente: "Quero contratar uma profissional para minha residència"
+Cliente: já concluí as alteraçoes no fluxo
+Cliente: quando o Luiz estiver disponível eu posso explicar
+Atendente: Ok. Peço que aguarde! 😁
+Atendente: Isabela, bom dia. Aqui é o Luiz.
+Cliente: oi Luiz, bom dia!
+Cliente: eu atualizei o fluxo
+Cliente: para dar uma simplificada
+Cliente: as candidatadas estao se perdendo no fluxo
+Cliente: e tb alterei todas as transferencias para a Eleonora, pq ela nao está usando o sistema ainda
+Cliente: o ideal seria revisar tudo
+Cliente: para nao esquecer de alterar nada
+Atendente: Certo. Vou olhar o fluxo aqui como ficou. Só um momento.
+Atendente: As alterações foram apenas nos níveis do Atendimento a Candidatos e as transferências para a Eleonora?
+Cliente: e no diálogo para transferir para a Lamara, vi que estava com um erro de digitaçao
+Cliente: e os dois primeiros níveis alteraram tb
+Cliente: gostaria que mandasse uma resposta quando a pessoa nao digitar a palavra certa
+Cliente: Desculpe, ainda não compreendo todas as palavras. Preciso da sua ajuda para responder EXATAMENTE a resposta solicitada. 🤖 🖤
+Cliente: E aí repete a mensagem anterior
+Atendente: Ok.
+Atendente: Isabela, vou analisar as alterações a serem feitas e te dou um prazo para conclusão.
+Cliente: desconsidere esse arquivo, vou enviar um atualizado
+Atendente: Ok!
+Atendente: Vou realizar as alterações. O prazo para entrega é até dia 11/08, terça feira.
+Cliente: Ok, obrigada!
+Atendente: Vou finalizar por aqui. Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá, bom dia!
+Atendente: Bom dia Isabela!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: O fluxo foi alterado?
+Cliente: Olá bom dia
+Atendente: Isabela Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Isabela! Tudo bem?
+Como podemos ajudar?
+Cliente: Olá, bom dia
+Cliente: Gostaria de saber se o novo fluxo está funcionando
+Atendente: Bom dia Isabela! Meu nome é Luiz. Seu fluxo de atendimento já foi atualizado e esta funcionando.
+Atendente: Faltou apenas o infográfico que você informou que iria editar e enviar.
+Cliente: Oi Luiz
+Cliente: As meninas da Casa Coach estão com dificuldadez
+Cliente: Disseram que está uma bagunça
+Cliente: As clientes tão perdidas
+Atendente: Como assim?
+Cliente: Será que consegue entrar em contato com elas para entender melhor como podemos melhorar?
+Cliente: Elas podem dar exemplos do que está acontecendo
+Cliente: Pois são elas que operam no dia a dia
+Atendente: Não temos como ligar. Esse número é Whatsapp?
+Cliente: É
+Cliente: Veja o horário da minha msg
+Cliente: Até agora não entrou a mensagem automática com o menu
+Atendente: Por isso não funciona
+Atendente: Liguei novamente
+Cliente: Ok
+Cliente: Elas desligaram pq ta dando problema
+Atendente: Entrei em contato com ela.
+Cliente: Obrigada
+Atendente: Agendei uma call com a Thaise agora de 9h para esclarecermos alguns pontos sobre o chatbot.
+Cliente: Show
+Cliente: Obrigada
+Atendente: Isabela, em call com a Thaíse ela me informou que muitas candidatas estão se perdendo na hora de fazer o cadastro. A URA em si, esta funcionando, o problema é que as candidatas querem "conversar" e acabam digitando outras coisas que não são as opções de sim ou não.
+
+Ela me falou que basicamente o contato das candidatas é para:
+
+>Fazer o cadastro
+>Consultar se o cadastro foi aprovado
+>Consultar se tem vaga disponível
+
+Com base nisso, vi que algumas partes da URA DE CANDIDATOS que perguntam se precisam de mais ajuda precisam ser retiradas.
+
+O fluxo de candidatos vai ser:
+>Fazer o cadastro
+>Se tiver os contatos dos patrões preenche o cpf
+>Recebe o formulário
+*Se preencher corretamente, finaliza
+(caso venha a falar novamente, o depto de Seleção já atende ela)
+*Se ainda precisar de ajuda o setor de recrutamento já atende.
+
+Em ambos os casos, a URA inicial não retornará para a candidata.
+
+Se caso ela não possuir os contatos dos patrôes o atendimento é encerrado com a mensagem de bao sorte.
+Atendente: *patrões
+*boa sorte
+Atendente: Vou iniciar alguns ajustes depois. O foco vai ser apenas nas URAS de candidatos que onde está aparecendo os problemas. As demais, a Thaise falou que ainda não estão usando.
+Cliente: Tem como salvar essa versao, para nao perdermos o trabalho?
+Cliente: a sócia que cuida do comercial ainda nao está engajada
+Cliente: 🙈
+Atendente: Posso deixar desativado as que não serão usadas.
+Cliente: Perfeito
+Atendente: Vou para meu horário de almoço agora. Vou tentar correr com essas modificações ainda hoje ou no fim de semana.
+Atendente: Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: https://app.cobrefacil.com.br/minha-fatura/6D1VK8P7ZP4ORWN0E59M
+Atendente: Isabela Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Bom dia! Por um acaso esse link de cobranca é de vcs?
+Atendente: Olá Isabela, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+
+Até onde eu saiba, não é.
+
+Vou te encaminhar ao nosso financeiro para confirmar.
+Atendente: Um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: oii Isabela, bom dia!
+Atendente: Não é nossa não
+Atendente: Esse é o seu boleto
+Atendente: Isabela, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Obrigada
+Cliente: Só isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+

@@ -1,0 +1,1198 @@
+Atendente: Seja bem vindo! 😊
+Cliente: 👩🏻‍💻*SETOR A* agradece o seu contato. Por gentileza, como podemos ajudar você?
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Cliente: Boa tarde
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok
+Atendente: Boa tarde Setor! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Boa tarde Luiz
+Cliente: Estamos com um problema a onde foi cadastrado um usuário, e o mesmo foi apagado e ao tentar cadastrado novamente não conseguimos pois aparece informando que o e-mail já está em uso
+Cliente: Como faço para cadastra-lo novamente
+Cliente: ?
+Atendente: Só um momento. Vou verificar para você.
+Cliente: Obrigado
+Atendente: Qual é o usuário?
+Cliente: O Adm ou que excluiu?
+Atendente: o que excluiu
+Cliente: Exclui dois mas vou precisar do dois, um deles é que eu vai ser usuário Adm
+Cliente: Jean (usuário Adm)
+Sabrina
+Cliente: No caso iríamos excluir o Adm já existente por outro
+Atendente: Certo. Só um momento.
+Cliente: Ok
+Atendente: manda um print dessa tela por favor
+Cliente: Só um intante
+Atendente: É só clicar em "salvar usuário"
+Atendente: Isso é apenas um aviso informando que não será necessário colocar um nome ou uma senha
+Cliente: Ok
+Cliente: Muito obrigado
+Cliente: Deu certo
+Atendente: Ótimo. Te ajudo em algo mais?
+Cliente: Tenho sim
+Cliente: Os novos usuários acessam normalmente digitando o e-mail e a senha?
+Atendente: Sim
+Cliente: Obrigado
+Atendente: :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Setor, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: *Central de Atendimento:* 
+Boa tarde.
+Cliente: *Central de Atendimento:* 
+Esta indo bem.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Central de Atendimento:* 
+Estou com uma pequena duvida.
+Cliente: *Central de Atendimento:* 
+Ao adicionar um novo contato (chat) ele fica em pendente.
+Cliente: *Central de Atendimento:* 
+Como faço para deixa-lo ativo?
+Atendente: Boa tarde Setor A, tudo bem? Eu sou o Gabriel do ZapGuru, vou te dar uma mãozinha!
+Atendente: Certo, para o contato ainda estar como perdente é porque o Automate não está rodando. Você já chegou a fazer a instalação dele?
+Cliente: *Central de Atendimento:* 
+Qu eu me lembre  não.
+Cliente: *Central de Atendimento:* 
+Como faço.
+Cliente: *Central de Atendimento:* 
+?
+Atendente: Olá Setor tudo bem? 
+
+Precisamos realizar a instalação do *Módulo de Adicionar Chats* no seu smartphone.
+
+Para prosseguirmos é necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo: 
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+
+Podemos agendar a instalação?
+Cliente: *Central de Atendimento:* 
+Podemos sim.
+Cliente: *Central de Atendimento:* 
+Segunda-feira as 10:30 tem como?
+Atendente: Sim.
+Cliente: *Central de Atendimento:* 
+Agendado para segunda então.
+Atendente: Certo. Qual seu aparelho? O seu Whatsapp é o business ou normal?
+Cliente: *Central de Atendimento:* 
+Business
+Cliente: *Central de Atendimento:* 
+Só um instante que irei verificar o modelo do aparelho.
+Atendente: Poderia informar o aparelho por favor?
+Cliente: *Central de Atendimento:* 
+Redmi Go black
+1GB Ram 16GB Rom
+Atendente: De antemão recomendo que se possível faça a substituição do aparelho, utilize aparelhos da samsung, linha A ou linha S. Pois o automate roda em segundo plano a otimização do SO da xioami costuma encerrar processos em segundo plano.
+Atendente: O Automate é nossa app responsável por executar as solicitações de novas mensagens feito no zapguru.
+Atendente: O zapguru precisa ter conexão constante com esse app, então ele precisa rodar de forma ativa em segundo plano.
+Cliente: *Central de Atendimento:* 
+Entendi.
+Atendente: Ótimo. Providencie a alteração que na segunda instalamos o automate no horário agendado.
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Atendimento:* 
+Por em quanto é só.
+Cliente: *Central de Atendimento:* 
+Muito obrigado pela atenção.
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia Setor 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Central de Eventos:* 
+Esta indo bem, só estou com um problema referente a configuração do Chat bot
+Cliente: *Central de Eventos:* 
+Configurei e ativei porém ainda não está funcionando.
+Atendente: Bom dia! Eu sou o Gabriel do ZapGuru, vou te dar uma mãozinha!
+Cliente: *Central de Eventos:* 
+Ok
+Atendente: Certo, nenhum dos diálogos está funcionando? Chega a aparecer algum erro na tela?
+Cliente: *Central de Eventos:* 
+Não aparece erro.
+Cliente: *Central de Eventos:* 
+Criei um ura para atendimento porém não está a parecendo as mensagens da ura.
+Cliente: *Central de Eventos:* 
+Será que configurei errado?
+Atendente: Certo, só um momento que eu vou ver com a equipe técnica o motivo do problema
+Cliente: *Central de Eventos:* 
+Obrigado.
+Atendente: Fizemos algumas modificações no seu Chatbot. Poderia verificar se agora esta executando, por favor?
+Cliente: *Central de Eventos:* 
+Só terminar uma configuração e farei o teste
+Atendente: Perfeito, obrigada!
+Cliente: *Central de Eventos:* 
+A mensagem de boas vindas deu certo, porém quando digito o numero da opção repete a mensagem de boas vindas.
+Atendente: Vamos verificar, só um momento por favor.
+Cliente: *Central de Eventos:* 
+Estou refazendo o processo todo novamente.
+Cliente: *Central de Eventos:* 
+Só um instante que se não resolver lhe informo.
+Atendente: Esta bem, precisando de ajuda é só informar.
+Atendente: Verifiquei que tinha uma instalação de módulo de adicionar chats agora das 10:30 as 11:30. Deseja reagendar para hoje a tarde?
+Cliente: *Central Comercial:* 
+Vamos reagendar para as 14:30
+Cliente: *Central de Eventos:* 
+Referente a Ura as Opções não estão funcionando
+Cliente: *Central de Eventos:* 
+Ao digitar a opção desejada não está indo a mensagem da resposta automática da pessoa delegada
+Atendente: Feito.
+Atendente: Vou verificar.
+Atendente: Olá Setor. Você tem uma instalação do módulo Adicionar Chats as 14:30.
+Cliente: *Central de Eventos:* 
+Estranho, está tudo ativado
+Atendente: Vou fazer algumas alterações, ta bem?
+Cliente: *Central de Eventos:* 
+ok
+Cliente: *Central de Eventos:* 
+Só um minuto
+Atendente: Pronto, fiz as alterações. Pode verificar se vai executar por favor?
+Cliente: *Central Comercial:* 
+Fiz a configuração que é instruída em um vídeo de vocês e não deu certo.
+Cliente: *Central Comercial:* 
+Agora nem a mensagem de boas vindas apareceu.
+Atendente: Aquele vídeo esta um pouco desatualizado mas o conceito é o mesmo.
+Atendente: Vou fazer o teste. Só um momento por favor
+Atendente: To tentando adicionar o número para poder mandar a mensagem de teste mas ta demorando um pouco. Poderia verificar se esta executando agora, por favor?
+Cliente: *Central de Eventos:* 
+Escolhe a opção 5 por favor
+Cliente: *Central de Eventos:* 
+Só para verificar o envio da resposta após selecionar a opção
+Atendente: Coloquei 5 e voltou para o Boas Vindas pois o reset está para 1 min. Tem que aumentar.
+Cliente: *Central de Eventos:* 
+Pronto
+Cliente: *Central de Eventos:* 
+Eu fiz isso para fazer os testes
+Atendente: Sim, ta certinho. Quando for colocar para os cliente coloca algumas horas.
+Cliente: *Central de Eventos:* 
+Testa agora novamente
+Atendente: Só um momento, por favor
+Atendente: Enviei, quer que testa algum número?
+Cliente: *Central de Eventos:* 
+5
+Cliente: *Central de Eventos:* 
+Testa o 5
+Atendente: Ta bem
+Atendente: Testei, ta indo direitinho agora.
+Cliente: *Central de Eventos:* 
+Blz
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Cliente: *Central de Eventos:* 
+Ta agendado a instalação de módulo de adicionar chats para às 14:30?
+Atendente: Por nada! :)
+Atendente: Isso,  quem vai fazer a instalação será o Luiz. Só mandar mensagem solicitando ele, ta bem?
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Vou encerrar o chat. Só mandar mensagem na hora da instalação do módulo de adicionar chats, ta bem?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Central de Eventos:* 
+Sim.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Setor! Meu nome é Luiz. Podemos iniciar a instalação?
+Cliente: *Central de Eventos:* 
+Boa tarde
+Cliente: *Central de Eventos:* 
+Podemos sim
+Atendente: Ótimo. Qual o seu aparelho?
+Atendente: Qual a versão do seu Whatsapp: Normal ou Business?
+Cliente: *Central de Eventos:* 
+Só um instante
+Cliente: *Central de Eventos:* 
+Tive um problema com o aparelho, me passaram errado.
+Cliente: *Central de Eventos:* 
+Só conseguiram me entregar o correto amanhã.
+Cliente: *Central de Eventos:* 
+Me desculpe.
+Atendente: Amanhã das 9:00 às 10:00 pode ser?
+Cliente: *Central de Eventos:* 
+Podemos reagendar para amanhã as 16:00?
+Atendente: Das 16h às 17h.  Lembrando que o aparelho onde vai ser feita a instalação deve ser o mesmo onde que esta sincronizado com o ZapGuru, ok?
+Cliente: *Central de Eventos:* 
+Só consigo das 16h às 17h
+Atendente: Isso. Agendei para esse horário.
+Atendente: Te ajudo em algo mais?
+Cliente: *Central de Eventos:* 
+Por em quanto é só.
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Atendente: :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Boa tarde.
+Atendente: Sou o Luiz. Temos uma instalação do módulo de Adicionar Chats para esse horário.
+Atendente: Podemos começar?
+Cliente: *Central de Eventos:* 
+Podemos
+Cliente: *Central de Eventos:* 
+Boa tarde.
+Atendente: Ok. Só um momento.
+Cliente: *Central de Eventos:* 
+Desculpa a demora Luiz.
+Atendente: Esta com o aparelho
+Atendente: ?
+Atendente: Qual o seu aparelho?
+Qual a versão do seu Whatsapp: Normal ou Business?
+Cliente: *Central de Eventos:* 
+Etou
+Cliente: *Central de Eventos:* 
+Estou.
+Cliente: *Central de Eventos:* 
+Redmi Go Black
+1G Ram 16GB Rom
+Cliente: *Central de Eventos:* 
+Whatsapp Business
+Atendente: ok
+Atendente: Para que possamos iniciar a instalação e configuração, instale esses dois aplicativos. Só baixar e instalar. Não precisa abrir.
+
+QuickSupport: https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt_BR
+
+Automate: https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=pt_BR
+Cliente: *Central de Eventos:* 
+Só um instante
+Cliente: *Central de Eventos:* 
+Pronto
+Cliente: *Central de Eventos:* 
+Instalei os dois no  celular
+Atendente: Agora, abra o QuickSupport e me envie o ID. Irei acessar seu smartphone para realizar a configuração.
+Cliente: *Central de Eventos:* 
+Eu permito a sobreposição a outros apps?
+Atendente: sim
+Cliente: *Central de Eventos:* 
+177956539
+Atendente: Me envia o ID do QuickSupport
+Atendente: o
+Atendente: ok
+Atendente: Deixa aberto o QuickSupport
+Cliente: *Central de Eventos:* 
+ok
+Atendente: volta novamente pro automate
+Atendente: so ir voltando
+Cliente: *Central de Eventos:* 
+ok
+Atendente: Ele ta adicionando
+Atendente: Pode deixar
+Cliente: *Central de Eventos:* 
+ok
+Atendente: Tenta adicionar mais contato pela plataforma do ZapGuru
+Cliente: *Central de Eventos:* 
+Só um minuto
+Cliente: *Central de Eventos:* 
+O que seria mensgaem de abertura?
+Cliente: *Central de Eventos:* 
+mensagem**
+Atendente: Um boas vindas, por exemplo.
+Cliente: *Central de Eventos:* 
+Tem mais algum passo?
+Atendente: Não. A configuração ocorreu com sucesso. Vou te passar algumas informações.
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Eventos:* 
+Por em quanto é só.
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Setor, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Setor! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: *Central de Eventos:* 
+Bom dia Caio.
+Cliente: *Central de Eventos:* 
+Gostaria de saber sobre adicionar mais um acesso.
+Atendente: Para adicionar mais um usuário em sua conta tem um custo adicional de apenas R$ 50,00 em sua mensalidade
+Atendente: Deseja prosseguir?
+Cliente: *Central de Eventos:* 
+Sim.
+Atendente: Vou te encaminhar para o setor financeiro, assim eles podem te ajudar com isso! 😄
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Central de Eventos:* 
+Ok.
+Cliente: *Central de Eventos:* 
+Olá.
+Atendente: Olá , boa tarde!
+Atendente: No que posso ajudar?
+Cliente: *Central de Eventos:* 
+Preciso adicionar mais um acesso.
+Atendente: Mais um usuário?
+Atendente: Um momento.
+Cliente: *Central de Eventos:* 
+Sim.
+Atendente: Setor, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Central de Eventos:* 
+Ok.
+Cliente: *Central de Eventos:* 
+Já vou solicitar o pagamento.
+Atendente: Tudo bem
+Cliente: *Central de Eventos:* 
+Pagamento efetuado.
+Atendente: Um momento por favor.
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: *✅  Concluído*
+*Setor A Clube de Beneficios*
+1 usuário adicional
+*Total de 4 usuários*
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Eventos:* 
+Por enquanto é só.
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Setor Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: *Central de Atendimento:* 
+Boa tarde!
+Cliente: *Central de Atendimento:* 
+Você enviaram o boleto?
+Cliente: *Central de Atendimento:* 
+Por favor, envie o boleto.
+Atendente: Oii, boa tarde!
+Atendente: Enviamos sim
+Atendente: Segue atualizado.
+Cliente: *Central de Atendimento:* 
+Segue o comprovante de pagamento.
+Cliente: *Central de Atendimento:* 
+Favor enviar sempre pelo wattzaap ou por e-mail (agostinho@setora.com.br). 
+Grato. 
+Agostinho
+Atendente: Fechado!
+Atendente: Muuuuito obrigada :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, bom dia.
+Atendente: Eu sou o Lucas. Como posso te ajudar? :)
+Cliente: *Central de Eventos:* 
+Gostaria de saber se consigo fazer backup das conversas pelo ZapGuru?
+Atendente: Nós recomendamos você fazer o backup automático, de preferência diário, direto no whatsapp. No zapguru, por exemplo, se algum dia você trocar o número da sua conta (remover o número antigo), poderá acessar as informações dos chats (nome, nº whatsapp, link do whatsapp, data de cadastro, data da última mensagem) desse número removido por meio de *relatórios*. É o "tipo" de  informações que fornecemos caso você troque ou remova o número da conta.
+Cliente: *Central de Eventos:* 
+Ok
+Cliente: *Central de Eventos:* 
+Obrigado.
+Atendente: Por nada. Qualquer coisa, entre em contato. =)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: *Central de Eventos:* 
+Bom dia Luiz.
+Cliente: *Central de Eventos:* 
+Preciso adicionar mais usuário.
+Atendente: Ok. Vou te encaminhar para o setor financeiro. Só um momento.
+Cliente: *Central de Eventos:* 
+Obrigado
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Bom dia!
+Atendente: Será mais 1 usuario?
+Cliente: *Central de Eventos:* 
+Sim.
+Atendente: Um momento.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Central de Eventos:* 
+Já solicitei o pagamento ao setor financeiro.
+Atendente: Fechado, obrigada.
+Cliente: *Central de Eventos:* 
+Pagamento efetuado.
+Atendente: Um momento.
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: *✅  Concluído*
+*Setor A Clube de Beneficios*
+1 usuário adicional
+*Total de 5 usuários*
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Cliente: *Central de Eventos:* 
+Por enquanto é só.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Central de Atendimento:* 
+Bom dia, tudo bem?
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Setor. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: *Central de Atendimento:* 
+Olá Rodrigo, 
+Estamos com um probleminha e gostaria de saber se poderia me ajudar.
+Cliente: *Central de Atendimento:* 
+Não estamos conseguindo receber os áudios aqui no guro. 
+No celular aparece o áudio e por aqui não conseguimos visualizar ou receber .
+Cliente: *Central de Atendimento:* 
+Poderia por gentileza nos dar um suporte?
+Atendente: Estamos ciente deste problema relacionado aos arquivos da plataforma, já foi rastreado a causa e estamos trabalhando na solução. 
+
+Peço desculpas por qualquer desconforto que possa ter sido derivado disso, mas não se preocupe que já está sendo solucionado, assim que o problema for resolvido irei lhe informar, pode ficar tranquilo.
+Cliente: *Central de Atendimento:* 
+Ah sim. 
+
+Muito obrigada. 
+tenha um bom dia. ]
+Atendente: Pra ti também. Logo assim que tiver resolvido, te chamo por aqui mesmo. 🙂
+Cliente: *Central de Atendimento:* 
+Certo, 
+Agradeço o retorno.
+Atendente: Vou passar um passo a passo para vocês verificarem se resolveu, ok? Preciso que você deslogue da conta e faça o login novamente. 
+
+Depois, abra o chat em que os arquivos de áudio não chegaram e clique nos três pontinhos no canto superior direito do seu Chatguru. Ali haverá a opção de *recarregar mensagens recentes e recarregar mensagens antigas*. Clique em ambas e verifique se os áudios voltaram.
+Cliente: *Central de Atendimento:* 
+Olá
+Cliente: *Central de Atendimento:* 
+voltaram sim
+Cliente: *Central de Atendimento:* 
+Muito obrigada.
+Atendente: Que ótimo! 😀
+Atendente: Posso te ajudar em mais alguma coisa?
+Cliente: *Central de Atendimento:* 
+Não, era so isso mesmo por enquanto 😁
+Atendente: Qualquer dúvida a mais, estamos à disposição! 😊
+Cliente: *Central de Atendimento:* 
+Agradeço pelo retorno,
+Tenha um bom dia.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a nossa pesquisa de satisfação: https://app5.zap.guru/nps/6008433d937cc0673968b142
+Cliente: *Central de Eventos:* 
+Boa tarde.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Seja bem vindo a *SETOR A!*
+Esta é uma mensagem automática.
+
+*_Nosso atendimento é de Segunda à Sexta feira, das 8hs as 18hs._*
+
+🆘 *ASSISTÊNCIA 24HRS (Reboque):*  0800-649-0300
+
+🚨 *OCORREU EVENTO?*  boletim de ocorrência, fotos e documentos dos veículos envolvidos.
+
+🧾 *2º VIA DE BOLETO:* através do APP ou SITE do SETOR A.
+
+Agradecemos pelo contato!
+☎️ (31) 3047-0425
+Instagram: @setoraclubedebeneficios
+Site: www.setora.com.br
+Atendente: *Hugo:* 
+Olá Setor, Boa tarde. Meu nome é Hugo. No que eu posso te ajudar?
+Cliente: *Central de Eventos:* 
+Boa tarde Hugo.
+Cliente: *Central de Eventos:* 
+Gostaria de ver duas coisas com você.
+Cliente: *Central de Eventos:* 
+Primeiro: Ainda recebemos o boleto de vocês.
+Segundo: Estou com um problema no chatbot.
+Atendente: *Hugo:* 
+boleto seria com o nosso financeiro. Posso te encaminhar para resolver isso após resolvermos o chatbot. Qualquer seria o problema com ele?
+Cliente: *Central de Eventos:* 
+Entendi.
+Atendente: *Hugo:* 
+Qual o problema com o chatbot?
+Cliente: *Central de Eventos:* 
+Alguns chats no final de semana não estão recebendo a mensagem automática.
+Cliente: *Central de Eventos:* 
+Gostaria da saber se a minha configuração está correta?
+Atendente: *Hugo:* 
+Posso te ajudar com algo mais em relação ao chatbot?
+Cliente: *Central de Eventos:* 
+Vou verificar.
+Cliente: *Central de Eventos:* 
+Tem como verificar a configuração do Fora de Horario.
+Cliente: *Central de Eventos:* 
+Eu tinha colocado tudo em um lugar pois desativei o do final de semana.
+Atendente: *Luiz Modestino:* 
+Boa tarde. Luiz aqui. O Hugo foi para a pausa. Irei da continuidade ao atendimento.
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: *Luiz Modestino:* 
+Posso ajudar em algo mais?
+Atendente: Setor, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Central de Eventos:* 
+Boa tarde.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Setor. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: *Central de Eventos:* 
+Boa tarde Rodrigo.
+Cliente: *Central de Eventos:* 
+Com quem eu falo referente a envio de boletos?
+Atendente: *Rodrigo Lacerda:* 
+Essa questão é com o nosso setor financeiro. Aguarde um minutinho para que eles possam te ajudar.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+oiii, acabei de enviar por e-mail
+Atendente: *Bruna Lira:* 
+um momento
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Cliente: *Central de Eventos:* 
+Por enquanto é só.
+Atendente: *Bruna Lira:* 
+:)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6025875173116bf23e4495c3
+Cliente: *Central de Eventos:* 
+Boa tarde.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Setor, Boa tarde. Meu nome é Hugo. No que eu posso te ajudar?
+Cliente: *Central de Eventos:* 
+Boa tarde Hugo.
+Cliente: *Central de Eventos:* 
+Necessito de adicionar mais um usuário.
+Atendente: *Hugo:* 
+vou te encaminhar para o financeiro para seguir com a contratação.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Central de Eventos:* 
+Ok;.
+Cliente: *Central de Eventos:* 
+Olá.
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Gostaria de contratar mais 1 usuario?
+Cliente: *Central de Eventos:* 
+sIM
+Cliente: *Central de Eventos:* 
+Sim*
+Atendente: *Bruna Lira:* 
+Um momento.
+Atendente: Setor, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Central de Eventos:* 
+Vou solicitar o pagamento e já lhe envio o comprovante.
+Atendente: *Bruna Lira:* 
+Combinado, obrigada!
+Cliente: *Central de Eventos:* 
+Bruna, segue abaixo o comprovante de pagamento.
+Atendente: *Bruna Lira:* 
+Show, um momento que vou solicitar a inclus
+Atendente: *Bruna Lira:* 
+inclusão do usuario.
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: *✅ Concluído*
+
+*Setor A Clube de Beneficios*
+1 usuário adicional
+*Total de 6 usuários*
+Atendente: Setor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Central de Eventos:* 
+Por enquanto é só.
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603d50189f49179ac8972940
+Cliente: *Central de Atendimento:* 
+Boa tarde, vi que agora vcs tem mais recursos que quando eu contratei, seria possivel marcar alguma reunião para verificar quais são os novos recursos?
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Setor. Boa tarde! Sou Carlos do Suporte ChatGuru.
+Atendente: *Carlos:* 
+Quais recursos você tem em mente? No caso você deu olhada na página de novidades, é isso?
+Atendente: *Carlos:* 
+Oi. Ainda está ai?
+Cliente: *Central de Atendimento:* 
+eu queria vincular meu sistema ao zapguru para realizar cobrança
+Atendente: *Carlos:* 
+Qual o sistema?
+Cliente: *Central de Atendimento:* 
+meu sistema de gerenciamento da horizonte sistemas, o nome dele é SIPROV
+Atendente: *Carlos:* 
+Creio que seja possível. Nós temos as informações de requisição na nossa wiki. Pede para a pessoa ou empresa que faz suas integrações para verificar nossa documentação para verificar se é possível
+Atendente: *Carlos:* 
+https://wiki.chatguru.com.br/api/api-documentacao-v1
+Cliente: *Central de Atendimento:* 
+onde localizo isso?
+Cliente: *Central de Atendimento:* 
+wiki
+Cliente: *Central de Atendimento:* 
+existe alguma cobrança adicional?
+Cliente: *Central de Atendimento:* 
+onde posso ver todos os recursos que o ZapGuru pode me fornecer/
+Cliente: *Central de Atendimento:* 
+?
+Atendente: *Carlos:* 
+na nossa wiki mesmo você encontra todos, mas vou te mandar os últimos módulos por aqui
+Atendente: *API do ChatGuru*
+Através da nossa API é possível que sistema de terceiros interajam de forma ativa para o envio de mensagens através do ChatGuru. Você pode ver mais a respeito em nossa documentação: 
+
+👉 https://wiki.chatguru.com.br/api/api-documentacao-v1
+Atendente: *Módulo Funil*
+Permite visualização em formato KANBAN (estilo Trello) de todos os chats de forma visual.
+👉 https://youtu.be/QU7mqa9YIwc
+Atendente: *Módulo Adicionar Chats*
+Permite que os operadores possam adicionar contatos através do ChatGuru de forma rápida.
+👉 https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Net Promoter Score (NPS)* é uma métrica de lealdade do cliente, com o objetivo de medir o grau de lealdade dos clientes das empresas de qualquer segmento, trazendo reflexos da experiência e satisfação dos clientes. O indicador-chave de performance (KPI) é amplamente utilizado em virtude da sua simplicidade, confiabilidade e flexibilidade.
+Atendente: Para mais informações, acesse nossa wiki:
+https://wiki.chatguru.com.br/nps
+Cliente: *Central de Atendimento:* 
+tem os valores?
+Atendente: *Carlos:* 
+Um momento
+Atendente: *Carlos:* 
+Vou te mandar os valores desses que te pasei
+Cliente: *Central de Atendimento:* 
+ok
+Atendente: *Carlos:* 
+*Valores mensais:*
+
+-Módulo Adicionar Chats ( por número ) - R$70,00
+-Módulo Funil - R$25,00
+-Módulo API - R$100,00
+-Módulo NPS – R$ 50,00
+Cliente: *Central de Eventos:* 
+Obrigado.
+Cliente: *Central de Eventos:* 
+Vamos estar analisando.
+Atendente: *Carlos:* 
+Combinado. Consigo te ajudar em algo mais?
+Atendente: *Carlos:* 
+Setor, vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6047cbc39f49179ac899e5d0
+Cliente: *Central de Eventos:* 
+Por enquanto é só isso. Obrigado.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6047cc1f9f49179ac899e659
+Cliente: *Central Comercial:* 
+boa tarde
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: *Central Comercial:* 
+olá Luiz tudo joia? Sou a Sabrina
+Atendente: *Luiz Modestino:* 
+Oi Sabrina. Tudo bem e você?
+Cliente: *Central Comercial:* 
+então , desde quando atualizou o guru, estou com problemas em anexar pdf nas minhas conversas.
+não sei se tem algo a ver. 
+
+eu mexo muito com encaminhar laudos, boletos, e ele está sempre demorando e dando um erro (esqueci de anotar o numero dele)
+ai só pela 3 ou 4x que dá certo
+Cliente: *Central Comercial:* 
+tudo bem também
+Cliente: *Central Comercial:* 
+ele demora para carregar o pdf e encaminha-lo na conversa.
+Atendente: *Luiz Modestino:* 
+É muito grande o arquivo?
+Cliente: *Central Comercial:* 
+não
+Cliente: *Central Comercial:* 
+são no maximo 1 ou 2 folhas, não são pesados
+Atendente: *Luiz Modestino:* 
+O arquivo esta na plataforma? Qual o nome dele?
+Cliente: *Central Comercial:* 
+perdão não entendi
+você diz salvo na plataforma ? não
+Cliente: *Central Comercial:* 
+são outros, ex: boletos de cobrança e contratos que eu mando
+Atendente: *Luiz Modestino:* 
+Entendi.
+Atendente: *Luiz Modestino:* 
+O erro ocorre antes de enviar ou fica com erro dentro do chat?
+Cliente: *Central Comercial:* 
+o erro dá depois que tento mandar o pdf (não antes)
+Atendente: *Luiz Modestino:* 
+Nessa, tela você esta clicando em *Clique aqui...*, selecionando o arquivo e quando clica em enviar ocorre o erro é isso?
+Cliente: *Central Comercial:* 
+isso mesmo
+Atendente: *Luiz Modestino:* 
+Já tentou selecionar e arrastar o arquivo direto para o chat, sem clicar no botão de anexar?
+Cliente: *Central Comercial:* 
+eu não, mas outra pessoa do atendimento disse que sim
+e está lento
+Cliente: *Central Comercial:* 
+parece ser o mesmo erro
+Atendente: *Luiz Modestino:* 
+Vou tentar anexar um arquivo aqui nesse chat pela conta de vocês para testar
+Atendente: *Luiz Modestino:* 
+Sabrina, consegui enviar normalmente esses dois arquivos. Testei tanto arrastando quanto da forma que você estava  fazendo e os arquivos foram enviados sem problemas.
+
+A lentidão que você informou pode ser devido a internet.
+Cliente: *Central Comercial:* 
+não, eu pensei que fosse mas to do lado do moden para teste.
+Cliente: *Central Comercial:* 
+ai então não sei o que pode ser.
+mas se aparecer o numero do erro eu posso printar e te mando
+Atendente: *Luiz Modestino:* 
+Ok então. Assim fica mais fácil de analisamor o que ocorreu.
+Atendente: *Luiz Modestino:* 
+*analisarmos
+Cliente: *Central Comercial:* 
+tentei de novo e não vai
+Atendente: *Luiz Modestino:* 
+Apareceu o erro
+Atendente: *Luiz Modestino:* 
+?
+Cliente: *Central Comercial:* 
+deu erro mas nao apareceu o numero
+Atendente: Boa noite Setor!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: *Central Comercial:* 
+espera que vou tentar de novo
+Cliente: *Central Comercial:* 
+amanha eu mando então
+Atendente: *Luiz Modestino:* 
+Ok Sabrina. Amanhã analisamos o que pode esta ocorrendo. Até mais. Tenha uma boa noite.
+Cliente: *Central Comercial:* 
+igualmente, obrigada.
+Cliente: *Central de Eventos:* 
+Boa tarde.
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Setor! 
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso te ajudar?
+Cliente: *Central de Eventos:* 
+Lucas, o nosso chatbot não está funcionando com todos os chats.
+Atendente: *Lucas Andrade:* 
+Você pode me enviar o link dos chats que não está funcionando o chatbot?
+Atendente: Setor, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: *Central de Eventos:* 
+Tem que ser todos os chats?
+Atendente: *Lucas Andrade:* 
+Não, não. Pode ser alguns.
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#5f10954e21bb5945b50fb049https://app5.zap.guru/chats#5f10df6eaac0db0014ab07b3
+Cliente: *Central de Eventos:* 
+enviado errado
+Cliente: *Central de Eventos:* 
+Vou enviar um de cada vez
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#5f10df6eaac0db0014ab07b3
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#60329c107cbb50c5ef5c99a7
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#5f10954e21bb5945b50fb049
+Cliente: *Central de Eventos:* 
+O Reset não é automático?
+Atendente: *Lucas Andrade:* 
+Hm...Acabei de conferir. O reset está automático para 5 horas. Pode continuar assim?
+Cliente: *Central de Eventos:* 
+Sim.
+Atendente: *Lucas Andrade:* 
+Os atendentes conseguem responder o cliente em até 5 horas? Você acha que é suficiente?
+Cliente: *Central de Eventos:* 
+Desculpa
+Cliente: *Central de Eventos:* 
+vou te enviar um audio.
+Cliente: *Central de Eventos:* 
+Explicando direitinho os problemas.
+Atendente: *Lucas Andrade:* 
+Por via das dúvidas, acho melhor deixar também um *RESET manual* para o atendente executar quando finalizar o atendimento do cliente antes de 5 horas.
+Cliente: *Central de Eventos:* 
+O reset tem que ser sempre as 18:00
+Atendente: *Lucas Andrade:* 
+Em todos os departamentos?
+Cliente: *Central de Eventos:* 
+sim
+Atendente: *Lucas Andrade:* 
+Qual é o seu objetivo com o reset automático? Arquivar o chat como resolvido?
+Cliente: *Central de Eventos:* 
+Também.
+Atendente: *Lucas Andrade:* 
+- Já configurei a mensagem de fora do horário, estava sem ativar pois o máximo de execuções dentro do chat estava 1, tem que ficar acima de 100000.
+- Diminuí o tempo de mudança do status de resolvido para fechado em chats reiniciados de 30segundos para 0s, isso impede que o status do chat demore a alterar e o cliente não receba o chatbot. 
+- O chatbot ativa somente quando o cliente (novo ou reiniciado) entra em contato. No caso de você enviar uma mensagem, o chatbot não é ativado, pois não é necessário.
+Atendente: *Lucas Andrade:* 
+- Configurei o gatilho de status=aberto nos diálogos, dessa forma, o cliente só recebe o chatbot se o status estiver como "aberto", não será mais ativado quando estiver "em atendimento", ou seja, conversando com um atendente.
+Cliente: *Central de Eventos:* 
+Entendi.
+Atendente: *Lucas Andrade:* 
+Sobre o RESET da URA, no momento, está automático para os chats serem resetados dentro de 5 horás após o primeiro contato.
+Atendente: *Lucas Andrade:* 
+O *reset* da URA arquivar o chat do cliente como resolvido e fechado quando ele voltar a falar (enviar uma nova mensagem) receba o menu (chatbot) para digitar uma das opções.
+Atendente: *Lucas Andrade:* 
+O *máximo de execuções* é quantidade de vezes que o diálogo pode ser executado dentro do chat.
+Atendente: *Lucas Andrade:* 
+Sobre a *mensagem de fora do horário*, configurei para que ela seja ativada quando o cliente enviar uma mensagem a cada 10 minutos.
+Cliente: *Central de Eventos:* 
+Blz
+Cliente: *Central de Eventos:* 
+No caso desse chat https://app5.zap.guru/chats#5f10954e21bb5945b50fb049
+Cliente: *Central de Eventos:* 
+Como faço para executar o rest manualmente?
+Atendente: *Lucas Andrade:* 
+O reset automático da URA que está na sua conta funciona dessa forma: o cliente fala às 8h da manhã, dentro de 5 horas, às 13h o chat será resetado; mas  é só uma configuração interna para que quando vocês coloquem o status como resolvido ou fechado e o chat seja arquivado, caso o cliente volte a falar, ele receba novamente o chatbot com as opções.
+Cliente: *Central de Eventos:* 
+Entendi
+Cliente: *Central de Eventos:* 
+Caso fica com o status de aguardando.
+Cliente: *Central de Eventos:* 
+Mas ai ele vai executar enviando a mensagem ou será enviando assim que o cliente iniciar a próxima conversa?
+Atendente: *Lucas Andrade:* 
+O chatbot será ativado quando o chat do cliente ficar arquivado como resolvido ou fechado e depois o próprio cliente iniciar a próxima conversa.
+Cliente: *Central de Eventos:* 
+Nessa situação de aguardando o reset automático irá funcionar depois das 5  horas?
+Cliente: *Central de Eventos:* 
+Acabei de fazer um teste porém ao executar a mensagem foi enviada.
+Atendente: *Lucas Andrade:* 
+O reset automático vai acontecer em qualquer status que o chat esteja.  Mas não o status do chat não será alterado, é apenas uma configuração interna.
+Atendente: *Lucas Andrade:* 
+Pode me enviar o link do chat?
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#5f10954e21bb5945b50fb049
+Atendente: *Lucas Andrade:* 
+Desculpa a demora.
+Atendente: *Lucas Andrade:* 
+Oi, desculpa a demora.
+Cliente: *Central de Eventos:* 
+Tranquilo.
+Atendente: *Lucas Andrade:* 
+Então você coloca o chat com status aguardando durante o dia e coloco o reset automático de todos os chats às 17h59. Esse reset muda o status do chat para resolvido ou fechado e é arquivado. Pode ser assim?
+Cliente: *Central de Eventos:* 
+Pode sim.
+Cliente: *Central de Eventos:* 
+Melhor
+Atendente: *Lucas Andrade:* 
+Melhor, vou fazer um diálogo *Aguardando* pra você executar dentro do chat
+Atendente: *Lucas Andrade:* 
+Não, não dá certo dessa forma
+Atendente: *Lucas Andrade:* 
+Porque quando o status está aguardando e o cliente responde o status continua dessa forma
+Atendente: *Lucas Andrade:* 
+Você quer realmente que todos os chats sejam arquivados ao final do dia às 18h?
+Cliente: *Central de Eventos:* 
+Não.
+Atendente: *Lucas Andrade:* 
+Sim, pode ser somente resetado ou arquivado também.
+Atendente: *Lucas Andrade:* 
+Posso configurar só pra resetar?
+Atendente: *Lucas Andrade:* 
+Você está aí?
+Cliente: *Central de Eventos:* 
+Estou
+Cliente: *Central de Eventos:* 
+Desculpa
+Cliente: *Central de Eventos:* 
+Prefiro que seja resetado. Deixa que arquivamos manualmente.
+Cliente: *Central de Eventos:* 
+Sim
+Atendente: *Lucas Andrade:* 
+Alterações concluídas ✅
+Atendente: *Lucas Andrade:* 
+Ajudo em algo mais?
+Cliente: *Central de Eventos:* 
+Por enquanto é só.
+Cliente: *Central de Eventos:* 
+Muito obrigado.
+Atendente: *Lucas Andrade:* 
+Estou finalizando seu atendimento.
+Qualquer dúvida, entre em contato! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/606231daecec98869e54bbb5
+Cliente: Olá
+Cliente: Bom dia
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Setor. Bom dia! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Estamos com problemas  em nossa central
+Cliente: Nosso chat não está enviando mensagem
+Cliente: Estou escrevendo pelo aparelho
+Atendente: *Carlos:* 
+Um momento
+Atendente: *Carlos:* 
+Pelo visto, está tendo problema de conexão no aparelho. Ou a internet está caindo ou está oscilando
+Atendente: *Carlos:* 
+Liga e desliga o modo avião por favor
+Cliente: Ok
+Cliente: Feito
+Atendente: *Carlos:* 
+Certo. Já está normalizando
+Cliente: *Central de Eventos:* 
+Ok.
+Atendente: *Carlos:* 
+Tudo certo. Consigo ajudar me algo mais?
+Atendente: *Carlos:* 
+Setor, vou encerrar nosso atendimento por inatividade, mas qualquer coisa pode nos chamar por aqui. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6081903becec98869e5cdc38
+Cliente: *Central de Atendimento:* 
+Olá
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hildesson Ramos:* 
+Olá Setor, Bom dia. Meu nome é *Hildesson*, sou do time de suporte do *ChatGuru*. 😊
+
+Me fala como posso te ajudar?
+Cliente: *Central de Atendimento:* 
+Olá Hildesson, tudo bem?
+Cliente: *Central de Atendimento:* 
+Estamos com um pequeno problema em nosso chatbot
+Cliente: *Central de Atendimento:* 
+não está aparecendo para alguns associados, mesmo com o chatbot ativado.
+Atendente: *Hildesson Ramos:* 
+Entendi, me informa o link de um chat onde o chatbot não foi ativado.
+Cliente: *Central de Atendimento:* 
+so um momento
+Cliente: *Central de Atendimento:* 
+https://app5.zap.guru/chats#5f9ab7f2a884733ff3a94551
+Atendente: *Hildesson Ramos:* 
+um momento que vou analisar.
+Cliente: *Central de Atendimento:* 
+Ok
+Cliente: *Central de Atendimento:* 
+teve outros, mas nao me recordo no momento.
+Cliente: *Central de Atendimento:* 
+https://app5.zap.guru/chats#60a6d4a25abb558f821cde18
+Cliente: *Central de Atendimento:* 
+esse acabou de ocorrer
+Atendente: *Hildesson Ramos:* 
+O que ocorre é que esses chats estão sendo encerrado manual, isso faz com que o contexto deles fique sempre de URA inicial impedindo que o bot execute novamente a URA mesmo com o status aberto, para resolver isso vou criar um dialogo que sempre que for necessário encerrar o atendimento do chat o dialogo deverá ser executado manualmente isso fará com que caso o chat retorne ele ative novamente a URA inicial.
+Cliente: *Central de Atendimento:* 
+So isso mesmo.
+Cliente: *Central de Atendimento:* 
+Muito obrigada
+Atendente: *Hildesson Ramos:* 
+Por nada, qualquer dificuldade é só chamar! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60c76385ecec98869e71bc1b
+Cliente: *Central de Eventos:* 
+Bom dia.
+Atendente: Setor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Central de Eventos:* 
+Pode me ajudar? Não estou conseguindo ouvir os áudios enviados pelos associados.
+Atendente: *Hugo:* 
+Olá Setor, Bom dia. Tudo bem? Meu nome é Hugo e eu sou do suporte do ChatGuru. Me envia o link do chat e o print do erro por favor.
+Cliente: *Central de Eventos:* 
+https://app5.zap.guru/chats#60f95220dfc180dafb41c892
+Atendente: *Hugo:* 
+Qual navegador e qual Sistema Operacional você usa?
+Cliente: *Central de Eventos:* 
+Só um instante.
+Cliente: *Central de Eventos:* 
+Google Chrome, Windows 10.
+Cliente: *Central de Eventos:* 
+Não estou conseguindo ouvir áudio das conversar.
+Atendente: *Hugo:* 
+Você pode tentar outro navegador?
+Cliente: *Central de Eventos:* 
+Estou conseguindo ouvir o áudio de pelo Microsoft Edge
+Cliente: *Central de Eventos:* 
+Mas vou ter que ficar usando este navegador agora?
+Atendente: *Hugo:* 
+Não. O sistema da gente é compatível com o Chrome também. Deve ser alguma configuração no seu navegador que está causando o erro. Talvez ele esteja desatualizado.
+Atendente: *Hugo:* 
+Posso te ajudar com algo mais?
+Cliente: *Central de Eventos:* 
+Certo. Estarei olhando sobre isso e volto a entrar em contato.
+Cliente: *Central de Eventos:* 
+Por enquanto só.
+Cliente: *Central de Eventos:* 
+Obrigado.
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar.
+Bom dia e um ótimo final de semana! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60fad527f390b1b2161e0962
+Cliente: *Central de Atendimento:* 
+Boa tarde
+Atendente: Setor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gustavo Soares:* 
+Olá Setor! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Como posso te ajudar? 😁
+Cliente: *Central de Atendimento:* 
+Olá Gustavo, eu sou a Amanda
+Cliente: *Central de Atendimento:* 
+Gostaria de uma informação por gentileza
+Cliente: *Central de Atendimento:* 
+Gostaria de saber se eu excluir um usuario daqui, tudo que ele encaminhou via chat será excluido tambem?
+Atendente: *Gustavo Soares:* 
+Não, a única mudança será que os chats dele ficará sem delegação
+Cliente: *Central de Atendimento:* 
+então o que foi encaminhado antes não será apagado/
+Cliente: *Central de Atendimento:* 
+Certo?
+Atendente: *Gustavo Soares:* 
+As mensagens que ele enviou permanece no chat normalmente
+Os chats que tem somente ele como responsável fica sem delegação
+Atendente: *Gustavo Soares:* 
+O que foi encaminhado se refere as mensagens que ele enviou correto?
+Cliente: *Central de Atendimento:* 
+Entendi. 
+as observações das anotações, mensagens não seram apagadas. 
+So ficaram sem nome
+Cliente: *Central de Atendimento:* 
+ou seja nao perderei nenhuma informação das mensagens encaminhadas ou anotações
+Cliente: *Central de Atendimento:* 
+sim
+Atendente: *Gustavo Soares:* 
+Isso exatamente, sobre as anotações eu vou confirmar aqui ok?
+Atendente: *Gustavo Soares:* 
+Confirmado, a anotação fica e o nome do usuário que anotou também
+Atendente: *Gustavo Soares:* 
+Ah e peço perdão pela demora ao responder, eu fui para o intervalo e depois para um reunião e como o fluxo de atendimento estava alto ninguém conseguiu te responder =/
+Mas fico feliz em ajudar =D
+
+Fora isso consigo te ajudar em algo mais?
+Cliente: *Central de Atendimento:* 
+So isso mesmo!
+Cliente: *Central de Atendimento:* 
+Vou encaminhar para o setor responsavel!
+Cliente: *Central de Atendimento:* 
+Obrigada
+Cliente: *Central de Atendimento:* 
+Otimo final de tarde.
+Atendente: *Gustavo Soares:* 
+Imagina, se precisar de algo mais é só nos chamar 😉
+Obrigado e desejo a vocês também um ótimo fim de tarde! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Setor, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/61425d68dd3292a7a7101f8b
+

@@ -1,0 +1,324 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Cliente: Boa tarde
+Atendente: SNeP Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou precisando de ajuda para visualizar as mensagens enviadas do usuário que eu criei
+Atendente: Boa tarde SNeP! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Verifique as permissões do usuário comum.
+Cliente: Boa tarde Luiz
+Cliente: Posso te mandando foto
+Atendente: O administrativo por padrão tem acesso a todos os chats.
+Cliente: E você vai me auxiliando ?
+Atendente: Mande a foto das permissões do usuário comum
+Cliente: Nessas permissões preciso mudar algo?
+Cliente: Preciso alterar alguma das permissões
+Atendente: Se você quiser que o usuário com perfil normal tenha acesso a todos os chats você deve marcar essa opção "Ver todos os chats"
+Cliente: Eu preciso que o usuário comum veja as mensagens dentro da conversa
+Cliente: Quando meu usuário comum envia msg ela é enviada para o contato mas ela não fica ali na conversa
+Cliente: E no meu usuário administrativo fica
+Cliente: Isso que eu preciso ajustar
+Atendente: Entendi
+Atendente: Vou verificar
+Cliente: Obrigada
+Cliente: Aguardo
+Atendente: Vou logar com a conta desse usuário aqui
+Atendente: tem algum chat onde eu possa testar
+Atendente: ?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: Caso o problema ainda persista, por favor retorne o contato.
+Cliente: Ok
+Atendente: Boa noite SNeP!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Obrigada pela atenção
+Cliente: Bom dia
+Atendente: SNeP Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia SNeP! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: a função de funil não esta disponivel
+Cliente: poderia verificar por que
+Atendente: Só um momento.
+Atendente: O módulo funil não foi contratado ainda. Por isso não aparece disponível.
+Caso queira contratar, o custo é de R$25 mensais.
+Cliente: entendi, vou verificar com a administração e qualquer coisa entro em contato
+Cliente: obrigada pela atenção
+Atendente: Estamos a disposição. É só chamar. :)
+Atendente: *Atendimento encerrado*
+Cliente: Bom dia
+Atendente: SNeP Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Eu consigo salvar contato diretamente pelo zapguru?
+Cliente: E para iniciar uma conversa pelo zapguru com um contato que ainda não tem chat, como faço?
+Atendente: É necessário a contratação do módulo de Adicionar chats
+Atendente: Sua conta esta apenas com o módulo de chatbot contratado.
+Atendente: Módulo add chats: R$ 70,00 mensais
+Atendente: Deseja contrata-lo?
+Atendente: Ainda está ai?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá SNeP, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Bom dia SNeP 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Bom dia
+Cliente: estou com uma duvida
+Cliente: por que as msg enviadas do celular nao ficam salvas quando abro a conversa pelo zapguru
+Cliente: ?
+Cliente: Bom dia
+Atendente: Bom dia SNeP! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Após a sincronização, todos os chats devem ser respondidos pela plataforma. Caso você responda alguma mensagem pelo aparelho deverá abrir o chat e utilizar o recurso de "Recarregar mensagens recentes"
+Cliente: ok, obrigada
+Cliente: boa tarde
+Cliente: estava com um problema no meu acesso de usuario comum
+Cliente: nao aparece as mensagens anviadas ou recebidas por esse acesso
+Cliente: boa tarde
+Atendente: Olá, Luiz. Tudo bem? Sou o Lucas, suporte aqui no ZapGuru. Como posso ajudá-lo? 😀
+Cliente: estou com um problema
+Cliente: com meu usuario comum
+Cliente: nao esta ficando as mesnagens salvas no chat
+Cliente: nem as enviadas e nem as recebidas
+Atendente: Ok. Um minuto, vou verificar suas informações.
+Atendente: Luiz, deixe seu celular desbloqueado com a tela aberta no app do Whatsapp.
+Cliente: Ok
+Cliente: Boa tarte
+Cliente: Como faço para agendar uma msg para uma pessoa que ainda não tem chat?
+Atendente: É um contato que ainda não está salvo?
+Cliente: isso
+Cliente: se eu salvar no aparelho consigo iniciar uma conversa pelo zapguru?
+Atendente: Você inicia uma conversa no aparelho
+Atendente: Após conectar com o ZapGuru ele vai trazer esse chat
+Cliente: ok, e se eu apenas quiser agendar uma msg para alguem daqui um mes e ainda não tenho chat
+Cliente: eu consigo? ou apenas abrindo o chat?
+Atendente: Primeiro o chat já deve esta adicionado aqui no ZapGuru
+Cliente: ok
+Cliente: entendi, obrigada
+Atendente: Certo, vou finalizar por aqui.
+Atendente: Precisando é só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Seja bem vindo a Gramado Clínica de Olhos
+
+Esta é uma mensagem automática.
+
+Nosso horário de atendimento é de Segunda à Sexta feira, das 8hs às 12hs 13:30 às 18hs.
+Atendente: Boa noite SNeP!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá SNeP, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Boa tarde
+Atendente: Olá! Sou o Lucas, seu *suporte* ZapGuru! 
+
+Como posso ajudá-lo?
+Cliente: Gostaria de confirmar se tem como eu ver a quantidade de mensagens que foram delegadas para meu usuario comum?
+Cliente: -
+Cliente: tem acontecido de toda vez que eu faço login em um computador diferente não carrega fica dando aquele erro de carregar as mensagens e mesmo eu indo recarregar as mensagens antigas não está adiantando
+Cliente: -
+Cliente: quero confirmar se eu consigo fazer tudo o que preciso contratando o módulo de Adicionar chats
+Cliente: preciso conseguir adicionar contatos e iniciar conversas direto pelo zapguru
+Cliente: preciso conseguir agendar uma msg para um contato apenas salvo sem conversa aberta
+Cliente: é possivel com a contratação desse modulo?
+Atendente: Com quem eu falo?
+Atendente: Sim.
+Atendente: *Módulo Adicionar Chats*
+Permite que os operadores possam adicionar contatos através do ZapGuru de forma rápida.
+👉 https://youtu.be/Bvr1cZ9RwwE
+Atendente: Enviei o link com informações sobre o *Add Chat*. Caso você queira contratar, é só entrar em contato! :)
+Cliente: Suelen
+Cliente: e sobre o valor
+Cliente: poderia fazer alguma diferença?
+Cliente: pois contratamos achando que daria para fazer tudo isso por na apresentação que vimos mostrava
+Atendente: O módulo é apenas R$ 70,00.
+Atendente: Você quer contratar?
+Cliente: você nao consegue me fazer algum desconto?
+Atendente: Vou transferir você para o financeiro. Um momento!
+Cliente: ok
+Cliente: obrigada
+Cliente: E tem como eu ver a quantidade de mensagens que foram delegadas para meu usuario comum?
+Atendente: Você pode me explicar melhor por favor.
+Cliente: no painel inicial tem alguns graficos
+Cliente: e tem um com a quantidade de mensagens
+Cliente: gostaria de saber se tem algum que me indiquei quantas mensagens foram delegadas para meu usuario comum
+Atendente: Nao tem mensagens delegadas pra usuário, voce esta se referindo ao chats?
+Cliente: Seja bem vindo a Gramado Clínica de Olhos
+
+Esta é uma mensagem automática.
+
+Nosso horário de atendimento é de Segunda à Sexta feira, das 8hs às 12hs 13:30 às 18hs.
+Atendente: Boa noite SNeP!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: bom dia
+Cliente: isso
+Atendente: Bom dia!
+Cliente: podemos verificar sobre a contratação do modulo
+Cliente: estava aguardando me passarem para o financeiro
+Atendente: Tudo bem, podemos fazer a contratação do modulo?
+Cliente: sim gostaria de ver referente ao valor
+Cliente: pois contratamos o zap guru por ver todas as funcionalidades
+Atendente: O valor desse modulo é de R$70,00
+Cliente: porem ninguem nos informou quando passou os orçamentos que precisava fazer mais contratações para utilizar de tudo que se mostra na apresentação
+Cliente: teria alguma possibilidade de negociarmos esse valor?
+Cliente: no painel principal ficam varios registro, tem algum que eu consiga ver quantos foram feito por usuario?
+Atendente: Consigo 10%
+Atendente: Depois que terminarmos aqui, te encaminho para o suporte tudo bem? Assim eles podem te ajudar com mais precisão.
+Cliente: otimo
+Cliente: podemos contratar?
+Cliente: ok obrigada
+Atendente: Podemos sim, um momento.
+Atendente: SNeP, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Cliente: ok
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: então o valor mensal vai ficar de R$63,00 com os 10%
+Atendente: isso
+Cliente: ok
+Cliente: obrigada assim que realizar o pagamento ja lhe envio
+Atendente: SNeP, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: preciso fazer um relatorio, ou mapa dos chat que sao respondidos pelo meu usuario comun
+Cliente: é possivel
+Cliente: w
+Atendente: vou te encaminhar para o suporte ok?
+Atendente: SNeP, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: ok
+Cliente: obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: preciso de um suporte
+Cliente: no painel inicial tem graficos com total de mensagens, chats e eu preciso ver no grafico o total de chats que meu usuario comum esta respondendo
+Cliente: é possível?
+Atendente: Olá SNeP, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: ok
+Cliente: obrigada
+Atendente: Atualmente no menu Relatórios, tem a opções gráficos que te mostra um pouco mais detalhado, mas não possui total de chats por usuário.
+Atendente: apenas total de mensagens enviadas por cada usuário. Cso queira
+Atendente: caso queira, pode fazer um relatório por usuário do total de chats por determinado período.
+Cliente: ok
+Cliente: obrigada
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: segue o comprovante de pagamento
+Atendente: Bom dia, SNeP! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Liberado!
+Atendente: Acesse nossa wiki para saber como funciona!
+https://wiki.zap.guru/
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Cliente: quando eu adiciono um novo contato esta ficando pendente
+Cliente: sabe me dizer por que
+Cliente: eu preciso fazer algo para liberar
+Atendente: Bom dia SNeP! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Devemos realizar a instalação do módulo Adicionar Chats no seu aparelho
+Atendente: Para que os contatos sejam adicionados
+Cliente: como faco isso?
+Atendente: Eu realizo essa instalação remotamente no seu aparelho
+Atendente: Qual o modelo dele
+Atendente: ?
+Atendente: ou a marca
+Cliente: não sei te passar o modelo somente a marca LG
+Cliente: no momento nao estou com o aparelho vou pedir para responsavel
+Atendente: Ok.
+Cliente: pode aguardar um momento?
+Atendente: Sim
+Cliente: oi
+Cliente: a pessoa com o aparelho vai dar sequencia
+Cliente: se puder passar as orientações
+Atendente: perfeito querido :D
+Atendente: primeiro de tudo
+instale o QuickSupport
+Atendente: após isso um apk chamado Automate
+Cliente: Onde acho isso??
+Atendente: na loja de aplicativos
+Atendente: play Store
+Atendente: antes uma pergunta, você usa o Whats Business ou o Normal?
+Cliente: Business
+Cliente: Acho que o celular n suporta esses aplicativos
+Atendente: -'ta perfeito, só instalar
+Atendente: o que aparece quando clica em instalar?
+Cliente: Fica girando e não instala
+Cliente: Nenhum dos dois
+Cliente: Não tem espaço
+Atendente: Cara, acho melhor você fazer o seguinte
+Atendente: pega outro aparelho, se nem colocou nada e ja está assim, na hora que colcar não vai funcionar
+Atendente: vou lhe mandar as especificações de aparelho
+Atendente: *Recomendação Geral*
+- Smartphone com Android acima do 8
+- Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+- No mínimo 16gb de memória de armazenamento em disco
+- Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+- *Tela desbloqueada e ligada* com o WhatsApp *aberto*
+- Para contas com alto volume usar aparelho com bom poder de processamento e memória.
+Cliente: Não temos outro aparelho na clínica
+Cliente: Isso tem q ser visto com o financeiro
+Atendente: entendo, bom repasse essa informação a eles, se não seguir dessa maneira, não vai funcionar direito =/
+dai vocês terão transtornos
+Cliente: Ok
+Atendente: SNeP, por hora finalizarei o Chamado.
+Após resolver esse problema entre em contato conosco
+mas qualquer  outra coisa também fale conosco :D
+Um Abraço e que tenha um(a) Excelente Bom dia :D
+Do Suporte Josué :D
+Cliente: Bom dia! Gostaria de cancelar nosso contrato.
+Aguardo
+Atendente: Olá SNeP, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*
+Atendente: Olá SNeP Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Atendente: Qual motivo senhor? =/
+Atendente: Esta aí?
+

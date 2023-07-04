@@ -1,0 +1,587 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Cliente: opa, bom dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Rafael! Sou o Lucas, suporte do ZapGuru. Como posso ajudá-lo?
+Cliente: estou com problema em 1 de meus numeros o 88907777
+Cliente: ele não conecta mas
+Cliente: ja reiniciei varias vezes e ja fiz a leitura do qrcode e nada
+Cliente: e o aparelho está com internet
+Atendente: Você deixa o aparelho com a tela desbloqueada no app do whatsapp?
+Cliente: sim
+Atendente:  Vou verificar a causa do problema. Um minuto!
+Atendente: Leia novamente agora e aguarde.
+Cliente: deu certo
+Cliente: muito obrigado
+Atendente: Qualquer coisa, é só falar com a gente. Estamos aqui! 😉
+Cliente: Bom Dia
+Atendente: Bom dia, Rafael! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Te ajudo em algo?
+Cliente: Fala Caio, por favor, destribuir todos os numeros que estão em *Ninguem Delegados* para os usuarios do grupo Atendimento (IVENS, LUCAS, CENTRAL05 e CENTRAL06) e depois colocar como RESOLVIDO todos os numeros que estão em atendimento por mais de 3 dias
+Cliente: pode ser?
+Atendente: Rafael, você pode fazer isso seguindo o tutorial nesse vídeo: https://drive.google.com/file/d/1DhxyPsHgAan_Kp5N17qMZXEWn9gpMZqP/view?usp=sharing
+Atendente: Caso o link não abra, me envie seu e-mail.
+Cliente: eu sempre entro em contato ai e vocês fazem rapido ai o processo, pq se eu for fazer aqui vai demorar 1 semana pra concluir, pq é muito lento
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Rafael! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Você cria as campanhas e retorna os contato. Que nós agilizamos o processo.
+Atendente: Rafael, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou com um dos números de telefone que não está conectando de geito nenhum
+Cliente: O 30467770
+Atendente: Olá Rafael, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Atendente: Aparece alguma mensagem de erro ou algo do tipo?]
+Cliente: Não, já li o qrcode várias vezes, conectou uma vez e caio a rede bem rapido
+Cliente: E o telefone tá com internet
+Atendente: Entendi, já tentou reiniciar o aparelho?
+Atendente: Só um momento
+Atendente: Poderia me mandar um print de como está?
+Atendente: Quando você seleciona a opção de capturar QR code
+Atendente: O que acontece?
+Atendente: Retorna para esse estado?
+Cliente: Eu leio o QRcode, e ele fica tentando conectar e não conecta
+Atendente: Só um momento que irei verificar e já te dou uma resposta, está bem?
+Atendente: Poderia tentar novamente?
+Atendente: E me confirma se conseguiu, se apareceu a mesma coisa ou algo diferente
+Cliente: Tava em reunião agora, 2 mim eu verifico
+Atendente: Tudo bem
+Cliente: Já lhe os 2 números e agora não conecta nenhum
+Atendente: Clicou no botão, o QR code apareceu, você consegue ler o QR e ele volta pra essa tela. é isso?
+Cliente: Conectou 1 agora
+Atendente: Ótimo, vamos aguardar o outro
+Atendente: Se ele conseguir conectar, me avisa por gentileza.
+Cliente: conectou
+Cliente: muito obrigado
+Atendente: Rafael, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom Dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Rafael! Tudo bem?
+Atendente: Eu sou o Lucas.
+Atendente: Como posso te ajudar?
+Cliente: antigamente eu tinha 16 usuarios no Guru, ai exclui, e fiquei somente com 7, os contatos que eram desses usuarios que excluir foram ficaram aonde??? pq eu reativei um usuario agora e apareceu varias menssagens não lida
+Cliente: por isso q eu tava recebendo varias reclamações de clientes dizendo que ninguem fala, mas não estava aparecendo aqui no guru
+Cliente: o que foi que aconteceu?
+Cliente: 160 mensagens não lidas, só que esse usurio foi excluido do sistema, como que ele tava recebendo mensagem
+Cliente: é o usuario ( central10r7@gmail.com )
+Atendente: Rafael, estou verificando. Um momento!
+Atendente: Ou foi o que você "reativou" agora?
+Cliente: eu reativei agora, ai veio com 160 mensagens não lida, é como se ele ainda tivesse recebendo mensagem mesmo excluido
+Atendente: Então você tem 6 usuários. É isso?
+Atendente: Com o central-10 fica 7, mas você desativou ele
+Cliente: eu tinha 16, ai cancelei o contrato pra 7, so que só tinha 6 ativos, ai crei essa outro agora e veio com essa ruma de cliente não atendido
+Cliente: concerteza se eu ativar os outros usuarios que tinham sido excluido dos 16 que eu tinha no periodo de pandemia, vai ter varios clientes la tbm
+Cliente: algum erro do sistema
+Atendente: Um momento! Estou verificando.
+Atendente: Você pode me passar a relação dos usuários que foram desativados?
+Cliente: central08r7, central09, r7central10r7, central11r7, central12r7, central13r7, central14r7, central15r7, central16r7, central17r7
+Cliente: todos gmail que ainda estão desativados
+Atendente: Rafael, um momento, estou confirmando algumas informações.
+Cliente: ok
+Cliente: conseguiu ver algo??
+Atendente: Rafael, não foi aberta solicitação para desativação desses usuários.
+Cliente: como não se foi vocês que cancelaram meu contrato que eu tinha de 16 usuarios pra 7
+Atendente: Peço que aguarde um momento.
+Cliente: pois então faz o seguinte, faz uma geral ai na conta e pega todos os contatos que estavam dos usuarios antigos e coloca pra NINGUEM DELEGADOS, pq ai eu vou ter um controle sobre eles, pq do geito q ta agora não vejo nada quando um cliente fala, por isso q agente tava recebendo reclamação
+Atendente: Rafael, vou transferir você ao financeiro para dar continuidade com sua solicitação. Um momento!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Num entendi pq transferir  pro financeiro
+Atendente: Rafael, boa tarde! Tudo bem?
+Cliente: boa tarde
+Atendente: Você foi transferido pra cá porque você quer cancelar os usuarios certo?
+Atendente: Pra isso eu preciso tirar do seu contrato pra você não continuar pagando por eles
+Cliente: não, já foi cancelado faz tempo, num sei pq o cara transferiu pra vc não
+Cliente: me transfere pro mesmo atendende que estava falando comigo do suporte por favor
+Cliente: pq eu tava resolvendo era um problema com ele
+Atendente: Aqui eu também excluo do sistema
+Atendente: Você já apagou eles?
+Cliente: os 7 usuarios que eu tenho não é pra excluir, so que antes da pandemia eu tinha 16 usuarios, eles já foram excluidos e até dirado do sistema
+Cliente: mas so que ainda tem mensagens chegando pra eles
+Cliente: como se no guru ainda não foi feito o cancelamento deles
+Atendente: Entendi, acredito então que não foi excluído aqui.
+Atendente: Você tem 7 usuários ativos certo?
+Cliente: sim
+Cliente: os outros q foi excluido queria desativar, pq tem varios clientes falando por eles e eu num recebo as mensagens
+Cliente: ai os clientes reclam q ninguem ta respondendo
+Atendente: Sim, vou verificar aqui, peço desculpas pelo ocorrido.
+Atendente: Um momento.
+Atendente: Rafael, vou te passar para o Lucas de novo.
+Atendente: Oi, Rafael!
+Cliente: ok
+Atendente: Então, você tem quase 10000 chats não delegados. Você quer encaminhar eles para o departamento ou destinar para outro status?
+Atendente: Esses 10000 chats já estão como "não delegado", pois quando os usuários são desativados, os chats que caem ficam sem delegação.
+Atendente: Podemos colocar os chats de até Julho/2020 como fechado
+Atendente: E os de agosto/20 e setembro/20 delegados para o departamento de Atendimento.
+Atendente: Ok
+Atendente: Podemos colocar os chats de agosto e setembro como "em aberto" ou como "aguardando"
+Atendente: Pra diferenciar dos chats que tão sendo atendidos agora
+Atendente: Seria melhor colocar com o status "aguardando"
+Atendente: Ok, Rafael!
+Atendente: Rafael, vou Executar essa campanha as 16 Horas ok?
+Cliente: Ok
+Atendente: Então, esses quase 10000 chats que mandei no print acima já estão como "não delegados".
+Atendente: Vamos lá, Rafael! Posso colocar todos os chats não delegados até agosto de 2020 com status fechado e arquivado. Confirma?
+Cliente: Sim
+Atendente: Ok! :)
+Atendente: Caso eles voltem a falar, irão cair no rodízio de atendimento.
+Cliente: 🤝
+Atendente: E um rodízio de atendimento funcionando.
+Atendente: Você quer que esse chatbot seja ativado para *todos* os contatos (novo chat, chats antigos - arquivados como resolvido e fechado) ou não?
+Atendente: Você quer que os chats arquivados (resolvido ou fechado) sejam somente delegados para o rodízio de atendimento?
+Cliente: Sim
+Atendente: Ok! Vou ativar o chatbot para enviar a URA e delegar os chats para os 4 atendentes que você tem cadastrado.
+Atendente: Chatbot e rodízio de atendimento não funcionam juntos, por isso, vou desativar o rodízio e deixar somente o chatbot ligado.
+Cliente: Ok
+Cliente: 🤝
+Cliente: Bom Dia
+Atendente: Bom dia Rafael!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: deu certo fazer a distribuição dos chats???
+Atendente: Bom dia, Rafael! Tudo bem?
+Atendente: Sim, a campanha foi finalizada e os chats foram distribuídos.
+Cliente: Bom Dia
+Atendente: Bom dia Rafael!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: então não tenho mas nenhum cliente sem está delegado correto
+Cliente: todos os clientes que entrarem em contato agora vai cair pra algum usuario
+Atendente: Isso, correto!
+Atendente: Ajudo você em algo mais?
+Cliente: obrigado
+Atendente: Por nada. Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Rafael, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*!
+Como posso te ajudar?
+Atendente: Vc consegue liberar essa possibilidade para ele especificamente
+Cliente: como?
+Cliente: qual a opção
+Atendente: vai na aba usuários, entra no usuarios que o Sr. quer fazer essa liberação , dentro das opções tem a liberação de ver chats que não esta delegado
+Cliente: maquei essa opção para o usuario CENTRAL10R7 e ainda não mostra
+Atendente: vou dar um olhada, só um momento!
+Atendente: ele não consegue ver odos os Chats?
+Cliente: Não mostra essa tela
+Atendente: entendi, só um momento
+Atendente: nesse caso, esse dashboard o usuário tem que ser um administrador
+Cliente: ah ta
+Cliente: obrigado então
+Atendente: mais alguma dúvida ?
+Cliente: sóisso mesmo
+Atendente: Obrigado
+Ótimo dia.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: boa tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: estou com problema no guro
+Atendente: Olá Rafael, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: vou te mandar aqui a reclamação que minha vendedora mandou
+Cliente: * É pq tá assim, Lis começa um Atendimento aí do nada transfere pros outros ou vice e versa os outros tão atendendo e do nada vai transferindo a msg entendeu?
+Cliente: é como se alguem falasse com o cliente, oeo guro tbm transferisse pra outro usuario
+Atendente: Rafael, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: https://app3.zap.guru/chats/5f50d758f0d1d4359e80ccbd
+Cliente: esse outro tbm, foi atendido por um e depois foi passado pra outro usuario automaticamente
+Cliente: https://app3.zap.guru/chats/5f51144ef0d1d4359e80d552
+Atendente: Só um momento que irei verificar e já te dou uma resposta, tudo bem?
+Cliente: ok
+Atendente: Rafael, observando as permissões de cada usuário, a CENTRAL-10 é a única que tem a permissão de ver todos os chats (os que forem direcionados para a Central10 quanto paras os demais).
+Ou seja, irá sempre cair em duplicidade para a CENTRAL-10.
+Cliente: Eita, pois desativa por favor
+Atendente: Sem problemas. Só um momento.
+Atendente: Pronto. Permissão removida.
+Atendente: Posso te ajudar com algo mais?
+Cliente: Muito obrigado
+Cliente: Pode encerrar
+Atendente: Por nada!
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Os contatos ainda continuam duplicando
+Atendente: Boa tarde Rafael! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Está duplicado para quais usuários?
+Atendente: Ok. Vou verificar. Me envia um link de algum chat desse que está duplicado
+Cliente: https://app3.zap.guru/chats/5f50d758f0d1d4359e80ccbd
+Cliente: https://app3.zap.guru/chats/5f50d758f0d1d4359e80ccbd
+Cliente: https://app3.zap.guru/chats/5f51144ef0d1d4359e80d552
+Cliente: Pera aí que eu buguei agora
+Cliente: https://app3.zap.guru/chats/5f50d758f0d1d4359e80ccbd
+Cliente: https://app3.zap.guru/chats/5f51144ef0d1d4359e80d552
+Atendente: To vendo aqui já
+Atendente: Quem mais ta vendo esses chats, fora o usuário CENTRAL - 05?
+Cliente: Central-10
+Cliente: Pois pode desmarcar essa opção por favor
+Atendente: Em todos os usuários com perfil normal?
+Cliente: Sim
+Atendente: Feito. Nas próximas alterações, você mesmo pode realizar. Bastar desmarcar/marcar as permissões que achar necessário dentro do perfil de cada usuário ou departamento.
+Cliente: 🤝🤝
+Atendente: Rafael, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar
+Cliente: Obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom Dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Rafael! Tudo bem?
+Como podemos ajudar?
+Atendente: Legal, Rafael, Vamos lá.
+Inicialmente o próprio whatsapp não se posiciona como ferramenta de marketing em massa, o que torna o envio para 200, 500, 1000 pessoal em um período curto, algo não viável. Nós temos uma ferramenta de *campanha* que se localiza ao lado esquerdo da tela, *recomendamos fortemente* usa ela apenas para contatos ativo em sua base e com poucos de cada vez.
+Atendente: Para o seu número de contatos o melhor seria realizar o envio de emails ou um grupo com os contatos. Uma outra opção é a lista de transmissão, que é criada no próprio celular
+Atendente: Entendo. Mesmo assim como serão muitas mensagens o fluxo pode ser taxado como spam. A campanha pode enviar aproximadamente uma mensagem a cada 1-5 minutos
+Cliente: eu teria que adicionar um outro numero virgem??? pra não correr o risco de bloqueio? na campanha ele envia uma menssagem a cada 2 minutos é isso
+Atendente: Então, o número pode acabar sendo banido no meio da campanha, sem nem finalizar. Mesmo adicionando outro número, ainda há o risco
+Atendente: Isso é possível sim, Rafael.
+Para isso você teria que cadastrar todos os contatos no aparelho secundário e enviar a campanha por lá, para caso haja algum banimento, você não perde o número principal
+Atendente: Magina, Rafael, estamos aqui pra isso
+Atendente: A contratação de qualquer módulo ou número novo é feito com a nossa área financeira, consigo te transferir a ela. Mas antes o ideal é você saber exatamente qual será o uso
+Atendente: O cadastro e envio da campanha é feito pela própria plataforma
+Cliente: era isso que queria tirar mais duvidas com você, podemos entrar em contato viu telefone?
+Cliente: agiliza mas a conversa e te explico melhor
+Atendente: Podemos falar via chamada no google meets, Rafael, pode ser?
+Cliente: pode sim
+Atendente: Perfeito, Rafael. Só um minuto por favor que eu envio o link
+Atendente: Segue link da chamada, Rafael: meet.google.com/gdf-pdit-vwg
+Cliente: ja acessei
+Atendente: Rafael, segue vídeo com a explicação: https://www.youtube.com/watch?v=5FTBpgX4_oU
+Atendente: https://www.youtube.com/watch?v=dD9N0DWBdc8
+Atendente: este também é bem simples
+Cliente: Obrigado 😁
+Atendente: Nós que agradecemos, Rafael!! Consigo ajudar em algo mais?
+Cliente: pode encerrar
+Atendente: Perfeito. Até mais, Rafael, tenha um ótimo dia e um ótimo final de semana!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Rafael! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Eu puxei aqui um relatório de clientes que não estão delegados a ninguém e mostrou 10.000 clientes
+Atendente: Deixa salvo esse teu relatório
+Atendente: vou da uma olhada
+Cliente: ta em novo relatorio 3
+Atendente: Estou analisando aqui
+Cliente: ok
+Atendente: Esse relatório é trás um número grande de "Sem delegados" porque é o único filtro que esta sendo colocado. Isso abre um leque muito grande de diversos tipos de diálogos. Entre esses 10 mil, tem chats que já foram resolvidos, fechados, chats em que o próprio usuário removeu a delegação, chats sem atuação de delegação do chatbot...
+Atendente: Enfim, são diversos tipos de chats
+Atendente: *diversos tipos de chats
+Cliente: e tem como delegar esses 10 mil chats para o grupo novamete, pra se esses clientes voltarem a falar novamente ir pra algum usuario
+Atendente: É possível, por meio de campanha
+Cliente: pois você pode fazer por favor
+Cliente: pra não correr o risco desses clientes entrarem em contato e ninguem responder
+Cliente: por mais que estejam encerrados, resolvidos, pelo menos eles serem delegados pra o grupo atendimento
+Atendente: Certo.
+Atendente: Rafael, verifiquei que esse procedimento foi realizado no dia 02/09. Esses clientes estão sem delegação receberam um "contexto de saída" chamado URA FALSE. Isso faz com que, mesmo sem delegação, quando eles falarem novamente serão delegados para um departamento. Fiz uma alteração no chatbot. E caso um desses clientes fale novamente ele já vai direto para o setor de Atendimento.
+Cliente: OK, muito obrigado
+Atendente: Feito.
+Atendente: Posso te ajudar em algo mais?
+Cliente: pode encerrar
+Cliente: obrigado
+Atendente: Tranquilo. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom Dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Rafael! Tudo bem?
+Atendente: Meu nome é Lucas, sou suporte do Zap Guru. Como posso te ajudar?
+Cliente: Bom Dia Lucas, estou com um problema desde cedo, meu numero 30467770 não está conectando, ja lhe o QRCODE algumas vezes mas não conecta, e o aparelho está com internet normal
+Atendente: Rafael, verifiquei aqui.
+Atendente: Realiza os 4 primeiros passos desse tutorial no aparelho: https://www.apptuts.net/tutorial/android/dicas-para-resolver-problemas-do-wi-fi-no-android/ - Reinicia o celular também.
+Atendente: E faz novamente a leitura do qr-code.
+Atendente: Após isso, peça para seus atendentes darem uma pausa de 5 minutos no envio de mensagens para que a fila baixe.
+Atendente: Rafael, você possui outra rede wifi no local ou 4G no celular?
+Cliente: Já reiniciei, fiz os passos e nadas
+Cliente: Já conetei em outras redes wifi e nada tbm
+Cliente: E outro número q tenho no guru ta normal
+Atendente: Os aparelhos com esses números estão no mesmo local e conectados na mesma rede wifi?
+Cliente: Simsim
+Cliente: E tbm já desconectei de uma rede o coloquei em outra tbm e nada
+Atendente: Pode conectar seu whatsapp 30467770 ao whatsapp web e me mandar um print da tela?
+Cliente: Deu certo conectar na web
+Atendente: Manda uma mensagem e me envia um print, por favor.
+Cliente: Ele ta bem lento também pra enviar na web
+Atendente: Então, o problema é na conexão da sua internet.
+Cliente: Deva ser o aparelho então q não tá suportando o número de menssagens? Ele é um S10
+Cliente: Mas na web tô falando normalmente,  só demorou um pouco pra conectar o qrcode
+Atendente: No zap guru, você consegue fazer a leitura do qr-code?
+Atendente: Faça esse teste de velocidade da internet, por favor: https://www.speedtest.net/pt Ao finalizar, me envie um print do resultado.
+Cliente: Fiz agora
+Atendente: Certo. Agora deixe o aparelho nessas recomendações:
+Atendente: *Evitem manusear o aparelho que está servindo o ZapGuru.*
+O aparelho que serve o ZapGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ZapGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ZapGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ZapGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ZapGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Cliente: Já está nessas configurações, o aparelho tá recebendo mensagens
+Cliente: Mas ele não conseguir se conectar gom o guru
+Cliente: Pedir ora capitular o Qrcode novamente
+Atendente: Você fez os passos desse tutorial: https://www.apptuts.net/tutorial/android/dicas-para-resolver-problemas-do-wi-fi-no-android/?
+Cliente: Sim
+Atendente: Coloque o aparelho no 4G e tente fazer a leitura do qr-code.
+Atendente: Você tentou?
+Atendente: Rafael? =)
+Atendente: Verifique se possui alguma atualização disponível no whatsapp.
+Atendente: Um momento!
+Atendente: Rafael, antes de alterar qualquer configuração no aparelho (S10), como atualizar o whatsapp ou formatar, você precisa fazer o *backup* do whatsapp para não perder as conversas.
+Atendente: Preciso acessar seu aparelho pelo anydesk. Você está com ele em mãos?
+Atendente: Em aplicativos, tem uma permissão no whatsapp, ela deve ficar para o whatsapp acessar a internet em *primeiro plano*.
+Atendente: E também verificar se há uma atualização disponível para o whatsapp.
+Cliente: Já foi feito isso tbm
+Atendente: Sim, eu gostaria de acessar o aparelho, pois acredito que é alguma configuração do S10.
+Cliente: Certo  pois segunda agente ver isso
+Cliente: Obrigado
+Atendente: Tudo bem, então. Na segunda feira, caso o problema persista, entre em contato com a gente.
+Cliente: 👍👍
+Cliente: bom dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Tudo bem, Rafael?
+Como podemos ajudar?
+Cliente: Estou com um probleminha nos celulares, o CELULAR 3046-7770 não ta logando de forma alguma, eu formatei o aparelho, leio o QRCODE mas ele não conecta
+Cliente: Já li o Qrcode
+Cliente: O telefone está com Internet, que estou recebendo mensagens nele
+Atendente: Certo, vou reiniciar a conexão de sua plataforma aos nosso servidores, peço que aguarde um momento e não faça a leitura nesses instantes
+Cliente: Ok
+Atendente: Rafael, tente ler o QR code novamente, por favor
+Cliente: agora
+Cliente: pronto, já li, mas ta aguardando o carregamento
+Atendente: Rafael, o celular está com pouca bateria?
+Atendente: Ou no modo de economia?
+Cliente: no celular chega menssagem direto
+Atendente: Estou identificando o problema para resolvermos
+Cliente: ok
+Atendente: Quando você lê o QR code o whatsapp chega a fechar?
+Cliente: sim
+Cliente: ele fecha a tela q abre depois de um tempo
+Atendente: Rafael, tente mais uma vez, por favor
+Cliente: pronto, ele demorou uns 30 segundos pra fechar a tela depois q eu li o qrcode
+Cliente: e ta aguardando agora
+Atendente: Estou acompanhando a conexão aqui, ainda estou trabalhando para entender o que pode ter acontecido
+Atendente: Rafael, faça um teste, por favor, logue no whatsapp web por esse número
+Atendente: Beleza, essa informação foi importante, Rafael, obrigado. Talvez o tempo de conexão muito longo que esteja fazendo não conectar, vou ajustar isso
+Cliente: 😁
+Atendente: Rafael, leia novamente, por favor (sei que é chato, mas necessário)
+Cliente: pronto
+Cliente: ta aguardando agora
+Atendente: Rafael, atualmente você está com mais de 30.000 chats em cada aparelho. A quantidade de chats e mensagens está fazendo com que a conexão leve muito tempo e acabe se desconectando. O que precisa ser feito é uma redução nessa quantidade de chats, sinto muito
+Cliente: mas isso são chats antigos, esses clientes nem conversão muito, em media 400 clientes conversam por dia
+Cliente: e como posso fazer pra solucionar isso
+Cliente: até agora não conectou
+Atendente: As conversas deverão ser apagadas pelo próprio celular
+Cliente: conectou agora
+Atendente: Maravilha, Rafael!!!
+Atendente: Para evitar algo assim, recomendo fortemente que você elimine alguns chats
+Cliente: mas será que sempre vai da esses problemas?
+Atendente: Pelo número de chats que você tem, é provável
+Cliente: mas ta excluindo esses chats todos manualmente no telefone vai levar uma eternidade
+Atendente: Mas não precisa excluir os contatos, basta excluir os chats
+Atendente: Sem problemas, isso não precisa ser algo de imediato e com uma quantidade alta, pode ser alguns por dia
+Atendente: Rafael, nosso atendimento será finalizado por inatividade, mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Rafael, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: Boa Tarde Mark, era o celular que não estava conectando, mas agora conectou 🥳
+Cliente: lhe o QRCODE novamente e deu certo
+Cliente: muito obrigado
+Atendente: Ótimo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: meu numero 8890-7777
+Cliente: ti ha conectado mas perdeu a conecxão, eu leio o QRCODE e ele fica aguardando o carregamento
+Atendente: Olá, Rafael. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: Vou acessar sua conta e verificar o que está ocorrendo, ok?
+Cliente: ok
+Atendente: Enquanto eu acesso, você pode fazer um teste rápido da velocidade da sua internet pra gente verificar se está tudo ok?
+Atendente: https://www.speedtest.net/pt
+Atendente: Só clicar no link e depois em iniciar.
+Atendente: Por gentileza, refaz o acesso com QRcode
+Cliente: agora
+Cliente: ja li mas ta tentando se conectar ainda
+Atendente: Estou acompanhando aqui também.
+Atendente: Conectou.
+Cliente: sim
+Atendente: Agora vou acompanhar se a fila está diminuindo.
+Cliente: conectou agora
+Atendente: Acredito que seja só o tempo do sistema enviar as mensagens.
+Atendente: De qualquer forma vou acompanhar até a fila ser finalizada.
+Cliente: muito Obrigado
+Atendente: Rafael, observei durante todo esse tempo e está quase no fim da sua fila.
+Atendente: Se você tiver qualquer dificuldade a mais, pode fazer contato com a gente de novo, beleza?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde,
+Atendente: Rafael Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Rafael, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: estou precisando liberar um dos meus usuarios pra entrar em contato com o superte
+Cliente: o USUARIO eveline
+Atendente: Certo, um momento que vou liberar.
+Cliente: Deu certo?
+Atendente: Pronto, eu iniciei uma conversa com o seu número +55 (85) 88907777
+Atendente: Coloquei a evelin com responsável pelo chat na sua conta, ela pode pedir suporte pelo próprio zapguru.
+Atendente: basta ela pesquisar pelo chat zapguru suporte e iniciar a conversa conosco para pedir suporte.
+Atendente: Te ajudo em algo mais?
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Rafael, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: Bom dia, nossos dois números  de WhatsApp  foram banidos e estamos precisando  fazer as trocas dos número  na plataforma.  Como podemos proceder?
+Atendente: Rafael, por favor, me informe os novos números para fazermos as substituições.
+Cliente: (85) 987837770
+Cliente: (85)989767385
+Atendente: Rafael, lamentamos que o seu número tenha sido banido. 😔
+É de *extrema importância* que você entre em contato com o suporte do WhatsApp através do próprio aparelho para saber o motivo do banimento e também a possibilidade do desbloqueio do número!
+
+Após mandar a mensagem, basta aguardar uma resposta.
+Atendente: Antes de realizarmos as trocas, é interessante entrar em contato com o suporte do Whatsapp para entender o motivo do banimento e até recuperar o número.
+Atendente: As trocas tem custo de R$ 159,00. Porém, 1 das trocas de vocês ficará como cortesia, precisando apenas pagar 1 das trocas.
+Cliente: Tudo bem.
+Cliente: Ao trocar os número  as conversas dos outros números serão  perdidas?
+Atendente: Sim, pois cada conversa pertence unicamente a cada número, por isso é interessante ver se o whatsapp libera o número novamente
+Atendente: Se devolverem, recomendo que usem em outro aparelho ou pelo menos formate o que estava, também recomendo iniciar como um whatsapp normal no lugar de business. O whatsapp é muito rígido em relação a banimentos, então uma vez banido, o número fica "Marcado"
+Cliente: Então altera somente esse no lugar do número fixo que usávamos o 30467770
+Cliente: Por enquanto  que aguardamos um retorno do suporte do WhatsApp
+Atendente: Solicito a troca do 30467770 por o 85 987837770, confirma? O novo número é realmente cadastrado com o 9 no inicio no whatsapp ou sem ele?
+Cliente: Confirmo sim
+Cliente: Ele é com 9
+Atendente: Rafael, a troca do número do WhatsApp já cadastrado no ZapGuru é cobrado um valor pela relocação do novo número nos nossos servidores, o valor é de R$ 159,00 por troca. 
+
+Contudo, tendo em vista nossa parceria... vamos te dar essa primeira troca como uma cortesia! Mas nas próximas trocas futuras que vier a ter, será cobrado o valor.
+Atendente: Vou solicitar a troca, ela pode ser feita em até 24 horas úteis, mas assim que for feita, te aviso aqui
+Cliente: Muuto Obrigado
+Atendente: Rafael, a troca foi feita
+Atendente: Posso te ajudar com algo mais?
+Atendente: Rafael, estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Bom dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Rafael, Bom dia. Meu nome é Hugo.
+Atendente: no que eu posso te ajudar?
+Cliente: Eu com um probleminha aí no guru pra cadastrar um novo número e não deu certo, mas não estou na loja, tem como autorizar outro número da minha gerente pra entrar em contato com vcs no suporte
+Cliente: Seria esse número
+Atendente: já autorizei. Estou aguardando o retorno dela para podermos resolver esse problema com o addchat
+Cliente: Muito obrigado
+Atendente: Rafael, já resolvemos
+Atendente: vou finalizar por aqui
+Atendente: qualquer coisa é só nos chamar. Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Atendente: Olá, Rafael. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Identificamos que o número (85) 88907777, cadastrado na sua plataforma, está desconectado e não está recebendo/enviando mensagens pelo Chatguru.
+
+Tentei reiniciar a conexão mas não obtive sucesso. Para resolver isso, acesse o menu "Celulares Whatsapp" e faça uma nova leitura de QR-Code desse número (88907777).
+
+Qualquer dúvida, nos avise :)
+Cliente: Bom Dia Arthur,
+Cliente: esse numero nós não temos mais, ele foi bloqueado, a Eveline aqui da loja falou até com alguem do suporte ai sobre isso
+Cliente: tu pode até excluir ele, que vamos ver pra dicionar outro
+Atendente: Entendi! Tudo bem então, o número já estava desativado e vou registrar que ele será reativado futuramente :)
+Atendente: Rafael, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso
+Cliente: Obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom Dia
+Atendente: Rafael Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá, Rafael. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Bom Dia Rodrigo, vou te mandar um audio explicando minha duvida
+Cliente: por favor
+Atendente: *Rodrigo Lacerda:* 
+Vou verificar. Me dê uns minutinhos.
+Cliente: obrigado
+Atendente: *Rodrigo Lacerda:* 
+Entendi o que está acontecendo. Você está com duas delegações diferentes: uma feita diretamente no número e outra feita pelo chatbot, por isso a inconsistência. Nesse caso a que está funcionando melhor pra você é que a faz o rodízio separado por números, correto?
+Atendente: *Rodrigo Lacerda:* 
+Rafael?
+Cliente: opa rodrigo
+Cliente: desculpas, me ausentei aqui da sala
+Atendente: *Rodrigo Lacerda:* 
+Sim, Rafael. É perfeitamente possível. Vou ajustar pra você.
+Cliente: muito obrigado
+Atendente: *Rodrigo Lacerda:* 
+Pronto, Rafael. Resolvido! ✅
+Cliente: ok muito obrigado, ai os 2 departamentos que foram criados ainda continua existindo é isso?
+Atendente: *Rodrigo Lacerda:* 
+Sim, mas eles não tem mais nenhum efeito.
+Cliente: então se eu quiser posso excluir?
+Atendente: *Rodrigo Lacerda:* 
+Pode sim, sem problemas!
+Cliente: muito obrigado
+Atendente: *Rodrigo Lacerda:* 
+Rafael, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Rafael, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60535e28ecec98869e50c458
+

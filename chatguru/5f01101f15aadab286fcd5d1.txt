@@ -1,0 +1,57 @@
+Atendente: Teste chatbot
+Atendente: .
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: teste
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá! Obrigado por entrar em contato! Este é o canal de WhatsApp da Faculdade Anhanguera: polos de *São Gonçalo/RJ* e *Macaé/RJ*!
+
+Estamos muito felizes em poder lhe atender! Neste canal, você poderá falar com a nossa equipe e ainda receber nossos comunicados acadêmicos, novidades e promoções! É muito importante que você *salve este número* em seus contatos do celular para ficar por dentro dos principais assuntos! 
+
+Para darmos início ao seu atendimento, informe com qual polo você gostaria de falar, digitando apenas o número: 
+
+*[ 1 ]* - Polo São Gonçalo 
+*[ 2 ]* - Polo Macaé
+
+Digite *encerrar* para finalizar seu atendimento.
+Cliente: *Opção inválida, favor digitar apenas o número correspondente a sua opção.*
+
+Para darmos início ao seu atendimento, informe com qual polo você gostaria de falar, digitando apenas o número: 
+
+*[ 1 ]* - Polo São Gonçalo 
+*[ 2 ]* - Polo Macaé
+
+Digite *encerrar* para finalizar seu atendimento.
+Atendente: Educar Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Opção inválida.*
+
+Vou te encaminhar para um de nossos atendentes. Você já está na nossa fila de atendimento, lembrando que o prazo de resposta é de até 24 horas!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Seu atendimento será encerrado por falta de interação. Caso precise volte a falar conosco.*
+Atendente: Educar Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Atendimento Encerrado*
+_( Não precisa responder essa mensagem. )_
+Atendente: Olá, Educar Ensino. Bom dia! Sou o Lucas, seu suporte ZapGuru! 
+
+Como posso ajudá-lo(a)?
+Atendente: *Estou encerrando seu chat por inatividade*.
+
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+Cliente: *Thalita:* 
+olá amigo
+Atendente: Educar Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, como posso ajudá-lo(a)?
+Atendente: Estou encerrando nossa conversa por inatividade.
+
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+

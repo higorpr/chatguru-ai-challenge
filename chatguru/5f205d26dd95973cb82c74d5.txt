@@ -1,0 +1,497 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: Boa tarde pessoal
+Atendente: Boa noite Alex!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Estamos precisando instalar o Automate no celular do suporte
+Atendente: Bom dia, Alex! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Olá Alex tudo bem? 
+
+Precisamos realizar a instalação do *Módulo de Adicionar Chats* no seu smartphone.
+
+Para prosseguirmos é necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo: 
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+
+Podemos agendar a instalação?
+Cliente: Bom dia
+Cliente: Eu instalei o app
+Cliente: Id 230 220 994
+Atendente: Alex, estou com um tempinho livre agora, podemos fazer?
+Cliente: Não estou com o celular agora
+Cliente: Deixei ligado lá
+Atendente: Infelizmente não é possível, é preciso aceitar a conexão
+Atendente: Quando você retornar com o celular em mãos podemos fazer!
+Atendente: Vou encerrar aqui, quando estiver com o aparelho pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pode ser agora
+Atendente: Perfeito!
+Atendente: Já está com o aparelho?
+Cliente: Sim
+Cliente: Pode abrir
+Atendente: Qual o modelo do seu aparelho?
+Atendente: O WhatsApp é normal ou business?
+Cliente: Bus
+Atendente: De qual número é esse aparelho?
+Cliente: Suporte
+Atendente: Preciso que envie esse arquivo para o aparelho
+Atendente: Qual o modelo do seu aparelho?
+Cliente: Lg k9
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: Por que tá mandando mensgaem?
+Cliente: Faça isso nao
+Cliente: ???
+Cliente: Não entendi isso
+Atendente: Não estou enviando mensagens, são seus chats que estão sendo adicionados
+Atendente: Alex, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Nada disso, vc enviou um bom dia ana
+Cliente: E boa tarde leonardo
+Cliente: Pode encerrar
+Cliente: Só não façam mais isso pfv
+Atendente: Não, com toda certeza, não fui eu
+Atendente: foi o usuário TIME DP :DCIFRE
+Atendente: ele fez isso no dia 2020-07-30T15:33:27.500Z
+Cliente: Estranho pq ninguém tá on
+Atendente: 2020-07-30T15:33:27.500Z ---> 12:33 BR
+Cliente: E só foi agora?
+Cliente: Entendi
+Cliente: Blz
+Atendente: Só que o automate estava desligado/inativo
+Atendente: Quando religou ele ja foi adicionando
+Cliente: Entendi
+Cliente: Valeu bom fds
+Atendente: Bom fim de semana pra você também Alex! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Não está sendo adicionado novos chats com o app
+Cliente: está ficando como pendente
+Atendente: Ver8ifica se o automate no seu aparelho está rodando.
+Cliente: tá aberto aqui
+Atendente: Basta abrir que ele retorna automaticamente. Talvez precise limpar log e dar start novamente.
+Atendente: Boa noite Alex!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: como fazer?
+Atendente: Clica no flow com nome da sua empresa, depois stop, depois clica no icone da folhinha, dá clear e depois start novamente.
+Cliente: tava em stop
+Cliente: apertei em start
+Atendente: Massa, tá ativado todas as caixas?
+Cliente: sim
+Atendente: Ótimo. Voltou a enviar?
+Cliente: precisa deixar a tela do celular ativa ou ela bloqueada continua funcionadno
+Cliente: pq se nao vai esquentar muito o celular
+Cliente: voltou!
+Atendente: Isso mesmo. O apareho deve ficar desbloqueado e com tela ativa e aberto no whatsapp
+Atendente: se tiver aparecendo a mensagem sem chats ara incluir, significa que está funcionando o automate
+Atendente: mas dependendo do celular o automate pode ser encerrado pelo sistema do aparelho pois roda em segundo plano.
+Cliente: ok
+Atendente: Se precisar de ajuda, só chamar.
+Atendente: Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde pessoal!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Alex Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: O celular+55 (81) 82842964 não está conseguindo adicionar chat
+Atendente: Certo, vou verificar
+Atendente: acabei de observar o adchat está funcionando
+vou até me adicionar e mandar msg para ver
+Cliente: blz
+Atendente: nesse numero precisa fazer o seguinte processo
+Atendente: Alex Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Alex, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: Blz
+Cliente: eu fiz isso
+Cliente: no caso dei stop e start
+Cliente: ai voltou
+Atendente: kk perfeito :D
+Atendente: esse processo é bom fazer sempre que reparar algum problema no adchat
+Atendente: fora isso te ajudo em algo mais meu querido ?
+Cliente: só isso mesmo!
+Cliente: obrigado!
+Atendente: Magina :D
+Atendente: Alex, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá pessoal,
+
+Fizemos uma mudança nos aparelhos das linhas 82628396 e 82842964.
+
+Precisamos ler o QR-CODE novamente e não consigo. Também precisa configurar o Automate.
+Atendente: Boa tarde Alex!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá Alex Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru😃
+Atendente: Amigo, verifiquei aqui, ja está liberado para fazer a leitura
+Cliente: Bom dia!!
+Cliente: Eu tinha conseguido conectar
+Cliente: Agora falta instalar o automate
+Cliente: Haa, acho que descobri o problema do J2, é uma otimização de bateria que tem que colocar os apps que você quer na lista de exceção
+Cliente: Mesmo com a tela bloqueada continuou recebendo msgs
+Atendente: a uma possibilidade mesmo
+Atendente: eu tinha tentado fazer isso, mas não estava indo mesmo assim
+Atendente: você conseguiu colocar todos eles ?
+Atendente: Automate, WhatsaApp e o AnyDesk?
+Cliente: Vou passar o id
+Cliente: 157884559
+Cliente: Lg k8+
+Atendente: só aceitar
+Atendente: qual o numero desse aparelho?
+Atendente: é esse que falamos?
+Cliente: +55 81 8262-8396
+Atendente: certo, vou mandar o arquivo, um momento
+Atendente: poderia mandar esse arquivo para o aparelho que estamos fazendo o sistema remoto?
+Atendente: ja esta funcionando
+Atendente: ia tentar me adicionar para testar, mas ja estou na base de dados de vocês rsrs
+Cliente: O negócio é esse aí
+Cliente: Da bateria
+Cliente: Esse já está ok
+Atendente: sim sim
+Atendente: eu estava confirmando outras  permissões, mas queria da uma olhada nisso também rsrs
+Atendente: mas ja esta tudo ok
+Atendente: tem mais algum aparelho para colocar o Automate?
+Cliente: O j2 que é o do 82842964  já  tem
+Cliente: E o lgk9 também
+Cliente: Vamos testando aqui
+Atendente: ok
+Atendente: fico no aguardo caso tenha algum problema
+Atendente: Alex, ajudo em algo mais?
+Cliente: Por enquanto não
+Cliente: Obg
+Atendente: ok Alex
+Atendente: Então Alex, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Bom dia 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia pessoal!
+Atendente: Alex Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como faço para alterar o número de envio de uma mensagem? O contato está cadastrado em outro número
+Atendente: Bom dia, Alex! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Acho que não compreendi bem, poderia explicar novamente?
+Cliente: claro
+Cliente: tem um chat adicionado de um contato no número 1. Eu preciso enviar uma mensagem para esse mesmo contato sendo que pelo número 2
+Atendente: Entendi!
+Atendente: Precisa adicioná-lo via Add Chats
+Atendente: Para o segundo número
+Cliente: aí ele fala que já tem na base
+Cliente: vou testar novamente
+Atendente: Você contratou o add chats para os dois números? Ou apanas para um?
+Cliente: temos add chat para os 3 números
+Atendente: você quer adicionar esse contato para qual número?
+Cliente: 81848496
+Cliente: tem alguma forma de enviar pro outro número?
+Cliente: ?
+Cliente: Sumiram?
+Atendente: Estou verificando Alex :)
+Cliente: ok
+Cliente: inclusive tenho caso que o cliente tem adicionado nos 2 setores
+Atendente: Veja se agora você consegue adicionar!
+Atendente: Alex?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Atendente: Alex Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Alex! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: add no Suporte :Dcifre
+Cliente: ele já está cadastrado no Certificado Digital
+Atendente: Apenas o número de certificado que ele ainda não esta cadastrado
+Cliente: Estranho
+Cliente: acho que alguém add ele
+Cliente: isso, troquei os nomes lá em cima
+Atendente: Por isso o erro
+Cliente: blz obg Luiz
+Atendente: Alex, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar meu querido
+Cliente: obg
+Atendente: Valeu. Até. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde pessoal!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Queria ver a possibilidade de cancelarmos o serviço de funil
+Cliente: nunca utilizamos
+Cliente: e precisamos reduzir esse valor da mensalidade
+Cliente: está altíssimo com 3 números
+Atendente: Vou te encaminhar para o setor financeiro, assim eles podem te ajudar com isso! 😄
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Alex, boa tarde!
+Atendente: Alex, você ja pagou a fatura que vence hoje?
+Cliente: acho que sim
+Cliente: deixa eu confirmar
+Atendente: Me avisa porque ai tiro o funil e te passo o boleto atualizado.
+Cliente: Pagou sim
+Cliente: acabei de confirmar
+Atendente: Blz, vou colocar a diferença na sua proxima fatura.
+Cliente: obg!
+Cliente: Com relação aos valores, não conseguimos um desconto não? Tá pesado demais pagar por 3 números
+Atendente: *✅  Concluído*
+*Dcifre*
+Remoção modulo funil
+Atendente: Alex, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde pessoal!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos novamente com problemas de adicionar novos numeros
+Atendente: Olá Alex Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, o que está ocorrendo? qual a mensagem? 😃
+Cliente: o automate está rodando normal
+Atendente: Certo
+Atendente: Alex, consegue verificar dentro do aparelho se esses chats foram criados?
+Cliente: não
+Cliente: não foram criados
+Atendente: Certo, você conseguiu ver se o número existe?
+eu gostaria de saber qual erro ocorre no momento que está sendo adicionado
+Cliente: existe sim
+Cliente: acabei de adicionar no meu pessoal
+Atendente: Certo
+Atendente: da uma olhada no número que está aparecendo no contato
+Atendente: as vezes você adiciona com 9 dígitos e depois aparece com 8 no whatsapp
+Atendente: da uma olhada
+Cliente: Vou ver com o pessoal aqui
+Atendente: olha no seu aparelho se ocorreu isso
+Atendente: Olá Alex, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Atendente: Alex, estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde Pessoal!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Poderíamos tentar resolver essa questão do Addchat?
+Atendente: Boa tarde Alex! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: Blz!
+Atendente: Qual o aparelho que esta com problema e qual o erro?
+Cliente: Time :Dcifre
+Atendente: Esta com ele em mãos
+Cliente: 558182628396
+Atendente: ?
+Cliente: sim
+Atendente: Tem o AnyDesk instalado nele
+Atendente: ?
+Cliente: 157884559
+Atendente: Um momento
+Cliente: ok
+Atendente: Vou tentar cadastrar o chat aqui
+Cliente: ok
+Atendente: Resolvido. O problema era que quando o Automate ia cadastrar ele perguntava qual aplicativo abrir. Isso pode ocorrer quando o Whatsapp passa por alguma atualização. Nesses casos, basta apenas marcar a opção do Whatsapp e tocar em  *Sempre*
+Cliente: Nem aparecia
+Cliente: mas blz
+Cliente: valeu!
+Atendente: Esse procedimento que informei acima é feito apenas uma vez. Depois fica cadastrando normalmente.
+Cliente: blz
+Atendente: Finalizando por aqui. Até mais. Bom fim semana.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde pessoal!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Um dos números nossos está demorando mais que o normal para enviar mensagem
+Atendente: Boa tarde Alex! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: 558182842964
+Atendente: Por aqui a fila de mensagens esta zerada
+Atendente: *Evitem manusear o aparelho que está servindo o ZapGuru.*
+O aparelho que serve o ZapGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ZapGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ZapGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ZapGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ZapGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Atendente: Posso ajudar em algo mais?
+Cliente: Por enquanto não
+Cliente: pedi ao pessoal pra seguir isso
+Cliente: obg
+Atendente: Ok. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde pessoal
+Atendente: Alex Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Alex! 
+Meu nome é Lucas Andrade, sou *suporte* do *ChatGuru*. 
+Tudo bem?
+Atendente: Estamos ciente deste problema relacionado aos arquivos da plataforma, já foi rastreado a causa e estamos trabalhando na solução, peço desculpas por qualquer desconforto que possa ter sido derivado disso, mas não se preocupe que já está sendo solucionado, assim que o problema for resolvido irei lhe informar, pode ficar tranquilo.
+Cliente: ok
+Atendente: Vou executar um reset nos números da sua conta. Tudo bem?
+Cliente: Vai cair?
+Atendente: Por alguns segundos. Já já a conexão é restabelecida.
+Cliente: blz
+Cliente: pode fazer
+Atendente: Por enquanto, deixe os celulares com a tela desbloqueada no whatsapp.
+Cliente: sempre estão
+Atendente: Alex, por gentileza, faça a leitura do qr-code do número (81) 8284-2964.
+Cliente: ok
+Cliente: pronto
+Atendente: Ok, acabei de ver. Agora, faça um teste: envie um PDF e um áudio do seu número particular para os seus números do ChatGuru e veja se você recebe. Tudo bem?
+Cliente: ok
+Cliente: recebi
+Cliente: deu certo
+Cliente: Aproveitando....
+Cliente: Tem alguma forma de fazermos uma automação de fechar a conversa em aberto por inatividade?
+Atendente: Legal 🙌
+Atendente: Sim. Por inatividade do cliente ou do atendente?
+Cliente: dos 2
+Cliente: Tipo, passou 20min sem msgs encerra
+Atendente: Certo. De quanto tempo? Em quais números?
+Cliente: Todos os números 20min
+Atendente: Acabei de olhar os bots da sua conta, a mensagem de inatividade do cliente não irá se enquadra corretamente no seu caso, pois não tem nenhuma opção de URA para o cliente digitar. O encerramento por inatividade do cliente só é interessante e útil quando ele está passando por uma URA de atendimento e não escolhe nenhuma opção - ficando inativo.
+Atendente: Agora, a de inatividade do atendente é interessante, nesse caso, não para encerrar o chat, mas informar algum usuário ou supervisor que o chat ainda está aberto sem atendente.
+Atendente: Então, se o chat ficar 20 minutos em aberto e sem atendente, será enviada uma mensagem para o whatsapp pessoal de algum/uns usuário/s informando que o cliente ainda não foi atendido. O que você acha?
+Cliente: Vou avaliar isso com o time e retorno
+Atendente: Tudo bem, Alex. Ajudo você em algo mais?
+Cliente: por enquanto nao
+Cliente: obg
+Atendente: Por nada. Tenha um bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Alex, por favor responda a nossa pesquisa de satisfação: https://app5.zap.guru/nps/60084e02937cc0673968b6a4
+Cliente: Boa tarde!
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Porque do jeito que está, a gente fecha... Se o cliente der um OK como confirmação  vai mandar notificação de novo chat
+Atendente: Olá, Alex! Tudo bem?
+Claro pode ser feito sim :)
+Cliente: Poxa
+Cliente: Precisamos muito disso
+Atendente: Alex, como você pode ver na foto acima, a configuração padrão da conta altera o Status para aberto 30 seg após a interação do cliente.
+Atendente: Você pode aumentar esse número para atingir esse delay que deseja, mas isso irá impactar em todos os seus atendimentos.
+Atendente: Todo e qualquer chat que voltar a interagir com a conta levará o tempo que você definir para mudança de Status.
+Cliente: o que vc sugere?
+Atendente: Alex, o que costumamos fazer é avisar ao cliente sobre o término do atendimento e aguardar alguns segundos mais até encerra-lo.
+Atendente: Conciliado a isso, você pode também aumentar alguns segundos para que a conta mude o Status de atendimento, conforme print que eu te enviei.
+Atendente: Nosso atendimento será finalizado por inatividade, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Alex, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6009db3d937cc06739692a68
+Cliente: Boa tarde
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso adicionar mais 1 usuário
+Atendente: *Arthur Ferragini:* 
+Olá, Alex. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+Vou te ajudar!
+
+Cada usuário adicional acrescenta R$ 50/mês em sua fatura. Aguarde enquanto te encaminho para o Financeiro seguir com essa alteração.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Alex,boa tarde!
+Tudo bem?  
+Será contratação de mais 1 usuario?
+Cliente: isso
+Atendente: *Bruna Lira:* 
+Combinado, um momento.
+Atendente: Alex, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: *Bruna Lira:* 
+um momento.
+Atendente: *Alteração Feita*
+✅
+*Dcifre*
+1 usuário adicional
+*Total de 9 usuário*
+Atendente: Alex, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: só isso mesmo
+Cliente: obg
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Alex, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60465f9e9f49179ac8995d61
+Cliente: o celular já está atualzado
+Atendente: Alex Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Alex. Boa tarde! Sou Carlos do Suporte ChatGuru. Um momento enquanto verifico
+Cliente: opa
+Atendente: *Carlos:* 
+Alex, por favor faça uma nova leitura do QR Code
+Cliente: ok
+Atendente: *Carlos:* 
+Normalizado, Alex. Consigo ajudar em algo mais por agora?
+Cliente: obg
+Cliente: só isso mesmo
+Atendente: *Carlos:* 
+Imagina. Qualquer coisa, só nos chamar. Um ótimo fim de tarde 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Alex, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6081d023ecec98869e5d0ed2
+

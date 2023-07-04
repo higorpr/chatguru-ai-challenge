@@ -1,0 +1,938 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Oi
+Cliente: Algum retorno?
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Mariza! Aqui é o Lucas, seu suporte ZapGuru!
+Atendente: Tudo bem?
+Atendente: Como posso ajudá-la?
+Cliente: Tem várias mensagens que estão arquivadas e não foram lidas
+Cliente: Sabes pq?
+Atendente: Verifiquei sua conta e os chats estão chegando normalmente. Talvez os atendentes estejam arquivando ou colocando o status como "fechado" ou "concluído" antes de finalizar propriamente.
+Cliente: Olhei nos históricos e ninguém abriu ou movimentou
+Atendente: Vou verificar. Um momento
+Atendente: Você pode me mandar o link?
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Outra coisa
+Cliente: Compramos mais um acesso e ganhamos dois usuários na Gsan Canoas, mas eles ainda não foram liberados
+Atendente: Mariza, por favor, pode enviar o comprovante de pagamento?
+Cliente: Olá, estava tendo atendimento através do número anterior.
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza, boa tarde! Meu nome é Hugo e eu sou do suporte
+Atendente: como posso te ajudar?
+Cliente: Contratei vcs para um novo CNPJ
+Cliente: Mas ainda não instalaram
+Cliente: Podemos instalar agora?
+Atendente: é pra essa conta que você esta usando para falar comigo?
+Cliente: Não
+Atendente: certo
+Atendente: só um momento por favor enquanto eu verifico algumas informações
+Atendente: Sr. Mariza
+Atendente: obrigado por ter aguardado
+Atendente: vou lhe encaminhar pro financeiro para que possamos seguir com a instalação
+Atendente: ok?
+Atendente: Boa tarde!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Mariza, boa tarde!
+Cliente: Oi
+Atendente: Mariza como posso te ajudar?
+Cliente: Preciso instalar o serviço que contratamos
+Atendente: Mariza, qual foi a conta por favor
+Atendente: Encontrei o histórico, foi pedido para que você preenchesse um formulário, acredito que não foi feito.
+Cliente: Sim, preenchi
+Atendente: Show! Recebemos agora :)
+Cliente: Outra coisa
+Cliente: Ganhei dois usuários para gsan
+Cliente: Tens como liberar?
+Atendente: Mariza, vou te passar os dados de acesso da conta Magrass agora!
+Atendente: https://app5.zap.guru
+
+Marta Freschi
+Email: coordenacaomagrass@gmail.com
+Senha: 6211080fa89981f66b1a0c9d55c61d0f
+Atendente: *✅  Concluído*: 
+
+*GSAN Odontologia*
+02 usuários liberados
+Total: 10 Usuários
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: E quando podemos instalar no outro número?
+Cliente: Como faço para editar um usuário
+Cliente: ?
+Cliente: ??????
+Atendente: Ola Mariza, vou te encaminhar para o suporte te ajudar, tudo bem?
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: ok
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: Mariza, a senhora chegou a ver o video de primeiros passos?
+Cliente: sim
+Cliente: mas nao consegui
+Atendente: entendi a senhora está tendo dificuldade para alterar o usuario? nome?
+ou criar um novo usuário?
+Cliente: Alterar
+Cliente: consegue me ajudar?
+Atendente: sim, peço desculpas pela demora pois estamos com uma demanda alta hoje
+Atendente: vi aqui que voce tem apenas um usuario
+Atendente: a senhora teria que primeiro criar um novo usuário e senha
+Atendente: quer que eu faça esses dois usuários?
+Cliente: já fiz os usuarios
+Cliente: que trocar o nome do usuario comercial para estefania
+Cliente: e colocar o e-mail dela
+Cliente: o restante permanece  igual
+Atendente: agora entendi, é que a senhora tem 2 zap guru
+Atendente: Gsan e Magrass, correto?
+Cliente: na verdade são 3
+Cliente: tem a Instamed
+Cliente: mas estou falando da GSAN
+Atendente: ha sim, é que para mim apareceu apenas dois, vou colocar esse tambem aqui
+Atendente: sim sim, acabei de ver
+então para mostrar aos clientes digamos assim, esta aparecendo Estefania
+Cliente: Para mim nao aparece
+Atendente: perfeito
+Atendente: Qual nome de usuario a senhora deseja?
+Atendente: Estefania mesmo?
+Cliente: Estefania Comercial
+Cliente: E o email
+Cliente: estefaniaorthodontic@gmail.com
+Atendente: e a senhora não estava fazendo nada de errado, é que esse procedimento nós que fazemos mesmo
+Cliente: Que bom
+Cliente: O email da para editar também?
+Cliente: E quando podemos instalar na Magrass?
+Atendente: Claro, por qual deseja?
+Atendente: quando preferir senhora desejar
+Cliente: estefaniaorthodontic@gmail.com
+Cliente: tem também como configurar para tudo que caia no usuario comercial cair para Cintia, Carla, Juliana e Estefania
+Cliente: poderia ter alterado o usario do comercial para Estefania todo em letra maiscula kkkkk
+Atendente: Desculpe vou fazer isso agora rsrsr
+peço desculpas pela demora, estava em call =/
+Atendente: sim sim, seria o departamento comercial
+Cliente: Isso, departamento comercial
+Atendente: Boa noite Mariza!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Mariza, ja está tudo para o  departamento comercial
+Atendente: Mariza, vou encerrar o atendimento agora, amanhã se precisar pode chamar aqui ta bom? :D
+Atendente: Tenha uma Excelente noite
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez estou cobrando a instalação de um novo cnpj
+Cliente: Qual a dificuldade?
+Atendente: Olá Mariza, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Não entendi Mariza, poderia me explicar melhor por favor?
+Atendente: como assim um novo cnpj?
+Cliente: Comprei de VCS já faz um tempo
+Cliente: Isso
+Atendente: Mariza, ainda não compreendi o que você precisa, você está no setor de suporte, vi que esse comprovante refere-se ao seu pagamento mensal.
+Atendente: O que falta para você?
+Cliente: Falta a instalação
+Atendente: https://meet.google.com/vaa-jnhy-nfa
+Atendente: Acessa essa chamada de voz por favor, assim consigo identificar melhor o que você percisa.
+Atendente: Mariza, logo abaixo desta mensagem está os dados de acesso da conta MAGRASS enviado no dia 04.08.2020 as 12:00.
+Atendente: Só acessar e fazer a leitura do qr-code.
+Cliente: Enviado para onde?
+Atendente: Aqui mesmo nesse conversa, olha a mensagem do dia 04.08.2020 as 12:00.
+Atendente: Encontrou?
+Cliente: Vou ver
+Atendente: Assim que fizer a leitura do qr-code me avisa que já fazemos a instalação do addchats nesse conta.
+Cliente: A senha está dando incorreta
+Atendente: Vou alterar aqui, um momento.
+Cliente: consegue outra senha
+Atendente: Segue dados de acesso:
+
+https://app5.zap.guru
+
+Email: coordenacaomagrass@gmail.com
+Senha: mudar123
+Cliente: tens como chamar eles no whats
+Atendente: Chamar quem?
+Atendente: Mariza, verifica se estão utilizando o URL Correto! 
+A Conta da Magrass é https://app5.zap.guru
+Atendente: Estou encerrando seu chat por inatividade.
+
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*! Como posso te ajudar?
+Cliente: Tudo bem!
+Cliente: Duas coisas
+Atendente: Quais seriam elas?
+Cliente: A Marcieli no telefone 51 99496952 irá entrar em contato caso tenha alguma dúvida ou necessite de suporte
+Cliente: Preciso contratar mais dois usuários para a empresa GS - Magrass
+Atendente: Tudo bem, sem problemas.
+Atendente: Certo, cada usuário extra é R$ 50,00.
+Cliente: sim
+Atendente: Vou te encaminhar para o financeiro e lá você finaliza essa contratação, tá ok?
+Atendente: O app de conexão do Magrass é 5, correto? Atualmente tem 3 usuários
+Cliente: isso
+Atendente: Pronto, vou te encaminhar pro financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Mariza, bom dia!
+Atendente: Um momento por favor que vou providenciar os dois usuarios.
+Atendente: Mariza, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: pq o valor de r$130,00?
+Atendente: Mariza, como você ja recebeu sua fatura do mês de agosto, coloquei esses usuários apenas para setembro, esse valor é referente ao proporcional de 39 dias a contar de hoje até sua proxima fatura 22/09
+Cliente: ok
+Atendente: Mariza, bom dia! 
+Você deseja seguir na contratação dos usuários adicionais?
+Cliente: Oi
+Cliente: Sim
+Cliente: Já realizei o pagamento
+Atendente: *✅  Concluído*: 
+
+*GSAN Odontologia*
+*Magrass - GS*
+2 usuários adicionais 
+*Total de 7 usuários*
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Cliente: Os usuários são para GS isso?
+Cliente: Preciso contratar também a inclusão de mais um número de telefone?
+Cliente: !
+Cliente: Para a GS
+Cliente: Os usuários podem ser os mesmos?
+Atendente: não, cada conta tem seus usuários
+vocês tem 3 contas, correto?
+Cliente: Seria uma.conta com dois números
+Atendente: haaa sim nesse caso em especifico da para usar
+porque os dois numeros ficariam na mesma conta, consequentemente os mesmo usuários
+Atendente: até mesmo se fosse 4 números na mesma conta, estando na mesma você utiliza os mesmos usuários
+Cliente: Que bom
+Cliente: Então vou querer que inclua mais um número
+Atendente: certo Mariza
+Atendente: Mariza, antes de te transferir para o financeiro preciso validar a informação
+Cliente: 051 97211313
+Atendente: um novo Número de WhatsApp no ZapGuru: R$297,00
+Cliente: Ok
+Atendente: posso transferir para o financeiro?
+Cliente: E com esse número posso ganhar dois usuários?
+Cliente: 😊
+Atendente: não sei dizer Mariza =/
+só com o financeiro mesmo
+Cliente: Para a GSAN?
+Atendente: posso transferir?
+Cliente: Pode sim
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Mariza, bom dia!
+Atendente: Você gostaria de mais um numero?
+Cliente: Bom dia
+Cliente: Sim, mais um número
+Atendente: Quais da Gsan?
+Cliente: como assim?
+Atendente: Tenho 3 contas da Gsan com você:
+G S A N ODONTOLOGIA LTDA
+21.681.050/0001-51
+
+G S A N NOVO HAMBURGO ODONTOLOGIA LTDA
+28.927.298/0001-07
+
+G S A N ODONTOLOGIA LTDA
+21.681.050/0002-32
+Cliente: sim
+Cliente: a contratação é para GS
+Cliente: mas queria ganhar dois usuarios para as GSAN
+Atendente: Mariza a contratação é para qual Gsan?
+Cliente: Não é para GSan
+Cliente: É para GS
+Cliente: Para GSan queria ganhar dois usuários
+Atendente: Referente ganhar dois usuários, infelizmente não é possível, para eu pedir autorização para minha diretoria preciso que tenha pelo menos 10 novos usuários. O número não inclui usuários.
+Cliente: 1 usuário então consigo ganhar?
+Cliente: 😊
+Cliente: Oi
+Cliente: Pode ser?
+Atendente: Mariza, um momento que vou falar com minha diretoria
+Atendente: Mariza, não consigo te dar mais um usuário, na sua contratação você já havia ganho 2 usuários.
+Cliente: 😭😭
+Atendente: Não fique assim rsrs 
+Infelizmente não consigo... posso prosseguir com o numero adicional?
+Cliente: Pode
+Atendente: Um momento.
+Atendente: Mariza, vou te enviar o boleto e sera do mesmo modo que os usuarios que solicitou, o valor do boleto é proporcional até a sua proxima fatura, tudo bem?
+Cliente: Ok
+Atendente: Mariza, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: Mariza, boa tarde! Você ainda tem interesse no numero?
+Cliente: boa tarde
+Cliente: sim
+Cliente: até ja pagamos
+Atendente: Me encaminha o comprovante por favor?
+Atendente: Boa noite Mariza!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Mariza, bom dia! Me informe o numero por favor.
+Cliente: 051 97211313
+Atendente: Solicitei a inclusão
+Cliente: Será feito hoje?
+Atendente: Mariza, será feito sim
+Cliente: Oiii
+Cliente: VCS adicionaram o outro número no CNPJ errado
+Atendente: Me passa o CNPJ por favor do outro e o desse.
+Cliente: 35.434.363/000110
+Cliente: Preciso que cancelem o número adicionado urgente
+Cliente: Está causando confusão na hora de adicionar
+Cliente: algum retorno?
+Atendente: Oi, vou solicitar
+Atendente: Foi adicionado nesse CNPJ
+Cliente: Deve se adicionado nesse
+Cliente: Que é o CNPJ do pagamento do boleto
+Atendente: Ok, vou pedir a troca aqui
+Atendente: Deu certo?
+Cliente: sim
+Atendente: *✅  Concluído*
+*Magrass - GS*
+1 número WhatsApp adicional - 55 51 97211313
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: tudo certo
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Mariza! Tudo bem?
+
+Me chamo Lucas, sou do time de suporte ZapGuru! 😃
+Cliente: Tem mensagem agrupadas no lugar errado
+Cliente: Exemplo
+Cliente: Se eu clicar em ADM tem usuarios do comercial
+Atendente: Qual o número do seu app?
+Cliente: como assim?
+Atendente: Mariza, você pode dizer novamente como posso lhe ajudar?
+Atendente: Mariza, verifiquei aqui. As informações que aparecem no dashboard da Gsan são verídicas. Por exemplo, todos os chats que aparecem na linha da Cintia foram delegados ou contatados por ela.
+Cliente: oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza, Bom dia! Meu nome é Daniel. Como posso te ajudar?
+Atendente: Mariza, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: https://app4.zap.guru/chats/5f344bcfd762a03fff6b9620
+Atendente: Você diz em resposaveis?
+Cliente: isso
+Cliente: a Cintia é comercial e esta em agendamento
+Atendente: Ok
+Atendente: na verdade estava tudo certo
+Atendente: no caso foi a Cintia que Chamou o contato
+Atendente: ele não chegou a passar pela ura
+tanto que o status dele é Ura True ainda
+Cliente: E como podemos configurar para cair na pessoa que chamou
+Atendente: Caso deseje que ele volte para a URA e seja atendido novamente pelo bot, basta executar o diálogo de encerramento. Caso queira que ele volte diretamente para quem o estava atendendo, basta mudar o status dele para "Resolvido" manualmente
+Cliente: Mas quero que volte para quem chamou
+Atendente: Esse contato está com a Cinta desde o começo, não deveria voltar para ela?
+Atendente: Mariza?
+Cliente: oi
+Atendente: Posso finalizar o atendimento, ou você tem mais alguma Pendencia?
+Atendente: Mariza estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok? 😃
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Mariza, bom dia! Tudo bem? A conta da GS está com o valor em aberto, evite a interrupção da conta.
+Cliente: Qual conta?
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Cliente: Tens como me mandar o boleto da Gs
+Atendente: Vou te encaminhar para o financeiro e eles te fornecem esse boleto, só um momento...
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Oi Mariza, mando sim
+Atendente: Por favor quando tiver com o comprovante nos envie para que eu de baixa aqui.
+Atendente: Estou resolvendo com a Marta, obrigada!
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Mariza! Tudo bem?
+Como podemos ajudar?
+Cliente: Teria como o funil sac só o meu usuário ver?
+Atendente: Nas permissões de funil, por enquanto há apenas a possibilidade de todos os usuários visualizarem ou não, Mariza :(
+Atendente: Mariza, nosso atendimento será finalizado por inatividade, mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Como eu altero o nome Juliana para comercial?
+Atendente: Bom dia Mariza! Meu nome é Luiz. Essa alteração nós que fazemos por aqui.
+Atendente: Qual a conta?
+Cliente: Gsan
+Atendente: Só alterar o nome mesmo?
+Cliente: Isso
+Cliente: A senha eu consegui alterar
+Atendente: Ok. Um momento.
+Atendente: Feito
+Cliente: Obrigada
+Atendente: Posso ajudar em algo mais?
+Cliente: não
+Cliente: obrigada
+Atendente: Ok. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Boa noite Mariza!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Estamos sem sistema
+Atendente: Olá Mariza, Bom dia. Meu nome é Hugo.
+Atendente: irei verificar
+Atendente: só um momento
+Atendente: Mariza, acredito que de ontem para hoje problema tenha se resolvindo
+Atendente: resolvido*
+Atendente: pois as 3 contas estão com os celulares devidamente conectados.
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Mariza, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: Daniel preciso de mais usuário para o CnPj
+21681050000151
+Atendente: Mariza, o valor para novo usuário de R$ 50,00/ mensal.
+
+Posso encaminhar para o nosso financeiro?
+Cliente: Ok
+Atendente: Um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Mariza, boa tarde! Tudo bem?
+Atendente: Qts novos usuários?
+Cliente: 1
+Atendente: Mariza, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Oi
+Cliente: Sabes pq um número nosso de whatsapp está banido?
+Atendente: Mariza, vou te encaminhar ao suporte ta bem?
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá Mariza, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Atendente: Infelizmente não conseguimos te posicionar sobre isso, apenas o whatsapp consegue te dar esse retorno. Mas seguem algum possíveis motivos para banimento.
+
+1) Denuncia de Spam
+2) Aumento anormal repentino no envio de mensagens ( Campanhas )
+3) Aumento anormal repentino na quantidade de chats recebidos ( Campanhas de SMS, e-mail marketing, impulsionamento, etc. )
+4) Violação de regras do whatsapp.
+Cliente: Puxa, mas temos feito nada disso
+Atendente: Abra um chamado junto ao whatsapp para tentar identificar o motivo, não sabemos te informar, apenas o whatsapp pode lhe ajudar em relação a isso.
+Atendente: Estamos encerrando nosso atendimento. Se quiser efetuar a troca de número, só informar aqui.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: OI
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: podes transferir para financeiro
+Cliente: pedi um novo usuario
+Atendente: Olá, Mariza! Tudo bem?
+Claro, vou te transferir agora mesmo
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: mas não consegui pagar o boleto
+Cliente: deu erro
+Cliente: consegui me mandar outro?
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Ou
+Cliente: Oi
+Cliente: Pagamos ontem
+Cliente: Já está liberado?
+Atendente: esta sim
+Atendente: essa mensagem acima foi a confirmação
+Atendente: *G S A N ODONTOLOGIA LTDA*
+1 usuário adicional
+Total de 11 usuários
+Atendente: Desculpe, não vi que não te enviaram
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Tudo certo
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Mariza. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Atendente: Mariza, por inatividade esse chat será finalizado.
+
+Se precisar de algo mais, é só retornar. 
+Boa tarde!.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Oi, Mariza! Eu sou o Lucas. Como posso te ajudar? 😃
+Cliente: Não estou conseguindo fazer a leitura do QR code
+Atendente: Me informe o número do APP e a conta, por gentileza.
+Cliente: 51 96015410
+Atendente: Mariza, ler o qr-code novamente e deixa o celular com a tela desbloqueada e aberta no whatsapp.
+Cliente: Sim
+Cliente: Já fiz
+Cliente: E não deu certo
+Atendente: Faça novamente, agora. Estou acompanhando aqui.
+Cliente: Só fica '' pensando''
+Atendente: Sim, vamos aguardar um momento.
+Atendente: Já solicitei a resolução. Aguarde um momento.
+Cliente: Ok
+Atendente: Deixa o celular com uma conexão estável.
+Atendente: Pronto! Sua fila está zerada! =)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Oi
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok
+Atendente: Oi, Mariza! Eu sou o Lucas. Como posso te ajudar? 😃
+Cliente: Quero ver uma situação
+Cliente: Quando nos entramos em contato com o paciente não quero que apareça essas opções
+Cliente: Quero iniciar a conversa direto
+Atendente: Certo, Mariza. É em qual conta e app?
+Cliente: https://app4.zap.guru/chats/5fd91be0cc9f2cd382daaa6e
+Atendente: Inclusive, seu addchat está como *pendente*.
+Vá no celular (51) 96015410 e dê *start* no automate.
+Atendente: Mariza Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção que possui o nome da sua conta.
+3) Clicar em START
+Atendente: Mariza, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: *Observação*, muito provável que o nome que irá apareça no automate é o *nome da sua conta ChatGuru* 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: Preciso incluir mais dois números de celular na minha conta da GSAN
+Atendente: Ótimo! Vou transferir seu atendimento para o nosso setor financeiro, ok?!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Mariza, tudo bem? Bom dia
+Atendente: Você gostaria de 2 numeros?
+Cliente: Isso
+Atendente: Qual empresa?
+Cliente: Gsan
+Atendente: Mariza aqui no financeiro é diferente, me fala o CNPJ por favor
+Cliente: 21681050000151
+Atendente: Mariza, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Esse valor é mensal?
+Cliente: Para os dois números?
+Atendente: não
+Atendente: o valor do numero é de R$297,00 mensais
+Atendente: esse é o proporcional
+Cliente: Não tem como ser menor esse valor?
+Cliente: Daqui dois meses vou precisar de mais
+Atendente: consigo 10% de desconto Mariza
+Cliente: 10?
+Cliente: Preciso um pouco mais
+Atendente: Mariza, bom dia! Foi o maximo que consegui...
+Cliente: ok
+Cliente: tens como mandar o boleto atualizado?
+Atendente: Um momento.
+Atendente: Mariza, bom dia! Recebemos o pagamento, por favor me envie os numeros.
+Cliente: Bom dia
+Cliente: Como faço para mudar minha senha?
+Atendente: Vou pedir para o suporte te ajudar, um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: Já conse
+Cliente: Consegui
+Atendente: Oi Mariza, aqui é o Gustavo. Você já conseguiu resetar sua senha? Deu tudo certo? 😁
+Cliente: Preciso de outra ajuda
+Cliente: Não estou identificando uma conversa no zap
+Cliente: Estou achando muito estranho
+Cliente: Tem como me ajudar?
+Cliente: Aonde fica isso que circulei no nosso zap
+Cliente: ?
+Cliente: Dia 8 não teve nenhuma conversa?
+Atendente: Seria o chat deste número que você não está encontrando?
+Cliente: O que quer dizer o @c.us
+Cliente: Não estou encontrando as conversas do dia 8
+Cliente: Elas foram apagadas?
+Cliente: Preciso de um retorno
+Cliente: Preciso resolver essa situação logo
+Atendente: Ele entende que o número pode ser um contato de email também. Acontece isso por padrão
+Atendente: A plataforma apenas pega os chats que estão no aparelho, o aparelho serve como servidor/espelhamento para o chatguru. Se os chats estão no aparelho, então também estão na plataforma. Talvez estejam apenas arquivadas
+Atendente: Este é o histórico de atendimento do chat específico que você abriu, então neste chat, não houve nenhuma mudança no status de atendimento... Ah não ser que houve uma desconexão do aparelho neste dia e o chat foi respondido pelo aparelho e não pela plataforma 😁
+Cliente: Mas não tenho ninguém com esse email
+Cliente: Uma desconexão do nosso aparelho?
+Cliente: E qual é esse email?
+Atendente: É algo automático do sistema, ele entendeu o número como e-mail e colocou dessa forma. Não altera em nada :D
+Atendente: Isso, se há uma desconexão então a plataforma não recebe os chats. Então *pode* ter sido isso, mas vou verificar aqui para você 😁 Você tem algum chat que houve interação no dia 08 e não está aparecendo na plataforma como exemplo?
+Atendente: Mariza o financeiro precisa de algumas informações para continuar o cadastro dos números, mas qualquer coisa é só pedir para te passar para o suporte novamente, ok? 😁
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Oi Marixa
+Atendente: Mariza*
+Atendente: Deu certo?
+Atendente: Mariza, boa tarde! Favor me enviar os numeros para inclusão.
+Atendente: Mariza, bom dia! Me envie os numeros para que possamos cadastrar por favor.
+Atendente: Mariza, boa tarde! Algum retorno?
+Cliente: Oi
+Cliente: Hoje mesmo passo os números
+Cliente: Oi
+Cliente: Segue os números
+Cliente: 51 998896165
+Cliente: 51 995814796
+Cliente: Preciso configurar esses números
+Atendente: Um momento.
+Atendente: Mariza, me confirma a empresa por favor
+Cliente: gsan
+Cliente: 21681050000151
+Atendente: Um momento.
+Atendente: *✅ Concluído*
+
+*G S A N ODONTOLOGIA LTDA*
+Numeros whatsapp adicionais: +55 (51) 998896165 / +55 (51) 995814796
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Preciso ver como faço para configurar o funil para esse número
+Atendente: Um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá, Mariza. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Atendente: Mariza, estou encerrando nosso contato por inatividade. Qualquer dúvida a mais, estamos à disposição! 🙂
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a nossa pesquisa de satisfação: https://app5.zap.guru/nps/6009998a937cc0673969059e
+Atendente: Olá, Bom dia Mariza. Vi aqui que seu WhatsApp parece estar desconectado e pendente de leitura do Qr-Code. Está tendo alguma dificuldade ou precisa de ajuda para reconectar seu WhatsApp ao ChatGuru?
+Cliente: Oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estávamos sem bateria
+Cliente: Agora normalizou
+Atendente: *Eduardo Victor:* 
+Bom dia, Mariza! Sou o *Eduardo*, faço parte da equipe de suporte do *ChatGuru*! 😁 Ah, perfeito, estão conseguindo utilizar normalmente?
+Cliente: Sim
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Mariza 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60116fa473116bf23e3fa2ee
+Cliente: Bom dia
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso de mais 4 usuários
+Atendente: *Hugo:* 
+Olá Mariza, Boa tarde. O valor de cada usuário é de R$50/ mês. Se você tiver interesse em contrata-los eu posso te encaminhar para o financeiro.
+Cliente: eu quero
+Atendente: *Hugo:* 
+vou te encaminhar. Só um momento.
+Cliente: mas consegue um desconto?
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Mariza, boa tarde! Tudo bem? 
+Será mais 4 usuários?
+Cliente: Isso
+Cliente: Consegui um desconto?😊
+Atendente: *Bruna Lira:* 
+Consigo, de 10%
+Cliente: 🤦‍♀️
+Atendente: *Bruna Lira:* 
+Ain Mariza, infelizmente é o maximo que conseguimos... :/
+Cliente: Puxa
+Cliente: Já temos 5 whatsapp contratados
+Cliente: Vários usuários
+Cliente: Vou ter que ver com a diretoria
+Cliente: Obrigada por enquanto
+Atendente: *Bruna Lira:* 
+Desculpe Mariza...
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: podemos encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6012face73116bf23e4024b6
+Cliente: Oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Nathally Dantas:* 
+Olá Mariza, Bom dia !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Atendente: *Nathally Dantas:* 
+Mariza?
+Atendente: *Nathally Dantas:* 
+Mariza estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c070473116bf23e421f38
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Bom dia! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: Preciso de mais 5 usuários
+Atendente: *Lucas Gusmão:* 
+Ótimo! Vou encaminhar o seu atendimento para o setor responsável, ok?! 😄
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Mariza, bom dia!
+Tudo bem? Serão 5 usuarios?
+Cliente: Sim
+Cliente: Ms quero um desconto
+Cliente: Mês que vem vou precisar de mais número de WhatsApp
+Atendente: *Bruna Lira:* 
+Mariza, consigo 10% de desconto.
+Cliente: Só?
+Atendente: *Bruna Lira:* 
+Mariza, é o maximo que conseguimos
+Cliente: ok
+Atendente: *Bruna Lira:* 
+Deseja seguir?
+Cliente: Sim
+Atendente: *Bruna Lira:* 
+Mariza será em quais das contas?
+Cliente: 996015410
+Atendente: *Bruna Lira:* 
+Me passa o CNPJ porfavor
+Cliente: 21.681.050.0001-51
+Atendente: Mariza, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Atendente: *Josué Dionizio:* 
+Olá Mariza tudo bem? foi verificado que esse número 51*95814796*
+Está deslogado da plataforma, poderia refazer o QR Code por gentileza?
+Cliente: Oi
+Cliente: Só fica aguardando carregamento
+Cliente: Agora deu
+Cliente: Tens como liberar os usuários?
+Atendente: *Bruna Lira:* 
+Tem sim, um momento.
+Cliente: Está liberado?
+Atendente: *✅ Concluído*
+
+*G S A N ODONTOLOGIA LTDA*
+5 usuarios adicionais
+*total de 16 usuarios*
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Depois precisamos organizar os funil
+Atendente: Boa noite Mariza!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Bruna Lira:* 
+Bom dia!
+Vou te encaminhar aos suporte
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: *Lucas Andrade:* 
+Oi, Mariza! 
+Meu nome é Lucas Andrade, sou *suporte* do *ChatGuru*. 
+Como posso ajudar?
+Atendente: *Lucas Andrade:* 
+Estou finalizando seu chat por inatividade.
+
+Se precisar de ajuda, volte a falar com a gente! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6025245773116bf23e44580d
+Cliente: Oi
+Atendente: Mariza Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso de mais um usuário
+Atendente: *Luiz Modestino:* 
+Boa tarde Mariza! Meu nome é Luiz. Aguarde um momento. Vou te transferir para o setor financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Ok
+Atendente: *Bruna Lira:* 
+Olá Mariza, boa tarde!
+Tudo bem?
+Cliente: Semana passada contratei 5 usuários
+Cliente: Mas faltou um
+Cliente: 😭
+Atendente: *Bruna Lira:* 
+rsrsrs
+Atendente: *Bruna Lira:* 
+Então deseja contratar mais 1?
+Cliente: Não queres me dar esse usuário?
+Cliente: Meu chefe vai me matar
+Cliente: Errei os cálculos
+Atendente: *Bruna Lira:* 
+Eita Mariza rsrs
+Cliente: Sim guria
+Cliente: Estamos implementado mais 3 clínicas
+Cliente: Minha cabeça está uma loucura
+Cliente: Uma outra coisa
+Cliente: Como vejo a senha de um usuário?
+Cliente: Preciso trocar o nome de agendamento para 
+AGENDAMENTO CANOAS
+Atendente: *Bruna Lira:* 
+Imagino, Mariza, infelizmente eu não é possível, mas consigo desconto de 10%
+Cliente: pode ser
+Atendente: *Bruna Lira:* 
+Show
+Cliente: Desculpa
+Cliente: Preciso de dois no total
+Atendente: *Bruna Lira:* 
+Bom dia! Combinado, um momento.
+Atendente: *✅ Concluído*
+
+*G S A N ODONTOLOGIA LTDA*
+2 usuarios adicionais
+*total de 18 usuarios*
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *✅ Concluído*
+
+*G S A N ODONTOLOGIA LTDA*
+2 usuarios adicionais
+*total de 18 usuarios*
+Atendente: Mariza, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603014599f49179ac893f910
+Cliente: Oi
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso mudar os nomes de alguns usuários
+Atendente: *Gustavo Soares:* 
+Olá Mariza! Bom dia tudo bem? Sou o Gustavo do *Suporte do ChatGuru*, pode me passar por favor o nome que deverá ser alterado e qual nome devo colocar? 😁
+Cliente: AGENDAMENTO 
+PARA
+AGENDAMENTO 1
+AGENDAMENTO NOVO HAMBURGO
+PARA
+AGENDAMENTO 2
+Atendente: *Gustavo Soares:* 
+Alterações feitas! =D
+Consigo te ajudar em algo mais?
+Cliente: Obrigada
+Atendente: *Gustavo Soares:* 
+Imagina, qualquer coisa é só me chamar 😉 Tenha um ótimo dia! 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6037b4a69f49179ac895f820
+Cliente: Bom dia
+Atendente: Mariza Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Andrade:* 
+Oi, Mariza! 
+Meu nome é Lucas Andrade, suporte do ChatGuru. 
+Como posso te ajudar?
+Cliente: Qual a função do modo espião?
+Atendente: *Lucas Andrade:* 
+O *modo espião* permite que o usuário abra as conversas sem que as mensagens não lidas sejam zeradas.
+Cliente: Hum
+Atendente: *Lucas Andrade:* 
+Você tem alguma dúvida específica?
+Cliente: Consegui trocar o nome de Estefania para Greiciane
+Atendente: *Lucas Andrade:* 
+Em qual conta?
+Atendente: *Lucas Andrade:* 
+Pronto ✅
+Atendente: *Lucas Andrade:* 
+Ajudo você em algo mais?
+Cliente: Obrigada
+Atendente: *Lucas Andrade:* 
+Por nada. Estou finalizando seu atendimento.
+Qualquer dúvida, entre em contato! 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6050b9feecec98869e4ffb49
+Atendente: Prezado(a) Cliente, consta em aberto o valor referente a sua mensalidade do ChatGuru. Evite o bloqueio da sua conta realizando o pagamento em até 24h. Em caso de dúvidas, estamos à sua disposição!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Mariza, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/610d6a6ff390b1b216242eda
+

@@ -1,0 +1,1846 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Cliente: Olá! Ficamos felizes com seu interesse pelos empreendimentos da Prime Residencial!
+Estamos aqui para ajudá-lo a conquistar seu imóvel! E mostrar como é bem simples!
+Para iniciar vc pode fazer seu cadastro escrevendo aqui mesmo suas informações:
+Nome
+E-mail 
+Cpf 
+Em breve enviaremos resposta!
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde. Meu nome é Thaís!
+Seja Bem-Vindo a ZapGuru!
+Vou te ajudar a configurar o seu ZapGuru.
+Atendente: Boa tarde, como não houve resposta do atendimento, estarei encerrando! Mas se quiser, é só mandar mensagem aqui pra nós, tá? :D
+Atendente: Olá PRIME, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Boa tarde PRIME 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Amanhã terei call com o Mark irá me auxiliar
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Perfeito!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá PRIME, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Bom dia
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Fábio - Prime Residencial:* 
+Olá boa tarde!
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde. Meu nome é Hugo.
+Atendente: No que posso te ajudar
+Atendente: ?
+Cliente: *Fábio - Prime Residencial:* 
+Era um erro que estava dando
+Cliente: *Fábio - Prime Residencial:* 
+mas foi corrigido
+Cliente: *Fábio - Prime Residencial:* 
+mandava msg pro cliente
+Cliente: *Fábio - Prime Residencial:* 
+e dava uma msg como msg cadastrada
+Cliente: *Fábio - Prime Residencial:* 
+e não ir
+Cliente: *Fábio - Prime Residencial:* 
+*ia
+Atendente: mas neste momento está funcionando?
+Cliente: *Fábio - Prime Residencial:* 
+está
+Atendente: entendo
+Atendente: normalmente isso se dá por alguma intermitência na conexão tanto do celular como do aparelho conectado ao zapguru
+Atendente: mas caso isso ocorra novamente o sr. pode nos contatar preferencialmente enquanto ocorre o erro
+Atendente: para que possamos analisar o problema melhor
+Cliente: *Fábio - Prime Residencial:* 
+ok
+Cliente: *Fábio - Prime Residencial:* 
+obrigado
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Fábio - Prime Residencial:* 
+outra coisa
+Cliente: *Fábio - Prime Residencial:* 
+pq não aparece o número do cliente
+Cliente: *Fábio - Prime Residencial:* 
+quando clico no nome dele
+Cliente: *Fábio - Prime Residencial:* 
+minha gerente mexeu e apareceu agora
+Atendente: Desculpa a demora sr.
+Atendente: tá aparecendo normal agora?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, referente as Tags podemos ter Tags individuais ou todas as tags cadastradas são globais (funciona pra todos os usuários)
+Atendente: Bom dia!
+Atendente: Você quer dizer tags que só alguns possam gerenciar?
+Cliente: *Prime Residencial - Atendimento:* 
+A minha pergunta é se algum usuário quiser cadastrar alguma tag pra ele gerenciar o andamento do trabalho dele, ele pode criar uma tag pra ele? Ou quando a Tag é criada ele funciona de forma global (aparece pra todos)?
+Atendente: Quando um usuário tem acesso a tags, ele pode usar todas as que existirem na conta.
+Atendente: Mas existe a opção do usuário que criar a TAG de não compartilhar ela com os outros.
+Cliente: *Prime Residencial - Atendimento:* 
+interessante
+Atendente: Fica na sessão de TAGs, uma opção chamada "Copiar tags para a conta acima"
+Cliente: *Prime Residencial - Atendimento:* 
+isso eu faço nas autorizações de cada usuário?
+Atendente: No caso de não querer compartilhar, é só deixar desmarcado
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou dar uma verificada aqui
+Cliente: *Prime Residencial - Atendimento:* 
+Outra pergunta, notei que entraram alguns chats com nome "Não Disponível" e sem nada na mensagem, o que é isso?
+Atendente: O nome do lead algumas vezes aparece como "Não disponível" pois o próprio WhatsApp não fornece dados como o nome cadastrado.
+Então o ZapGuru não consegue identificar o nome desse lead e o chat entrada como "Não disponível".
+Atendente: Mas você pode trocar o nome deles manualmente
+Atendente: E caso tenha mensagens antigas, também tem a opção para recuperar
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa noite, houveram clientes que nos mandaram o telefone pelo instagram pedindo que entrassemos em contato. Foi clicado em adicionar Chat mas a mensagem não foi enviada. Testamos no telefone de um colaborador que tem o número salvo em sua agenda e não chegou a mensagem pra ele
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia, PRIME! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Se você já tem o número salvo em seu ZapGuru, ele não salvará novamente!
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia Caio, o caso é que tentei enviar a mensagem e não foi. Se um cliente quiser que a gente entre em contato, como temos que começar essa conversa, já que eu adicionei o chat e a mensagem não chegou no aparelho dele
+Atendente: Pode me mostrar o link por gentileza?
+Atendente: PRIME, você poderia por favor enviar o link do chat para que possamos analisar?
+Cliente: *Prime Residencial - Atendimento:* 
+OK, vou buscar um numero e envio até o horario do almoço.
+Atendente: Vou encerrar o seu chat por inatividade!
+Mas quando precisar de alguma coisa, é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, acabei de tentar incluir um novo chat e não aparece essas opções que voces colocaram acima
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, PRIME!
+
+Sou o *Lucas*, seu *suporte* ZapGuru! 😁
+
+Estou verificando sua solicitação...
+Atendente: PRIME Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: PRIME, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: *Prime Residencial - Atendimento:* 
+não estou com o celular em mãos. Estou usando o navegador
+Cliente: *Prime Residencial - Atendimento:* 
+vou tentar acessar aqui, qual será o próximo passo?
+Atendente: É só você seguir os passos que enviei acima no aparelho que está com o whatsapp  e o automate instalado.
+Cliente: *Prime Residencial - Atendimento:* 
+ai nesse caso as mensagens vão aparecer pra mim no chat?
+Atendente: Após realziar o procedimento acima os contatos que estavam pendentes serão cadastrados e os chats vão aparecer na sua conta do ZapGuru.
+Atendente: Eu posso te ajudar com algo mais?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, estou com dúvidas sobre a criação de robôs. Vi os videos mas não consegui criar. da forma que desejava. Queria uma ação automática e tive que usar a opção "Executar Diálogo"
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru 😃
+
+sim, compreendo rsrs
+realmente é algo complicado para se fazer
+Você deseja fazer uma ura de atendimento? (um fluxo/Filtro de atendimento com opções para seus clientes escolherem)
+Cliente: *Prime Residencial - Atendimento:* 
+eu criei uma resposta automática e tentei fazer com que quando essa resposta fosse incluida, mudaria o status de funil e a inclusão de tag
+Cliente: *Prime Residencial - Atendimento:* 
+vou mandar o link da conversa
+Cliente: *Prime Residencial - Atendimento:* 
+https://app5.zap.guru/chats/5f31697d035f6410e1fd4af2
+Cliente: *Prime Residencial - Atendimento:* 
+uma pergunta: URA seria uma ideia de criação de fluxograma onde o cliente vai escolhendo as opções e vai caminhando e mudando de posição?
+Atendente: vou abrir aqui para ter uma ideia melhor
+Atendente: exato
+Cliente: *Prime Residencial - Atendimento:* 
+a partir do momento que eu entender o conceito acredito que posso começar a criar aqui. Queremos também criar o robo pra começar conversas inativas a algum tempo, etc.
+Atendente: não consegui ver aqui no robo qual configuração você tentou fazer
+como você colocou?
+Atendente: entendo, da para configurar tudo isso
+essa parte de fluxograma a gente que fazemos pois realmente é algo meio complexo de ser feito
+Atendente: então nesse caso você usou texto exato, correto?
+esse texto ativa de acordo com o que o cliente fala
+Atendente: então para ativar o cliente teria que falar exatamente isso estando na Ura 2
+Atendente: *"Ok, vou entrar no sistema para colocar seus dados e fazer a simulação e logo ja te informo como ficou."*
+isso é uma coisa que o cliente não vai falar, mas sim o chatbot
+Cliente: *Prime Residencial - Atendimento:* 
+Nem pensei na ideia do chatbot falar a mensagem, e sim quando o atende utiliza uma das respostas automáticas já acontecer essas alterações
+Atendente: kk normal, nesse caso do senhor seria isso mesmo
+Cliente: *Prime Residencial - Atendimento:* 
+eu tava colocando a mensagem tanto pelo cliente quanto pelo ZapGuru pra ver se acontecia. Mas eu quero que seja quando o nosso atendente responder
+Atendente: exato, dai você coloca isso em mensagem
+Atendente: mensagem do chatbot
+Atendente: o chatbot só Detecta o que o cliente fala, não o atendente
+Cliente: *Prime Residencial - Atendimento:* 
+entendi, então toda vez que eu quiser uma ação automática pelo atendente eu tenho que criar como uma "ação" e mandar o atendente usar o opção "Executar diálogo"
+Atendente: Também dá
+Atendente: quer que eu crie um exemplo lá?
+Cliente: *Prime Residencial - Atendimento:* 
+sim, pra me indicar o caminho, 😁
+Atendente: então ta bom :D
+vou utilizar como Base o que você ja fez, ok?
+Cliente: *Prime Residencial - Atendimento:* 
+ótimo, depois queria perguntar sobre os perfis
+Atendente: Vou fazer na conversa aqui mesmo
+Cliente: *Prime Residencial - Atendimento:* 
+ok,
+Cliente: *"Ok, vou entrar no sistema para colocar seus dados e fazer a simulação e logo ja te informo como ficou."
+Cliente: *Prime Residencial - Atendimento:* 
+Dessa forma como não tem gatilho ficou como ação em "Executar diálogo né?
+Atendente: agora olha la no funil, o chat ja foi enviado para a Etapa Pré Determinada do funil
+Atendente: Exatamente meu querido
+e na parte de *"INVOCÁVEL"* tem que deixar sim, pois ai o atendente tem acesso para poder executar
+Atendente: ta vendo? :D
+Atendente: ai agora é só questão de você configurar como realmente deseja
+Cliente: *Prime Residencial - Atendimento:* 
+nesse caso específico então não preciso de um contexto de saída já que não tenho nada definido para a posição na URA, certo?
+Atendente: não precisa, só coloca se *REALMENTE* for necessário
+Atendente: tipo, você realmente precisa que ele vai para um determinado caminho
+do contrario não precisa
+Cliente: *Prime Residencial - Atendimento:* 
+entendi!!! Show. Teremos reunião pra definir depois o que iremos precisar
+Cliente: *Prime Residencial - Atendimento:* 
+já tirei o contexto de saída de lá. Vamos falar sobre os perfis agora
+Atendente: legal :D
+Atendente: certo, qual a duvida meu jovem? kk
+Cliente: *Prime Residencial - Atendimento:* 
+Notei que quando a gente entra pelo perfil do atendente não aparecem esses gráficos que vou mandar
+Atendente: o da DashBoard, apenas usuários ADM tem acesso a esses dados
+Atendente: só os usuários ADM tem esses dados, os atendentes não tem
+Cliente: *Prime Residencial - Atendimento:* 
+Não existe hoje pelo menos o status do usuário e do setor logado na tela dos chats? Pelo menos inicialmente eu vejo que essa parte visual ajuda a dar um foco pro atendente. Um certo sentido de urgência em saber quantos atendimentos tem em aberto
+Atendente: infelizmente não
+só usuários Adm tem acesso a esse tipo de informação
+Cliente: *Prime Residencial - Atendimento:* 
+entendi, vou levantar na reunião também como vamos adotar isso
+Cliente: *Prime Residencial - Atendimento:* 
+Ainda com relação aos perfis de usuário. Eles foram criados sem número de telefone e gostaria de mudar um nome de um deles. Em ambos os casos será necessário excluir e criar um novo? Ou você pode alterar direto pelo Banco?
+Atendente: entendi, bom a unica forma para ter acesso a esses dados seria colocar todos como adm (o que não recomendo)
+Atendente: eu posso alterar sim
+você deseja manter o email cadastrado nesse usuário?
+Atendente: Digo manter esse mesmo e-mail
+Cliente: *Prime Residencial - Atendimento:* 
+ok. não vamos deixar mais usuários como adm não. Vamos manter dessa forma e definir aqui na empresa como trabalhar a parte visual dessas informações
+Cliente: *Prime Residencial - Atendimento:* 
+Sobre a alteração de perfil me dá um tempo pra eu confirmar todas as alterações de uma vez só. A inclusão do telefone no perfil é só pra receber relatório né?
+Atendente: entendi, fico no aguardo então
+
+
+E sim, a inclusão do numero é justamente para isso, receber o relatório
+Atendente: agora uma coisa que você pode fazer é, colocar os números dos usuários e enviar o relatório para eles também, nesse caso ele consegue receber os gráficos (se tiver liberado a opção para o usuário, é claro rsrs)
+Cliente: *Prime Residencial - Atendimento:* 
+já tenho os nomes aqui pra alterar. Não vamos incluir por enquanto o telefone (deixa por email mesmo)
+Cliente: *Prime Residencial - Atendimento:* 
+Modificar:
+Atendente: Certo rsrs
+manda ai
+Cliente: *Prime Residencial - Atendimento:* 
+Fábio -> Análise de Crédito / Midian -> Atendimento / Taiana -> Relacionamento
+Cliente: *Prime Residencial - Atendimento:* 
+Ruthiane -> Análise de Crédito
+Atendente: ficou meio confuso, isso basicamente é como está agora
+Cliente: *Prime Residencial - Atendimento:* 
+sim, mas não queremos o nome das pessoas porque provavelmente vamos alterar aqui internamente
+Cliente: *Prime Residencial - Atendimento:* 
+1 -> Análise de Crédito / 2 -> Atendimento / 3 -> Análise de Crédito / 4  -> Relacionamento
+Atendente: porque assim, esses nomes que aparece nessa imagem acima, só nós conseguimos alterar
+Esse que você está alterando é o nome que aparece para o cliente
+Atendente: certo
+Atendente: você deseja que altere os emails que contem nomes?
+Cliente: *Prime Residencial - Atendimento:* 
+Os emails ficam os mesmos, só alterar o nome que está em azul
+Cliente: *Prime Residencial - Atendimento:* 
+ok, obrigado.
+Atendente: Magina
+Fora isso ajudo em algo mais? :D
+Cliente: *Prime Residencial - Atendimento:* 
+por enquanto não. Bom almoço pra você
+Atendente: Obrigado :D
+Atendente: PRIME, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde 😃
+Do Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, tive uma conversa que foi iniciada agora pelo cliente que o Chatbot não abriu
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+link da conversa https://app5.zap.guru/chats/5f4005a2035f6410e1fe492f
+Atendente: PRIME, me chamo Daniel. Vou analisar a conversa e já te informo. Só um momento, por favor.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Somente esse chat que não foi identificado pelo Chatbor ou houve algum outro caso?
+Atendente: Chatbot*
+Cliente: *Prime Residencial - Atendimento:* 
+aparentemente só esse
+Cliente: *Prime Residencial - Atendimento:* 
+Temos um empreendimento que liberamos o numero do Zapguru hoje para o atendimento ser por aqui. Então deve começar a cair mais atendimentos a partir de agora
+Atendente: Entendi.
+Atendente: Talvez esse único contato que não foi identificado pelo Chatbot, pode ser um contato antigo.
+Atendente: Como aparentemente somente foi um caso, é possível aplicar manualmente o Chatbot.
+Atendente: Uma sugestão do que podemos fazer seria, rodarmos uma nova campanha para todos os contatos, para testarmos se o Chatbot e verificar se mais algum contato não é identificado. Há algum horário que possamos fazer esse teste?
+Cliente: *Prime Residencial - Atendimento:* 
+Aceito a sugestão mas vamos agendar para segunda na parte da manhã isso. Porque aí posso acompanhar com calma todo o processo
+Atendente: Sem problemas. Esse campanha não vai gerar nenhuma mensagem ou notificação para nenhum contato. Será somente para criar um contexto de saída e termos a certeza que todos os contatos serão identificados pelo Chatbot.
+Atendente: Na segunda-feira, somente enviar uma mensagem para a nossa equipe, no horário que achar melhor, e faremos o teste! 😀
+Atendente: Posso te ajudar com algo mais?
+Atendente: PRIME, estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boas noite, não recebi novamente o boleto
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá PRIME Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru,  entendo, vou te passar para o financeiro
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!c
+Atendente: Um momento por favor
+Atendente: Segue
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, o add chat continua não funcionando. Fizemos o procedimento no AUTOMATE e não liberou
+Atendente: Vou te transferir para o suporte te ajudar, tudo bem?
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Marque essa primeira caixinha.
+Atendente: Todas as permissões devem tá habilitadas,
+Atendente: Deu certo?
+Atendente: Prime?
+Atendente: PRIME estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok? 😃
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, estou com o aparelho em mão para fazer o procedimento e estou precisando de uma ajuda 15
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde PRIME! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Cliente: *Prime Residencial - Atendimento:* 
+Oi Luiz, estou tentando fazer o procedimento no automate, mas preciso de suporte
+Atendente: Certo.
+Cliente: *Prime Residencial - Atendimento:* 
+porque o addchat não está funcionando e tem conversa pendente pra iniciar de clientes que nos chamaram pelo instagram
+Atendente: AnyDesk: https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR
+Atendente: instala esse aplicativo
+Cliente: *Prime Residencial - Atendimento:* 
+no aparelho?
+Atendente: abre e me envia o código
+Atendente: sim
+Atendente: no celular
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Cliente: *Prime Residencial - Atendimento:* 
+131 844 042
+Atendente: deixa aberto
+Atendente: o anydesk
+Cliente: *Prime Residencial - Atendimento:* 
+conectou?
+Atendente: agora sim
+Atendente: não tô conseguindo controlar
+Atendente: abre o automate
+Cliente: *Prime Residencial - Atendimento:* 
+posso verificar agora?
+Atendente: Ta cadastrando normal agora. Não use DAY GREETING no momento de adicionar. Só funciona com um chat já adicionado.
+Atendente: Sempre que um contato estiver pendente faça isso aqui
+Atendente: PRIME Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou corrigir esse processo.
+Atendente: PRIME, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: *Prime Residencial - Atendimento:* 
+valeu, vou deixar salvo aqui fora
+Atendente: Na dica que deu acima, ao invés de procurar um arquivo com o nome Zapguru, você vai procurar um com o nome Prime
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+ótimo, uma outra pergunta, para eu fazer teste e saber se meu chatbot tá entrando certo na URA, eu posso apagar o STATUS 'true" e iniciar a conversa de novo?
+Atendente: Sim
+Atendente: Faça isso apenas em chats de testes ok
+Cliente: *Prime Residencial - Atendimento:* 
+ok, é exatamente nesse perfil aí que vou mexer isso. Justamente pra testar o que for preciso
+Atendente: Tranquilo
+Cliente: *Prime Residencial - Atendimento:* 
+outra coisa, fizemos o pagamento do boleto atrasado ontem, preciso encaminhar o comprovante por aqui? Preciso alterar também o email pra enviar os próximos boletos e confirmar a data de vencimento
+Atendente: Pra isso vou te passar para o setor financeiro.
+Atendente: Você manda o comprovante para eles por aqui mesmo.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Cliente: *Prime Residencial - Atendimento:* 
+certo, vou aguardar eles
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, boa tarde!
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, segue o comprovante do pagamento
+Cliente: *Prime Residencial - Atendimento:* 
+Conforme falei aí em cima, preciso modificar o endereço pra recebimento dos boletos para: wanessa.pimenta@primeresidencial.com.br
+Atendente: Claro, um momento.
+Atendente: Pronto, fiz a modificação.
+Atendente: Muito obrigada!
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+só precisava confirmar a data de vencimento e pode finalizar ess atendimento
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Boa noite, SUPORTE.
+Seja bem vindo a PRIME RESIDENCIAL
+Esta é uma mensagem automática.
+,m
+Nosso horário de atendimento é de Segunda à Sexta feira, das 8hs as 18hs.
+Obrigado.
+Atendente: Todo ddia 24
+Atendente: Bom dia! rsrs desculpe
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, como faço para alterar a imagem do ZapGuru pelo navegador? Não estou com o celular em mãos. A imagem é esta que vou enviar
+Atendente: Um momento que vou te encaminhar para o suporte
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá PRIME, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *Prime Residencial - Atendimento:* 
+boa tarde, queria alterar a imagem
+Cliente: *Prime Residencial - Atendimento:* 
+só pode ser feito pelo celular instalado? Porque o celular não fica conosco no escritório
+Atendente: Isso, pois o ZapGuru utiliza a conexão com o aparelho
+Cliente: *Prime Residencial - Atendimento:* 
+poxa, que pena. Tomara que entre em uma atualização futura esta opção.
+Atendente: Irei colocar na parte de sugestões da equipe de desenvolvimento
+Atendente: Para que eles analisem para uma possível implementação no futuro
+Atendente: Mas, no momento, é apenas pelo aparelho
+Atendente: Posso te ajudar em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+não. somente isso. obrigado
+Atendente: Por nada! qualquer dúvida é só entrar em contato conosco 😁 Tenha uma ótima tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Obrigado pelo contato.
+*Atendimento Encerrado*
+_( Não precisa responder essa mensagem. )_
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, estou com algumas solicitações pra fazer. A primeira é: tem uma resposta automática que não está atualizada usando celular. Tem que atualizar alguma coisa?
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Olá SUPORTE! Ficamos felizes com o seu contato!
+Seja bem vindo(a) a *PRIME RESIDENCIAL*
+Esta é uma mensagem automática.
+
+Digite a opção desejada para que possamos encaminhar para o departamento responsável.
+
+*[ 1 ]* - JÁ SOU CLIENTE PRIME
+*[ 2 ]* - PLANEJANDO COMPRAR MEU PRIME
+
+Digite o número escolhido ou *encerrar* para finalizar seu atendimento.
+Atendente: Olá PRIME Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, Ficou meio difuso =/
+você quer fazer uma atualização no celular e que ela apareça na plataforma, isso?
+Atendente: 😃
+Cliente: *Prime Residencial - Atendimento:* 
+ Boa tarde, não. O que aconteceu foi o seguinte. foi utilizado  a resposta rápida (/valor) pelo usuário "midiandamasceno@primeresidencial.com.br" pelo celular e apareceu a mensagem antiga que estava gravada.
+Cliente: *Prime Residencial - Atendimento:* 
+No Vista do Bosque temos unidades a partir de R$127.990,00. Dependendo da sua renda, você pode financiar todo este valor ou, se preferir, pode dar um sinal ou até mesmo usar seu fgts como entrada.
+Lembrando que o financiamento vc só começa a pagar depois do imóvel pronto!
+Atendente: Então, mas essa mensagem é resposta rápida correto?
+no caso ela é individual, se for necessário atualizar, o usuário tem que mudar
+Atendente: se você fez uma resposta e passou para eles, no caso tem que apagar a mensagem rápida antiga em cada usuário
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou verificar aqui o que aconteceu novamente então. Vou pegar a senha e login dela pra testar
+Cliente: *Prime Residencial - Atendimento:* 
+]
+Cliente: *Prime Residencial - Atendimento:* 
+]]
+Cliente: *Prime Residencial - Atendimento:* 
+]
+Atendente: Ok ;D
+Atendente: Viu ai meu amigo? ;D
+Cliente: *Prime Residencial - Atendimento:* 
+Vi sim e entendi. Obrigado. Tenho mais um chamado pra abrir mas ainda dependo de outra coisa aqui primeiro
+Cliente: *Prime Residencial - Atendimento:* 
+Uma pergunta: quero criar um link de conversa pro meu cliente do instagram. Quando ele clicar nesse link vir direto pra uma mensagem  no Zapguru. tem como?
+Atendente: Opa tem sim meu amigo
+Atendente: vou te enviar um video que explica exatamente como fazer isso
+Atendente: tudo bem?
+Cliente: *Prime Residencial - Atendimento:* 
+ótimo
+Atendente: https://youtu.be/hyeANVPgdZk
+Atendente: achei aqui rsrs
+esse vídeo ensina exatamente isso
+Atendente: Precisa de mais alguma ajuda?
+Cliente: *Prime Residencial - Atendimento:* 
+Por enquanto não. Obrigado
+Atendente: Magina ;D
+Atendente: PRIME, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Ótima Boa tarde 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, a planilha CSV exportada dos relatórios está com erro. A planilha salva o link de forma errada. Falta o "/chats/" no link
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, bom dia!
+Atendente: Eu sou o Lucas, suporte do ZapGuru!
+Atendente: Aparentemente, as informações geradas pelo relatório e exportadas em CSV para o Excel estão corretas.
+Atendente: Ajudo você em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+as informações não estão completas. Gera o arquivo e clica no link da conversa. Ela dá erro. Aí eu entrei e uma conversa e vi que a URL seguia um padrão diferente.
+Cliente: *Prime Residencial - Atendimento:* 
+Essa é a URL da nossa conversa: https://app5.zap.guru/chats/5f3ec1bf035f6410e1fe3330
+Cliente: *Prime Residencial - Atendimento:* 
+e essa é uma URL do arquivo CSV: https://app5.zap.guru/5f085d283b899b5fe0a68d31
+Cliente: *Prime Residencial - Atendimento:* 
+como disse, está faltando o "/chats/" bem no meio e não abre a conversa
+Atendente: Ok! Vou passar essa informação para nosso time de desenvolvimento. Peço que aguarde!
+Cliente: *Prime Residencial - Atendimento:* 
+ok, tranquilo
+Atendente: Aviso a você assim que for alterado.
+Cliente: *Prime Residencial - Atendimento:* 
+boa tarde, quero mudar 2 usuarios
+Atendente: Boa tarde. Quais as alterações?
+Cliente: *Prime Residencial - Atendimento:* 
+os dois usuários que estão como análise credito
+Atendente: Sou o Luiz. O Lucas está em pausa.
+Cliente: *Prime Residencial - Atendimento:* 
+ok Luiz.
+Atendente: Para quais emails e nomes?
+Cliente: *Prime Residencial - Atendimento:* 
+davidcorretor8992@gmail.com - Atendimento - Vendas
+Cliente: *Prime Residencial - Atendimento:* 
+gerentedreamhouse@gmail.com - Atendimento - Comercial
+Cliente: *Prime Residencial - Atendimento:* 
+eu consigo criar uma nova senha pra eles pela aba usuários?
+Atendente: Eu crio uma senha padrão para os dois. Após cada  um logar eles mesmos alteram pelas  "Minhas configurações"
+Cliente: *Prime Residencial - Atendimento:* 
+OK, perfeito
+Atendente: Um momento.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Quanto a essa solicitação, o setor técnico constatou a falha e está em processo de correção.
+Cliente: *Prime Residencial - Atendimento:* 
+imaginei que iria demorar mais.
+Atendente: No momento, não tenho uma previsão de quando estará corrigido, mas já está no cronograma do time de desenvolvimento. Desde já agradecemos o alerta. :)
+Atendente: Posso te ajudar em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+pode me mandar o link de configurar a fila de atendimento pra ver se eu fiz corretamente?
+Atendente: Da configuração da URA?
+Cliente: *Prime Residencial - Atendimento:* 
+sim
+Atendente: Um momento.
+Atendente: Vou verificar a URA.
+Atendente: Qual é o seu horário de funcionamento?
+Cliente: *Prime Residencial - Atendimento:* 
+a fila de atendimento que vou colocar é pra o pré-Atendimento. nível 2 da URA
+Cliente: *Prime Residencial - Atendimento:* 
+Com a alteração desses usuários a gente deve atender fora do horário comercial também. Por isso desliguei o bot de horário
+Atendente: Aqui você pode assistir o tutorial de URA com subníveis: https://www.youtube.com/watch?v=BGlzZixF4nM&t=627s
+Atendente: Estou verificando o bot.
+Atendente: Qual o horário de atendimento de vocês?
+Cliente: *Prime Residencial - Atendimento:* 
+atendemos de 08 as 18, mas o atendimento vai se prolongar com a entrada desses novos perfis
+Atendente: Seu bot está correto. Só precisamos colocar as delegações em cada opção da URA.
+Atendente: Só os atrasos que tavam mto alto
+Atendente: Podemos fazer um call agora?
+Atendente: Assim eu explico melhor para você
+Atendente: Estou encerrando seu chat por inatividade.
+
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, pra usar o ZapGuru pelo Iphone. Como eu posso fazer?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde! Tudo bem?
+Atendente: Não recomendamos utilizar o ZapGuru em Iphone!
+Atendente: *Recomendação Geral*
+- Smartphone com Android acima do 8
+- Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+- No mínimo 16gb de memória de armazenamento em disco
+- Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+- *Tela desbloqueada e ligada* com o WhatsApp *aberto*
+- Para contas com alto volume usar aparelho com bom poder de processamento e memória.
+Cliente: *Prime Residencial - Atendimento:* 
+na verdade acho que minha pergunta é outra. eu quero entrar como usuário usando o Iphone
+Cliente: *Prime Residencial - Atendimento:* 
+o aparelho principal a gente usa um android e nem deixamos no escritório
+Atendente: É só acessar o safari e colar nossa URL no navegador: https://app5.zap.guru/
+Cliente: *Prime Residencial - Atendimento:* 
+ok, tenho outra pergunta. Estou com um LEAD sendo captado pelo site e está chegando por email o LEAD. Existe alguma foram de captar esse LEAD direto para o ZapGuru?
+Atendente: Você pode > criar uma land page > com o link do whatsapp (zapguru) e uma mensagem (por exemplo, quero informações sobre o apartamento X) > você coloca essa mensagem em um gatilho de texto exato pra ativar o chatbot pra ele (aí você escolhe o direcionamento que quer dá).
+Atendente: https://resultadosdigitais.com.br/especiais/landing-page/
+Atendente: No site, você coloca pra mandar para o e-mail e whatsapp (com a URL do seu número wp)
+Atendente: Automaticamente, o chat irá ser aberto no whatsapp, em seguida, no zapguru
+Atendente: No zapguru, você pode criar um gatilho de texto exato com a mensagem que foi você colocou junto com o link para ativar o chatbot.
+Cliente: *Prime Residencial - Atendimento:* 
+Tem uma forma de apagar/cancelar o envio de mensagens?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Não ;(
+só no próprio aparelho
+Atendente: pelo aparelho você consegue, no zapguru não =/
+Cliente: *Prime Residencial - Atendimento:* 
+ok, então não deu tempo. No aparelho já apareceu apagar só pra mim
+Cliente: *Prime Residencial - Atendimento:* 
+O Mark está em atendimento hoje? Queria tirar umas dúvidas com ele
+Atendente: poxa vida =/
+Quando for assim vai direto no aparelho que resolve
+Atendente: está sim, vou ver sele consegue te atender tambem, um momento :D
+Cliente: *Prime Residencial - Atendimento:* 
+ok.
+Atendente: *➡ Você foi encaminhado para: Suporte Mark*
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Mark. Me chamo Antonio e a Carolina me pediu que falasse direto contigo hoje
+Atendente: Certo, qual sua dúvida Antonio.
+Cliente: *Prime Residencial - Atendimento:* 
+Tenho algumas. A primeira é sobre o add chat
+Atendente: Pode falar
+Cliente: *Prime Residencial - Atendimento:* 
+O celular principal não ficava no escritório e por 2 vezes deu problema pra adicionar chat e tivemos que rodar o automate. A última vez foi a 2 dias atrás mas inclui chats nesse meio tempo
+Atendente: Você precisa verificar na hora se o addchat funcionou, se ficar pendente é por que o automate está com problema.
+Atendente: Isso ocorre por causa da baixa performance do celular.
+Atendente: Pode ser por causa de alguma configuração do aparelho ou por ser um aparelho antigo.
+Cliente: *Prime Residencial - Atendimento:* 
+quando voce fala performance é internet ou o aparelho?
+Atendente: Aparelho.
+Atendente: Qual marca e modelo do aparelho que vocês estão usando?
+Cliente: *Prime Residencial - Atendimento:* 
+ok. vou acompanhar os próximos dias e ver se acho algum tipo de padrão. e depois dou uma olhada no aparelho também
+Cliente: *Prime Residencial - Atendimento:* 
+Samsung J2
+Cliente: *Prime Residencial - Atendimento:* 
+Sobre contatos salvos. O atendimento antigo funcionava por outro número e temos muitos telefones cadastrados nele. Consigo importar essa lista de contatos?
+Cliente: *Prime Residencial - Atendimento:* 
+Porque a próxima dúvida é sobre lista de transmissão e como fazer ela no ZapGuru. E aí se conseguir importar os contatos fica muito mais fácil
+Atendente: O problema está aqui. O Samsung J2 é um aparelho antigo e descontinuado da samsung. Ele apresenta vários problemas de instabilidade em sue sistema operacional.
+Atendente: Recomendamos assim que possível realizar a troca do aparelho por um mais moderno, de preferencia da linha A ou Linha S da samsung.
+Cliente: *Prime Residencial - Atendimento:* 
+Ótimo vou passar essa informação pra Carol
+Atendente: Não, só adicionando um a um ou fazendo um envio para eles através de lista de transmissão.
+Cliente: *Prime Residencial - Atendimento:* 
+sobre os contatos e lista de transmissão
+Atendente: Podemos marcar uma videochamada para te ensinar como mandar mensagens para listas de trasmissão.
+Cliente: *Prime Residencial - Atendimento:* 
+poxa vida. tudo bem. Como funciona a criação de lista de transmissão
+Atendente: temos horário disponível de 17h as 18h hoje ou podemos ver outro horário para amanhã.
+Atendente: Na videochamada te explico.
+Cliente: *Prime Residencial - Atendimento:* 
+pode ser hoje sim. ótimo
+Atendente: Ok, agendado para as 17h.
+Atendente: Mais tarde te chamo aqui.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Vamos começar?
+Atendente: https://meet.google.com/vrq-uvnd-kim
+Atendente: Só acessar o link da videochamada
+Atendente: https://wiki.zap.guru/api/api-documentacao-v1
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, preciso alterar um usuário
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Daniel, preciso alterar o usuário taiana.gama@primeresidencial.com.br
+Cliente: *Prime Residencial - Atendimento:* 
+pode deixar, mudamos de idéia aqui. A alteração que precisava fazer era só de perfil
+Atendente: Tudo bem 😀
+Atendente: Posso te ajudar com algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+não. obrigado
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde,
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde. Meu nome é Hugo.
+Atendente: no que eu posso te ajudar?
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Hugo, queria confirmar se eu estou fazendo corretamente uma campanha
+Cliente: *Prime Residencial - Atendimento:* 
+Fiz a lista de transmissão no aparelho, renomeie ela no chat e coloquei uma tag
+Cliente: *Prime Residencial - Atendimento:* 
+no robo eu criei a ação da campanha
+Cliente: *Prime Residencial - Atendimento:* 
+e agora estou na tela de criação da campanha com essa tela.
+Cliente: *Prime Residencial - Atendimento:* 
+O meu passo-a-passo está correto? preciso de alguma alteração ? A campanha é só pra enviar um formulário para os clientes dessa lista preencherem.
+Atendente: pelo que você me mostrou aqui está tudo perfeito.
+Atendente: Mas você criou um dialogo com esse formulário?
+Cliente: *Prime Residencial - Atendimento:* 
+ok, a outra dúvida não sei se pode me ajudar. Foi criada a lista de transmissão no aparelho mas eu não achei ela.
+Cliente: *Prime Residencial - Atendimento:* 
+sim
+Atendente: não achou ela? E como você colocou a tag?
+Atendente: e a Carolina também por ser admin
+Cliente: *Prime Residencial - Atendimento:* 
+a minha pergunta na verdade era no celular que está com o chip. estou tentando verificar nele pra poder adicionar mais pessoas
+Atendente: ha sim, você tem que fazer pelo celular mesmo, toda a lista é criada no aparelho com todos os recipientes escolhidos (250 se não me engano)
+Atendente: Você conseguiu achar a lista de transmissão no celular?
+Atendente: a lista de transmissão fica igual um contato (na foto aparece um megafone)
+Cliente: *Prime Residencial - Atendimento:* 
+ok, obrigado
+Atendente: posso te ajudar com algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado, boa tarde
+Atendente: boa tarde
+Atendente: se precisar pode falar com a gente
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, vi que 3 ou 4 chats não teve a entrada do chatbot e no cartão de contato do cliente ainda aparece sem nada no contexto
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+https://app5.zap.guru/chats/5f6899c0e6b7cf47598e973a
+Cliente: *Prime Residencial - Atendimento:* 
+https://app5.zap.guru/chats/5f6899bee6b7cf47598e9731
+Atendente: Olá, bom dia! Estou verificando agora mesmo o que houve
+Cliente: *Prime Residencial - Atendimento:* 
+Obrigado, também notei que aconteceu 1 ou 2 chats na semana anterior. Mas não anotei
+Atendente: Carolina, acabei de verificar aqui e notei duas coisas.
+A primeira delas é que nesses minutos que entrei no acesso de vocês, ali onde mostra "conectado" com o número de celular ao lado, ficou como "sincronizando", que é uma desconexão da plataforma. A outra foi em seu diálogo, ele está configurado corretamente e fiz um teste reprocessando a mensagem do chat "Roberto Magno" e a ura foi ativada, como coloquei um atraso de 100 segundos deu para cancelar.
+Então nas duas situações enviadas (e nas anteriores) o que pode ter acontecido é que o celular se desconectou da plataforma
+Cliente: *Prime Residencial - Atendimento:* 
+entendi. Qual a forma de fazer a ação inicial do chatbot funcionar? Incluir uma ação de "Resolvido" mandando uma mensagem e mudando o status do chat -> false pra iniciar um novo chat na próxima mensagem do cliente? Algo do tipo?
+Atendente: Desculpe, não entendi. Esses dois chats, por exemplo, se mandarem outra mensagem, irão iniciar a URA
+Cliente: É pra colocar a conversa como respondido entao e mandar uma mensagem pra ele pra iniciar a URA
+Atendente: Enviar uma mensagem ao chat não fará iniciar a URA, apenas se o chat envie uma mensagem, mas você pode iniciar ela de forma manual também, reprocessando a mensagem que ele enviou. E sobre colocar o status como "Resolvido", ali onde está "Aberto", clicando abre uma seleção dos 5 status possíveis.
+Cliente: *Prime Residencial - Atendimento:* 
+como é esse processo de reprocessar a mensagem?
+Atendente: Basta clicar na setinha abaixo da mensagem, depois nos três pontinhos e em "reprocessar", vou enviar prints
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Prime, vamos finalizar nosso atendimento por inatividade, mas ficamos a disposição
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, quanto é o valor para cada usuário adicional?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, PRIME. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: O custo para adicionar um usuário é de R$50,00.
+Atendente: Se você quiser, posso te passar pro nosso financeiro para te ajudar com essa contratação e te dar mais detalhes.
+Atendente: PRIME, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, preciso alterar uma senha e email.
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, PRIME. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: Um minuto que vou acessar sua conta
+Atendente: Já encontrei.
+Atendente: Me informa o novo e-mail e nova senha pra esse usuário.
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Rodrigo. Alterar esse usuário para o email: amanda.conduru@primeresidencial.com.br
+Cliente: *Prime Residencial - Atendimento:* 
+senha: prime123
+Cliente: *Prime Residencial - Atendimento:* 
+ok, obrigado e bom almoço
+Atendente: Obrigado! Pra vocês também!
+Atendente: PRIME, qualquer dúvida a mais, estamos à disposição! 😊
+Cliente: *Prime Residencial - Atendimento:* 
+onde está escrito :
+Cliente: *Prime Residencial - Atendimento:* 
+Atendimento - Vendas. Pode alterar para Correspondente?
+Cliente: *Prime Residencial - Atendimento:* 
+Obrigado
+Atendente: Por nada!
+Atendente: PRIME, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, quero adicionar um usuário a nossa conta
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, PRIME. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: Vou te passar pro nosso setor financeiro que irá te ajudar nessa contratação. Aguarde um instante, por gentileza. 🙂
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, boa tarde!
+Cliente: *Prime Residencial - Atendimento:* 
+boa tarde, quero cadastrar mais 1 usuário
+Cliente: *Prime Residencial - Atendimento:* 
+Qual o valor? Já posso mandar os dados por aqui depois de autorizado?
+Atendente: O valor é R$50,00
+Atendente: Te dou a licença do usuário e você cadastra, caso tenha duvidas o suporte te auxiliará
+Cliente: *Prime Residencial - Atendimento:* 
+ok,
+Cliente: *Prime Residencial - Atendimento:* 
+ok, aguardo a liberação pra fazer o cadastro.
+Atendente: PRIME, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Prime Residencial - Atendimento:* 
+Mandei para pagamento no setor financeiro. Assim que tiver o comprovante te encaminho
+Atendente: Fechado, obrigada
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, segue comprovante para a liberação de mais 1 usuário
+Atendente: Show, um momento.
+Atendente: *✅  Concluído*
+*Prime Residencial*
+1 usuário adicional
+*Total de 6 usuários*
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+vou verificar
+Cliente: *Prime Residencial - Atendimento:* 
+OK, obrigado. pode finalizar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, como faz para ter acesso a API? Queremos integrar o ZapGuru com um CRM
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Para ter acesso a API na sua conta, você precisa adquirir o módulo de API que tem custo de apenas R$ 100,00/mensal em sua conta.
+Atendente: Deseja efetuar a contratação agora?
+Cliente: *Prime Residencial - Atendimento:* 
+a única forma de integração é via API, ou existe outra forma de puxar dados para o CRM. Tipo importação de relatórios
+Atendente: Única forma é via API.
+Atendente: Te ajudo em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+por enquanto somente
+Atendente: Ótimo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, vi que apesar de ter retirado um usuário da fila de atendimento ainda estão sendo atribuidos leads para ele
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: certo, vou ver coa/o
+Atendente: Olá PRIME Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, certo, vou ver como está 😃
+Cliente: *Prime Residencial - Atendimento:* 
+ok. é o usuário "Correspondente"
+Atendente: corrigido
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado
+Atendente: Imagina :D
+Atendente: ajudo em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+não. obrigado
+Atendente: certo :D
+Atendente: PRIME, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Ótima Bom dia 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, sobre o módulo de API. Como funciona a ativação e cancelamento?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: O módulo de API após contratado é liberado para uso na mesma hora. E sobre o cancelamento, também é imediato após solicitado
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou verificar se vamos habilitar
+Cliente: *Prime Residencial - Atendimento:* 
+Exemplo: caso fique por 2 meses e meio, é cobrado R$200,00, R$ 250,00 ou R$ 300,00? Ou seja, a cobrança é proporcional?
+Atendente: A cobrança é sempre integral na mensalidade, usando os dias totais do mês ou apenas alguns
+Atendente: Nosso atendimento será finalizado por inatividade, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, queremos solicitar a liberação do módulo de API
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, PRIME. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Cliente: *Prime Residencial - Atendimento:* 
+Olá Rodrigo
+Atendente: Vou passar para o nosso setor financeiro que trata dessas contratações.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, boa tarde!
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde,
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Cliente: *Prime Residencial - Atendimento:* 
+ok, obrigado
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, estou com uma dúvida referente a cadastro de Chatbot.
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: *Prime Residencial - Atendimento:* 
+Tenho a frase "Vi a PRIME RESIDENCIAL no INSTAGRAM e gostaria de saber mais informações", quando o LEAD acessa um link de abertura de chat para cair no nosso Whatsapp, coloquei essa mensagem que está entre aspas
+Cliente: *Prime Residencial - Atendimento:* 
+Configuro um diálogo como a frase toda para associar ao FUNIL que já criei? ou posso colocar parte da frase
+Cliente: *Prime Residencial - Atendimento:* 
+como a frase = com a frase
+Atendente: Quando o cliente é direcionado para o ZapGuru, a frase que inicial o chat é "Vi a PRIME RESIDENCIAL no INSTAGRAM e gostaria de saber mais informações"?
+Cliente: *Prime Residencial - Atendimento:* 
+sim, tenho 3 links criados com frases diferentes pra eu saber de onde estão vindo esses Leads
+Atendente: Certo.
+Então você criará o diálogo como gatilho de texto exato: Vi a PRIME RESIDENCIAL no INSTAGRAM e gostaria de saber mais informações.
+E como ação, irá colocar funil e a etapa desejada.
+
+Toda vez que o cliente iniciar o chat e tiver a frase "Vi a PRIME RESIDENCIAL no INSTAGRAM e gostaria de saber mais informações", exatamente igual, irá colocar no funil e etapa configurados.
+Cliente: *Prime Residencial - Atendimento:* 
+Minha dúvida é: posso colocar só parte do texto? Porque as vezes o cliente apaga uma parte ou altera o final. Queria deixar até a parte do Instagram
+Cliente: *Prime Residencial - Atendimento:* 
+e nesse caso acima eu tenho que configurar a URA como "false" porque o robo não vai ter sido acionado ainda? Vou te mandar a foto de um chat que teve
+Atendente: Sim, pode.
+Se não houver algum outro diálogo com o nome parecido que possa causar confusão, sem problemas.
+Cliente: *Prime Residencial - Atendimento:* 
+beleza. entendi. nesse meu exemplo ele vai procurar se tem dentro do texto completo a expressão exata. certo?
+Atendente: Exato. Você pode colocar o texto como Vi a PRIME RESIDENCIAL no INSTAGRAM.
+Como há o texto exato, ele irá executar a ação.
+Atendente: O melhor é criar um diálogo e colocar um contexto de, por exemplo, "instagram=true". 
+Daí no diálogo de encerramento, você coloca no contexto de saída, "instagram=false"
+Cliente: *Prime Residencial - Atendimento:* 
+Acho que vai dar erro se colocar só a palavra pois se ele comentar qualquer coisa contendo instagram pode alterar
+Cliente: *Prime Residencial - Atendimento:* 
+tem que criar mais um contexto então tipo "if (funil captação == 'false')" Porque a partir do momento que já foi atribuido a primeira vez a captação ela não pode ser alterada
+Atendente: Se preferir, podemos fazer a configuração e fazermos um teste. 
+Pode ser?
+Cliente: *Prime Residencial - Atendimento:* 
+já ia te pedir essa ajuda
+Atendente: Vou preparar a configuração e fazer alguns testes com o meu número pessoal.
+Cliente: *Prime Residencial - Atendimento:* 
+ok, mas a minha linha de raciocinio estava correta?
+Atendente: Mais ou menos kkkkkk
+Atendente: Qual será o funil e a etapa?
+Cliente: *Prime Residencial - Atendimento:* 
+beleza, no aguardo
+Cliente: *Prime Residencial - Atendimento:* 
+alterei o funil para "ORIGEM LEAD". já está criado
+Atendente: Após a mensagem, "Vi a PRIME RESIDENCIAL no INSTAGRAM e gostaria de saber mais informações", o cliente deve receber a URA?
+Atendente: Ou não?
+Cliente: *Prime Residencial - Atendimento:* 
+Sim
+Atendente: Certo.
+Cliente: *Prime Residencial - Atendimento:* 
+Esse funil é pra eu saber de onde tá vindo o LEAD pra colocar no meu CRM. Porque eu posso puxar um relatório filtrando o funil INSTAGRAM. Baseado no seu depois eu vou copiando e incluindo as próximas Origens
+Atendente: Entendi.
+Atendente: Então, tudo pronto.
+Atendente: Vou te mostrar em um teste no meu número, tudo bem?
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Cliente: *Prime Residencial - Atendimento:* 
+dá pra verificar das conversas passadas ou só daqui pra frente que vai ter o diálogo sendo executado
+Atendente: Somente as que entrarem de agora por diante.
+Na parte de campanhas, não há uma ferramenta para fazer uma busca por texto.
+
+Esses clientes recebiam alguma tag antes?
+Cliente: *Prime Residencial - Atendimento:* 
+não
+Atendente: Posso te ajudar com algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+por enquanto não. muito obrigado
+Atendente: Por nada! 😀
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima quinta-feira!
+Cliente: *Prime Residencial - Atendimento:* 
+pra você também
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, sabe me dizer se o serviço do UmZap foi encerrado? Vi que faz parte do mesmo grupo e o site está fora desde sexta.
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, tudo bem?
+No momento o site UmZap está fora do ar, mas estramos trabalhando para que ele volte a operar normalmente
+Cliente: *Prime Residencial - Atendimento:* 
+ok, obrigado. Era ´somente isso
+Atendente: Perfeito. Vou encerrar nosso atendimento por enquanto, mas ficamos a disposição :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, gostaria de saber se o chat abaixo está com algum problema. Ele está demorando muito pra carregar. obs.: Teve algum problema no envio de arquivos nesse chat
+Cliente: *Prime Residencial - Atendimento:* 
+https://app5.zap.guru/chats/5f9a0c3e9e55c998d2909611
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+sim, esse mesmo
+Atendente: Creio que deve ser algum erro na sua conta, vou verificar aqui.
+Cliente: *Prime Residencial - Atendimento:* 
+inclusive eu solicitei uma arte mais leve do marketing
+Atendente: Sim, um pdf mais leve ajuda, mas vou verificar o que está contecendo.
+Cliente: *Prime Residencial - Atendimento:* 
+esse mesmo
+Atendente: Pronto, resolvido, reiniciei aqui a conexão de vocês.
+Cliente: *Prime Residencial - Atendimento:* 
+ótimo
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: Pronto, removi os arquivos que deram erro no envio da silvia. Vai abrir normalmente. Mas você precisará reenviar o arquivo.
+Atendente: Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, fiz o pedido do boleto para ativação do módulo API e acabamos não efetuando o pagamento. O boleto 8439 venceu dia 19/10. Pode gerar outro por favor
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+Desculpa na verdade a solicitação é outra
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+vou encaminhar o comprovante de pagamento. Não foi liberado o módulo e o financeiro está pedindo a nota
+Atendente: Olá, bom dia! Tudo bem? Claro, qual a solicitação?
+Atendente: Perfeito, assim que recebermos o comprovante, vou encaminhar ao financeiro para que te enviem a nota :)
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, verifiquei aqui o que foi pago e gerou uma pequena confusão interna pois a data foi próxima do pagamento normal. O boleto pago foi o da mensalidade e a inclusão de 1 novo usuário. Realmente não foi pago o boleto de R$100,00 referente ao módulo de API. Então pode atualizar por favor
+Cliente: *Prime Residencial - Atendimento:* 
+Já fica pra iniciar esse módulo pro mês de novembro? Qual o valor que vai ficar na fatura de novembro?
+Atendente: Aqui pelo suporte não consigo responder estas questões, mas vou te encaminhar ao financeiro e já informar estas questões
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá, bom dia!
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia. Solicitei um novo boleto para o modulo de API. E fiz a pergunta de quanto ficará o pagamento de novembro
+Atendente: R$823,20
+Cliente: *Prime Residencial - Atendimento:* 
+Não consegui puxar aqui o ultimo boleto
+Atendente: Você vai receber dia 16
+Atendente: para pagamento dia 23
+Cliente: *Prime Residencial - Atendimento:* 
+Puxei aqui, então pagando a liberação do módulo de API agora, na próxima fatura será cobrada (6 usuarios e modulo API)
+Cliente: *Prime Residencial - Atendimento:* 
+sobre a cobrança 8439 que venceu dia 19/10. Pode me encaminhar então um boleto atualizado para eu encaminhar para o financeiro?
+Atendente: Vou te encaminhar com o valor proporcional ta bem?
+Atendente: Vou te enviar o descritivo da sua fatura
+Cliente: *Prime Residencial - Atendimento:* 
+ok, referente as notas dos boletos que já pagamos. Eu solicito por aqui também?
+Atendente: Sim sim
+Atendente: Vou emitir um momento.
+Atendente: De todos que vcs ja pagaram?
+Atendente: de Junho pra cá?
+Cliente: *Prime Residencial - Atendimento:* 
+sim
+Atendente: Como vou emitir hoje vai sair com a data de hoje ta bem?
+Atendente: Ai ja deixo automatico para os proximos
+Atendente: Junho de 2020
+Atendente: Julho de 2020.
+Atendente: Agosto de 2020
+Atendente: Setembro 2020
+Atendente: outubro
+Atendente: Referente ao API
+Cliente: *Prime Residencial - Atendimento:* 
+ok, só faltava eu encaminhar o da API. Estou enviando agora
+Atendente: fechado
+Cliente: *Prime Residencial - Atendimento:* 
+segue o comprovante de pagamento para a liberação do módulo de API
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: *✅  Concluído*
+*Prime Residencial*
+Modulo API
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Boa noite, verificar porque está somando errado
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá PRIME, Bom dia. Meu nome é Hugo.
+Atendente: verifica por favor nos arquivados
+Atendente: posso te ajudar com algo mais?
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Bom dia!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, fiz processo solicitado e o erro continuou
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Bom dia. Meu nome é Hugo.
+Cliente: *Prime Residencial - Atendimento:* 
+Link do chat: https://app5.zap.guru/chats/5fbfb285a7e8b071e2aa5a80
+Atendente: não entendi
+Cliente: *Prime Residencial - Atendimento:* 
+Erro na criação do chat, apaguei a mensagem e reenviei uma nova direto pelo aparelho]
+Cliente: *Prime Residencial - Atendimento:* 
+a mensagem do erro continuou aparecendo na tela e tentei enviar mensagem pelo zapguru e a mensagem não foi
+Atendente: entendi depois que abri o link que você mandou
+Atendente: so uma duvida o cliente te respondeu lá no whatsapp?
+Atendente: você ainda tem o anydesk no seu celular?
+Atendente: para que eu possa verificar uma coisa?
+Cliente: *Prime Residencial - Atendimento:* 
+o cliente ainda não respondeu no whatsapp
+Cliente: *Prime Residencial - Atendimento:* 
+131844042
+Atendente: deixa o anydesk aberto que eu vou tentar acessar agora
+Atendente: deu algum erro
+Atendente: to tentando de novo
+Atendente: já descobri o que houve.
+Atendente: já encerrei o acesso ao anydesk
+Atendente: esse contato foi adicionado duas vezes ao Zapguru
+Atendente: uma sem o nono digito e outra com o nono digito
+Atendente: o chat sem o nono digito está funcionando normalmente e o chat sem o nono digito está com problemas por conta da duplicidade
+Cliente: *Prime Residencial - Atendimento:* 
+Entendi, só pode incluir com 8 digitos, certo?
+Cliente: *Prime Residencial - Atendimento:* 
+Vou passar pro usuário
+Cliente: *Prime Residencial - Atendimento:* 
+então já está dando pra incluir chats com 9 digitos?
+Atendente: isso depende do whatsapp. Em alguns estados ele permite, mas corre o risco de dar esse erro da duplicidade.
+Atendente: o que eu recomendo é usar sempre sem o nono digito
+Atendente: apenas para São Paulo e para o Rio de Janeiro que é obrigatório por enquanto
+Atendente: posso te ajudar com algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+somente isso por enquanto. Obrigado e bom almoço
+Atendente: por nada. Bom dia e bom almoço para você também. Se precisar de qualquer coisa é só chamar.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, existe algum log de usuários? Gostaria de pesquisar em quais momentos alguns usuários estão logados e qual o tempo de cadas sessão
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, PRIME! Sou o *Eduardo*, faço parte da equipe de suporte do *ChatGuru*! 😁
+Atendente: No momento isso ainda não existe, mas foi passado como sugestão para a equipe de desenvolvimento. Vou reforçar colocando o seu nome junto com a sugestão
+Atendente: Você tem acesso ao último acesso dele na parte de usuários
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou aguardar ansioso esse log. Pretendemos ter uma pessoa remota atendendo e preciso desse controle
+Cliente: *Prime Residencial - Atendimento:* 
+Outra coisa, alguns número estão aparecendo com algum erro
+Cliente: *Prime Residencial - Atendimento:* 
+Nessa tela mesmo, a quantidade que aparece de chats abertos (atendimento-comercial em vermelho) são de 9 e toda vez que atualizo não aparece a mesma quantidade. Já vi isso acontecer com outros usuários também.
+Atendente: Adiciona no filtro a opção de "Arquivado", existem alguns chats que estão nesse status mas estão arquivados
+Atendente: Prime, consigo te ajudar em algo mais?
+Atendente: PRIME estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, estou tentando vincular minha conta comercial do facebook nesse numero do Whatsapp. Está dando um erro lá. Isso tem alguma coisa a ver com o acesso do ChatGuru?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá PRIME, Boa tarde !  Sou a Nathally do Suporte do ChatGuru, como posso te ajudar? 😁
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, estou tentando vincular minha conta comercial do facebook nesse numero do Whatsapp. Está dando um erro lá. Isso tem alguma coisa a ver com o acesso do ChatGuru?
+Atendente: Só um momento enquanto eu verifico.
+Atendente: A nossa plataforma não influencia nisso, nós apenas espelhamos suas conversas do Whatsapp.
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado, vou continuar verificando lá então
+Atendente: Olha, como você está mostrando nesse print, você precisa ser o Adm e confirmar diretamente com O facebook.
+Atendente: Tá certo, qualquer coisa, só falar!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, desde o início da semana notamos que todos os chats estão entrando e sendo associados ao "atendimento-comercial", mesmo o chatbot tendo enviado para o setor de relacionamento.
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+Segue um chat de exemplo: https://app5.zap.guru/chats/5fd8f2c872eeaebe31687c00
+Atendente: Boa tarde, PRIME. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico o histórico 👨‍💻
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado Arthur
+Atendente: Vi que o rodizio de atendimento está ligado, e por isso os chats podem ser direcionados "duplamente".
+
+Vou remover o rodizio para que apenas o robô direcione, tudo bem?
+Cliente: *Prime Residencial - Atendimento:* 
+ok.
+Cliente: *Prime Residencial - Atendimento:* 
+Pergunta, o rodizio de atendimento é para todas as conversas independente da URA?
+Atendente: Exato. O rodizio interpreta atendimentos novos *ou* fechados e em seguida abertos pelo cliente. Nesses casos ele vai direcionar independente do robô
+Atendente: Pronto! Agora apenas o robô irá direcionar chats de acordo com as regras estabelecidas 🙏
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado.
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+Qual pode ser o problema?
+Atendente: Olá PRIME, Boa tarde. Meu nome é Hugo. Me envia o link desse chat para que eu possa verificar.
+Cliente: *Prime Residencial - Atendimento:* 
+https://app5.zap.guru/chats/600583cd387063190834d59a
+Atendente: pela horário ali abaixo, acredito que tenha sido uma desconexão. Se você observar a mensagem chegou no ChatGuru 5 minutos depois de ter chegado no celular.
+Cliente: *Prime Residencial - Atendimento:* 
+tem como aumentar esse tempo então?
+Atendente: como assim aumentar o tempo?
+Cliente: *Prime Residencial - Atendimento:* 
+Esse tempo de verificação. Porque nem sempre as pessoas estão próximas ao aparelho . E tivemos problemas de conexão na semana anterior
+Atendente: eu analisei aqui e foi isso mesmo. Para que isso não ocorra é necessário que o telefone esteja conectado ao ChatGuru.
+Cliente: *Prime Residencial - Atendimento:* 
+a internet aqui do predio teve algumas quedas
+Cliente: *Prime Residencial - Atendimento:* 
+Este telefone só é utilizado para isso
+Atendente: entendo. Infelizmente não temos como fazer isso. Quando o celular fica desconectado e volta a conectar o ChatGuru não manda mensagem pois ele não considera como uma nova mensagem, mas sim como um carregamento das mensagens que já estão no celular.
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou verificar procedimentos internos aqui então
+Atendente: posso te ajudar com algo mais?
+Atendente: Estou encerrando o atendimento por falta de interação. Caso precise pode falar com a gente.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, preciso fazer alterações em meus usuários
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, PRIME! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: *Prime Residencial - Atendimento:* 
+Atendimento - comercial -> mudar o email para contato@primeresidencial.com.br
+Atendente: Só um momento, vou providenciar para você
+Cliente: *Prime Residencial - Atendimento:* 
+Este também para o email: fabio.valente@primeresidencial.com.br
+Atendente: Alterado ✅
+Cliente: *Prime Residencial - Atendimento:* 
+ok, com relação as senhas. foi para o email pra redefinir? ou tem senha inicial?
+Atendente: A senha permaneceu a mesma da anterior, você pode redefinir elas aqui: https://s5.chatguru.app/login_reset
+Cliente: *Prime Residencial - Atendimento:* 
+preciso alterar o nome dos usuários também
+Cliente: *Prime Residencial - Atendimento:* 
+o usuário do fabio -  atendimento
+contato - atendimento II
+Atendente: O do Fabio já está como Atendimento, só precioso mudar o do Atendimento - Comercial para Atendimento II, correto?
+Cliente: *Prime Residencial - Atendimento:* 
+sim, correto
+Atendente: Alterado 😁
+Atendente: Consigo te ajudar em algo mais?
+Atendente: PRIME estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a nossa pesquisa de satisfação: https://app5.zap.guru/nps/60074849937cc06739688682
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, deixamos um arquivo salvo por engano. Como fazer para apagar?
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+cancele. Acabei de ver a barra lateral de arquivos. Obrigado
+Atendente: Olá, PRIME. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+Atendente: Exato! para excluir é só clicar na lixeira vermelha ao lado :)
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+Existe alguma forma de re-organizar os arquivos (igual as TAGS) pra ficar em uma sequencia mais lógica pra gente.
+Cliente: *Prime Residencial - Atendimento:* 
+Eu queria deixar aparencendo mais em cima os que a gente mais usa
+Atendente: Por exemplo: os arquivos mais usados podem conter a tag "favoritos" ou "recorrentes" ou algo do gênero
+Cliente: *Prime Residencial - Atendimento:* 
+ok, efetuei esses ajustes usando tags
+Atendente: Maravilha!
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6009dc13937cc06739692ad3
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, arquivos recebidos no whatsapp não estão aparecendo na plataforma ChatGuru
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+Este chat foi aberto em meu nome. Recebi direto do aparelho os arquivos em pdf e encaminhei para a plataforma e não apareceu nada
+Cliente: *Prime Residencial - Atendimento:* 
+depois comprimi os arquivos e mandei 1 só e também não apareceu na plataforma
+Atendente: Olá, PRIME. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+Atendente: Entendi!
+
+PRIME, identificamos esse problema em alguns clientes, e está ligado a uma atualização do Whatsapp. Eu vou atualizar o seu Chatguru para que isso seja corrigido.
+
+Aguarde alguns instantes
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: Feito! Para testarmos, poderia enviar novamente um arquivo para o Whatsapp (91) 92677007?
+
+Aguardo seu feedback 😉
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Cliente: *Prime Residencial - Atendimento:* 
+enviei agora no mesmo chat
+Cliente: *Prime Residencial - Atendimento:* 
+Também apareceu os anteriores
+Atendente: Perfeito 🙏
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+Obrigado
+Cliente: *Prime Residencial - Atendimento:* 
+pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/600ec4a16acfe7d0c0cd4261
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, recebemos mensagem informando de boleto em aberto. Pode re-encaminhar por favor o boleto
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Lucas, verifica por favor essa questão de boleto em aberto
+Atendente: *Lucas Gusmão:* 
+Certo! Vou transferir o seu atendimento para o nosso setor financeiro, ok?!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Atendente: *Bruna Lira:* 
+Um momento.
+Atendente: *Bruna Lira:* 
+Vou atualizar o boleto ta bem?
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Cliente: *Prime Residencial - Atendimento:* 
+pode encaminhar também a nf por favor.
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado
+Atendente: *Bruna Lira:* 
+Imagina :)
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+não. obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6011d10b73116bf23e3fdcf5
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia,pode me enviar o boleto da parcela em aberto com data para hoje
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá PRIME, Bom dia. Meu nome é Hugo. Vou te encaminhar para o financeiro para que eles te enviem o boleto.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, bom dia! Um momento.
+Cliente: *Prime Residencial - Atendimento:* 
+obrigado
+Atendente: PRIME, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60194e8e73116bf23e414f43
+Cliente: Bom dia. Estou mandando mensagem direto do aparelho porque nao esta acessando o chat pelo portal
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Bom dia, PRIME! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+Por favor, confirme se as etapas abaixo estão sendo seguidas:
+Atendente: *Lucas Gusmão:* 
+✔ Aparelho sem bloqueio de tela.
+✔ What’s App aberto em primeiro plano.
+✔ Conexão estável com a internet.
+✔ Utilização do aparelho apenas para plataforma ChatGuru.
+Cliente: Ok
+Cliente: Sim  esse aparelho é so para isso e eatou digitando dele as respostas agora
+Atendente: *Lucas Gusmão:* 
+Certo. Irei reiniciar sua conexão. Talvez seja necessário refazer a leitura do QR-Code.
+Cliente: Quer que reinicie o aparelho e refaca a conexao lendo o qrcode?
+Atendente: *Lucas Gusmão:* 
+Pronto! 😁 Já está conectado e com a fila zerada.
+Atendente: *Lucas Gusmão:* 
+Ajudo em mais alguma coisa?
+Cliente: *Prime Residencial - Atendimento:* 
+Ok, obrigado
+Cliente: *Prime Residencial - Atendimento:* 
+não. muito obrigado
+Atendente: *Lucas Gusmão:* 
+Por nada! Fico feliz em poder ajudar. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602bc5889f49179ac89297e7
+Cliente: Bom dia  estou enviando mensagem diretodo aparelho
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Porque o chatguru aparece que o celular esta sem internet
+Atendente: *Eduardo Victor:* 
+Bom dia, PRIME! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+
+Poderia verificar se tem alguma atualização pendente para o aplicativo do WhatsApp do aparelho?
+Cliente: Um instante
+Cliente: Sim  atualizando
+Cliente: Atualizado o whatsapp business
+Atendente: *Eduardo Victor:* 
+Conectado novamente ✅
+Cliente: *Prime Residencial - Atendimento:* 
+voltou, obrigado!
+Atendente: *Eduardo Victor:* 
+Por nada! Eu consigo te ajudar em algo mais?
+Cliente: *Prime Residencial - Atendimento:* 
+não. era só isso. Obrigado
+Atendente: *Eduardo Victor:* 
+Tá certo, se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, PRIME 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/607edaa0ecec98869e5c1801
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, preciso de uma ajuda para enviar mensagens para chats parados a mais de 30 dias
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, PRIME. Boa tarde! Sou Carlos do Suporte ChatGuru. Um momento enquanto verifico
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: *Carlos:* 
+Oi. No caso, você diz "parados" os que não tiveram mais nenhuma interação com vocês?
+Cliente: *Prime Residencial - Atendimento:* 
+Exato,
+Cliente: *Prime Residencial - Atendimento:* 
+Ainda não defini as mensagens que vamos enviar. Mas preciso pelo menos da lógica preparada para entender como vamos ter que fazer nesses casos.
+Atendente: *Carlos:* 
+Certo. São mais 1400 contatos ao todo. Uma campanha de envio de mensagens em massa de maneira geral e especialmente para essa quantidade acarreta um risco bem alto de banimento da conta.
+Cliente: *Prime Residencial - Atendimento:* 
+Qual seria o limite? Eu queria na verdade mandar para quem tem entre 30 e 40 dias. E também já ver pra cadastrar a resposta automática a partir desses novos contatos. Se ficarem 30 dias sem se comunicar conosco, o envio de uma mensagem só.
+Atendente: *Carlos:* 
+Não existe bem um limite. Pela política do Whatsapp/Facebook, qualquer envio em massa de mensagens pode ser considerado Spam e ocasionar o banimento da conta. Eles analisam não só a quantidade, como o intervalo de envio, se houve interação do contato, entre outros fatores.
+Essa opção de deixar agendada uma mensagem para 30 dias e ela ser ativa somente se o contato não mandou mais nenhuma mensagem é possível. Em que momento você pretende fazer esse agendamento? a partir da primeira mensagem inicial?
+Cliente: *Prime Residencial - Atendimento:* 
+Na verdade, pode fazer assim: 
+-15 dias sem interação por parte do cliente
+-Incluir tag: "15 dias"
+-Mensagem: "Olá, conversamos a alguns dias e acabamos não nos falando mais. Ainda temos unidades disponíveis no Vista do Bosque II."
+Atendente: *Carlos:* 
+Ok. E em que momento essa contagem vai começar? é um usuário que identifica e aciona um diálogo manualmente? é no momento da primeira interação do chatbot com o cliente? é no momento que ele escolhe alguma opção do menu?
+Cliente: *Prime Residencial - Atendimento:* 
+não. Pensei como no filtro. Seria tipo um filtro: 
+-> Se a última mensagem enviada > 15 dias então enviar a mensagem
+Cliente: *Prime Residencial - Atendimento:* 
+Desconsiderando mensagens que estão com status "Encerrado" e "Resolvido"
+Atendente: *Carlos:* 
+É possível dessa forma, mas ainda assim aplicando esse filtro, seriam mais de 400 contatos. No caso, faríamos um agendamento em massa de mensagens que só serão enviadas de fato, daqui a 15 dias. Então nesse 15º dia elas seriam enviadas e seria um envio em massa de qualquer forma-+
+Cliente: *Prime Residencial - Atendimento:* 
+entendi. no caso estou falando de 2 situações. Fazer o envio "passado". e a programação futura. Na futura as mensagens para ser enviadas serão em momentos diferentes por que os clientes não mandam mensagens ao mesmo tempo
+Atendente: *Carlos:* 
+Certo, mas nessas futura ainda preciso que responda *quando ocorreria o agendamento*
+Atendente: *Carlos:* 
+Esse problema de volume de chats se aplica nas duas situações
+Cliente: *Prime Residencial - Atendimento:* 
+Então essa situação não consegue ser por chatbot? Somente por campanha
+Cliente: *Prime Residencial - Atendimento:* 
+Se não dá, seria o caso de emitir um relatório e depois fazer uma ação manual de chatbot (executar diálogo) pra enviar as mensagens
+Cliente: *Prime Residencial - Atendimento:* 
+é isso?
+Atendente: *Carlos:* 
+É justamente por isso que fiz essa pergunta.... seria via chatbot mas ele precisa de um MOMENTO que essa ação de agendamento irá acontecer. Não existe como automatizar para ele analisar todos e agendar as mensagens. No geral o chatbot precisa de uma ação do cliente para ativar alguma coisa. Então se configurarmos assim, ele só vai de fato agendar quando houver uma mensagem qualquer do cliente
+Cliente: *Prime Residencial - Atendimento:* 
+entendi, ou por ação ou por algum contexto na mensagem.
+Cliente: *Prime Residencial - Atendimento:* 
+O que sugere? Para eu ver se consigo me adaptar
+Atendente: *Carlos:* 
+Por isso perguntei onde isso pode ser acionado. Pode ser agendado no momento da primeira mensagem do cliente, através de um diálogo acionado pelo atendente, ou algum outro gatilho possível.
+Cliente: *Prime Residencial - Atendimento:* 
+ok, deixa eu pensar em um gatilho aqui
+Cliente: *Prime Residencial - Atendimento:* 
+Porque aí pode ser o seguinte: eu vejo a lista desses que estão parados, em mando a mensagem com o atendente manda a mensagem com gatilho. Ja mata 2 coelhos com uma cajada só.
+Cliente: *Prime Residencial - Atendimento:* 
+Porque se ele não responder a mensagem e continuar a conversa, ele vai mandar mais uma daqui 15 dias.
+Cliente: *Prime Residencial - Atendimento:* 
+Pode colocar essa mensagem debaixo como gatilho. daí dentro de 15 dias, ele manda mais uma. 
+-Mensagem: "Olá, conversamos a alguns dias e acabamos não nos falando mais. Ainda temos unidades disponíveis no Vista do Bosque II."
+Atendente: Boa noite PRIME!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Carlos:* 
+Podemos fazer: Campanha para atribuir apenas a TAG nesses chats > Em seguida, filtrando pela TAG, o atendente acionaria um diálogo que mandar uma mensagem e também agenda uma outra para o futuro (que só será ativada se ele não responder nada).
+Atendente: *Carlos:* 
+Amanhã podemos continuar até achar uma solução legal, tudo bem?
+Cliente: *Prime Residencial - Atendimento:* 
+ok, ao invés de Tag, vamos criar um funil. Fica melhor de gerenciar
+Cliente: *Prime Residencial - Atendimento:* 
+Sim, até amanhã. Me chame por favor no (91)99129-2633 e acesso o sistema
+Atendente: *Carlos:* 
+Nós não conseguimos chamar. Terás que nos mandar uma mensagem
+Cliente: Bom dia. O chatguru nao esta conectando. Estou mandando mensagem pelo aparelho
+Atendente: PRIME Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá PRIME! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Só um momento que irei verificar
+Cliente: *Prime Residencial - Atendimento:* 
+Mais tarde vou entrar em contato com o suporte para falar com o Bruno e retomar o atendimento de sexta que ele estava me ajudando.
+Atendente: *Gustavo Soares:* 
+Certo, era o Carlos?
+Atendente: *Gustavo Soares:* 
+Verifiquei que era o Carlos que te atendeu na sexta-feira qualquer coisa é só chamar ele por aqui a tarde então =D
+
+Desejo um ótimo dia para todos vocês do Prime Residencial 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: PRIME, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6086b8daecec98869e5e0469
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, gostaria de confirmar referente a ultima mensalidade.
+Atendente: PRIME Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Prime Residencial - Atendimento:* 
+recebemos email informando que estava em aberto. Pode confirmar por favor
+Atendente: *Luiz Modestino:* 
+Boa tarde! Meu nome é Luiz. 
+Aguarde um momento. Vou te encaminhar para o setor financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Tudo bem? 
+Sim, consta em aberto
+Cliente: *Prime Residencial - Atendimento:* 
+Pode enviar novamente por favor
+Atendente: *Bruna Lira:* 
+Posso sim, um momento.
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, meu financeiro pediu a cópia da nota desse mês. Pode adicionar o meu email para o recebimento do boleto da mensalidade e a nota (antonio.mendanha@primeresidencial.com.br)
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Eu só consigo deixar 1 email para receber a NF
+Cliente: *Prime Residencial - Atendimento:* 
+Ok, confere por favor se está no wanessa.pimenta@primeresidencial.com.br
+Atendente: *Bruna Lira:* 
+Deixa esse e-mail mesmo?
+Atendente: *Bruna Lira:* 
+antonio.mendanha@primeresidencial.com.br
+Cliente: *Prime Residencial - Atendimento:* 
+Não deixa no da Wanessa mesmo
+Atendente: *Bruna Lira:* 
+Combinado.
+Cliente: *Prime Residencial - Atendimento:* 
+Obrigado Bruna, já encaminhei novamente para o financeiro
+Atendente: *Bruna Lira:* 
+combinado, obrigada
+Atendente: *Bruna Lira:* 
+enviei para Wanessa o boleto
+Atendente: *Bruna Lira:* 
+Recebemos o pagamento, muito obrigada, a tarja sairá em torno de 20 minutos.
+Atendente: Prime, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Prime, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/608b0ac9ecec98869e5fc67f
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, estou precisando da nota fiscal de serviços deste mês
+Atendente: Prime Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Prime, Boa tarde. Meu nome é Hugo e eu sou do suporte do ChatGuru. Vou te encaminhar para o financeiro para que seja encaminhada.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Um momento.
+Atendente: Prime, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+Somente isso. Obrigado
+Atendente: *Bruna Lira:* 
+Por nada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Prime, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60a296a2ecec98869e660fea
+Cliente: *Prime Residencial - Atendimento:* 
+bom dia, estou tentando abrir um chat mas diz que o número já está adicionado e não encontro
+Atendente: Prime Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Eduardo Victor:* 
+Bom dia, Prime! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+
+Me informa o número que você está buscando, por favor.
+Atendente: *Arthur Ferragini:* 
+Identificamos que os últimos números que adicionou à plataforma (incluindo o 84657667) ficaram pendentes, por isso não os encontra e nem consegue chamá-los novamente.
+
+*Para resolver isso*, acabamos de abrir um chamado para a equipe técnica atualizar seu módulo de Adicionar Chats. Assim que a atualização for feita, os chats entrarão na plataforma, *incluindo o número 84657667*.
+
+Vou acompanhar esse chamado e te atualizo assim que for feito :)
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: *Eduardo Victor:* 
+Prontinho! Verifica se você consegue encontrar o chat agora, por favor.
+Atendente: Prime, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, quero cancelar o módulo de API e um usuário.
+Atendente: Prime Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Gadonski:* 
+Boa tarde, Prime! Sou o *Rodrigo* e faço parte da equipe de suporte do *ChatGuru!* 🙂
+Aguarde por favor enquanto verifico sua conta.
+Cliente: *Prime Residencial - Atendimento:* 
+Ok
+Cliente: *Prime Residencial - Atendimento:* 
+Usuário *Correspondente* excluido
+Atendente: *Rodrigo Gadonski:* 
+Certo, tenha uma ótima tarde 😊, já vou lhe encaminhar ao financeiro.
+Cliente: *Prime Residencial - Atendimento:* 
+ok
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Um momento.
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde Bruna
+Atendente: *Alteração Feita*
+✅
+*Prime Residencial*
+Remoção Modulo API 
+Remoção 1 usuário 
+*total de 5 usuários*
+Atendente: *Alteração Feita*
+✅
+*Prime Residencial*
+Remoção Modulo API 
+Remoção 1 usuário 
+*total de 5 usuários*
+Atendente: Prime, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Prime, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Prime Residencial - Atendimento:* 
+sim
+Cliente: *Prime Residencial - Atendimento:* 
+Como ainda podemos diminuir o custo mensal?
+Atendente: *Bruna Lira:* 
+Sua conta foi para R$673,20
+Cliente: *Prime Residencial - Atendimento:* 
+Entendi, mas tem alguma foram de diminuir mais? Minha diretoria quer saber
+Atendente: *Bruna Lira:* 
+Sua conta ficou assim
+Atendente: *Bruna Lira:* 
+Queria te ajudar, mas você ja tem 15% e um usuario bonificado
+Cliente: *Prime Residencial - Atendimento:* 
+ok, vou passar aqui para eles. Obrigado
+Atendente: Prime, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Prime, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d1c84eaee761eec9a2abfe
+Cliente: Bom dia, SUPORTE.
+Seja bem vindo a PRIME RESIDENCIAL,
+Nosso horário de atendimento:
+*Whatsapp:*
+Segunda à Sexta feira, das 9hs as 19hs.
+*Stand de vendas: *
+Segunda a sábado 09:00 as 18:00
+Domingo: 09:00 as 12:00
+
+Conte conosco para tirar qualquer dúvida. Será um prazer atender você!
+Cliente: *Prime Residencial - Atendimento:* 
+Bom dia, preciso de uma ajuda para montar uma lista de transmissão (passo a passo)
+Atendente: Prime Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Bom dia! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+Primeiro você deve criar a lista diretamente no Whatsapp do aparelho. Para saber como criar uma lista,  pode seguir as instruções desse link: 
+
+https://faq.whatsapp.com/android/chats/how-to-use-broadcast-lists/?lang=pt_br
+Atendente: *Luiz Modestino:* 
+Posso ajudar em algo mais?
+Atendente: Prime, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Prime Residencial - Atendimento:* 
+Boa tarde, quero fazer alterações em 2 usuários
+Atendente: Prime Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Luiz Modestino:* 
+Boa tarde Prime! Meu nome é Luiz. Tudo bem com você? 
+
+Quais as alterações?
+Cliente: *Prime Residencial - Atendimento:* 
+Dommus -> Victoria
+alterar email para antonio.mendanha@primeresidencial.com.br
+Atendimento II -> Adriana
+Cliente: *Prime Residencial - Atendimento:* 
+a senha inicial dos 2 pode ficar:
+1234prime
+Atendente: *Luiz Modestino:* 
+Feito
+Cliente: *Prime Residencial - Atendimento:* 
+show
+Cliente: *Prime Residencial - Atendimento:* 
+muito obrigado
+Atendente: *Luiz Modestino:* 
+Disponha. 😊
+Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Prime, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6126af0532c173e54397a8c8
+Cliente: Bom dia nao esta conectando na web
+Atendente: Prime Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Gustavo Soares:* 
+Olá Prime! Bom dia tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Só um momento que irei verificar
+Cliente: Ok
+Cliente: Sim  estou mandando mensagen por ele
+Cliente: Direto pelo aparelho
+Atendente: *Gustavo Soares:* 
+- Sugiro que delete alguns aplicativos do aparelho como redes sociais, youtube, spotify e outros. O aparelho deverá ser como um servidor de atendimentos dentro da empresa, e utilizar esses aplicativos pode causar a desconexão do WhatsApp.
+
+💡 *Recomendações importantes:* 
+
+✅Evitem manusear o aparelho que está servindo o ChatGuru.
+O aparelho que serve o ChatGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade.
+
+✅Aparelho sempre conectado
+O ChatGuru necessita que o aparelho esteja conectado na internet 100% do tempo para funcionar, assim como na versão do web whatsapp se o o aparelho perder a conexão, o ChatGuru para de funcionar. Por isso é muito importante que ele esteja sempre conectado a *internet* e na *tomada*.
+
+📶Boa conexão de internet
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de sua internet influencia no desempenho do ChatGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo:
+https://www.speedtest.net/
+
+✅Aparelho com tela acesa e app do WhatsApp Aberto
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ChatGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a tela acesa com o app do whatsapp aberto. 
+
+✅ Seguindo tudo direitinho evitará problemas de conexão 😄
+Cliente: Ok
+Atendente: *Gustavo Soares:* 
+Fora isso consigo te ajudar em algo mais? 😁
+Atendente: Prime, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+

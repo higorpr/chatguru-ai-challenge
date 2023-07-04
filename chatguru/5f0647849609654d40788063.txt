@@ -1,0 +1,335 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá Unique, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Bom dia Unique 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Olá boa tarde
+Atendente: Unique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Não estamos conseguindo acessar
+Atendente: Boa tarde Unique! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Houve uma queda geral no Whatsapp. O suporte já esta normalizando todas as seções que estavam abertas. Aguarde um momento.
+Atendente: Problema resolvido.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa noite
+Atendente: Boa noite Unique!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Tem algum problema para atender a solicitação do telefone 999254906?
+Cliente: Estou mandando mensagens a tarde sem resposta!!!
+Cliente: Fiz contratação do Funil para usar essa noite, mudei para pagamento TED mas não adiantou.
+Cliente: Se puderem ajudar, preciso bastante do Funil! Obrigado.
+Atendente: Olá Unique, Bom dia! Sou o Daniel do time de suporte do ZapGuru!
+Atendente: Estou solicitando a liberação do módulo, só um instante.
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Atendente: Ontem mesmo, o módulo funil foi liberado e comunicado em seu outro contato.
+Atendente: Sendo assim, estou finalizando o seu atendimento.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Unique, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Atendente: Bom dia. Sou Luiz. Suporte do ZapGuru.
+Atendente: Ainda está com dificuldades para fazer a leitura do QRCODE
+Atendente: ?
+Cliente: Bom dia
+Atendente: Unique Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Unique Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: Olá Josué
+Cliente: Não estou conseguindo ler o Qr code
+Atendente: Certo, vou ver o que está ocorrendo por aqui
+Cliente: Consegui, obrigada
+Atendente: acabei de ver rrsrs
+Atendente: para mim constou um problema de sincronização, mas em seguida foi resolvido rs
+Atendente: fora isso ajudo em algo mais?
+Cliente: nao, esta tudo certo, muito obrigada
+Atendente: MAgina, vou encerrar a chamada :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Unique Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso de acesso para QrCode
+Cliente: obrigada , ja consegui
+Atendente: Unique Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde, consigo instalar ainda hoje os mudulos contratados e pagos para esta conta?
+Atendente: Unique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O número novo é 27992974768
+Atendente: Olá Unique Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru
+o numero está sendo implantado no sistema peço que aguarde :D
+Cliente: Conseguimos fazer ainda hoje?
+Atendente: sim é possível, só o chatbot demanda mais tempo, precisamos do Fluxo do seu atendimento para montar sua Ura :D
+Atendente: o addChat tbm é possivel fazer hoje
+Cliente: Um colega já me atendeu! Muito obrigado. Ficou agendado para amanhã,
+Atendente: então perfeito :D
+Atendente: ajudo em algo mais?
+Cliente: Tem como criar um filtro
+Cliente: Todo Whatsapp que chegar de um número automaticamente já vai para um usuário? (Filtro pelo numero)
+Cliente: Uma forma de diferenciar uma quando chega uma mensagem de um e de outro numero!
+Atendente: Que eu me recordo sim, você teria de ter duas uras (dois chat bots configurados) fazendo essa função
+Atendente: assim que montar seu fluxo de atendimento e nos enviar o arquivo, podemos fazer dessa forma sim :D
+Cliente: Obrigado. Se algum texto para eu entender o que é o "fluxo de atendimento" me passe! Eu pensei que fosse um módulo onde colocaria o telefone apenas.
+Cliente: Terá alguma alteração na forma de atendimento?
+Cliente: --
+Atendente: haa claro pera ai que vou enviar um modelo
+Atendente: desculpe não ter enviado antes, não me atentei a isso, mil desculpas =/
+Cliente: Amanhã eu vou importante um novo número, com zap de anos, queria uma forma de trazê-los já para o usuário correto
+Cliente: -----
+Atendente: de primeira vez acho dificil
+Atendente: vou verificar se é possível
+Cliente: Eu estou com duvidas em relação ao adicionar chat!
+Cliente: Pensei que fosse um módulo onde eu coloco um número e já posso começar a falar direto com o paciente!
+Atendente: pode dizer suas duvidas :D
+Cliente: Tenho que criar pré dialogos?
+Atendente: basicamente isso
+Atendente: você chegou a assistir o video de primeiros passos?
+Cliente: Não te video
+Atendente: então só faça um fluxo de atendimento(com base no arquivo que mandei acima) como você acredita que funciona sua empresa, então essa parte de dialogos fazemos para a senhora
+Atendente: vou te mandar esse video, é os primeiros passos para quem adentra na plataforma, facilita seu entendimento com a mesma :D
+Atendente: https://zap.guru/primeiros-passos/
+Cliente: Por gentileza vi um filtro show de bola por telefone
+Cliente: Tem  como um usuário ver tudo, mas apenas de um certo número?
+Atendente: o senhor chegou a fazer alguma CAll?
+Atendente: o senhor não quer marcar uma call comigo?^
+dai tiramos a duvida na hora
+melhor não é?
+Cliente: Vixi kkkkkk
+Cliente: Com certeza mano
+Cliente: Posso te ligar?
+Atendente: não, vamos fazer uma video conferencia
+Atendente: eu vou anotar na agenda
+Cliente: Tudo ben
+Atendente: vou verificar o dia e te falo, só um momento
+Atendente: amanhã as 10:30, combinado?
+Cliente: Pode ser
+Atendente: perfeito meu querido :D
+então está anotado, amanhã Chamo o senhor para fazermos essa call :D
+Cliente: Sabe se da para um usuário só ver um número ?
+Cliente: Eu marco clínica do Sorriso e o usuário só vê dessa clínica.
+Atendente: vou ter que tirar a duvida sobre isso
+Atendente: isso ai que voce esta mostrando é filtro de chats, ele vai filtrar para quem está fazendo a filtragem os chats de X ou Y lugares
+Cliente: Olá,
+
+1- Há possibilidade de que todas as mensagens que estão lincadas (foram recebidas) pelo número (27) 99297-4768, serem todos direcionados para o usuário "Clinica do Sorriso"?
+
+2-Há possibilidade de criarmos uma regra para que todas as mensagens novas que chegarem para o número (27) 99297-4768, serem automaticamente delegadas para o usuário "Clínica do Sorriso"?
+Atendente: Boa noite Unique!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *Clínica do Sorriso:* 
+Olá,
+
+1- Há possibilidade de que todas as mensagens que estão lincadas (foram recebidas) pelo número (27) 99297-4768, serem todos direcionados para o usuário "Clinica do Sorriso"?
+
+2-Há possibilidade de criarmos uma regra para que todas as mensagens novas que chegarem para o número (27) 99297-4768, serem automaticamente delegadas para o usuário "Clínica do Sorriso"?
+Atendente: Olá Unique Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: *Clínica do Sorriso:* 
+Olá,
+
+1- Há possibilidade de que todas as mensagens que estão lincadas (foram recebidas) pelo número (27) 99297-4768, serem todos direcionados para o usuário "Clinica do Sorriso"?
+
+2-Há possibilidade de criarmos uma regra para que todas as mensagens novas que chegarem para o número (27) 99297-4768, serem automaticamente delegadas para o usuário "Clínica do Sorriso"?
+Atendente: vou verificar, um momento
+Atendente: Amigo, infelizmente não, cada número tem seus próprios Chats =/
+para fazer isso de outro só se fosse add manualmente
+mas corre um risco de tomar ban =/
+Cliente: ? Não entendi banimento!
+Atendente: sim, pois o whatsapp pode detectar como alguma anormalidade
+Cliente: Todas estas interações são realizadas internamente no guru
+Atendente: quando um chat entra em contato com você, é tranquilo *mas add varios chats de uma vez* pode causar um banimento
+Cliente: A delegação automática
+Cliente: Eu tenho um usuário chamado Clinica do Sorriso, como faço para ela receber suas mensagens sem a necessidade de alguém ficar manualmente delegando?
+Atendente: sim, mas nesse caso o senhor está recebendo as msgs e ai delega para o usuário
+Atendente: perfeito, só delegar para ele, dessa forma da
+Cliente: Vou ter que contratar alguém para delegar?
+Atendente: não
+Atendente: isso é feito automaticamente conforme o Chat
+Cliente: Então tem alguma forma? Lembrando que recebo centenas de mensagens aleatórias.
+
+A única forma segura de filtrar é pelo telefone que chega
+Atendente: você quer que esse numero recebe todas as suas próprias msgs sem que pegue as msg dos outros?
+Atendente: que fique individual
+Atendente: isso?
+Cliente: Mensagem é ruim para comunicação de suporte.
+
+Tenho duas clínicas em cidades diferentes. Criei um usuário para cada clinica. Eu queria que cada usuário visse apenas o que chegou para seu número automaticamente, sem alguém para delegar manual.
+
+Telefone 1 -> Clinica do Sorriso (não vê  de forma alguma mensagens do Unique Prime.
+Telefone 2 -> Unique Prime.
+Cliente: De forma automática.
+Atendente: em breve temos call as 10:30
+Atendente: isso é possível fazer pelo Chatbot
+Cliente: - Chegou uma mensagem no telefone +55 (27) 992974768, a ferramenta delega para Clínica do Sorriso.
+
+- Chegou uma mensagem no telefone  +55 (27) 992767141 a ferramenta deixa sem delegar ou delega para Unqiue Prime.
+Cliente: Uma colega ficou de me ligar as 9 da manha para configurar o add chat.
+Cliente: Vou aguardar.
+Atendente: perfeito
+Atendente: isso é possível configurar pelo ChatBot
+Atendente: certo, quem ficou de fazer para o senhor?
+Atendente: Então, na minha conversa desde lá de cima, não achei ninguem ter agendadeo o aDCHat com o senhor
+o senhor falou por outro numero tambem?
+Cliente: Opa
+Cliente: Como falaremos?
+Atendente: prefeito vou acertar os detalhes para a call, só um momentinho
+Atendente: https://meet.google.com/mop-eqxz-xue
+Atendente: Leonardo, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Bom dia :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa noite
+Atendente: Boa noite Unique!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Estamos com problemas
+Cliente: Aguardamos contato do suporte o quanto antes para resolução, pois estamos impedidos de trabalhar
+Atendente: Bom dia! Meu nome é Lucas. Como posso ajudar?
+Cliente: Bom dia
+Cliente: Eu acabei de fazer a leitura do core
+Cliente: Acabei de fazer a leitura do qr-code.
+Cliente: Ainda permanece reiniciando( isso está desde onten)
+Atendente: Um momento, vou verificar.
+Atendente: Pode fazer a leitura do qr-code.
+Cliente: Vou fazer
+Cliente: Feito
+Atendente: Por gentileza, realize esses passos: reinicie o aparelho; ao ligar, desative o wifi e coloque no modo avião/offline, depois ligue o wifi novamente.
+Atendente: Ah, não precisa
+Atendente: Já conectou! 🙌
+Cliente: Mas as mensagens não estão entrando no computador
+Atendente: Siga essas recomendações:
+Atendente: *Evitem manusear o aparelho que está servindo o ZapGuru.*
+O aparelho que serve o ZapGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ZapGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ZapGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ZapGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ZapGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Atendente: Um momento!
+Cliente: Olá
+Cliente: Preciso de uma resposta
+Atendente: Peço que aguarde um pouco. Estamos fazendo um upgrade na sua conta. Assim que finalizar, peço pra você ler novamente o qr-code.
+Atendente: Faça a leitura do qr-code em 1 minuto.
+Cliente: Ok
+Cliente: Apareceu aguardando carregamento
+Atendente: Vamos aguardar um pouco
+Cliente: Obrigado
+Atendente: Por nada. Estamos à disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Unique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Unique. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Meu sistema está travando . Preciso usar com urgência
+Atendente: O que seria esse travamento? As mensagens não estão sendo enviadas? Vocês não estão conseguindo utilizar alguma função? O que seria?
+Cliente: As mensagens não estava indo.. mas reiniciei e elas começaram a ir..
+Cliente: Obrigada
+Atendente: Então, vou observar seu Zapguru por algum pra verificar se haverá alguma oscilação, ok?
+Cliente: Não estamos conseguindo editar
+Cliente: Somente o Leonardo
+Atendente: O que vocês não estão conseguindo editar?
+Cliente: Desculpe mensagem errada
+Atendente: Sem problemas 😊
+Atendente: Olha, pelo que observei seu Zapguru já está estável novamente.
+Atendente: Unique, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Unique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Unique. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Tudo bem Rodrigo, Estamos com uma mensagem de bloqueio, mas nós já efetuamos o pagamento
+Atendente: Entendi. Vou te passar pro nosso financeiro e eles vão te ajudar com essa questão, ok? Um instante.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá boa tarde!
+Atendente: Poderia nos enviar o comprovante de pagamento por favor?
+Atendente: Meu sistema demora um pouco para reconhecer
+Cliente: Sim
+Atendente: Obrigada!!
+Atendente: Solicitei a retirada ta bem?
+Cliente: Ok. Obrigada
+Atendente: Saiu?
+Cliente: Nao
+Atendente: Olá, boa tarde!
+Atendente: Saiu?
+Cliente: Boa tarde. Tudo certo. Obrigado.
+Atendente: Unique, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Depois de uma olhada na solicitação de Lorenza.
+Atendente: Unique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Unique, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: Desculpa , foi errado..
+Atendente: Sem problemas! 😀
+Atendente: Posso te ajudar com algo mais?
+Cliente: Não. Obrigado
+Atendente: Por nada!
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima sexta-feira!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

@@ -1,0 +1,2421 @@
+Atendente: Olá! Esse é o nosso novo número de atendimento ao cliente.
+Atendente: Olá Henrique Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, estou aqui para ajudar. :D
+Cliente: Opa Josue,
+Cliente: boa tarde tudo bom?
+Cliente: Vou salvar aqui
+Cliente: https://app4.zap.guru/chats/5f19ba81cd0c6e96ca2f717e
+Atendente: tudo sim e o senhor? :D
+Cliente: nesse link de chat, nós estamos testando a automação de mensagem de cumprimento
+Cliente: que criamos nos Dialogos.
+Atendente: Opa :D
+o mabio me informou que o senhor está com problema na ura, correto?
+Cliente: tudo ótimo tambem!
+Cliente: Exato
+Cliente: Eu estou criando URAs primeiramente para o nosso segundo numero
+Cliente: o (81) 981848396
+Atendente: certo
+Cliente: eu ainda nao migrei o numero de fato para esta plataforma
+Cliente: eu coloquei um numero de WA a parte
+Cliente: para efetuar testes
+Cliente: Quando estavamos testando a execução da URA
+Cliente: era aproximadamente 13:00
+Cliente: a primeira mensagem de envio deu certo
+Cliente: como voce pode ver no chat.  Quando eu comecei a finalizar as conversas, e enviar de novo o chat do mesmo celular
+Cliente: as automacoes nao voltaram a funcionar
+Cliente: com um detalhes que as vezes a mensagem voltava para o chat com o status de resolvido
+Cliente: as vezes voltava para em aberto
+Cliente: quando saia de arquivados.
+Cliente: o numero que esta conectado é o (81) 99806-7743
+Atendente: certo, vou da uma olhada para o senhor
+Cliente: ok
+Atendente: Henrrique, poderia tentar cadastrar alguém por favor?
+Atendente: se possivel me passa o acesso do quick suporter
+Atendente: Intale o Anydesk no seu aparelho e me envie o codigo de 9 digitos que aparece onde está escrito *"Seu Endereço"*
+Cliente: um instante
+Cliente: o que seria o quick suporter?
+Cliente: 191 873 379
+Cliente: Anydesk
+Atendente: tudo bem, eu visualizei o dialogo do senhor, tinha um pequeno erro (nesse do print) gostaria que testa-se e vesse estar de acordo para o senhor
+Cliente: Ok
+Cliente: podes me explicar o erro
+Cliente: para eu corrigir nos outros?
+Atendente: consegui o acesso ao usuario por aqui, não será mais preciso, muito obrigado.
+Mas deixe para futuras manutenções
+Cliente: Pq criei para fds
+Cliente: noite
+Cliente: e etc...
+Atendente: no caso foi algo simples, voce esqueceu de fechar o dialogo, não colocou um Parentese )
+Atendente: apenas isso, no geral estava correto
+Cliente: Esse mesmo erro
+Cliente: aparece nos outros chats?
+Cliente: porque acredito que esteja assim também.
+Cliente: estou testando agora
+Cliente: um instante
+Cliente: Nada feito
+Cliente: chegou uma mensagem de teste
+Atendente: vou verificar para o senhor
+Cliente: do mesmo numero
+Cliente: e a mensagem do chatbot nao foi
+Cliente: automaticamente.
+Cliente: se voce quiser mandar msgs para testar tambem
+Cliente: o numero lá cadastrado é o (81) 99806-7743
+Atendente: cara, ta os dois cadastrado pelo o que vi
+Cliente: Nao.
+Cliente: O numero que estou usando aqui no ZapGuru
+Cliente: como usuario 2
+Cliente: é este acima
+Cliente: (81) 99806-7743
+Cliente: enquanto o chatbot nao for resolvido
+Atendente: vou fazer assim, vou mandar uma Msg pelo meu celular e testar sua Ura, perfeito?
+Cliente: eu nao vou migrar do octadesk
+Cliente: o numero oficial de suporte que é o (81) 98184-839 6
+Cliente: ok
+Cliente: mandei pro 99806
+Cliente: 7743
+Cliente: a primeira conversa vai dar certo
+Cliente: vc vai receber a mensagem de cumprimento
+Cliente: eu vou resonder voce
+Cliente: e vou finalizar a conversa
+Cliente: quando voce enviar de novo
+Cliente: verás que o URA não funcionará mais.
+Atendente: vou verficar, peço desculpas pela demora, estava atendendo outros clientes tambem, estamos com a equipe reduzida e a demanda está relativamente grande
+Atendente: mas não se preocupe que tambem estou cuidado do senhor, fica tranquilo :D
+Atendente: vamos fazer os teste já
+Cliente: ok
+Cliente: Estou aqui acompanhando o chat.
+Cliente: Marquei a conversa como resolvido
+Cliente: Nada feito
+Cliente: e detalhe
+Cliente: a conversa abriu como resolvido
+Cliente: nao em aberto.
+Atendente: certo ver para o senhor
+Cliente: ok
+Atendente: Fiz umas modificações, vou esperar completar o horario da configuração, que será em exatamente  16:10
+vou lhe enviar msg, o senhor tenta fazer esse processo de arquivar e etc.
+Atendente: combinado?
+Cliente: ok
+Cliente: marquei a conversa como respondido.
+Atendente: ok vou mandar msg agora
+Cliente: ok
+Atendente: teste
+Atendente: 1
+Cliente: 1
+Cliente: rpz
+Cliente: nao vi msg
+Cliente: no outro numero
+Cliente: que a gente esta testando os URAs
+Atendente: exato
+Atendente: para min está mostrando que foi enviada porem voce não recebeu
+Atendente: poderia refazer a conexão?
+refazer o procedimento do QRCode
+Cliente: pedi pra 2 pessoas testarem
+Cliente: vc e mariana
+Cliente: e nada
+Cliente: posso sim
+Cliente: so um instante.
+Atendente: perfeito Obrigado
+Cliente: Pronto
+Cliente: já refiz o processo.
+Cliente: e arquivei todas as conversas
+Cliente: marquei como resolvido.
+Atendente: estou concertando aqui
+Cliente: ok
+Cliente: nada feito
+Atendente: Criei um dialogo para ser executado, "RESETA URA"
+após finalizar o atendimento, voce executa esse dialogo
+Cliente: certo
+Cliente: entao podemos testar de novo?
+Atendente: Sim, vamos testar para ver se está tudo ok
+Cliente: ótimo
+Cliente: sem ura ainda.
+Cliente: arquivei de novo a mensagem.
+Cliente: Pessoal, bom dia.
+Cliente: Fazendo um FUP para saber a evolução do URA
+Atendente: certo, Senhor Henrique, o senhor poderia fazer um documento no Word mostrando exatamente como o senhor deseja que a ura funcione?
+Atendente: pois dessa maneira, podemos fazer uma ura exatamente como o senhor precisa
+Cliente: Opa, boa tarde
+Cliente: tudo bom?
+Cliente: Conseguir resolver aqui
+Cliente: dei uma pesquisada no Wiki de vocês, e está dando certo agora
+Cliente: estou precisando de 3 novos usuários
+Cliente: para fazer a migração do telefone para aqui
+Cliente: hoje a noite
+Cliente: como podemos resolver?
+Atendente: Olá Henrique Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, estou aqui para ajudar. :D
+Atendente: Que bom senhor Henrique, fico feliz que esteja conseguindo :DDDD
+Tem muitas informações uteis na Wiki :D
+Atendente: bom, para add cada novo usuário tem um valor para cada novo Usuário extra: R$ 50,00
+Atendente: posso lhe enviar para o financeiro para realizarem esse procedimento?
+Cliente: Sim
+Cliente: eu acredito que a gente tenha pedido um na semana passada
+Cliente: mas o boleto deve ter vencido
+Cliente: se puder
+Cliente: manda aqui por favor que já peço para o financeiro rodar
+Atendente: perfeito, vou lhe encaminhar
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Henrique, boa tarde!
+Atendente: So um momento que vou providenciar
+Cliente: ok
+Atendente: Assim que tiver o comprovante de pagamento nos envie para que possamos dar andamento.
+Cliente: segue o comprovante.
+Atendente: Henrique, dia 23 o Alex solicitou 4 usuarios, porem ele nao pagou o boleto e eu nao liberei.
+Atendente: Devo desconsiderar a solicitação dele e manter a sua?
+Atendente: So me avisa pra eu liberar esse pra voce, tudo bem?
+Atendente: *✅  Concluído*: 
+
+**
+Solicita 3 usuários
+*Total de 6 usuários*
+Cliente: ok
+Atendente: Boa noite Henrique!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: se possível
+Cliente: libera hoje por favor
+Cliente: Boa noite, Suporte.
+Agradecemos por entrar em contato com a *:Dcifre Certificadora*.
+Esta é uma mensagem automática.
+
+Nosso horário de atendimento pelo whatsapp é de Segunda à Sexta, das 8:00h às 18:00h.
+Cliente: pois amanha preciso que a equipe acesse.
+Atendente: a sua solicitacao ja esta liberada
+Cliente: ok, muito obrigado
+Cliente: identifiquei aqui
+Cliente: abs
+Atendente: Henrique, bom dia!
+Depois me confirma por favor se devo desconsiderar a solicitação do Alex.
+Cliente: *Mariana Machado:* 
+Olá Suporte, boa tarde! Tudo bem!?
+Cliente: *Mariana Machado:* 
+Sou a Mariana da equipe :Dcifre
+Cliente: *Mariana Machado:* 
+e tenho algumas dúvidas em relação a plataforma
+Atendente: Olá Mariana, só um momento que vou te encaminhar para o suporte.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: *Mariana Machado:* 
+obrigada!
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Mariana Machado:* 
+obrigada (é Mariana)
+Atendente: Olá Henrique Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: Marina, no caso rsrs
+Cliente: *Mariana Machado:* 
+Bom dia, Josué tudo bem e  você?
+Cliente: *Mariana Machado:* 
+:D
+Cliente: *Mariana Machado:* 
+Me tira duas dúvidas, por favor:
+Cliente: *Mariana Machado:* 
+1. Como faz para add um novo chat (de clientes que não estão cadastrados). Coloquei no boneco com um mais, porém consta como pendente.
+Cliente: *Mariana Machado:* 
+e a outra é se as conversas geram um número de ticket ou protocolo.
+Atendente: tudo bem sim :D
+Agradeço por perguntar
+
+
+certo, vou verificar o que está ocorrendo com o ADDChat
+Atendente: Infelizmente não :(
+Atendente: agora sobre estar com status de Pendente, vou lhe passar um procedimento para ser feito no aparelho
+Atendente: Henrique Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Henrique, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+obrigada Josué pelas informações.
+Cliente: *Mariana Machado:* 
+boa tarde e bom trabalho
+Atendente: Muito Obrigado Mariana, precisa de algo mais?
+Atendente: Henrique estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Pessoal, boa tarde
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Time :Dcifre:
+eu estou com um pequeno problema no chatbot 13:17 
+Time :Dcifre:
+vou por o link aqui 13:17 
+Time :Dcifre:
+voces conseguem olhar comigo? 13:17 
+Time :Dcifre:
+outra coisa. preciso por mais um numero e mais um usuario nesta conta. 13:17 
+Time :Dcifre:
+https://app4.zap.guru/chats/5f21ff4b55a6cd617e4dd896 13:18 
+Time :Dcifre:
+o link da conversa é esse. 13:18
+Atendente: Olá Henrique, Boa tarde. Meu nome é Hugo.
+Atendente: Vou tentar te ajudar com chatbot depois de te passo os preços e se você desejar eu te transfiro pro financeiro pra contrtação
+Atendente: ok?
+Cliente: *Time :Dcifre:* 
+ok
+Cliente: *Time :Dcifre:* 
+bora la
+Cliente: *Time :Dcifre:* 
+na convera
+Cliente: *Time :Dcifre:* 
+conversa, voce vai ver
+Cliente: *Time :Dcifre:* 
+que o cliente mandou msg ontem a noite
+Cliente: *Time :Dcifre:* 
+e toda vez que ele digitou
+Cliente: *Time :Dcifre:* 
+o bot mandou a msg padrao
+Cliente: *Time :Dcifre:* 
+em tese, deveria so ter sido na primeira vez que ele digitou
+Cliente: *Time :Dcifre:* 
+tens como ver?
+Atendente: tem sim
+Atendente: vamos olhar isso
+Atendente: só um momento
+Cliente: *Time :Dcifre:* 
+Não fica uma experiencia legal para quem está enviando a msg
+Cliente: *Time :Dcifre:* 
+assim que tiveres uma notícia, me avisa por favor.
+Cliente: *Time :Dcifre:* 
+Boa tarde!
+Cliente: *Time :Dcifre:* 
+Não está sendo adicionado novos chats com o app
+Cliente: *Time :Dcifre:* 
+está ficando como pendente
+Atendente: Henrique Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Henrique, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: *Time :Dcifre:* 
+Resolvido!
+Cliente: *Time :Dcifre:* 
+certo
+Cliente: *Time :Dcifre:* 
+bou olhar isso
+Atendente: Bom dia
+Atendente: Henrique, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Henrique, estou encerrando o atendimento. Qualquer duvida pode nos contatar de novo.
+Atendente: Bom dia
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Opa tudo bom
+Atendente: Henrique Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+eu vi que a sua resposta nao resolve o nosso problema deste chat
+Cliente: *Time :Dcifre:* 
+a sua resposta foi referente a criação de uma solicitação anterior.
+Cliente: *Time :Dcifre:* 
+https://app4.zap.guru/chats/5f21ff4b55a6cd617e4dd896
+Cliente: *Time :Dcifre:* 
+Que o cliente quando esta fora do horario de atendimento
+Cliente: *Time :Dcifre:* 
+a cada msg que escreve
+Cliente: *Time :Dcifre:* 
+recebe a nossa mensagem ausencia
+Cliente: *Time :Dcifre:* 
+nao somente na primeira vez.
+Cliente: *Time :Dcifre:* 
+teria como nos ajudar?
+Atendente: Bom dia Henrique
+Atendente: posso sim
+Atendente: só pra entender a solicitação atual
+Atendente: O sr. programou o chatbot pra mandar uma mensagem automática após o horário de atendimento. Porém quando ele envia mais de uma mensagem após o horário, o chatbot responde todas as mensagens e o sr deseja que responda apenas uma vez. É isso?
+Atendente: Henrique?
+Atendente: Sr. Henrique por falta de interação irei encerrar o nosso atendimento.
+Atendente: Qualquer duvida o sr. pode nos contatar de novo
+Atendente: boa tarde
+Cliente: *Time :Dcifre:* 
+Isso
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Henrique, Boa tarde. Meu nome é Hugo.
+Atendente: sr. neste caso é só aumentar o "intervalo minimo"
+Cliente: *Time :Dcifre:* 
+A cada conversa aberta, exemplo
+
+1- mandou a mensagem hoje as 7 da noite ele irá enviar uma vez (mesmo ele mandando 5 mensagens)
+2- amanhã resolve e encerra o chat
+3- ele enviando no outro dia outras novas mensagens fora do horário, o chat irá enviar 1x a mensagem automática
+Atendente: o sr. pode definir com esse time
+Cliente: *Time :Dcifre:* 
+o que seria esse intervalo mínimo na prática?
+Atendente: exemplo: Atendimento encerra as 18h e esse intervalo está configurado com 300(5 minutos pois o intervalo é em segundos) . Caso cliente envia a mensagem de 18:01, o chatbot ira enviar a mensagem programada. Se ele mandar mensagem até as 18:06 o chatbot não irá mais enviar a mensagem. Após o intervalo (5 minutos) se o cliente voltar a falar o chatbot envia novamente e começa novamente o intervalo
+Atendente: Henrique?
+Atendente: Ficou alguma duvida?
+Atendente: Henrique, novamente por falta de interação estou encerrando o contato
+Atendente: Qualquer duvida pode entrar contato conosco
+Atendente: Boa tarde!
+Atendente: Henrique, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Boa tarde.  Entendi.  Alterei e já vamos testar hoje a noite.
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Henrique Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: opa perfeito, então teste amanha entre em contato conosco para informar o resultado :DDDD
+Atendente: Henrique, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Sim, boa tarde.  Ficou faltando a parte comercial de incluirmos mais um número e mais um usuário aqui no Zapguru
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+teriamos como dar sequencia nisso?
+Atendente: Boa tarde Henrique! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Você deseja contratar mais um número e mais um usuário certo?
+Cliente: *Time :Dcifre:* 
+sim
+Atendente: Ok. Vou te transferir para o setor financeiro. Só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Henrique, boa tarde!
+Atendente: Um momento por favor.
+Atendente: Henrique, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: *Time :Dcifre:* 
+ok.  Um instante
+Atendente: Henrique, por favor me passa o numero que sera utilizado.
+Cliente: *Time :Dcifre:* 
+um instante
+Cliente: *Time :Dcifre:* 
+(81) 98262-8396
+Atendente: *✅  Concluído*: 
+
+**
+*Dcifre*
+1 número WhatsApp adicional - (81) 98262-8396
+1 usuário adicional
+*Total de 7 usuários*
+Atendente: Henrique, o numero adicional ficará disponível em sua conta dentro de alguns instantes. 
+O Usuário já foi liberado.
+Atendente: Henrique, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá Boa noite
+Atendente: Boa noite Henrique!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *Mariana Machado:* 
+Tudo bem? Estamos com duas dúvidas:
+Cliente: *Mariana Machado:* 
+1. como adicionar chatbot para o terceiro número?
+Cliente: *Mariana Machado:* 
+2. E o segundo como podemos direcionar os usuários específicos para os números correspondentes pois não estamos conseguindo editar?
+Cliente: *Mariana Machado:* 
+Porque fica mostrando para todos os usuários e não queremos isso.
+Atendente: Bom dia, Henrique! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: *Mariana Machado:* 
+Bom dia, Caio
+Cliente: *Mariana Machado:* 
+é Mariana :D
+Cliente: *Mariana Machado:* 
+tudo bem/
+Cliente: *Mariana Machado:* 
+?
+Cliente: *Mariana Machado:* 
+você poderia me ajudar com essa dúvida?
+Atendente: Claro! Um minuto
+Atendente: Essa configuração nós fazemos.
+Atendente: https://wiki.zap.guru/usuarios#rodizio-de-atendimento
+Esse é nosso link da wiki, aqui você pode tirar essa dúvida!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Opa pessoal, tudo bom?  Mandando apenas msg para confirmação
+Atendente: Henrique Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Já foi possível criar o 3o chatbot para o numero que nós adicionamos?
+Cliente: *Time :Dcifre:* 
+e em relação ao Wiki
+Cliente: *Time :Dcifre:* 
+Eu entendi, mas nao atendeu a nossa necessidade.
+Cliente: *Time :Dcifre:* 
+Até ter 2 números, eu consegui filtral pelo cadastro do usuario
+Cliente: *Time :Dcifre:* 
+quais numeros ele tinha acesso
+Cliente: *Time :Dcifre:* 
+agora pelo 3o não
+Cliente: *Time :Dcifre:* 
+como posso fazer isso
+Cliente: *Time :Dcifre:* 
+Por exemplo.  Não há necessidade do meu time de suporte acompanhar as conversas do time comercial
+Cliente: *Time :Dcifre:* 
+fica mt sujo o Zap.Guru
+Atendente: Boa tarde Henrique! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Qual o número?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+(81) 98262-8396
+Atendente: Henrique Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+se puder, duplica o chatbot dcifre2
+Cliente: *Time :Dcifre:* 
+para este
+Cliente: *Time :Dcifre:* 
+que já resolve mais rápido ainda o processo.
+Atendente: Olá Henrique, Bom dia. Meu nome é Hugo.
+Atendente: Só um momento por favor
+Cliente: *Time :Dcifre:* 
+Ótimo
+Cliente: *Time :Dcifre:* 
+que assim que acabar essa demanda
+Cliente: *Time :Dcifre:* 
+temos outra relativo a configuração do Automate neste número de celular que estamos criando o chatbot
+Cliente: *Time :Dcifre:* 
+o flow do ZapGuru não aparece
+Atendente: certo, só um momento
+Cliente: *Time :Dcifre:* 
+Hugo, tudo bom? Eu vou deixar a Mariana, do nosso time de atendimento acompanhando essa conversa.  São duas coisas que estamos querendo resolver:
+Cliente: *Time :Dcifre:* 
+1 - Duplicar todas as conversas de chatbot do Dcifre 2 para o Dcifre 3, já que eles já foram homologados por nós
+Atendente: certo. Eu já criei o novo chat bot estou só duplicando os dialogos.
+Cliente: *Time :Dcifre:* 
+2 - Configurar o flows para este mesmo número (8262-8396)
+Atendente: pois a unica maneira de fazer isso é manualmente
+Cliente: *Time :Dcifre:* 
+E uma dúvida besta rápida
+Cliente: *Time :Dcifre:* 
+como que eu coloca aquela automação dizendo que a conversa foi encaminhada para outro departamento
+Cliente: *Time :Dcifre:* 
+que nem quando voces fazem quando encaminham para o financeiro por exemplo
+Cliente: *Time :Dcifre:* 
+que sai em negrito com uma seta
+Cliente: *Time :Dcifre:* 
+ou isto é uma resposta rápida?
+Atendente: Isto é um dialogo que transfere e envia uma mensagem
+Atendente: Sr. estou verificando aqui que o sr. possui apenas 1 addchat contratado
+Atendente: para ativar em outros números é necessário contratar 1 para cada número
+Cliente: *Time :Dcifre:* 
+Não faz sentido isso
+Cliente: *Time :Dcifre:* 
+pq quando fizemos a proposta
+Cliente: *Time :Dcifre:* 
+foi informado que para esta conta
+Cliente: *Time :Dcifre:* 
+a gente só pagaria o adicional do número
+Cliente: *Time :Dcifre:* 
+nao precisaria mais pagar chatbots
+Cliente: *Time :Dcifre:* 
+ou qualquer outra coisa
+Cliente: *Time :Dcifre:* 
+tanto que trouxemos mais 2 números
+Atendente: Sr. para os outros módulos de fato não é necessário, por exemplo o chatobot, funil e tags. Mas para o addchat é necessário uma contratação por número
+Atendente: Eu peço desculpas pelas demora a responder. Ainda estou realizando a copia dos chatbots
+Atendente: Finalizei a copia dos chatbots
+Cliente: *Mariana Machado:* 
+Quanto custa por aparelho esse addchat?
+Atendente: Oi Mariana, bom dia!
+Atendente: Custa apenas R$70,00 por aparelho
+Cliente: *Mariana Machado:* 
+Certo. Irei verificar com a diretoria e volto a falar com você em breve
+Cliente: *Mariana Machado:* 
+me tira outra dúvida, por favor
+Cliente: *Mariana Machado:* 
+Tem acontecido com frequência na verdade.
+Atendente: Pode falar
+Cliente: *Mariana Machado:* 
+Quando tentamos add um número, informa que o mesmo já está cadastrado junto ao aparelho 01.
+Cliente: *Mariana Machado:* 
+Mas quem está tentando contato é o aparelho 2 e com isso não consegue iniciar uma conversa
+Cliente: *Mariana Machado:* 
+Como faz nesse caso?
+Atendente: entendo. Quando um chat é adicionado por um número ele não precisa ser adicionado por outro já que é utilizado uma conta unica
+Atendente: nesse caso tem que procurar o contato nos arquivados e delegar para o novo atendente
+Cliente: *Mariana Machado:* 
+certo, mas como faz para o inciar uma conversa com outro nnúmero?
+Cliente: *Mariana Machado:* 
+mesmo com número diferentes?
+Cliente: *Mariana Machado:* 
+seria nessa parte?
+Cliente: *Mariana Machado:* 
+O número que vai aparecer para o cliente é o que desejamos mesmo? Por exemplo: um contato está no nome suporte, mas o número da certificadora gostaria de falar com o cliente. Como o pessoal da certificadora fala com ele?
+Atendente: Mariana, você consegue me enviar um print dessa mensagem que aparece quando você tenta adicionar o chat no outro número?
+Atendente: Eu havia entendido errado. Nesse caso é necessário adicionar o contato no outro número mesmo. Mas é preciso que esse número possua o addchat instalado
+Atendente: Se for o número que já possue addchat eu peço que você me envie um print com a mensagem de erro
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+entendi
+Atendente: Mariana, eu posso te ajudar com algo mais?
+Cliente: *Mariana Machado:* 
+desculpa a demora
+Cliente: *Mariana Machado:* 
+quando isso acontecer novamente, tiro print e envio para vocÊs
+Atendente: isso. Se o erro acontecer no número que está com o módulo addchat ativo. Pode tirar print e no enviar
+Atendente: Henrique, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Mariana Machado:* 
+sobre o addchat, como precisamos colocar em mais dois aparelhos e estamos migrando completamente para o ZapGuru, não tem a possibilidade de ter desconto?
+Atendente: Mariana, essa parte de contratação é com o pessoal do financeiro. A gente só recebe uma lista com os valores quando o cliente confirma que vai contratar a gente transfere.
+Atendente: Confesso que não sei se te responder se existe possibilidade de desconto.
+Atendente: Mariana?
+Cliente: *Mariana Machado:* 
+Voltei
+Cliente: *Mariana Machado:* 
+eu preciso ficar trocando de telefone o tempo todo, pois faço o atendimento em outro número
+Cliente: *Mariana Machado:* 
+por isso demoro para responder
+Cliente: *Mariana Machado:* 
+Tem o contato deles?
+Atendente: vou te transferir para eles. Só um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Henrique, boa tarde!
+Cliente: *Mariana Machado:* 
+Olá, boa tarde
+Cliente: *Mariana Machado:* 
+tudo bem?
+Cliente: *Mariana Machado:* 
+Gostaríamos de saber  sobre o addchat, como precisamos colocar em mais dois aparelhos e estamos migrando completamente para o ZapGuru, não tem a possibilidade de ter desconto?
+Atendente: Mariana, consegui autorização de 10% de desconto.
+Atendente: Posso dar continuidade?
+Cliente: *Mariana Machado:* 
+vou verificar
+Cliente: *Mariana Machado:* 
+só um instante
+Cliente: *Mariana Machado:* 
+Pode sim
+Cliente: *Mariana Machado:* 
+consegue me enviar o boleto ainda hoje?
+Atendente: Sim, um momento por favor.
+Cliente: *Mariana Machado:* 
+ok! obrigada
+Atendente: Dcifre, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: *Mariana Machado:* 
+Certo. esse valore será mensal?
+Cliente: *Mariana Machado:* 
+valore*
+Cliente: *Mariana Machado:* 
+valor****
+Atendente: Não, esse é o valor proporcional até sua proxima fatura, o valor será de R$126,00 (2 adc chat)
+Cliente: *Mariana Machado:* 
+Não entendi. O valor proporcional é de 117,59. Na proxima fatura virá o saldo (R$ 
+8,41)
+Cliente: *Mariana Machado:* 
+?
+Atendente: Mariana, como trabalhamos com serviço pré pago, você paga para utiliza-lo, sua próxima fatura é dia 11/09 que de hoje ate ela da 28 dias que é o que está no boleto junto com o desconto, a sua próxima fatura vem o valor cheio com o desconto de 10% autorizado pela diretoria.
+Cliente: *Mariana Machado:* 
+então na fatura do dia 11/09 virá o valor de R$ 126,00.
+Cliente: *Mariana Machado:* 
+?
+Cliente: *Mariana Machado:* 
+então daqui pra lá será feito o pagamento de 117 e mais uma vez será cobrado o valor cheio (com 10% de edsconto autorizado)
+Cliente: *Mariana Machado:* 
+correto?
+Atendente: Mariana, esse valor que está no boleto hoje é referente a 28 dias. Suas proximas faturas virão com o valor de R$126,00.
+Cliente: *Mariana Machado:* 
+Aaah perguntei, então será mensal essa cobrança.
+Cliente: *Mariana Machado:* 
+Tinha perguntando se era, mas acho que foi compreendido errado
+Atendente: Desculpa Mariana, entendi que se referia ao boleto.
+Cliente: *Mariana Machado:* 
+Nada. Tranquilo. Ja estamos pagamento
+Cliente: *Mariana Machado:* 
+ja te mando o comprovante
+Cliente: *Mariana Machado:* 
+só um instante
+Atendente: *✅  Concluído*: 
+
+**
+*Dcifre*
+2 Add Chats
+Atendente: Encaminharei você para o suporte para que possam proceder com a instalação do módulo.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Olá Dcifre, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*
+Atendente: Pela informações a Sra. quer configurar a instalação do add Chats
+Cliente: *Mariana Machado:* 
+isso
+Cliente: *Mariana Machado:* 
+Tudo bem, Lucas?
+Cliente: *Mariana Machado:* 
+desculpe a demora
+Cliente: *Mariana Machado:* 
+Já baixei o app no meu celular
+Atendente: qual WhatsApp vcs usam ? normal ou Web
+Atendente: e outra coisa, a Sra pode dar uma olhada no aparelho final 8396 pois esta sem internet
+Atendente: Por conta do horário eu vou ter que marcar com a Sr essa Instalação outro dia
+Atendente: pode ser amanha, pela manhã ?
+Atendente: Dcifre estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok? 😃
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá Bom dia!
+Cliente: *Mariana Machado:* 
+Tudo bem?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Cliente: *Mariana Machado:* 
+Olá Josué, tudo bem e vocÊ?
+Cliente: *Mariana Machado:* 
+Então, baixei o app do automate no celular para poder liberar os contatos adicionados
+Cliente: *Mariana Machado:* 
+porém não aparece a opção "zapGuru"
+Atendente: Tudo Bem Mariana, obrigado por perguntar :D
+Atendente: certo, vamos fazer o processo todo ainda
+Atendente: peço que aguarde um momento para preparar aqui
+Cliente: *Mariana Machado:* 
+Certo!
+Cliente: *Mariana Machado:* 
+Fico no aguardo
+Atendente: Mariana, só para saber previamente, qual aparelho você adquiriu?
+Cliente: *Mariana Machado:* 
+nós contratamos na sexta dois addchat
+Cliente: *Mariana Machado:* 
+um para este número que estamos conversando
+Cliente: *Mariana Machado:* 
+e outro para o 8262.8396
+Atendente: certo :D
+Atendente: Mari sobre o aparelho que ficará esses números, quais aparelhos Celular serão usados?
+Cliente: *Mariana Machado:* 
+eita, eu só o 8262... que é samsung
+Cliente: *Mariana Machado:* 
+o outro não sei te dizer
+Atendente: tudo bem rsrs
+é que alguns aparelhos tem de ser feito um procedimento diferente
+Atendente: bom, vamos fazer nos dois aparelhos, então vou precisar que ambos os aparelhos esteja em suas mãos, com o Automate instalado
+Atendente: vamos fazer um numero de cada vez ok?
+Atendente: vamos começar por esse que estamos falando
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+Deixa eu te falar, o este número que estamos falando agora e que eu não sei qual o aparelho, não fica comigo
+Cliente: *Mariana Machado:* 
+Como estamos trabalhando HomeOffice, só tenho acesso ao 8262... mas se você puder me passar como faz, posso pedir para a pessoa que está com ele fazer logo em seguida. Pode ser?
+Cliente: *Mariana Machado:* 
+O que estou, já está instalado o app.
+Atendente: hmmm entendi mariana, é que para cada numero é um fluxo diferente, dai tenho que pegar esse arquivo e enviar para vocês
+Atendente: bom, então vamos fazer nesse 8262
+Atendente: Mariana, poderia instalar no seu celular o AnyDesk?
+preciso saber tambem se nesse aparelho do final 8262
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+vamos
+Atendente: qual whats está nele, Business ou normal?
+Cliente: *Mariana Machado:* 
+Business
+Atendente: certo
+Atendente: após instalar o anydesk, me mande o ID por favor
+Atendente: Mariana, peço qe não abra esse arquivo por enquanto
+Atendente: ele é necessário para o funcionamento do ADDChat
+Cliente: *Mariana Machado:* 
+certo. Estou baixando o anydesk por enquanto.
+Atendente: ta bom :D
+Fico no aguardo :D
+Cliente: *Mariana Machado:* 
+329357991
+Atendente: peço que aceite
+Atendente: Há, deixe o app do AnyDesk Aberto :D
+Cliente: *Mariana Machado:* 
+não apareceu nada para aceitar :(
+Atendente: Mariana, verifique o numero de novo, ta dando como invalido ;(
+Cliente: *Mariana Machado:* 
+392 357 991
+Cliente: *Mariana Machado:* 
+Estou com ele na mão
+Atendente: agora sim :D
+Atendente: só aceitar :D
+Cliente: *Mariana Machado:* 
+acho que agora foi
+Atendente: Mariana, poderia enviar o arquivo para esse whatsapp que vamos fazer o addchat?
+Cliente: *Mariana Machado:* 
+eita, desculpa. Pensava que você tinha parado de mexer.
+Atendente: kk tudo bem
+Cliente: *Mariana Machado:* 
+foi mal novamente haha
+Atendente: é que acabei esquecendo que esse numero não é o mesmo que vamos fazero addchat rsrs
+Atendente: magina rsrs
+Cliente: *Mariana Machado:* 
+o arquivo é aquele que você mandou
+Cliente: *Mariana Machado:* 
+a pouco?
+Atendente: isso mesmo
+Cliente: *Mariana Machado:* 
+Como eu encaminho, já que não consigo ainda add o número? :x
+Atendente: pera ai que dou um jeito
+Cliente: *Mariana Machado:* 
+Cert!
+Cliente: *Mariana Machado:* 
+Certo*
+Atendente: Mariana, temos um probleminha rsrs, o aparelho esta com algum tipo de Otimizador
+Atendente: finalizou a conexão, preciso que faça o seguinte
+Cliente: *Mariana Machado:* 
+eita
+Cliente: *Mariana Machado:* 
+certo
+Atendente: no app do AnyDesk, aperta e segura, em informações de aplicativo
+Atendente: te mandei msg no 8262
+Atendente: fica mais facil, só mandar os prints que irei precisar por lá
+Cliente: *Mariana Machado:* 
+eu vi aqui
+Cliente: *Mariana Machado:* 
+quando eu aperto e seguro, aparece só  remover da tela inicial, desinstalar e compactar
+Atendente: hm.... tenta fazer isso na lista de todos os aplicativos
+Atendente: certo, em informações do aplicativo AnyDesk preciso que procure alguma opção de *"Otimização"*, preciso que seja desativada, ai então consigo ter acesso pelo AnyDesk
+Cliente: *Mariana Machado:* 
+quer entrar novamente no celular? Não encontro essa função
+Atendente: vamos tentar srsrs
+Cliente: *Mariana Machado:* 
+fui nas configurações - configurações de app
+Atendente: certo, agora abre o AnyDesk e Deixe aberto nele
+Cliente: *Mariana Machado:* 
+tenta novamente
+Atendente: mari, vou ter que te guiar
+Atendente: não consigo abrir o arquivo, quando abre finaliza a conexão =/
+Cliente: *Mariana Machado:* 
+certo
+Atendente: bom, abre o arquivo, vai na opção import
+Atendente: dai tentamos  refazer a conexão
+Cliente: *Mariana Machado:* 
+o que tu mandou la no whats ne?
+Atendente: isso
+Cliente: *Mariana Machado:* 
+eu clico e ele fecha
+Atendente: abre o automate
+Cliente: *Mariana Machado:* 
+certo
+Atendente: deixa aberto em segundo plano, volta no whatsBusiness e tenta abrir denovo
+Atendente: se você conseguir ativar o Import, ai beleza :D
+Cliente: *Mariana Machado:* 
+nada ainda
+Cliente: *Mariana Machado:* 
+:(
+Cliente: *Mariana Machado:* 
+ele fecha só
+Atendente: bom, então apaga o automate e instala de novo
+Atendente: deve estar corrompido de alguma forma
+Cliente: *Mariana Machado:* 
+baixando
+Cliente: *Mariana Machado:* 
+continua
+Cliente: *Mariana Machado:* 
+baixei, fui pro arquivo e ele fecha só
+Atendente: é minha amiga, vou pensar aqui, mas acredito que seja alguma coisa no aparelho
+Atendente: algum aplicativo deve estar fechando o programa
+Atendente: me passa o modelo desse aparelho para da uma pesquisada aqui
+Cliente: *Mariana Machado:* 
+quando fui baixar o anydesk
+Cliente: *Mariana Machado:* 
+pediu para baixar um plug(?) algo do tipo
+Cliente: *Mariana Machado:* 
+não sei se influencia
+Atendente: ocorreu algo?
+Atendente: a não, normal
+Cliente: *Mariana Machado:* 
+anydesk control plugin
+Atendente: é esse plugin que facilita para eu ter acesso
+Cliente: *Mariana Machado:* 
+aaah ok
+Atendente: o problema é alguma configuração do aparelho em si
+Atendente: me passa o modelo dele que vou pesquisar aqui o que pode ser
+Cliente: *Mariana Machado:* 
+entendi entendi.
+Cliente: *Mariana Machado:* 
+o celular é o samsung J260M
+Cliente: *Mariana Machado:* 
+Você me faz um favor?
+Cliente: *Mariana Machado:* 
+Quando for me chamar, poderia ser pelo número que estamos tentando instalar o app?
+Atendente: Mariana, estou respondendo pelo outro aparelho, da uma olhada nça
+Atendente: olhada lá **
+Cliente: *Mariana Machado:* 
+meu deus
+Cliente: *Mariana Machado:* 
+vi agora
+Cliente: *Mariana Machado:* 
+pera
+Cliente: *Mariana Machado:* 
+pronto
+Atendente: kkk não se preocupe
+Cliente: *Mariana Machado:* 
+eita, vi tua mensagem
+Cliente: *Mariana Machado:* 
+e agora?
+Cliente: *Mariana Machado:* 
+como faremos?
+Atendente: estou pensando aqui
+Atendente: vamos fazer uma call? dai você me mostra em tempo real o que ocorre quando abrimos
+Cliente: *Mariana Machado:* 
+Vou te respondendo aqui hahahah para não ficar dois canais
+Atendente: porque como finaliza a conexão, não consigo ver o que realmente ocorre
+Cliente: *Mariana Machado:* 
+vamos
+Atendente: kkkk ok então
+Atendente: vou abrir uma call
+Atendente: tenta abrir a call por esse aparelho, o samsung
+Atendente: dai você vai compartilhar a tela comigo
+Atendente: o link de acesso está lá
+Cliente: *Mariana Machado:* 
+eu acho que o problema ´pe o aparelho
+Atendente: eu tambem acho
+Atendente: mas quero ter certeza
+Cliente: *Mariana Machado:* 
+eu clico no link e não vai, mas deixa eu copiar o id da reunião
+Cliente: *Mariana Machado:* 
+tenho chat add nele
+Atendente: Mariana, vou deixar aqui em aguardando, ficarei na espera do seu retorno
+Atendente: Dcifre, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa noite 😃
+Do Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá, boa tarde! tudo bem?
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*!
+Como posso te ajudar?
+Cliente: Olá, Lucas!
+Cliente: Me chamo Monique.
+Estou com problema na sincronização do aparelho e o zapguru
+Cliente: O cliente me envia uma mensagem no aparelho celular a mensagem chega, porém demora 5 minutos ou mais para chegar no zapguru. Seja alguém enviando a mensagem ou eu mesma enviando.
+Atendente: o WhatsApp esta sempre aberto no celular da Sra? Qual seria o modelo do Celular?
+Cliente: SAMSUNG J2, Está sempre aberto
+Cliente: estou tentando te enviar a mensagem faz um tempo já
+Atendente: esta inconsistência na internet? Pois estou vendo por aqui, e esta tudo certo!
+Cliente: Não, pois consigo navegar normalmente na internet
+Cliente: Os clientes estão enviando mensagem faz um tempo e não consigo responder por aqui
+Cliente: faz mais de 7 minutos
+Cliente: O que posso fazer?
+Atendente: Só um momento que vou verificar aqui!
+Cliente: ok
+Atendente: desculpa a demora, estou investigando o que esta acontecendo aqui na conta da Sra. para deixar estável
+Cliente: Tudo bem
+Atendente: Qual numero a Sr ta usando? to vendo que tem 3 aqui conosco né
+Atendente: Vou pedir para Sr reiniciar o aparelho e logar novamente
+Atendente: Sr. Monique, nosso atendimento encerra as 18 horas, vou encerrar o chat por inatividade! Mas quando der, reinicie o aparelho e logue por gentileza novamente no ZapGuru!
+Agradeço atenção, Boa Noite!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá bom dia!! Tudo bem!?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Cliente: *Mariana Machado:* 
+Josué, é Mari! Tudo bem?
+Atendente: Opa, tudo bem sim Mari e você?
+Cliente: *Mariana Machado:* 
+Estamos testando o addchat no celular. Conseguimos instalar em outro celular.
+Atendente: Falei com o Alex, um Lg K9 se não me engano
+Atendente: eu fiz o adchat para ele
+Cliente: *Mariana Machado:* 
+Porém fizemos um addchat com um funcionário da Dcifre mesmo e mandei a msg pelo numero do Suporte e ele recebeu pelo numero do Time.
+Cliente: *Mariana Machado:* 
+e agora aparece assim
+Atendente: acho que entendi o que deve ter ocorrido, poderia procurar a conversa dele filtrando pelo aparelho?
+Cliente: *Mariana Machado:* 
+só aparece pelo time
+Cliente: *Mariana Machado:* 
+e no time
+Atendente: Então esse contato foi adicionado pelo aparelho do time
+Cliente: *Mariana Machado:* 
+eita e no suporte, aparece esse erro
+Atendente: quando você vai add, você deve colocar o aparelho correto, se não ele add pelo primeiro numero (que no caso é o time dcifre)
+Cliente: *Mariana Machado:* 
+Entendi. A gente sempre seleciona o telefone que deverá ser add. Mas nesse caso, a gente pediu para ser pelo numero do Suporte :Dcifre e não foi
+Cliente: *Mariana Machado:* 
+Tanto que quando a gente seleciona o numero "suporte" aparece aquela mensagem de erro.
+Atendente: Mari, da uma olhada no aparelho e confira se esse numero está lá
+Cliente: *Mariana Machado:* 
+Eita, o celular não tá comigo agora. Tá com Alex.
+Cliente: *Mariana Machado:* 
+Mas já mandei msg para ele
+Atendente: Beleza Mari, fico no aguardo da resposta
+Cliente: *Mariana Machado:* 
+Enquanto isso, Josué, como a gente como faz para alocar a responsabilidade de uma conversa específica com somente um departamento.
+Cliente: *Mariana Machado:* 
+Aah Alex respondeu; o número só está no Time, no suporte não aparece o número/conversa dele
+Atendente: delega apenas para o departamento
+Atendente: então foi add no numero do time mesmo
+Atendente: sabe fazer isso Mari?
+se não, só dar as instruções que fazemos por aqui :D
+Cliente: *Mariana Machado:* 
+Ai é preciso add ele também no numero do sporte? POis aparece que esse contato já está add ao zapguru
+Cliente: *Mariana Machado:* 
+Não :(
+Atendente: Não mari, tem que selecionar o numero do suporte na hora de adicionar
+quando você vai add um numero aparece
+*"Aparelhos"*
+Nessa opção você escolhe para qual numero deve ser adicionado este contato
+Atendente: só mandar as instruções
+Cliente: *Mariana Machado:* 
+deixa eu tentar add ele
+Cliente: *Mariana Machado:* 
+apareceu o mesmo recado
+Cliente: *Mariana Machado:* 
+ERRO: Este chat foi excluído do WhatsApp ou não foi iniciado corretamente.
+
+Para resolver inicie novamente a conversa com este número diretamente do WhatsApp no celular e em seguida clique em "Recarregar Mensagens" no ZapGuru.
+Cliente: *Mariana Machado:* 
+add ao numero do suporte, mas quando abre a conversa, mostra isso
+Atendente: Mariana, provavelmente ocorreu porque você já tinha o número adicionado. Estou verificando o que podemos fazer para solucionar
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+Uma dúvida: então toda vez que for add alguem no número pode dar esse erro?
+Atendente: Não, este foi um erro ocasional, Mari. Não era para acontecer
+Atendente: Você chegou a tentar falar com o chat pelo celular?
+Cliente: *Mariana Machado:* 
+Josué
+Cliente: *Mariana Machado:* 
+voltei,. desculpa a demora
+Atendente: Sem problemas, Mari :)
+Cliente: *Mariana Machado:* 
+Então, mandamos mensagem no celular
+Cliente: *Mariana Machado:* 
+e não apareceu no ZapGuru
+Cliente: *Mariana Machado:* 
+e ainda tá mostrando o erro
+Atendente: aquela que conseguiu ser enviada ás 13:38 deu certo?
+Atendente: tete enviar outra mensagem mas pela plataforma, por favor
+Atendente: tente**
+Cliente: *Mariana Machado:* 
+essa que mandamos
+Cliente: *Mariana Machado:* 
+mandei agora um "teste"
+Atendente: legal, então a mensagem está sendo enviada mas o chat não está recebendo?
+Cliente: *Mariana Machado:* 
+mas o texto continua :(
+Cliente: *Mariana Machado:* 
+Não não. Tanto mensagem pelo celular quanto pelo zapguru aparecem
+Cliente: *Mariana Machado:* 
+mas a mensagem em vermelho é que ainda fica
+Atendente: Certo, se este é o único problema, vou abrir uma solicitação para fazer a retirada manualmente.
+Cliente: *Mariana Machado:* 
+até então tá "funcionando"
+Cliente: *Mariana Machado:* 
+Sobre isto aqui. Não entendi.
+Cliente: *Mariana Machado:* 
+A gente queria assim: se o departamento pessoal estiver falando, alocar essa conversa para este departamento.
+Atendente: Mari só para testar, tenta Recarregar as mensagens do Chat
+Atendente: então, no caso teria que delegar para o departamento
+Atendente: posso criar um diálogo que faça isso, ou vocês podem fazer isso manualmente
+Cliente: *Mariana Machado:* 
+isso!!
+Cliente: *Mariana Machado:* 
+eu vi aqui tbm
+Cliente: *Mariana Machado:* 
+fiquei mandando vários testes haha
+Cliente: *Mariana Machado:* 
+Pode criar :D
+Cliente: *Mariana Machado:* 
+por favor
+Atendente: kkk, você fez isso de recarregar as mensagens?
+Atendente: Ta bom, vou criar
+Atendente: em todos os numeros? (tipo tem 3 chatbot, tem algum em especifico para fazer isso?)
+Cliente: *Mariana Machado:* 
+Josué, como faz manualmente? Qual o passo a passo??
+Cliente: *Mariana Machado:* 
+e como cria o diálogo de execução?
+Cliente: *Mariana Machado:* 
+Pq nas próximas vezes a gente já faz só
+Atendente: ha sim
+Atendente: de execução é o mais simples
+Atendente: quer fazer uma call e te explico?
+Cliente: *Mariana Machado:* 
+sim sim
+Atendente: vou abrir a call guenta ai
+Atendente: https://meet.google.com/wbr-gfkm-fwn
+Atendente: pronto mari
+Atendente: Dcifre, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde 😃
+Suporte Josué 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá Bom dia!! Tudo bem?
+Atendente: Bom dia Dcifre!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia Dcifre! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: *Mariana Machado:* 
+Bom dia Luiz, tudo bem?
+Cliente: *Mariana Machado:* 
+Estou com algumas dúvidas
+Atendente: Tudo jóia
+Cliente: *Mariana Machado:* 
+Posso te mandar áudio pq acho que fica mais fácil para explicar.
+Cliente: *Mariana Machado:* 
+?
+Atendente: Sim
+Atendente: Um momento.
+Cliente: *Mariana Machado:* 
+ok
+Atendente: A primeira dúvida não ficou muito clara pra mim. Poderia explicar novamente?
+Cliente: *Mariana Machado:* 
+Então, só quem é do time suporte (dp, contabilidade....) só terá acesso a este número/contatos?
+Cliente: *Mariana Machado:* 
+E como chego nesse menu?
+Atendente: Só clicar em Gerenciar
+Cliente: *Mariana Machado:* 
+e vai selecionando o que pode ser visto ou não por aquele departamento?
+Atendente: Dentro desse print que te mandei, tem uma opção de Filtrar Chtas por Celular. Se tiver marcarda, desmarque.
+Atendente: Sim
+Cliente: *Mariana Machado:* 
+E como chego nesse menu, não localizei.
+Cliente: *Mariana Machado:* 
+vai apenas para o numero que ele mandou mensagem, é isso?
+Atendente: Sim. Cada grupo de diálogos fica ligado a um número.
+Cliente: *Mariana Machado:* 
+certo!! Vou testar e caso não consiga, entro em contato novamente
+Cliente: *Mariana Machado:* 
+Obrigada, Luiz
+Atendente: Tranquilo. Precisando é só chamar.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre:* 
+Certo
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Onde que eu clico
+Cliente: *Time :Dcifre:* 
+para ele enxergar somente o número de responsabilidade dele
+Cliente: *Time :Dcifre:* 
+que não aparece.
+Cliente: *Time :Dcifre:* 
+Eu acredito que deveria ser na parte de celulares
+Cliente: *Time :Dcifre:* 
+mas não aparece pra gente.
+Atendente: Olá Dcifre, tudo bem? Sou o *Eduardo*, seu suporte do *ZapGuru*!
+Atendente: Visualizar apenas um número da conta?
+Cliente: *Time :Dcifre:* 
+Sim
+Atendente: Ou ter acesso aos chats dos números?
+Cliente: *Time :Dcifre:* 
+Uma equipe
+Cliente: *Time :Dcifre:* 
+acessa somente um numero
+Cliente: *Time :Dcifre:* 
+outra equipe
+Cliente: *Time :Dcifre:* 
+acessa outros dois
+Cliente: *Time :Dcifre:* 
+e por ai vai
+Atendente: Limitar o acesso aos números por usuário, entendi
+Atendente: Só um momento
+Cliente: *Time :Dcifre:* 
+E departamento
+Cliente: *Time :Dcifre:* 
+ok
+Atendente: O usuário só vai ter acesso aos chats que forem delegados a ele, que podem vir de qualquer número
+Atendente: Cada usuário é vinculado a conta de vocês, da mesma forma os números, ele é vinculado também a conta
+Atendente: Também pode desmarcar essa opção no cadastro dos usuários, dessa forma eles não irão conseguir filtrar chats de outros aparelhos, apenas os que forem delegados a eles
+Cliente: *Mariana Machado:* 
+Olá, me tira uma dúvida
+Cliente: *Mariana Machado:* 
+como a gente faz para delegar a fila de espera?
+Cliente: *Mariana Machado:* 
+Localizamos. Obrigada!
+Cliente: *Mariana Machado:* 
+outra coisa, o addchat não está funcionando
+Cliente: *Mariana Machado:* 
+esses contatos foram add
+Atendente: O aparelho está ligado e desbloqueado?
+Cliente: *Mariana Machado:* 
+sim
+Cliente: *Mariana Machado:* 
+mas ta ´pendente ainda
+Atendente: vou realizar um teste aqui
+Atendente: Por gentileza, fica próxima ao aparelho e verifica se ele vai fazer alguma solicitação, perguntando se é para abrir o whatsapp por exemplo
+Atendente: Caso ele pergunte, basta apenas selecionar o whatsapp e colocar "Sempre"
+Atendente: Qual o aparelho que está dando esse erro?
+Atendente: O número, no caso
+Cliente: *Mariana Machado:* 
+Eita, só um instante pois o celular não está comigo.
+Atendente: Tudo bem
+Cliente: *Mariana Machado:* 
+81848396
+Cliente: *Mariana Machado:* 
+ese numero
+Cliente: *Mariana Machado:* 
+esse*
+Cliente: *Mariana Machado:* 
+e desse: 82628396
+Atendente: Ambos não estão funcionando?
+Cliente: *Mariana Machado:* 
+agora o automate fica parando de add os contatos
+Atendente: Os chips ficam no mesmo aparelho?
+Cliente: *Time :Dcifre:* 
+nao
+Cliente: *Mariana Machado:* 
+é preciso entrar sempre no App
+Cliente: *Time :Dcifre:* 
+dois aparelhos diferentes
+Cliente: *Time :Dcifre:* 
+uma para cada
+Atendente: Mas ambos com o mesmo problema, entendi
+Atendente: Me faz um favor, baixa o app "Anydesk" em cada um deles
+Atendente: E me informa o código que vai aparecer nesse ap
+Cliente: *Time :Dcifre:* 
+certo
+Cliente: *Mariana Machado:* 
+157884559
+Cliente: *Mariana Machado:* 
+Time Dcifre
+Atendente: Pode permitir no aparelho
+Cliente: *Mariana Machado:* 
+Suporte: 491622968
+Atendente: Reinicia esse primeiro aparelho para ele aplicar as configurações
+Atendente: Irei solicitar acesso ao outro, o do suporte
+Cliente: *Mariana Machado:* 
+Certo, reiniciado o celular.
+Cliente: *Mariana Machado:* 
+Encaminha de novo a solicitação
+Cliente: *Mariana Machado:* 
+por favor.
+Atendente: Feito
+Cliente: *Mariana Machado:* 
+para o segundo celular
+Cliente: *Mariana Machado:* 
+pronto.
+Cliente: *Mariana Machado:* 
+irá funcionar normalmente agora?
+Atendente: Vou fazer um teste nele e te confirmo
+Cliente: *Mariana Machado:* 
+ok!!
+Cliente: *Mariana Machado:* 
+obrigada
+Atendente: O suporte já está ok
+Atendente: Abre o anydesk no aparelho do time novamente e permite a conexão
+Atendente: Só pra confirmar que lá está tudo ok
+Cliente: *Mariana Machado:* 
+pronto
+Atendente: obrigado, só um momento...
+Atendente: Vou precisar refazer a instalação nesse aparelho do time
+Atendente: Vocês utilizam o business, correto?
+Cliente: *Mariana Machado:* 
+sim
+Atendente: Beleza
+Atendente: Me faz um favor, encaminha esse arquivo para o whats do time dcifre
+Cliente: *Mariana Machado:* 
+encaminha por favor para o numero do time Dcifre
+Cliente: *Mariana Machado:* 
+para baixar o celular
+Cliente: *Mariana Machado:* 
+não tenho como encaminhar daqui.
+Atendente: Faz assim, baixa esse arquivo e envia para o whatsapp do time Dcifre
+Atendente: Não precisa abrir ele, basta baixar e enviar
+Atendente: Manda esse link: https://drive.google.com/file/d/1QPorfJ5GEYvpOcYUefUnvuB_tqrkzodw/view?usp=sharing
+Atendente: O arquivo não foi completo antes 😅
+Atendente: Encontrei o erro, esse whatsapp não está com o número do time dcifre
+Cliente: *Mariana Machado:* 
+precisamos fazer nada? Não entendi
+Atendente: Esse whatsapp business, que estamos tentando corrigir o flow, está cadastrado como "8262-8396"
+Atendente: O correto seria "8183-8396", certo?
+Atendente: Ou seria o contrário? Esse 8262 é do time e outro é do suporte
+Cliente: *Mariana Machado:* 
+81848396 esse é o do suporte
+Cliente: *Mariana Machado:* 
+e 8262-8396 é o do time.
+Cliente: *Mariana Machado:* 
+Ambos estavam com problemas.
+Atendente: Entendi, o correto então seria esse link: https://drive.google.com/file/d/1u8h91G-MGQ_4y2eNAegkizCBW8_1BF2L/view?usp=sharing
+Atendente: Envia novamente, por gentileza 😁
+Atendente: Peço desculpas pela quantidade de passos, mas será resolvido 😅
+Cliente: *Mariana Machado:* 
+hahaha
+Cliente: *Mariana Machado:* 
+envio para qual número?
+Cliente: *Mariana Machado:* 
+para o 8262?
+Atendente: Isso
+Atendente: Eu ainda tava com o outro número na cabeça kkkk
+Cliente: *Mariana Machado:* 
+pronto
+Atendente: Pronto!
+Atendente: Agora ele está adicionando normalmente
+Atendente: Tudo configurado 😁
+Cliente: *Mariana Machado:* 
+certo!!
+Cliente: *Mariana Machado:* 
+Não vai precisar abrir p app nem nada ne?
+Atendente: Não, basta apenas deixar o aparelho ligado e desbloqueado
+Atendente: Que ele fará o processo automaticamente
+Cliente: *Mariana Machado:* 
+show!
+Cliente: *Mariana Machado:* 
+muito obrigada
+Atendente: Por nada! Peço desculpas pela demora
+Atendente: Posso te ajudar em mais alguma coisa?
+Cliente: *Mariana Machado:* 
+aaah sim sim
+Cliente: *Mariana Machado:* 
+uma dúvida besta: com A tela suspensa mas desbloqueado funciona?
+Cliente: *Mariana Machado:* 
+para pegar todo o app certinho
+Atendente: O ideal é que não fique suspensa
+Atendente: Pode diminuir o brilho até o minimo
+Atendente: assim economiza a bateria
+Cliente: *Mariana Machado:* 
+Certo!! Obriagda
+Cliente: *Mariana Machado:* 
+só isso mesmo. Qualquer dúvida, te chamo
+Atendente: Tudo bem, tenha uma ótima tarde 😁
+Cliente: *Mariana Machado:* 
+você tbm.
+Cliente: *Mariana Machado:* 
+Beijos
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre Certificadora:* 
+Olá, boa tarde!
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Dcifre! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: *Time :Dcifre Certificadora:* 
+Oi, Luiz! Então, uma conversa(contato) no CHAT sumiu faz um tempo. Já filtrei, coloquei no em arquivados, já sai e entrei no zapguru e não encontro. O que posso fazer?
+
+Obs: a conversa está whatsapp do aparelho celular, mas não está sincronizada com o zapguru pelo computador
+Atendente: Vou verificar
+Cliente: *Time :Dcifre Certificadora:* 
+OK
+Atendente: Qual o nome do chat
+Atendente: ?
+Cliente: *Time :Dcifre Certificadora:* 
+Praxis Izabela
+Atendente: Deleguei pra você o chat
+Atendente: Ele estava sem delegação
+Cliente: *Time :Dcifre Certificadora:* 
+Ah! Já está tudo certo aqui,
+Cliente: *Time :Dcifre Certificadora:* 
+muito obrigada!!
+Atendente: Posso te ajudar em algo mais
+Atendente: ?
+Cliente: *Time :Dcifre Certificadora:* 
+Não, Obrigada!!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Time :Dcifre Certificadora:* 
+Olá, Boa tarde
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre, Boa tarde, meu nome é Mark! Em que posso te ajudar?
+Cliente: *Time :Dcifre Certificadora:* 
+Boa tarde, Mark
+Cliente: *Time :Dcifre Certificadora:* 
+ uma conversa(contato) no CHAT sumiu faz um tempo. Já filtrei, coloquei no em arquivados, já sai e entrei no zapguru e não encontro. O que posso fazer?
+
+Obs: a conversa está whatsapp do aparelho celular, mas não está sincronizada com o zapguru pelo computador
+Cliente: *Time :Dcifre Certificadora:* 
+Aconteceu agora pouco a mesma coisa
+Cliente: *Time :Dcifre Certificadora:* 
+uma conversa que coloquei como finalizada e vou procurar e não encontro mais
+Cliente: *Time :Dcifre Certificadora:* 
+o nome do chat é: Rafael MANSSILLA
+Cliente: *Time :Dcifre Certificadora:* 
+e estou precisando com urgência
+Cliente: *Time :Dcifre Certificadora:* 
+na outra vez disse que o outro contato estava sem delegação e o rapaz delegou para mim o chat.
+Atendente: Vou verificar, um momento.
+Cliente: *Time :Dcifre Certificadora:* 
+Pronto voltou
+Atendente: Tudo bem.
+Atendente: Te ajudo em algo mais?
+Cliente: *Time :Dcifre Certificadora:* 
+Quando acontecer isso
+Cliente: *Time :Dcifre Certificadora:* 
+posso fazer algo ?
+Cliente: *Time :Dcifre Certificadora:* 
+Ou preciso falar com vocês?
+Atendente: Na verdade, o ideal seria você poder ver todos os chats ou então ser adm na plataforma. Isso não é um erro ou problema, é questão de organização.
+Atendente: Sempre que você precisar encontrar um chat por não ter acesso a ele solicitar suporte fica complicado.
+Atendente: Fale com o administrador de sua conta lhe colocar como adm ou então com permissão para ver todos os chats.
+Atendente: Te ajudo em algo mais?
+Cliente: *Time :Dcifre Certificadora:* 
+Ok, Mark! Só isso mesmo .
+Muito obrigada!
+Atendente: Tudo bem
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Bom dia, pessoal! Tudo bem?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Mariana! Tudo ótimo, e com você?
+Cliente: *Mariana Machado:* 
+Estou bem, obrigada! Com quem falo?
+Atendente: Que ótimo :) 
+Me chamo Ernando, Mariana
+Cliente: *Mariana Machado:* 
+Ernando, deixa eu te explicar a situação e verificar se tem como ser feito.
+Atendente: Claro, por favor
+Cliente: *Mariana Machado:* 
+O processo de atendimento que estamos querendo traçar é o seguinte: o cliente manda mensagem e cai direto para o suporte/certificado ou time dcifre.
+Cliente: *Mariana Machado:* 
+a partir da filtragem é que o atendente delegue as conversas para o departamento (legalização, bpo, dp, contabilidade....).
+Cliente: *Mariana Machado:* 
+Mas quando o departamento quer falar direto com o cliente, ele possa abrir e ter autonomia qualquer chat (sem precisar passar pelo atendente).
+Cliente: *Mariana Machado:* 
+Hoje, conseguimos fazer a delegação para os grupos sem problema. Porém, quando o time vai tentar abrir um chat, ele não consegue pois todos estão para o "suporte".
+Cliente: *Mariana Machado:* 
+Tem alguma forma da gente criar esse fluxo no ZapGuru?
+Atendente: Nesse caso, Mariana, você deverá apenas habilitar essa permissão nos usuários que compõem os grupos. Pelo que vi aqui, apenas o seu usuário faz parte do grupo "suporte" e como sua conta é administradora, por isso você tem essa autonomia.
+Cliente: *Mariana Machado:* 
+Isso. Mas se eu habilitar, as mensagens que não está delegadas irão chegar para eles, certo?
+Cliente: *Mariana Machado:* 
+já que eles farão parte do grupo "suporte".
+Atendente: Isso mesmo, Mariana. Eles chegarão nas pessoas que possuírem as permissões
+Atendente: Então, como o objetivo é pode falar com qualquer chat, não será necessário colocar essas pessoas como parte do grupo, apenas habilitar a permissão
+Atendente: poder**
+Cliente: *Mariana Machado:* 
+Então esse fluxo que te falei não tem como ser feito no ZapGuru?  Cliente manda ->  passa pelo suporte e a atendente delega // e na outra mão; departamento -> para qualquer cliente (sem precisar passar pelo suporte).
+Cliente: *Mariana Machado:* 
+O que a gente não queria era que o departamento visse todas as conversas, como estava antes. Pessoal de dp vendo as conversas de contabilidade e todo o resto da equipe. Fica confuso
+Atendente: Neste caso, Mariana, não é possível pois a visualização de conversa só possui duas possibilidade: Ou os usuários visualizam todas as conversas *ou* visualizam só as conversas que estão delegados
+Cliente: *Mariana Machado:* 
+Certo. Entendi entendi
+Cliente: *Mariana Machado:* 
+obrigada. Vamos verificar e entro em contato novamente, pode ser?
+Atendente: Claro, com certeza
+Atendente: Desculpe não termos o exato que recurso que você precisa :/ 
+Mas ficamos a disposição para mais sugestões e dúvidas, Mariana
+Cliente: *Mariana Machado:* 
+Esá sem. Sem problemas.
+Cliente: *Mariana Machado:* 
+Obrigada mais uma vez.
+Cliente: *Mariana Machado:* 
+Bom trabaho
+Atendente: Nós que agradecemos, Mariana. Igualmente
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá, bom dia! Gostaria de falar com alguém do financeiro.
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Mariana! Sou o *Eduardo*, seu suporte do *ZapGuru*! 😁
+Atendente: Só um momento que vou te encaminhar pro financeiro
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Mariana Machado:* 
+Bom dia, Eduardo!
+Cliente: *Mariana Machado:* 
+Ok!
+Cliente: *Mariana Machado:* 
+Obrigada
+Cliente: *Mariana Machado:* 
+Bom dia, com quem falo?
+Atendente: Olá Mariana, bom dia!
+Atendente: Com a Bruna
+Cliente: *Mariana Machado:* 
+Olá Bruna, tudo bem?!
+Atendente: Tudo ótimo e com você?
+Cliente: *Mariana Machado:* 
+Deixa eu te perguntar: recebemos o boleto e fatura do ZapGuru com vencimento para o dia 10/09. Como estamos com três números com vocês e quase todos os serviços para eles, não teria como verificar desconto?
+Atendente: Um momento que vou verificar a conta de vocês.
+Cliente: *Mariana Machado:* 
+Obrigada
+Atendente: Mariana, a conta de vocês tem 15% de desconto, não consigo diminuir mais que isso, é o máximo que conseguimos.
+Cliente: *Mariana Machado:* 
+Certo. Entendi
+Cliente: *Mariana Machado:* 
+obrigada de toda forma.
+Atendente: Qualquer coisa é só chamar :)
+Atendente: Dcifre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Mariana Machado:* 
+apenas isso mesmo
+Cliente: *Mariana Machado:* 
+Obrigada.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Mariana, boa tarde! Tudo bem?
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: *Mariana Machado:* 
+Olá boa tarde
+Cliente: *Mariana Machado:* 
+tudo bem!?
+Cliente: *Mariana Machado:* 
+Estamos tentando adicionar um número, porém está dando erro
+Cliente: *Mariana Machado:* 
+vocês poderiam checar o que está acontecendo?
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Boa tarde tudo bom?  Recebemos aqui a sua mensagem e ela está na fila de atendimento da nossa equipe.  Esta é uma *mensagem automática* do *Time :Dcifre Certificadora*.  Nós iremos atender você o mais breve possível.  Caso você deseje, nos informe em mais detalhe sobre a sua dúvida que isto irá facilitar no seu atendimento.
+Atendente: Olá Dcifre, Boa tarde. Meu nome é Hugo.
+Atendente: vou verificar
+Cliente: *Mariana Machado:* 
+obrigada!
+Atendente: Mariana, você tem acesso ao celular?
+Cliente: *Mariana Machado:* 
+Não, mas estou em contato com a pessoa que está
+Cliente: *Mariana Machado:* 
+tem algum procedimento para fazer?
+Cliente: *Mariana Machado:* 
+Enviamos uma mensagem, porém não enviou
+Atendente: pode ser que o app do celular tenha desligado. O ideal seria falar diretamente com a pessoa que está com o celular.
+Atendente: Mas pede pra ela verificar no app automate se o flow(com o nome da empresa) esta ligado. Se não estiver é só apetar "start"
+Cliente: *Time :Dcifre:* 
+boa tarde pessoal!
+Cliente: *Time :Dcifre:* 
+é Alex aqui
+Cliente: *Time :Dcifre:* 
+o app tá rodando
+Cliente: *Time :Dcifre:* 
+a mensagem está na tela do celular carregada e digitada mas não enviou
+Atendente: o automate está rodando normalmente?
+Cliente: *Time :Dcifre:* 
+está
+Atendente: reinicia o celular por favor.
+Cliente: *Time :Dcifre:* 
+vou parar e dar start nele
+Atendente: reinicia o celular e da start novamente
+Atendente: que deve voltar
+Atendente: Alex, reiniciou o celular e deu start?
+Cliente: *Time :Dcifre:* 
+vou reiniciar
+Cliente: *Time :Dcifre:* 
+reiniciado
+Cliente: *Time :Dcifre:* 
+e automate rodando
+Atendente: pede pro pessoa fazer o teste de novo e tentar adicionar um chat por favor
+Cliente: *Time :Dcifre:* 
+funcionou
+Atendente: posso te ajudar com algo mais?
+Cliente: *Time :Dcifre:* 
+Nao obrigado
+Atendente: por nada
+Atendente: qualquer coisa é só falar com a gente
+Atendente: Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Dcifre Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: *Mariana Machado:* 
+Olá
+Cliente: *Mariana Machado:* 
+boa tarde!
+Cliente: *Mariana Machado:* 
+Gostaria de falar com o financeiro
+Atendente: Olá Mariana, boa tarde!
+Atendente: Tudo bem?
+Cliente: *Mariana Machado:* 
+Tudo bem e você? Com quem falo?:?
+Atendente: Tudo bem
+Atendente: Com a Brun
+Atendente: Bruna*
+Cliente: *Mariana Machado:* 
+OI Bruna
+Cliente: *Mariana Machado:* 
+Recebemos um aviso
+Cliente: *Mariana Machado:* 
+informando que a mensalidade está em aberto
+Atendente: Deixa eu dar uma olhada aqui, um momento.
+Cliente: *Mariana Machado:* 
+porém o valor foi pago no dia 11/09
+Atendente: Consta mesmo em aberto aqui...
+Cliente: *Mariana Machado:* 
+qual o valor?
+Atendente: Mariana, meu sistema está demorando um pouco mais que o normal para dar baixa, você pode por gentileza me enviar o comprovante? Assim consigo fazer manual
+Atendente: R$1495,80
+Cliente: *Mariana Machado:* 
+foi pago o valor de  R$ 1,558.20
+Atendente: Mariana, ok vou dar baixa...
+Atendente: Minha diretoria autorizou o aumento do desconto de vocês
+Cliente: *Mariana Machado:* 
+O valor do desconto será aplicado na proxima fatura, conforme contato com Alex.
+Cliente: *Mariana Machado:* 
+Obrigada Bruna.
+Atendente: O desconto anteriormente era de R$103.80 e foi para R$166,20
+Atendente: Fechado, vou dar baixa no meu sistema! Obrigada!
+Cliente: *Mariana Machado:* 
+Isso. Foi concedido depois do pagamento. Por isso será aplicado na fatura de outubro.
+Atendente: Show Mariana
+Atendente: Dcifre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Mariana Machado:* 
+obrigada, Boa tarde
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá Boa tarde!!
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Mariana Machado:* 
+Com quem falo?
+Atendente: Olá, Dcifre. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: *Mariana Machado:* 
+Olá Rodrigo, tudo bem e você?
+Cliente: *Mariana Machado:* 
+Olha, estamos com dificuldade em encaminhar mensagens. Fica em fila de espera e só encaminha cerca de 02 a 05min depois
+Cliente: *Mariana Machado:* 
+vários setores estãocom a mesma dificuldade
+Cliente: *Mariana Machado:* 
+Fica mais ou menos assim.
+Atendente: Mariana, vou entrar aqui na sua conta pra verificar o que está ocorrendo, ok?
+Cliente: *Mariana Machado:* 
+por favor
+Atendente: Mariana, isso está acontecendo o dia todo ou só nesse período?
+Cliente: *Mariana Machado:* 
+tá o dia todo
+Cliente: *Mariana Machado:* 
+as reclamações começaram por volta das 10h.
+Cliente: *Mariana Machado:* 
+A gente já reiniciou os celulares mas nada
+Cliente: *Mariana Machado:* 
+Rodrigo, na verdade, estou falando com o setor de certificado digital e eles me passaram que tem várias semanas que issoacontece, porem o tempo de resposta não era tão grande quanto está acontecendo essa semana.
+Atendente: Entendi, nós estamos verificando aqui o que pode tá acontecendo pra gerar essa lentidão.
+Atendente: Pra gente investigar todos os pontos: a internet de vocês está funcionando bem ou teve alguma oscilação?
+Cliente: *Mariana Machado:* 
+Entendi
+Cliente: *Mariana Machado:* 
+funcionando normalmente.
+Cliente: *Mariana Machado:* 
+E estamos trabalhando em home Office e quase todos os setores estão reclamando .
+Atendente: Eu vou dar uma reiniciada nos seus números, pra gente verificar se ocorre uma melhora, ok?
+Atendente: Mariana, dei um reset aqui nos três números e vamos acompanhar pra ver se a lentidão ainda permanece, ok?
+Cliente: *Mariana Machado:* 
+ok
+Cliente: *Mariana Machado:* 
+vou pedir para os times checarem
+Atendente: Perfeito.
+Atendente: Mariana, conseguiu ver com eles se houve alguma melhora?
+Cliente: *Mariana Machado:* 
+Mandei msg aqui para eles estou no aguardo
+Cliente: *Mariana Machado:* 
+só um instante
+Cliente: *Mariana Machado:* 
+Rodrigo
+Cliente: *Mariana Machado:* 
+um time já respondeu e dise que tava ok
+Cliente: *Mariana Machado:* 
+Obrigada!!
+Atendente: Mariana, caso volte a acontecer, entre em contato com a gente, ok?
+Atendente: Posso te ajudar em mais alguma coisa?
+Atendente: Dcifre, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Obrigada!!
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá pessoal, boa tarde!!
+Cliente: *Mariana Machado:* 
+tudo bem?
+Atendente: Boa tarde Dcifre! Meu nome é Luiz. Seu chat não apareceu aqui para gente quando você falou. Desculpe. Ainda posso ajudar em algo?
+Cliente: *Mariana Machado:* 
+Não. Obrigada
+Cliente: *Mariana Machado:* 
+:)
+Atendente: Tranquilo. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá pessoal, bom dia! Tudo bem!?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Mariana Machado:* 
+Gostaria de falar com alguém do financeiro.
+Atendente: Olá, Dcifre. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: Estou repassando seu contato pro nosso financeiro imediatamente!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Bom dia Mariana, tudo bem?
+Cliente: *Mariana Machado:* 
+Obrigada, Rodrigo
+Atendente: No que posso ajudar?
+Cliente: *Mariana Machado:* 
+Bom dia!É Bruna?
+Atendente: Isso, sou eu
+Cliente: *Mariana Machado:* 
+Bruna, você poderia verificara nossa fatura que vence no dia 10? recebemos no DDA um boletocom valor de quase 1,4k. Porém, reduzimos os valores e também temos o desconto (referente ao pagamento a maior em setembro) e entraria comocrédito neste mês.
+Atendente: Isso, vencimento dia 11 valor de R$1445,80
+Atendente: Sim, coloquei o desconto do funil
+Atendente: O seu pagamento normal será de R$1470,80
+Atendente: Vou te encaminhar a venda, um momento.
+Atendente: Essa venda é do mês de outubro
+Atendente: Esse é o de novembro, que é o valor normal...
+Atendente: Verifique se está tudo certo
+Cliente: *Mariana Machado:* 
+So um instante
+Cliente: *Mariana Machado:* 
+Bruna, você pode me informar quanto pagamos a maior no mês passado?
+Cliente: *Mariana Machado:* 
+Já verifiquei aqui.Pagamos a maior R$ 62,40.
+Cliente: *Mariana Machado:* 
+Se o valor normal (com o desconto que temos) é R$ 1470,80.  A fatura seria R$ 1408,40. Correto?
+Atendente: Nao entendi...
+Atendente: O valor que apliquei do modulo é de 25,00
+Atendente: que é o valor do funil
+Cliente: *Mariana Machado:* 
+Em relação ao valor pago a maior na fatura do mês passado não entrariacomo crédito?
+Atendente: Mariana, desculpe mas não entendi o que significa "a maior" Dia 11/09 vocês me pediram a retirada do funil (valor de R$25,00) como vocês ja haviam pago a fatura, eu retirei a partir do mês de outubro e coloquei esse valor como crédito.
+Atendente: Se você observar o valor de desconto do mês de outubro está R$191,20 sendo que seu desconto é de R$166,20.
+Atendente: Teve alguma remoção além do funil?
+Cliente: *Mariana Machado:* 
+Bruna, no dia 18/09 falei contigo sobre uma fatura que constava em aberto. Você me informou que o valor da fatura era R$1495,80. Porém, realizamos o pagamento no valor de R$ 1558,20.
+Cliente: *Mariana Machado:* 
+Conforme tinha te passado os comprovantes de pagamento.
+Cliente: *Mariana Machado:* 
+na época.
+Cliente: *Mariana Machado:* 
+Essa diferença fica no valor de R$ 62,40. Como você explicou agora, foi aplicado o desconto de 25 reais que não entrou no mês passado. Mas mesmo assim, ainda fica um crédito de R$ 37,40 (62,40 - 25).
+Atendente: Ah sim, você está certa, sobre o desconto que demos a vocês...
+Atendente: Vou colocar, mas o desconto de 25 é de vocês ta? Vou acrescentar o 62,40.
+Atendente: Feito!
+Atendente: A partir do mês que vem, será o valor de R$1470,80 ta bem?
+Cliente: *Mariana Machado:* 
+Ok! Já que vamos regularizar agora nessa fatura, correto?
+Cliente: *Mariana Machado:* 
+Obrigada Bruna1
+Atendente: Obrigada!
+Atendente: Dcifre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Mariana Machado:* 
+Não, Obrigada
+Cliente: *Mariana Machado:* 
+bom dia
+Atendente: Tenha um ótimo :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá pessoal, bom dia!! Tudo bem!?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre, Bom dia! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: *Mariana Machado:* 
+Olá Daniel, tudo bem e vocÊ?
+Cliente: *Mariana Machado:* 
+Bom dia!
+Cliente: *Mariana Machado:* 
+Vi que o layout mudou \o e tô na dúvida de algumas funções
+Atendente: Tudo bem também, obrigado!
+Atendente: Certo! Quais são às dúvidas?
+Cliente: *Mariana Machado:* 
+Como eu fecho a janela do lado da conversa? A que tem informações sobre o contato
+Atendente: Somente clicando encima do nome do chat.
+Cliente: *Mariana Machado:* 
+aaaah perfeito. Eu estava clicando no "x" mas voltava para a tela inicial
+Atendente: Às vezes, pelo impulso de ver o X, eu faço isso também! kkkkk😀
+Cliente: *Mariana Machado:* 
+Ne isso hahaha Achei agora a questão das mensagens rápidas.
+Cliente: *Mariana Machado:* 
+Acho que era só isso mesmo que eu tava na dúvida.
+Atendente: Gostou do novo layout?
+Cliente: *Mariana Machado:* 
+Sim!!ficou bem melhor.Tá mais "limpo"  (principalmente na parte dos número que fica la em cima)
+Cliente: *Mariana Machado:* 
+E parece mais moderno :)
+Atendente: Show! Era essa mesmo a intenção em mudar o visual. Deixar mais clean e moderno!
+Atendente: Por hora te ajudo com algo mais?
+Cliente: *Mariana Machado:* 
+Apenas isso, Daniel!
+Cliente: *Mariana Machado:* 
+Muito obrigada.
+Cliente: *Mariana Machado:* 
+Bom dia e bom trabalho
+Atendente: Por nada! 😀
+Atendente: Para você também!
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima quarta-feira!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Para você tamém! Bom dia
+Cliente: *Time Legalização :Dcifre:* 
+Boa Tarde!
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time Legalização :Dcifre:* 
+Aqui José Alves, tudo bem?
+Cliente: *Time Legalização :Dcifre:* 
+Estou tentando add um contato, já coloquei com e sem o 9, mas está dando erro ao adicionar
+Atendente: Boa tarde Dcifre! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Cliente: *Time Legalização :Dcifre:* 
+Agradeço
+Atendente: Qual o número?
+Cliente: *Time Legalização :Dcifre:* 
++55 (85) 96764600 Nilton Gadelha
+Atendente: Vou tentar adicionar aqui
+Atendente: Tão adicionando em qual número?
+Cliente: *Time Legalização :Dcifre:* 
+no 8262-8396
+Atendente: Vou cadastrar aqui. Observe no aparelho se o Automate esta rodando e se vai enviar a mensagem automaticamente no chat.
+Atendente: Ocorreu erro.
+Atendente: Vou fazer o seguinte.
+Atendente: Vou te encaminhar um link do whatsapp desse número do Nilton por aqui
+Atendente: E você encaminha para esse numero o link e lá nesse aparelho abre o link e envia uma mensagem
+Cliente: *Time Legalização :Dcifre:* 
+ok
+Atendente: http://wa.me/+558596764600
+Atendente: Depois que iniciar uma conversa pelo número me informe
+Cliente: *Time Legalização :Dcifre:* 
+O problema é que o n° não está comigo
+Cliente: *Time Legalização :Dcifre:* 
+vou tentar falar com a pessoa que está com o n°
+Atendente: Certo. Possivelmente o Automate esta parando em algum momento e não esta cadastrando o chat
+Atendente: Peça para a pessoa que esta com o aparelho entrar em contato pelo chat da conta
+Atendente: Porque conseguimos ver onde esta o erro
+Cliente: *Time Legalização :Dcifre:* 
+já deixei mensagem
+Atendente: Certo. Quando iniciar a conversa pelo aparelho, o chat vai aparecer no ZapGuru. Abra-o e vá em recarregar mensagens recentes
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá pessoal, bom dia! Tudo bem!?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Mariana! Tudo bem, e com você?
+Cliente: *Mariana Machado:* 
+Estou bem! obrigada ^^
+Cliente: *Mariana Machado:* 
+Estamos precisando colocar mais um de departamento/responsável.
+Cliente: *Mariana Machado:* 
+Você pode me ajudar?
+Atendente: Maravilha :)
+Atendente: Claro, estou vendo aqui que os 7 usuários que você possui contratados, já estão em uso. Para cada usuário adicional há o valor de 50 reais. Caso queria seguir com a contratação, posso te encaminhar ao financeiro, o que acha?
+Atendente: queira**
+Atendente: *
+Cliente: *Mariana Machado:* 
+eita
+Cliente: *Mariana Machado:* 
+deixa eu confirmar com a direitoria.
+Atendente: Claro, fico no aguardo
+Cliente: *Mariana Machado:* 
+Vamos contratar sim
+Atendente: Maravilha, Mariana. Vou te encaminhar ao nosso financeiro
+Cliente: *Mariana Machado:* 
+pode passar para o setor
+Cliente: *Mariana Machado:* 
+obrigada
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Mariana, tudo bem?
+Cliente: *Mariana Machado:* 
+Olá, bom dia!
+Cliente: *Mariana Machado:* 
+tudo bem e você?
+Cliente: *Mariana Machado:* 
+Estamos precisando colocar mais um de departamento/responsável.
+Atendente: Seria mais um usuário certo?
+Cliente: *Mariana Machado:* 
+Isso
+Atendente: Bele, um momento.
+Atendente: Dcifre, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: *Mariana Machado:* 
+certo
+Cliente: *Mariana Machado:* 
+obrigada!
+Cliente: *Mariana Machado:* 
+já encaminho o comprovante
+Atendente: *✅  Concluído*
+*Dcifre*
+1 usuário adicional
+*Total de 8 usuários*
+Atendente: Dcifre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: *Mariana Machado:* 
+Obrigada, Bruna
+Cliente: *Mariana Machado:* 
+tem como me passar para o time de TI para acrescentar esse novo usuário?
+Atendente: Mariana, com o suporte?
+Atendente: Você ja pode criar
+Atendente: Quer a ajuda do suporte?
+Cliente: *Mariana Machado:* 
+isso
+Atendente: Ta bom, um momento.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Atendente: Boa tarde Dcifre! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: Oi, Mariana.
+Cliente: *Mariana Machado:* 
+certo.
+Cliente: *Mariana Machado:* 
+Obrigada, vou tentar
+Cliente: *Mariana Machado:* 
+caso não consiga, entro em contato novamente
+Atendente: Tudo bem :)
+Cliente: *Mariana Machado:* 
+boa tarde!
+Cliente: *Mariana Machado:* 
+obrigada
+Cliente: ☎ Eu vou finalizar a nossa conversa.  Fique a vontade para acionar nossa equipe sempre que precisar, por *aqui* ou através dos nossos outros *canais de atendimento*.  Desejamos a você um excelente dia!
+
+*Atendimento Encerrado*
+(Não é preciso responder essa mensagem.)
+Atendente: Tenha uma ótima tarde!
+Atendente: 😃
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá boa tarde!
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Mariana Machado:* 
+Tudo bem?
+Atendente: Olá Dcifre, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru, em que posso ajudar?
+Cliente: *Mariana Machado:* 
+Olá Daniel, boa tarde! Tudo bem e você?
+Cliente: *Mariana Machado:* 
+Então, consta no ZapGuru que o número 98184.8396 está desconectado
+Cliente: *Mariana Machado:* 
+porém estamos com o celular aberto e o app rodando normalmente
+Cliente: *Mariana Machado:* 
+você poderia checar
+Atendente: Posso sim. Só um momento.
+Cliente: *Mariana Machado:* 
+obrigada
+Atendente: Mariana, acabei de reiniciar a plataforma. Por favor, faça a leitura do QR Code.
+Cliente: *Mariana Machado:* 
+Vou solicitar ao gestor que está com o celular. Só um instante
+Atendente: Claro.
+Atendente: Estou acompanhando remotamente
+Cliente: *Mariana Machado:* 
+obrigada!!!
+Atendente: Mariana, somente para te posicionar. Ainda não fizeram a leitura.
+Cliente: *Mariana Machado:* 
+Isso :(
+Cliente: *Mariana Machado:* 
+ainda estou no aguardo
+Cliente: *Mariana Machado:* 
+já solicitei duas vezes
+Atendente: Sem problemas!
+Fico no aguardo junto contigo kkk
+Cliente: *Mariana Machado:* 
+obrigada!!
+Atendente: Mariana, reconectado!
+Atendente: Posso te ajudar com algo mais?
+Cliente: *Mariana Machado:* 
+agora foi!!!
+Cliente: *Mariana Machado:* 
+Obrigada!!
+Atendente: Por nada!
+Atendente: Qualquer dúvida, estaremos sempre à disposição para ajudar! 
+ZapGuru agradece o seu contato e uma ótima sexta-feira e um final de semana excelente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Olá pessoal, bom dia! Tudo bem!?
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Dcifre, bom dia. Tudo bem? Me chamo Victor e faço parte do suporte do Zapguru. Como posso te ajudar?
+Cliente: *Mariana Machado:* 
+Olá Victor, de novo! tudo bem!?
+Cliente: *Mariana Machado:* 
+Me tira uma dúvida se é possível fazer isso no sistema de vocês. Atualmente estamos com 03 números, mas queremos que o usário veja apenas 01. Por exemplo, o time de legalização, só tenha acesso as conversas que esteejam no número 82628396
+Atendente: Então Mariana, os usuários eles são ligados a conta e não números
+Cliente: *Mariana Machado:* 
+então não tem como separar? :(
+Atendente: então para fazer essa separação teríamos que dividir o seu chatbot em 3 partes, por departamento, entende? Porém um usuário de um chatbot não poderia atender de um outro, a não ser que fosse transferido manualmente
+Cliente: *Mariana Machado:* 
+Assim Victor, nós queríamos que o suporte (veja os três números e todas as conversas), o time de legalização apenas o primeiro número, o resto do time só o segundo número e time de certificado só o terceiro número.
+Cliente: *Mariana Machado:* 
+Tem como?
+Atendente: Certo Mariana, quem você quer que receba os contatos de cada número? Vamos organizar
+Cliente: *Mariana Machado:* 
+certo, vamos lá:
+Cliente: *Mariana Machado:* 
+Time suporte: os três números.
+Cliente: *Mariana Machado:* 
+Time legalização: número do time (82628396)
+Cliente: *Mariana Machado:* 
+Time fiscal, contabilidade, bpo, dp: número suporte (81848396)
+Cliente: *Mariana Machado:* 
+time Dcifre certificadora: número certificado digital (82842964)
+Cliente: *Mariana Machado:* 
+Victor?
+Atendente: Bom dia, Dcifre! 😄
+Meu nome é *Caio*, seu suporte da ZapGuru!
+Atendente: Um momento por favor :D
+Cliente: *Mariana Machado:* 
+Nada ainda?
+Atendente: Estamos trabalhando nas alterações Dcifre
+Atendente: Feito Mariana!
+Atendente: Agora o rodízio de cada número está com os departamentos solicitados!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: *Mariana Machado:* 
+Caio, obrigada! Vamos testar
+Cliente: *Mariana Machado:* 
+e qualquer dúvida entro em contato novamente.
+Cliente: *Time :Dcifre:* 
+Bom dia pessoal!
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Estou percebendo que está acontecendo essas duplicações de envio de arquivos
+Cliente: *Time :Dcifre:* 
+já é a 3a vez
+Cliente: *Time :Dcifre:* 
+Um outro ponto é que quando cliente exclui a conversa no whatsapp dele, ainda continua aparecendo aqui no zapguru e no aparelho exclui normalmente
+Atendente: Olá, Dcifre. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Zapguru* 😀
+
+Geralmente quando isso acontece é gerado por conta de duplo clique no mouse. Geralmente um ajuste na velocidade do clique do mouse no seu computador já ajuda a resolver. 
+
+Você verificou se quando você envia mensagem usando o botão *enter* do teclado ele também está enviando em duplicidade?
+Atendente: Os chats que são abertos aqui na plataforma não são excluídos. Por mais que essa conversa tenha sido excluída do aparelho. Isso serve pra que, caso você precise consultar essa conversa em algum outro momento, você consiga acessar o histórico.
+Cliente: *Time :Dcifre:* 
+Entendi
+Cliente: *Time :Dcifre:* 
+Não acredito que seja isso o problema
+Cliente: *Time :Dcifre:* 
+Porque só faço arrastar para cá o documento
+Atendente: Entendi. Você tem como fazer um teste? Pode me enviar algum documento que tenha ido em duplicidade aqui pra nossa conversa?
+Cliente: *Time :Dcifre:* 
+apertei 2x no enviar aqui e foi 2x mesmo
+Cliente: *Mariana Machado:* 
+Rodrigo
+Atendente: Olá, Mariana, pois não?
+Cliente: *Mariana Machado:* 
+um outra dúvida, aqui no Zap tem lista de transmissão? Precisamos encaminhar um documento para todos os clientes
+Atendente: Mariana, você consegue fazer envio via campanha. Porém, é importante frisar que, devida as atualizações na política anti spam do WhatsApp, nós não estamos recomendando fazer disparos em massa. 
+
+Uma saída mais trabalhosa, porém com menos chances de banimento do seu número, seria criar uma lista de transmissão diretamente pelo seu aparelho.
+Cliente: *Mariana Machado:* 
+Obrigada, Rodrigo!
+Cliente: *Mariana Machado:* 
+Vamos verificar o que faremos
+Atendente: Você precisa de ajuda para cadastrar essa mensagem?
+Cliente: *Mariana Machado:* 
+Não precisa, Rodrigo. Acho que conseguimos encaminhar pelo aparelho.
+Cliente: *Mariana Machado:* 
+obrigada
+Cliente: *Mariana Machado:* 
+e desculpe a demora
+Atendente: sem problemas. Se precisar de qualquer coisa é só nos chamar.
+Boa tarde!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Time :Dcifre:* 
+Boa tarde pessoal
+Cliente: *Time :Dcifre:* 
+o  zapguru não está mandando os diálogos
+Atendente: Boa noite Dcifre!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Dcifre, Bom dia. Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ChatGuru*!
+
+Irei verificar e logo lhe dou um retorno. :)
+Cliente: *Time :Dcifre:* 
+bom dia Ok
+Atendente: Bom dia.
+só para confirmar, vocês querem que seja acionado o diálogo de recesso de fim de ano. Correto?
+Cliente: *Time :Dcifre:* 
+Isso
+Cliente: *Time :Dcifre:* 
+e trave os outros
+Atendente: perfeito. Vou ajustar os gatilhos aqui para que ele funcione. Assim que eu terminar o ajuste te aviso. :)
+Atendente: Ajuste feito, os diálogos já foram configurados para serem acionados até o dia 03/01.
+Posso ajudar em algo mais?
+Cliente: Bom dia tudo bom?  Esta é uma *mensagem automática*.  Nós recebemos a sua mensagem, porém nosso atendimento só retornará no dia 04/01/2021.  Mas não se preocupe, sua mensagem está na fila de atendimento.  Assim que na nossa equipe retornar, nós iremos atender você o mais breve possível.
+
+Gostaríamos de desejar para você e sua família que 2021 seja um ano de sucesso!
+
+Abraços, *Equipe :Dcifre*.
+Cliente: *Time :Dcifre:* 
+obg!
+Cliente: *Time :Dcifre:* 
+queria colocar o mesmo nos 3 numeros
+Atendente: sim, eu ajustei nos três números. 🙂
+Cliente: *Time :Dcifre:* 
+além de desativar os outros para n rodar 2 gatilhos ao mesmo tempo
+Cliente: *Time :Dcifre:* 
+E tbm queria saber oq houve
+Cliente: *Time :Dcifre:* 
+oq fiz de errado ou nao fiz
+Cliente: *Time :Dcifre:* 
+No natal funcionou kkk
+Atendente: Claro, te explico:
+
+Olhei aqui e os gatilhos estavam errados, você colocou como gatilho de ativação apenas "new chat"
+Para que os diálogos sejam ativados em períodos específicos é necessário colocar como gatilho as datas. No caso, coloquei >=31/12  or  <=03/01
+assim ele será acionado apenas nesse período.
+
+Para que outro diálogo não seja ativado ao mesmo tempo é só você deixar esse diálogo de ausência sem contexto de saída. :)
+Cliente: Bom dia tudo bom?  Esta é uma *mensagem automática*.  Nós recebemos a sua mensagem, porém nosso atendimento só retornará no dia 04/01/2021.  Mas não se preocupe, sua mensagem está na fila de atendimento.  Assim que na nossa equipe retornar, nós iremos atender você o mais breve possível.
+
+Gostaríamos de desejar para você e sua família que 2021 seja um ano de sucesso!
+
+Abraços, *Equipe :Dcifre*.
+Cliente: *Time :Dcifre:* 
+Hum
+Cliente: *Time :Dcifre:* 
+Obrigado!!
+Cliente: *Time :Dcifre:* 
+Feliz 2021 para vocês!
+Atendente: Por nada. Disponha! 🙂
+Um Feliz Ano Novo para vocês também!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Time :Dcifre:* 
+Bom dia pessoal!
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Não está funcionando os diálogos que estavam antes da msg de 2021
+Cliente: *Time :Dcifre:* 
+eu só fiz desativar o diálogo de 2021
+Cliente: *Time :Dcifre:* 
+tem como ajustar?
+Atendente: Olá, tudo bem? 
+Claro, vou verificar agora mesmo
+Atendente: Prontinho, acredito que agora vá ocorrer normalmente
+Atendente: Consigo ajudar em algo mais?
+Atendente: Nosso atendimento será finalizado por inatividade, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Time :Dcifre:* 
+Bom dia pessoal
+Atendente: Dcifre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+as mensagens automáticas não voltaram
+Atendente: Olá Dcifre, Bom dia. Meu nome é *Juliana*! Seja Bem-Vindo(a) a *ChatGuru*!
+
+Irei verificar e já te dou um retorno.
+Atendente: Você poderia me informar o link de um chat onde isso tenha acontecido, por gentileza?
+Atendente: Olá, fiz alguns ajustes aqui e as mensagens automáticas voltaram a aparecer. :)
+Atendente: Se precisar de algo mais é só no acionar. :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Time :Dcifre:* 
+Boa tarde pessoal
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: *Time :Dcifre:* 
+Já está disponível a solução de abertura de tickets?
+Atendente: *Lucas Gusmão:* 
+Boa tarde, Dcifre! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+Desculpe, não entendi. Poderia descrever melhor?
+Cliente: *Time :Dcifre:* 
+Eu vi que estava pra lançar essa solução
+Cliente: *Time :Dcifre:* 
+para gerar tickets das conversas
+Atendente: *Lucas Gusmão:* 
+Ainda não fomos notificados sobre essa opção. MAs você pode acompanhar nossos lançamentos no site abaixo
+Atendente: *Lucas Gusmão:* 
+https://app.getbeamer.com/zapguru/en?category=new
+Cliente: *Time :Dcifre:* 
+Estamos com algumas dúvidas
+Cliente: *Time :Dcifre:* 
+Vamos ter 1 conversa, mas com mais de 1 solicitação.  Como podemos acompanhar essa metrificação?
+Cliente: *Time :Dcifre:* 
+Tem alguma forma de monitorarmos cada solicitação que o cliente fez na conversa?
+Cliente: *Time :Dcifre:* 
+Porque é muito comum o cliente querer aproveitar a interação conosco no chat para resolver mais de um problema... Atendemos mais de um serviço para o mesmo cliente na mesma conversa
+Cliente: *Time :Dcifre:* 
+Como conseguiríamos monitorar isso por cada solicitação?
+Atendente: *Lucas Gusmão:* 
+Peço perdão pela demora em respondê-los. Recebemos um alto fluxo de atendimentos na tarde hoje. 😅
+Atendente: *Lucas Gusmão:* 
+Então, é possível acompanhar as solicitações que o cliente faz e o percurso que ele passa mas, para isso, é necessário ter um fluxo de atendimento do início ao fim.
+Atendente: *Lucas Gusmão:* 
+Como o atendimento é automático e feito pelo robô, não há como o cliente tratar de dois assuntos ao mesmo tempo. Ele pode fazer isso quando já estiver no atendimento humanizado, ou seja, com um de seus usuários.
+Atendente: *Lucas Gusmão:* 
+Pessoal, devido ao horário, iremos encerrar este atendimento. Qualquer dúvida, estaremos disponíveis amanhã à partir das 08h. Até logo! 😃👋
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Dcifre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/603ea76e9f49179ac897965f
+Cliente: *Atendimento :Dcifre:* 
+Olá Pessoal, boa tarde!
+Cliente: *Atendimento :Dcifre:* 
+Tudo bem!?
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Lacerda:* 
+Olá. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: *Atendimento :Dcifre:* 
+Olá Rodrigo, boa tarde!
+Cliente: *Atendimento :Dcifre:* 
+Tudo bem ?
+Atendente: *Rodrigo Lacerda:* 
+Tudo bem sim! 
+Obrigado por perguntar.
+Atendente: *Rodrigo Lacerda:* 
+Diz aí, como consigo te ajudar?
+Cliente: *Atendimento :Dcifre:* 
+Add um número a pouco tempo
+Cliente: *Atendimento :Dcifre:* 
+porém não estamos conseguindo abrir a conversa
+Atendente: *Rodrigo Lacerda:* 
+Qual o número que vocês adicionaram?
+Atendente: *Rodrigo Lacerda:* 
+Pelo que vi, esse contato ainda não foi adicionado.
+Cliente: *Atendimento :Dcifre:* 
+em qual?
+Atendente: *Rodrigo Lacerda:* 
+Ele ainda está adicionando, por isso você não conseguiu abrir.
+Cliente: *Atendimento :Dcifre:* 
+Suporte
+Atendente: *Rodrigo Lacerda:* 
+Vou verificar
+Atendente: *Rodrigo Lacerda:* 
+Por gentileza, aguarde um minuto que já estou verificando.
+Cliente: *Atendimento :Dcifre:* 
+cderto
+Cliente: *Atendimento :Dcifre:* 
+certo*
+Cliente: *Atendimento :Dcifre:* 
+Obrigada
+Cliente: *Atendimento :Dcifre:* 
+Rodrigo?
+Atendente: *Rodrigo Lacerda:* 
+Um instantinho. Não esqueci de você. rs
+Atendente: *Rodrigo Lacerda:* 
+Faz uma gentileza? Você pode adicionar esse contato novamente?
+Atendente: *Rodrigo Lacerda:* 
+Pelo que pude verificar, funcionou, certo?
+Cliente: *Atendimento :Dcifre:* 
+Isso
+Cliente: *Atendimento :Dcifre:* 
+tudo certinho
+Cliente: *Atendimento :Dcifre:* 
+Obrigada, Rodrigo!
+Atendente: *Rodrigo Lacerda:* 
+Por nada!
+Atendente: *Rodrigo Lacerda:* 
+Por agora consigo te ajudar em algo mais?
+Cliente: *Atendimento :Dcifre:* 
+Não não. Obrigada. Sò isso mesmo
+Atendente: *Rodrigo Lacerda:* 
+Qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Dcifre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6087161decec98869e5e5e4f
+Cliente: *Time :Dcifre:* 
+Boa tarde
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: *Time :Dcifre:* 
+Estamos com casos de cliente enviando mensagem e nao está chegando
+Atendente: *Gustavo Soares:* 
+Olá Dcifre! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Só um momento que irei verificar
+Atendente: *Gustavo Soares:* 
+Ah sim, é iPhone... 
+iPhone não nos permite acessar remotamente para fazer as configurações de estabilidade e manter a sincronização. Por isso recomendamos o uso de aparelhos Android segundo a nossa lista de aparelhos recomendados
+Atendente: *Gustavo Soares:* 
+*Recomendação Geral para Contas*
+
+✅ Smartphone com Android 9 ou acima
+✅ Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+✅ No mínimo 32gb de memória de armazenamento em disco
+✅ No mínimo 2gb de memória RAM
+✅ Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+✅ Tela desbloqueada e ligada* com o WhatsApp aberto e na tomada para não descarregar
+✅ Não usar Emuladores
+
+*Aparelhos Recomendados *
+
+✅ Samsung - S8, S9, S10, S20, A10, A11, A20, A21, A30, A31, A51, A71 ( Preferencialmente   )
+
+Recomendação Geral para Contas com muitos chats.
+Para contas com alto volume usar aparelho com bom poder de processamento e memória.
+
+✅ Smartphone com Android 10 ou acima
+✅ Ligação com rede Wi-Fi estável de alta velocidade ou Plano de internet 4g ilimitado
+✅ No mínimo 64gb de memória de armazenamento em disco
+✅ No mínimo 4gb de memória RAM
+✅ Uso dedicado apenas para o WhatsApp, não rodar outros aplicativos.
+✅ Tela desbloqueada e ligada* com o WhatsApp aberto e na tomada para não descarregar
+✅ Não usar Emuladores
+
+*Aparelhos Recomendados*
+
+✅ Samsung - S10, S20, A31, A51, A71 ( Preferencialmente  )
+✅ LG - K71, K61, K62, K52
+
+*Marcas e Linhas Não recomendadas*
+
+❌ Xiaomi
+❌ Motorola ( Linhas G e E )
+❌ Alcatel
+❌ Multilaser
+❌ Apple ( Iphone )
+❌ Samsung ( Linha J )
+❌ Samsung (Linha Core)
+
+Dê preferência para modelos mais modernos como as linhas S e linha A da Samsung e nunca aparelhos com nomes, letras ou siglas no final como por exemplo A10 Core, A10 Prime, A10+ e A10 Plus, são só alguns exemplos.
+Cliente: *Time :Dcifre:* 
+Nao é iphine
+Atendente: *Gustavo Soares:* 
+Eu vou reiniciar a conexão do aparelho para verificar se as mensagens entram
+Cliente: *Time :Dcifre:* 
+é android
+Cliente: *Time :Dcifre:* 
+ok
+Atendente: *Gustavo Soares:* 
+Ah sim só o seu aparelho é iPhone?
+Atendente: *Gustavo Soares:* 
+Nenhum dos aparelhos na plataforma é iPhone?
+Cliente: *Time :Dcifre:* 
+Eu estou falando dentro do chat do zapguru
+Atendente: *Gustavo Soares:* 
+Entendi, vou reiniciar um aparelho por vez para verificar se as mensagens retomam
+Cliente: *Time :Dcifre:* 
+Ok
+Atendente: *Gustavo Soares:* 
+O cliente tentou falar com qual número de vocês?
+Atendente: Dcifre, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: *Time :Dcifre:* 
+Bom dia pessoal
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: *Time :Dcifre:* 
+Estamos com algumas dificuldades aqui
+Cliente: *Time :Dcifre:* 
+Tem cliente que tá mandando mensagem pra gente e não tá chegando
+Cliente: *Time :Dcifre:* 
+Tem cliente que está enviando imagens, pdfs e também não está abrindo aqui
+Atendente: *Luiz Modestino:* 
+Boa tarde! Meu nome é Luiz. Tudo bem com você? 😃
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+Pode informar um chat onde ocorreu esse problema?
+Cliente: *Time :Dcifre:* 
+ https://app4.zap.guru/chats#60e32c1b226c00648398564b
+Atendente: *Luiz Modestino:* 
+O link se refere a um grupo de Whatsapp. Por padrão, arquivos de grupos tem o download automático de mídias desativado. Irei solicitar ao suporte técnico que seja feita a liberação.
+Cliente: *Time :Dcifre:* 
+Deixa por favor já liberado por padrao
+Cliente: *Time :Dcifre:* 
+Tem outros grupos também
+Cliente: *Time :Dcifre:* 
+quando liberar me da um retorno aqui
+Cliente: *Time :Dcifre:* 
+pfv
+Atendente: *Luiz Modestino:* 
+Solicitação feita. Assim que for concluída, te informo.
+Cliente: *Time :Dcifre:* 
+obg!
+Atendente: *Luiz Modestino:* 
+✔ Arquivos de grupos liberados
+Cliente: *Atendimento :Dcifre:* 
+Muito obrigada, Luiz!
+Atendente: *Luiz Modestino:* 
+Disponha. 😊
+Posso ajudar em algo mais?
+Cliente: *Atendimento :Dcifre:* 
+Não, muito obrigada
+Atendente: *Luiz Modestino:* 
+Ok. Até mais. 😉
+Um ótimo dia para você.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Cliente: ☎ Eu vou finalizar a nossa conversa.  Fique a vontade para acionar nossa equipe sempre que precisar, por *aqui* ou através dos nossos outros *canais de atendimento*.  Desejamos a você um excelente dia!
+
+*Atendimento Encerrado*
+(Não é preciso responder essa mensagem.)
+Atendente: Dcifre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6148e44edd3292a7a7121f2d
+Atendente: Dcifre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+

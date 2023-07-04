@@ -1,0 +1,42 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Caline Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: Olá tudo bem?
+
+Meu nome é Davi Silva, faço parte do setor de atendimento da Caline Modas.
+
+Em qual produto você tem interesse? Ou como posso ajudar?
+Atendente: Boa noite Caline!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Oi Caline, tudo bem? Meu nome é Thaís e eu vou te auxiliar hoje! 😁
+Atendente: O que eu posso te ajudar?
+Atendente: Vou encerrar o chat por inatividade!
+Mas quando precisar é só chamar novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Caline Bom dia!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Atendente: Bom dia!
+Não identificamos o pagamento do boleto em aberto, regularize e evite a interrupção da sua conta
+Atendente: *Aviso Automático* 
+
+Caline Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+

@@ -1,0 +1,44 @@
+Cliente: Olá, seja bem vindo(a) a central de atendimento *BF SALÃO*, aguarde um momento e logo alguém de nossa equipe lhe atenderá.
+Atendente: *MENSAGEM AUTOMÁTICA* 
+
+Esse telefone não recebe ligações via WhatsApp, para falar com nossa equipe comercial entre em contato através de nosso número fixo: +55 11 3042.0035 
+
+Para suporte, prossiga com sua dúvida aqui mesmo 😀
+Cliente: Bom tarde
+Cliente: Boa *
+Cliente: Estou com atraso no em envio das mensagens cadastradas
+Cliente: O que está acontecendo?
+Atendente: Freitas, o seu chat está autorizado para suporte.
+Atendente: O atraso geralmente é de quanto tempo?
+Cliente: *SAC - BF SALAO:* 
+já normalizou
+Atendente: Boa noite Freitas!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: *SAC - BF SALAO:* 
+obrigada
+Cliente: Bom dia
+Atendente: Freitas Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Freitas. Tudo bem?
+Meu nome é Rodrigo. Como posso te ajudar? 😀
+Cliente: Pode me enviar o boleto ara pagamento ?
+Cliente: Bloqueou minha conta
+Cliente: Pode desbloquear por gentileza
+Atendente: Sim, vou te passar pro nosso setor financeiro que vai te ajudar a efetuar esse pagamento e desbloquear a conta. Um instante
+Cliente: Já faço o pagamento e te mando o comprovante
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Boa dia
+Cliente: Bloquearam meu acesso
+Atendente: Olá, bom dia!
+Cliente: Pode desbloquear por favor  ? E me enviar o boleto para pagamento ?
+Atendente: Envio sim, um momento.
+Atendente: Olá, bom dia!
+Atendente: O pagamento ainda não foi realizado, vocês ainda tem interesse em continuar conosco?
+Atendente: Olá, bom dia! Algum retorno?
+

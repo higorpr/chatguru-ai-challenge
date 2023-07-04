@@ -1,0 +1,359 @@
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Olá Hugo Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, estou aqui para ajuda-lo. :D
+Cliente: bom dia
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Hugo! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: tentei recuperar minha senha
+Cliente: e está dizendo que o meu email não está cadastrado
+Cliente: isso também está acontecendo com um colega
+Cliente: rafael@medical-pe.com.br
+Atendente: Um momento.
+Atendente: Vou verificar
+Atendente: Em qual conta você esta querendo logar?
+Cliente: as duas
+Cliente: hugo@medical-pe.com.br
+Cliente: e rafael@medical-pe.com.br
+Cliente: Medical Mercantil de Aparelhagem Médica Ltda.
+Cliente: CNPJ 10.779.833/0001-56
+Atendente: Hugo, por aqui esta cadastrado corretamente o email. Caso queira posso alterar a senha por aqui.
+Cliente: Altere por favor
+Cliente: dos dois usuários
+Atendente: vou colocar uma senha padrão, depois você altera pela plataforma
+Cliente: ok
+Atendente: Pronto. Só acessar pelo link https://app3.zap.guru
+e inserir o email.
+
+Senha padrão: mudar123
+Cliente: valeu
+Cliente: os dois usuarios?
+Atendente: Sim
+Atendente: o seu e o do Rafael
+Cliente: ok
+Cliente: obrigado
+Atendente: Por nada. Até mais. o/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: bom si
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: bom dia
+Atendente: Oi, Hugo! Eu sou o Lucas. Como posso te ajudar? 😃
+Cliente: estou precisando da fatura e do boleto desse mês
+Cliente: não estou conseguindo emitir pelo site
+Atendente: Um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: bom dia
+Cliente: estou precisando da fatura e do boleto desse mês por favor
+Cliente: alo?
+Cliente: ???????????????
+Atendente: Boa tarde Hugo, o boleto havia sido enviado para o email hugo@medical-pe.com.br
+Atendente: Vou te enviar por aqui também
+Atendente: Hugo, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: bom dia
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: preciso de auxilio com urgencia
+Atendente: Bom dia! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: estou tentando conectar o celular ao zapguru
+Cliente: e está aparecendo uma "falha ao conectar"
+Cliente: vou tentar tirar um print
+Atendente: Um momento, por favor. Já estou verificando
+Atendente: Estou verificando aqui e muito provável que seja um problema entre a conexão da plataforma com o aparelho
+Atendente: O aparelho está conectado a internet e com whatsapp aberto?
+Cliente: eu desconectei o whatsapp web no aparelho sem querer
+Cliente: estou tentando reconectar atraves da plataforma
+Cliente: e está aparecendo esse erro
+Cliente: o celular está com internet e o whatsapp está aberto
+Atendente: Por favor, faça novamente a leitura do QR-Code.
+Atendente: Acabo de reiniciar a conexão.
+Cliente: consegui conectar
+Cliente: mas agora fica carregando...
+Atendente: Isso. Está sincronizando.
+Atendente: Aguarde apenas uns minutos, se não conectar me avise
+Cliente: ok
+Cliente: voltou pra essa tela
+Atendente: O sistema está solicitando a releitura do QR-code.
+Cliente: nada ainda
+Atendente: Você pode refaze-la?
+Cliente: ok
+Atendente: Acabo de verificar na plataforma e vi que a conta está conectada.
+Atendente: Vamos acompanhar com alguns minutos apenas para certificar que o erro não acontecerá novamente.
+Cliente: ok
+Atendente: Vou enviar algumas recomendações para o boa conexão do aparelho com a plataforma.
+Atendente: *Evitem manusear o aparelho que está servindo o ChatGuru.*
+O aparelho que serve o ChatGuru deve ser encarado dentro da empresa como um servidor, utilize o smartphone exclusivamente para essa funcionalidade. 
+
+*Aparelho sempre conectado*
+O ChatGuru necessita que o aparelho esteja conectado na internet *100% do tempo* para funcionar, assim como no versão do web whatsapp se o o aparelho perder a conexão, o ChatGuru para de funcionar. Por isso é *muito importante* que ele esteja sempre conectado a internet. 
+
+*Boa conexão de internet* 
+Cuide para que o smartphone tenha sempre uma boa conexão a velocidade de *sua internet* influencia no desempenho do ChatGuru. Para testar se a velocidade e estabilidade de sua internet é satisfatória realize um teste através do site abaixo: 
+https://www.speedtest.net/
+
+
+*Aparelho com tela acesa e app do WhatsApp Aberto*
+Assim como no Web WhatsApp, ao travar/bloquear o smartphone, o whatsapp pode parar de rodar em segundo plano e ocasionar em perda de conexão com a internet, isso vai causar indisponibilidade com o ChatGuru, impactando assim todos os atendentes da sua empresa. Por isso recomendamos que o aparelho fique com a *tela acesa com o app do whatsapp aberto*. Segue um link ensinando o passo a passo de como fazer:  
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/03/saiba-desativar-o-bloqueio-da-tela-do-android-e-tirar-senha-de-protecao.html
+Atendente: Hugo, ajudo em mais alguma coisa?
+Atendente: Hugo, por inatividade iremos encerrar este atendimento.
+
+Caso precise de ajuda, não hesite em nos chamar. Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: bom dia
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Hugo. Bom dia! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: desativei o zapguru
+Cliente: e estou tentando ativar novamente
+Cliente: aquela janela que aparece o QR Code nao esta abrindo
+Atendente: *Arthur Ferragini:* 
+Opa, só um minuto, vou verificar isso agora mesmo.
+Atendente: *Arthur Ferragini:* 
+É o número (81) 91059645, correto?
+Cliente: correto
+Atendente: *Arthur Ferragini:* 
+Hugo, tente fazer a leitura do QR Code agora novamente. Me avise assim que o fizer
+Cliente: ok
+Cliente: continua dando falha
+Atendente: *Arthur Ferragini:* 
+Hugo, vou abrir uma solicitação à equipe técnica para  reabilitar a leitura. Por gentileza, aguarde mais um pouco
+Cliente: ok
+Cliente: estou no aguardo
+Atendente: *Arthur Ferragini:* 
+Hugo, por gentileza, saia da conta do Chatguru, entre novamente e tente mais uma vez
+Cliente: ok
+Cliente: ainda com problema
+Atendente: *Arthur Ferragini:* 
+Obrigado, Hugo.
+
+Agora precisaremos aguardar um retorno da equipe técnica. Te atualizaremos o mais rápido possível quanto a isso!
+Cliente: ok
+Cliente: somos uma empresa do varejo
+Cliente: utilizamos o zapguru como ferramenta de vendas
+Cliente: preciso da sua ajuda pra retornarmos o quanto antes
+Atendente: *Eduardo Victor:* 
+Bom dia, Hugo! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁 Vou te auxiliar enquanto o Arthur está em reunião, tudo bem?
+Cliente: ok
+Cliente: voce consegue acessar o historico da conversa?
+Atendente: *Eduardo Victor:* 
+Consigo sim, estou em contato com a equipe responsável pelo servidor agora mesmo
+Cliente: eduardo
+Cliente: e ai?
+Cliente: estamos ate agora sem conseguir vender
+Atendente: *Arthur Ferragini:* 
+Hugo, pedimos desculpas pela situação. Acabo de acionar a equipe novamente por se tratar de um caso urgente. Seguimos por aqui e vamos te atualizar o mais rápido possível com uma resolução
+Cliente: estou recebendo varias reclamacoes
+Cliente: ja faz uma hora que eu abri o chat
+Cliente: nao podemos mais aguardar
+Cliente: por favor voces precisam dar solucao a questao
+Cliente: ???
+Atendente: *Arthur Ferragini:* 
+Hugo, enquanto aguardo um retorno técnico, vou fazer um *acesso remoto* ao celular para verificar se há alguma configuração que já podemos fazer agora para corrigir.
+
+Por gentileza, me confirme qual é a *marca e o modelo* do aparelho 55 97204155
+Cliente: ok
+Cliente: IPhone 6S
+Cliente: o numero nao é esse
+Cliente: É esse o número
+Atendente: *Arthur Ferragini:* 
+Opa, perdão, enviei o número errado. É esse mesmo que tenho aqui: 81 91059645
+Atendente: *Arthur Ferragini:* 
+Perfeito. Por gentileza
+Atendente: *Arthur Ferragini:* 
+Perfeito. Por gentileza, instale no iPhone o aplicativo chamado *Anydesk* para acessar o aparelho remotamente:
+
+https://apps.apple.com/br/app/anydesk/id1176131273
+Cliente: 888 049 386
+Atendente: Hugo Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: ???????
+Cliente: alo?
+Atendente: *Arthur Ferragini:* 
+Hugo, ainda estou aqui, a mensagem automática anterior foi um erro. Só um momento que recebi um retorno da equipe técnica
+Cliente: ok
+Atendente: *Arthur Ferragini:* 
+Hugo, já está disponível para fazer a nova leitura. Tente mais uma vez e me avise.
+Cliente: continua falhando
+Cliente: nao é possivel isso...
+Cliente: eu passei o endereco do anydesk
+Cliente: 888 049 386
+Cliente: ta dificil a situacao....
+Atendente: *Arthur Ferragini:* 
+Hugo, possivelmente o problema está sendo causando por otimizações do próprio iPhone. O sistema dele, por padrão, controla todas as atividades dos aplicativos e pode desabilitar aplicativos, *como a sincronização do Whatsapp com o sistema web*.
+
+Como não podemos remover as otimizações do seu aparelho, não será necessário acessarmos via Anydesk.
+Atendente: *Arthur Ferragini:* 
+O que recomendamos primeiramente é a troca de aparelho por um Android, pois é possível configurá-lo de modo que o Whatsapp fique mais estável.
+
+Para tentar reconectar o iPhone agora precisamos deixá-lo o mais leve possível. Siga esses passos:
+1. Delete *chats antigos* do Whatsapp (eles continuarão no Chatguru, mas será necessário reiniciá-los no aparelho para conversar com o cliente).
+2. Delete aplicativos que não são do sistema e deixe apenas o Whatsapp
+3. Conecte-se novamente e mantenha a tela do aparelho sempre ligada, sem nenhum bloqueio de tela (senha, digital etc).
+Cliente: estou fazendo isso agora
+Cliente: um minuto
+Cliente: fiz tudo que voce sugeriu
+Cliente: continua falhando
+Cliente: voce consegue
+Cliente: descadastrar esse numero
+Cliente: e cadastrar novamente?
+Atendente: *Arthur Ferragini:* 
+Hugo, vou verificar essa possibilidade!
+Cliente: ok
+Cliente: me ajude por favor
+Cliente: quase 2 horas sem atender os clientes ja
+Atendente: *Arthur Ferragini:* 
+Hugo, vou acessar o seu aparelho para checar as configurações ver se encontro alguma outra alternativa nesse meio tempo.
+
+Por gentileza, abra o Anydesk novamente
+Cliente: ok
+Cliente: 530 426 732
+Cliente: esta conseguindo acessar?
+Cliente: eu estou saindo pra comprar outro aparelho agora
+Cliente: por favor
+Cliente: prossiga com o descadastramento do numero
+Cliente: quando retornar com o apareho novo
+Cliente: cadastramos novamente
+Atendente: *Arthur Ferragini:* 
+Estava dentro, porém sem conseguir controlar o aparelho, talvez devido à versão do sistema do iPhone ou alguma configuração de Acessibilidade.
+Cliente: estou indo no shopping agora
+Cliente: retorno assim voltar para a loja
+Atendente: *Arthur Ferragini:* 
+Caso opte por adquirir um outro aparelho, algumas recomendações:
+
+*Android 8 ou superior*
+*Pelo menos 3GB de memória RAM*
+*Pelo menos 64GB de armazenamento*.
+
+Evite aparelhos com *subnomes*, por exemplo: Plus, Max, Zoom, Play etc, pois esses geralmente tem modificações.
+Cliente: ok
+Atendente: *Arthur Ferragini:* 
+Aproveitando que estamos conversando, vale dizer que será necessário * fazer backup do Whatsapp e conversas do _iPhone_ e usar serviços terceiros para transferi-lo para o _Android_*.
+
+É importante pesquisar como é feito esse processo, caso contrário o histórico e os chats não estarão no aparelho novo, apenas no Chatguru, e vai ser preciso começar todos os chats um a um.
+Cliente: ok
+Cliente: eu fiz o back up
+Cliente: ok
+Atendente: *Arthur Ferragini:* 
+Perfeito!
+
+Esse artigo pode ajudar com o restante do processo (não temos qualquer relação com ele, foi apenas algo que encontrei para te auxiliar a iniciar o processo): https://mobiletrans.wondershare.com/br/whatsapp/transfer-whatsapp-from-iphone-to-android.html
+Cliente: se puder ajudar na escolha eu agradeço
+Atendente: *Arthur Ferragini:* 
+Hugo, esses dois aparelhos tem praticamente as mesmas configurações, porém o A31 tem maior armazenamento.
+
+Dificilmente o Whatsapp vai ocupar o armazenamento de qualquer um deles, mas quanto maior o espaço, mais livre fica a memória.
+
+Posso recomendar o A31, mas a diferença entre ambos é ínfima
+Atendente: *Arthur Ferragini:* 
+A31 também tem câmera e tela melhores, mas isso não afeta o Chatguru e não deve ser considerado na compra.
+Atendente: *Arthur Ferragini:* 
+Hugo, vou encerrar esse chamado por hora. Assim que tiver com o novo aparelho, lembre-se de verificar guias para levar os chats do iPhone para o Android, evitando assim perdê-los no aparelho novo.
+
+Qualquer coisa, seguimos à disposição
+time ChatGuru
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Hugo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602e9d5d9f49179ac89378b3
+Cliente: ok
+Cliente: Eduardo, boa tarde. Estou com o celular novo em mãos
+Atendente: Hugo Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Eduardo não, Arthur
+Cliente: continuar sem funcionar
+Cliente: preciso urgente de um posicionamento de voces
+Atendente: *Lucas Gusmão:* 
+Boa tarde, Hugo! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+O meu amigo, Arthur, está em horário de almoço. Como posso lhe ajudar?
+Cliente: espero que voce consiga resgatar o historico da conversa
+Cliente: se precisar de um minuto para ler, eu aguardo
+Cliente: desde o início da manhã de hoje estamos nessa situacao
+Cliente: sem vender
+Cliente: acabo de comprar um celular novo
+Cliente: android
+Cliente: fiz o backup do whatsapp
+Cliente: e continua essa situacao
+Cliente: conseguiu ler?
+Cliente: descadastre o celular e cadastre novamente por favor
+Cliente: eu nao sei mais o que fazer
+Cliente: nao podemos ficar esse tempo todo sem whatsapp
+Atendente: *Lucas Gusmão:* 
+Certo, Hugo. Fique tranquilo, vamos resolver essa situação.
+Atendente: *Lucas Gusmão:* 
+Você já fez a instalação do Whats App no aparelho novo?
+Cliente: ja
+Atendente: *Lucas Gusmão:* 
+Ele já está habilitado?
+Cliente: ja conectei o numero
+Cliente: está sim
+Atendente: *Lucas Gusmão:* 
+Confirmando número *+55 (81) 91059645*. Certo?
+Cliente: sim
+Atendente: *Lucas Gusmão:* 
+Depois abra o Whats App no aparelho e vá em configurações na parte de Wahts App Web
+Atendente: *Lucas Gusmão:* 
+Você vai conseguir ler o QR-Code que irá aparecer na plataforma ChatGuru e sincronizar seu contatos.
+Cliente: o problema é esse amigo
+Cliente: desde o início da manhã de hoje
+Cliente: está essa resenha
+Cliente: até um celular novo a gente comprou
+Atendente: *Lucas Gusmão:* 
+Você tentou realizar o procedimento agora?
+Cliente: tentei
+Cliente: e apareceu isso novamente
+Cliente: whatsapp esta aberto
+Cliente: tudo como manda o figurino
+Cliente: eu to ja arrancando os cabelos aqui
+Atendente: *Lucas Gusmão:* 
+Certo, vamos fazer um teste diferente. Acesse a chamada que vou lhe enviar pelo seu computador
+Atendente: *Lucas Gusmão:* 
+https://meet.google.com/dee-fmjh-aqz
+Atendente: *Lucas Gusmão:* 
+Hugo você consegue me ouvir?
+Cliente: nao
+Cliente: consegue mandar link do zoom?
+Atendente: *Lucas Gusmão:* 
+Não utilizamos essa ferramenta.
+Cliente: e se eu mandar?
+Atendente: *Lucas Gusmão:* 
+As suas configurações de firewall que estão bloqueando até mesmo a leitura do QR-Code
+Atendente: *Lucas Gusmão:* 
+Eu vou compartilhar minha tela para você conseguir ler o QR-Code. Mas precisamos de um PC que você consiga fazer essa chamada.
+Atendente: *Lucas Gusmão:* 
+Hugo, a fila de mensagens já zerou.
+Atendente: *Lucas Gusmão:* 
+Qualquer dúvida é só chamar aqui, ok?!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Hugo, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/602eb3fc9f49179ac8938f5f
+

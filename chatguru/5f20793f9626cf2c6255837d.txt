@@ -1,0 +1,610 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Valter Magalhães Ferreira
+Email: valter@atacadaodemadeiras.com.br
+Senha: 765d5fb115a9f6a3e0b23b80a5b2e4c4
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: Olá Valter, Boa tarde. Meu nome é Luiz!
+Seja Bem-Vindo ao ZapGuru!
+Vou te ajudar a configurar o seu ZapGuru.
+Cliente: Boa tarde
+Atendente: Olá Valter tudo bem? 
+
+Precisamos realizar a instalação do *Módulo de Adicionar Chats* no seu smartphone.
+
+Para prosseguirmos é necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo: 
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+
+Podemos agendar a instalação?
+Cliente: Antes de configurar meu numero na ferramenta, tenho q deixa-la rodando 100% pois não posso parar meu atendimento. Tenho q migrar pra cá, já com tudo certo.
+Cliente: Estou cadastrando usuarios ainda
+Atendente: Tranquilo então. Assim que desejar configurar é só chamar por aqui, ok?
+Cliente: Ok, Obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Valter! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Bom dia Luiz, então gostaria de ver se alguém pode me ajudar a configurar meu chatbot.
+Atendente: Valter, estou te enviando o nosso modelo de como você pode estar nos enviando o seu fluxo de chatbot.
+Cliente: Ok
+Cliente: Mando por aqui mesmo ou faço um arquivo no word?
+Atendente: Cria um pdf ou um docx seguindo esses modelos e anexa aqui na conversa.
+Cliente: https://docs.google.com/document/d/1o-FvUCM7eDToFUNU8ViuZG6ZQoMK69h2pHK2UWqeFD4/edit?usp=sharing
+Cliente: Seria isso?
+Cliente: Além disso, tem a mensagem de de fora do horario de atendimento. Queria mudar os horarios também.
+Meus horarios de atendimento são de*Segunda a Sexta das 8hs as 17:30hs e aos Sábados das 8hs as 13hs.*
+Cliente: Além disso, tem a mensagem de de fora do horario de atendimento. Queria mudar os horarios também.
+Meus horarios de atendimento são de 
+*Segunda a Sexta das 8hs as 17:30hs e aos Sábados das 8hs as 13hs.*
+Cliente: E quando a pessoa entre em contato fora do horario ela seja transferida automaticamente para o setor de Vendas.
+Atendente: O arquivo esta correto. Vou analisar e te passo um prazo para implementação da URA.
+Cliente: Qual o prazo?
+Atendente: Valter, 03/08 estará configurada
+Atendente: Valter, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Valter, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Valter! Meu nome é Luiz. Em que posso te ajudar?
+Atendente: Valter, vi que você já construiu o seu chatbot. Esta tudo ok. Fiz apenas umas alterações no gatilho de fora de horário.
+Cliente: Show!!
+Cliente: Mas uma pergunta é possivel importar contatos pra dentro da ferramenta?
+Cliente: Sim, a parte de transferir o contato esta certa?
+Atendente: Não. Você deve adicionar os contatos pelo Adicionar Chats ou pelos chats que já estão no aparelho. Importar contatos pode acarretar o banimento do seu número por parte do Whatsapp.
+Cliente: Ok
+Cliente: Ta certo?
+Cliente: Pq to vendo a rosana como se tivesse selecionada
+Cliente: Mas não tem q ir só pra ela, tem q ser dividido no setor de vendas.
+Cliente: E outra, no horário tem como colocar 17:30? Pq nossa loja não fecha as 18 fecha as 17:30.
+Atendente: Deve ser marcado apenas o departamento e ativar o rodízio caso você queira que apenas uma pessoa dele receba.
+Atendente: Sim. Vou alterar.
+Cliente: Então, na verdade quero q todos do setor de vendas recebam. Esta correto? Porque como a rosana parece estar selecionada, achei q só ela fosse receber.
+Cliente: Mas então esta certo né?
+Atendente: Tem que só desmarcar a Rosana. Porque na delegação vai ficar ROSANA+DEPARTAMENTO
+Atendente: Vou ajustar lá
+Cliente: Ok, Obrigado!
+Cliente: você consegue deixar criado um bot pra quando meus vendedores finalizarem.. Arquivarem a conversa o bot mande uma mensagem?
+Cliente: Só deixar criado q eu coloco a mensagem por aqui.
+Atendente: Manda uma mensagem para quem?
+Cliente: Pro contato
+Cliente: Quero pedir avaliação do atendimento
+Cliente: Pro cliente.
+Atendente: A entendi.
+Cliente: Se conseguir configurar ai só deixar pra eu ativar, eu coloco a mensagem por aqui e ativo.
+Atendente: Ok. Só um momento.
+Atendente: Fiz as outras alterações. A das avaliações farei daqui a pouco e te aviso.
+Cliente: Ta ok, fico no aguardo.
+Atendente: Valter, como vai ser esse sistema de avaliação?
+Atendente: Uma escala de 0 a10?
+Atendente: Ou só um comentário.
+Cliente: Vai ter um link para um formulário do google.
+Cliente: 0 a 5
+Atendente: Um link de formulario e a escala?
+Atendente: ou essa escala é no formulario
+Cliente: É no formulario
+Atendente: a ok
+Atendente: Todo atendimento vai ter avaliação ao final ou você quer que o usuário execute manualmente?
+Cliente: Todo atendimento
+Atendente: Feito. Criei um diálogo manual de encerra atendimento.
+Atendente: Quando o usuário finalizar, vai ter o link com a pesquisa, atendimento encerrado e status resolvido, arquivando o chat.
+Atendente: Confere lá
+Cliente: Show!
+Cliente: Só confirma pra mim uma coisa.. Quando o cliente entrar em contato fora do horário de atendimento se ele vai ser automaticamente direcionado para o setor de vendas.
+Cliente: Vai aqui é isso mesmo
+Cliente: Vi*
+Atendente: Sim
+Cliente: Então show é disso que preciso..
+Cliente: Vou começar a passar meus vendedores pra ferramenta.
+Atendente: E como o rodízio estar ativo, na segunda cada usuário do departamento vai ter seus chats. O chat não vai ta solto pra todo mundo entendeu?
+Atendente: Só corrigindo
+Cliente: E depois q o cliente é atendido ele não sai mais da carteira daquele atendente né?
+Cliente: Se o cliente retornar o contato, ele vai ser sempre atendido pelo mesmo atendente.
+Atendente: Como o rodízio estar ativo, os chats que entrarem fora do horário serão distribuídos para cada usuário do departamento. O chat não vai ta solto pra todo mundo entendeu?
+Atendente: Só um momento
+Cliente: Entendi sim
+Cliente: Conseguiu ver se ta tudo certo?
+Atendente: Depende da forma que você deseja. Se o cliente após o primeiro contato não precisar passar pela URA um segunda vez, ele ficara com o mesmo atendente.
+Cliente: É isso mesmo que quero.
+Cliente: Ta certo entao né?
+Atendente: Sim
+Atendente: Por que o cliente só passaria pela URA novamente se o reset de URA estivesse ativado
+Atendente: Como não esta, ele permanecerá com o mesmo atendente.
+Atendente: Quando tiver disponibilidade lembre-se agendar conosco a instalação do módulo de adicionar chats e a primeira call para apresentarmos todas as funcionalidades da plataforma.
+Cliente: Sim
+Cliente: Podemos agendar
+Atendente: o Módulo adicionar chats podemos fazer na segunda das 9 às 10h?
+Atendente: ?
+Cliente: Pode ser sim
+Atendente: Qual teu aparelho
+Atendente: ?
+Cliente: Deixa eu ver aqui, mas não é novo não. Vou ver o modelo.
+Atendente: Depois me confirma, ok
+Atendente: Sendo Android com no mínimo 2GB de RAM (o ideal é 4GB) ta tranquilo
+Atendente: mas deixei aqui agendado
+Atendente: Vou  encerrando por aqui. :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+_Por hoje ser sábado, talvez o nosso atendente que estava realizando seu processo de implantação não esteja disponível hoje._ 
+Por isso, estou te encaminhando para uma pessoa da nossa equipe!
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Só gostaria de tirar uma dúvida, quando eu faço a leitura do codigo QR a ferramenta puxa conversas que já tem no meu whatsapp?
+Atendente: Olá Valter Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Cliente: Bom dia Josué
+Cliente: Só gostaria de tirar uma dúvida, quando eu faço a leitura do codigo QR a ferramenta puxa conversas que já tem no meu whatsapp?
+Atendente: Então Valter, ela puxa toda as conversas que tem no Whatsapp do aparelho
+suponhamos que voce tenha 200 Chats, ele ira trazer esses 200 Chats
+Cliente: Mas esses chats irão ficar soltos ou irão ser distribuídos para meus atendentes
+Cliente: É q estou fazendo migração de uma outra ferramenta e minhas duas atendentes tem sua própria carteira de clientes e se distribuir esses chats elas se resolvem em transferir uma pra outra.
+Atendente: depende, se voce já tiver um rodízio pré-configurado são sim.
+mas caso o senhor ja tenha lido a msg e não tenha algum método de rodizio não sera
+Atendente: o senhor ja fez alguma configuração em sua conta?
+Cliente: Sim, já configurei o rodizio.
+Atendente: sim, o senhor tem total liberdade de autorizar elas a delegarem um chat um para a outra
+Atendente: legal
+Cliente: Então assim q eu ler o QR Code, a ferramenta vai ler os chats q já tenho no whatsapp e dividir entre elas, correto?
+Atendente: Valter, vou entrar na sua conta, vou da uma olhada para o senhor, tudo bem?
+Cliente: Tudo bem!
+Atendente: sim, mas de maneira aleatória
+Atendente: infelizmente é meio impossível mandar ele passar o que é de cada kkkk
+Atendente: seria legal mas não da rsrs
+Cliente: Sim, isso eu entendi..  É só pra ter a certeza mesmo pra saber como vou fazer, pq trabalho com vendas e elas ganham comissão então cada uma tem q ter sua carteira de clientes.
+Cliente: Mas a ferramenta dividindo entre elas mesmo aleatoriamente, elas se resolvem
+Atendente: entendo
+Atendente: perfeito :D
+Cliente: Então ta ok, muito obrigado!
+Atendente: magina
+Atendente: te ajudo em algo mais Sr Valter?
+Cliente: Não, era somente isso mesmo
+Atendente: Então por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um Excelente Bom dia :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Valter Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar?. :D
+Atendente: Bom dia Valter! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Bom dia Luiz
+Cliente: Só queria tirar uma duvida.
+Atendente: Claro meu querido, qual seria?
+Cliente: Acabei de ler o QR Code na ferramenta e queria saber se as mensagens q tenho não lidas no celular serão distribuídas para meu setor de vendas assim q a ferramenta ler todos os contatos.
+Cliente: Você consegue ver isso pra mim?
+Atendente: Não. Isso ira ocorrer a partir do momento que os clientes entrem contato já com o aparelho sincronizado.
+Cliente: Entendi.
+Cliente: Enquanto esta sincronizando não posso mexer no whatsapp então né?
+Atendente: Não. E depois da sincronização, todos as interações com os clientes deve ser feita pelo ZapGuru.
+Cliente: Entendi, ok então. Obrigado!
+Atendente: As 9h temos uma instalação de ADDCHATS ok
+Cliente: Ok
+Atendente: Esta com o aparelho em mãos?
+Cliente: Não, vou pega-lo, um momento.
+Cliente: Estou com ele em maos
+Atendente: Qual a versão do seu Whatsapp: Normal ou Business?
+Cliente: Business
+Atendente: Ok. Só um momento.
+Atendente: Para que possamos iniciar a instalação e configuração, instale esses dois aplicativos. Só baixar e instalar. Não precisa abrir.
+
+QuickSupport: https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt_BR
+
+Automate: https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=pt_BR
+Cliente: Instalados
+Atendente: Baixou
+Atendente: ?
+Atendente: Ah ok
+Atendente: Agora, abra o QuickSupport e me envie o ID. Irei acessar seu smartphone para realizar a configuração.
+Cliente: 237 728 020
+Atendente: Ok
+Atendente: Deixa o QuickSupport aberto
+Cliente: Depois vc pode abrir mais um login pra minha conta? Tenho 5 acessos, mas precisarei de 6.
+Atendente: Certo
+Atendente: O automate já está funcionando.
+Atendente: Faz um cadastro de um cliente pela plataforma
+Cliente: É em chats né?
+Cliente: Em adicionar chats
+Atendente: Isso.
+Cliente: Foi, status esta como pendente
+Cliente: Desculpa, numero tava errado
+Cliente: Tentar de novo aqui
+Cliente: Enviei
+Cliente: Esta como pendente por em quanto
+Cliente: Deu erro
+Atendente: Verifica o número
+Atendente: tenta sem o nono digito
+Cliente: OK, tentando aqui
+Cliente: Ta como pendente
+Cliente: Demora?
+Atendente: Vor ver aqui
+Cliente: Deu erro tmb
+Atendente: Estou verificando  aqui
+Atendente: Faz o cadastro do teu número novamente
+Atendente: usando o nono digito
+Cliente: Pendente
+Atendente: Deixa o Whatsapp aberto
+Cliente: Ta aberto
+Cliente: Luiz, me tira uma duvida, quando o contato é arquivado, e volta depois a falar com o atendente, ele passa pelo chatbot novamente ou não?
+Atendente: Apenas se o encerra atendimento for feito
+Atendente: no atendimento anterior
+Cliente: Quando o contato é arquivado o chat é encerrado, correto?
+Cliente: Deu erro novamente cadastrar o contato.
+Atendente: Reinicia teu aparelho
+Atendente: Sim
+Cliente: O q uso pra na ferramenta né?
+Atendente: Sim. O que fizemos a instalação.
+Cliente: Reiniciou
+Cliente: Tento novamente com o nono digito?
+Atendente: Sim
+Atendente: Antes, abre o Automate e Whatsapp
+Cliente: Agora foi!
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: Show!
+Cliente: Consegue olhar se o chat bot ta configurado pra quando arquivar o chat ele receber uma mensagem com nossa pesquisa de satisfação?
+Atendente: Sim.
+Atendente: Você não quer que o usuário passe pela URA duas vezes né. Quer que fique sempre com o mesmo atendente, certo?
+Cliente: Sim!
+Atendente: Pronto. Esta configurado corrretamente.
+Cliente: Show obrigado!
+Cliente: Esta configurado tmb pra quando arquivar o contato receba uma mensagem?
+Cliente: Nessa mensagem vou colocar a pesquisa.
+Atendente: Podemos marcar nossa primeira reunião para tirar as dúvidas em relação a ferramenta.
+Atendente: Qual sua disponibilidade?
+Cliente: É mais fácil vc falar qnd estão disponíveis. Q eu vejo aqui.
+Atendente: Quarta, das 10h - 11h
+Cliente: Pode ser
+Atendente: me informa um email
+Cliente: valter@atacadaodemadeiras.com.br
+Atendente: Feito. Agendado.
+Atendente: Valter, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: OK, obrigado!
+Cliente: No momento só isso
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Boa tarde Valter 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Bom dia.. Comecei a usar hoje
+Atendente: Valter Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Por enquanto tudo certo
+Atendente: Valter, bom dia. Luiz aqui. Temos uma reunião marcada para esse horário
+Atendente: https://meet.google.com/stt-whqn-psr?authuser=0
+Atendente: Pode entrar no link
+Cliente: Estou entrando
+Atendente: Olá Valter, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Boa tarde, até o momento tudo certo!
+Atendente: Valter Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Bom dia
+Atendente: Bom dia Valter! Meu nome é Luiz. Em que posso te ajudar?
+Cliente: Bom dia Luiz, queria tirar duas duvidas.
+Cliente: A primeira, queria saber quando vai ser enviado o boleto pagamento da mensalidade e se você sabe informar pra qual email será enviado.
+Cliente: Na verdade é só essa duvida mesmo, a outra que tinha acabei de descobrir como faz.
+Atendente: Essa resposta o financeiro pode te passar. Vou te encaminhar então, blz
+Cliente: Ok
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Valter, bom dia!
+Atendente: O boleto chega dia 20 com vencimento dia 27
+Cliente: Bom dia
+Atendente: Nesse e-mail
+Atendente: valter@atacadaodemadeiras.com.br
+Cliente: Então dia 20 de agosto mês não teve boleto? Só vai ter esse mês agora?
+Atendente: Teve sim, em agosto
+Atendente: Está apresentando pra mim que foi pago dia 21
+Cliente: Engraçado, não tô achando esse email aqui.
+Cliente: Mas enfim.. minha preocupação era essa, se tinha algo q faltou pagar aí com vocês.
+Cliente: Mas já que esta certo, tudo bem então.
+Cliente: Obrigado 😁
+Atendente: Estranho pra mim está aparecendo tudo certo.
+Atendente: Mas então ok
+Atendente: Valter, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso mesmo
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Valter. Bom dia! Sou Carlos do Suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Bom dia, é que troquei o Whatsapp de celular e gostaria de configurar o automate nele
+Cliente: Pra poder adicionar contatos.
+Atendente: *Carlos:* 
+Certo. Valter; Por favor instala nele os aplicativos *Anydesk* e *Plugin AD-1*
+Cliente: Ok
+Cliente: Consegui instalar aqui
+Atendente: *Carlos:* 
+Perfeito. Depois de baixados, será necessário ir nas configurações do celular e escolher "Acessibilidade". Lá, você procura por "Serviços" e ativa o Plugin AD-1
+Cliente: Pronto
+Atendente: *Carlos:* 
+Agora abre o Anydesk e me informa o código por favor
+Cliente: 932 123 461
+Atendente: *Carlos:* 
+Ativa essa permissão por favor
+Cliente: Pronto
+Atendente: *Carlos:* 
+Ainda não conseguir acesso. Qual o modelo do aparelho?
+Cliente: Moto g9
+Atendente: *Carlos:* 
+Reinicia ele então. Depois verifica se o plugin ainda estará ativado em "Acessibilidade"
+Cliente: Ok
+Cliente: Ta ativado sim
+Atendente: *Carlos:* 
+Certo. Agora vou solicitar de novo. Deixa o Anydesk aberto
+Atendente: *Carlos:* 
+Envia esse arquivo para o whatsapp do aparelho por favor
+Cliente: Ok
+Cliente: Enviei
+Atendente: *Carlos:* 
+Valter, perdi a conexão. Um momento que já solicito novamente
+Cliente: Ok
+Atendente: *Carlos:* 
+Valter, vou solicitar novamente. Deixa o Anydesk aberto por favor
+Cliente: Ok
+Atendente: *Carlos:* 
+Valter, consegue mandar la aquele arquivo de outra forma que não seja whatsapp?
+Cliente: Não sei, serviria por google drive?
+Atendente: *Carlos:* 
+Sim. Por e-mail também dá certo
+Atendente: *Carlos:* 
+Reinicia ele novamente por favor
+Cliente: Acabei de enviar o arquivo pro email que esta no celular tmb
+Cliente: Reiniciou
+Atendente: *Carlos:* 
+Show de bola. Abre o Anydeks novamente que vou solicitar acesso
+Cliente: Ta aberto
+Atendente: *Carlos:* 
+Havia caído a conexão. Aceita novamente por favor
+Atendente: *Carlos:* 
+Acho que a internet no aparelho está oscilando
+Cliente: Deixa eu conectar em outra entao
+Cliente: Um momento
+Cliente: Abri o AnyDesk
+Atendente: *Carlos:* 
+Certo. Solicitei novamente
+Cliente: Não apareceu p mim ainda
+Atendente: *Carlos:* 
+o código continua o mesmo? Estou solicitando mas informa que está sendo rejeitado
+Atendente: *Carlos:* 
+Configurado, Valter. Faz um teste de adição por favor
+Cliente: Ok
+Cliente: Só um momento, q minha internet ta meio lenta aqui na loja
+Cliente: Tentei aqui
+Cliente: Ta como pendente
+Cliente: Tem algo q não é pra incluir o prefixo 9
+Cliente: Né?
+Atendente: *Carlos:* 
+isso. Tenta sem ele por favor
+Cliente: Ok,
+Cliente: Tem como apagar esse contato adicionado q esta como pendente?
+Cliente: Foi mas ta como pendente
+Atendente: *Carlos:* 
+Tem sim. Através do *Relatório de Chats Adicionados*
+Cliente: Ta como pendente
+Atendente: *Carlos:* 
+Vou fazer um teste. Um momento
+Atendente: *Carlos:* 
+Pronto. Agora está funcionando
+Cliente: Mas esse que coloquei ainda não foi
+Cliente: O que tenho q fazer pra ir?
+Atendente: *Carlos:* 
+Ele precisa ser adicionado novamente
+Cliente: Agora foi
+Atendente: *Carlos:* 
+Certo. Consigo ajudar em algo mais por agora?
+Cliente: Só isso mesmo
+Cliente: Obrigado!
+Atendente: *Carlos:* 
+Imagina. Qualquer coisa, só nos chamar novamente. Um ótimo dia/tarde 😉
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Valter, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6092b034ecec98869e61f5db
+Cliente: Bom dia
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hildesson Ramos:* 
+Olá Valter, Bom dia. Meu nome é *Hildesson*, sou do time de suporte do *ChatGuru*. 😊
+
+Me fala como posso te ajudar?
+Cliente: Bom dia!
+Cliente: Gostaria de saber se a ferramenta esta com algum problema.. Porque não consigo acessa-la
+Cliente: Atualizei e aparece q não é possível acessar. Engraçado que não é só no meu, mas nos dos meus vendedores tmb.
+Cliente: E somente a pagina d chatguru q não carrega
+Atendente: *Hildesson Ramos:* 
+Valter, tenta acesso através desse link, por favor.
+
+https://s5.chatguru.app/login
+Cliente: Tbm não acessa
+Atendente: *Hildesson Ramos:* 
+um momento.
+Atendente: *Hildesson Ramos:* 
+Valter, sabe informar qual o provedor de internet que você usa?
+Cliente: Não sei, vou confirmar aqui, um momento.
+Cliente: Mas engraçado q nunca aconteceu isso, hoje q ta acontecendo de não conseguir acessar
+Cliente: A gente usa a Oi aqui
+Atendente: *Hildesson Ramos:* 
+Valter, o problema está com o provedor de internet, estamos recebendo várias reclamações de clientes da Oi reclamando que não estão conseguindo acessar a plataforma, realizamos alguns teste com outros provedores e o acesso está normal, peço que entre em contato com seu provedor para ajuste.
+
+Fora isso te ajudo em algo mais?
+Cliente: Não é somente isso
+Atendente: *Hildesson Ramos:* 
+Qualquer dificuldade é só chamar!😉
+Cliente: Mas os cliente com o provedor da Oi resolveram?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Valter, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d1c8e6aee761eec9a2ac5b
+Cliente: Mas os cliente com o provedor da Oi resolveram?
+Cliente: O que devo falar com eles? Pq só o chatguru q não consigo acessar, qualquer outro site entra normal
+Atendente: Valter Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Carlos:* 
+Olá, Valter. Bom dia! Sou Carlos do Suporte ChatGuru. Esses clientes de provedor Oi ainda não resolveram. Estamos acompanhando alguns por aqui.
+Atendente: *Carlos:* 
+Faz um reset no modem para ver se normaliza por favor
+Cliente: Vou verificar aqui
+Cliente: Não normalizou
+Cliente: Mas pq só a ferramenta de vcs q não consigo acessar?
+Atendente: *Carlos:* 
+Isso que estamos investigando, na verdade. Mas pode acontecer de o provedor gerar problemas assim em sites ou conjunto de sites específicos.
+Atendente: *Carlos:* 
+Por favor, quando possível entra em contato com o provedor e solicita que eles façam o *Reset das portas*. Eles podem entender as "portas" como "peers" também.
+Cliente: Ta ok
+Atendente: *Carlos:* 
+Valter, faz um pequeno teste por favor. Usa o atalho *CTRL* + *F5* na página do Chatguru que está aberta no navegador.
+Cliente: Tbm não consegui acessar
+Atendente: *Carlos:* 
+Certo. Continuamos com a opção de liberação pelo provedor mesmo então.
+Atendente: *Carlos:* 
+Valter, conseguiu entrar em contato com eles? Existe uma maneira de fazer quase o mesmo procedimento que eles farão. Vou te passar o detlhamento.
+Cliente: Ainda nao
+Cliente: Ok
+Atendente: *Carlos:* 
+no teclado, aperte a tecla do logo do Windows + “R” simultaneamente;
+digite “cmd” na janela que abrir e clique em “Ok”.
+
+Depois copiar e colocar isso aqui em ordem
+ipconfig /flushdns;
+ENTER
+Atendente: *Carlos:* 
+no teclado, aperte a tecla do logo do Windows + “R” simultaneamente;
+digite “cmd” na janela que abrir e clique em “Ok”.
+
+Depois copiar e colocar isso aqui em ordem
+
+ipconfig /flushdns;
+Enter
+ipconfig /registered;
+Enter
+ipconfig /release;
+Enter
+ipconfig /renew;
+Enter
+netsh Winsock reset.
+Enter
+Atendente: *Carlos:* 
+Considera essa última por favor. Você cola cada código e vai digitando "Enter" antes de digitar o próximo.
+Cliente: Vou tentar
+Cliente: Não deu certo
+Atendente: *Carlos:* 
+Valter, um dos clientes com o problema conseguiu contato com a oi e eles confirmaram o problema no provedor. Fizeram o reset das portas e a conexão foi normalizada.
+Cliente: Vou tentar aqui
+Atendente: *Carlos:* 
+Valter, conseguiu conectar? Alguns clientes estão tendo a conexão normalizada pois a Oi já começou a resolver.
+Cliente: Normalizou sim
+Cliente: Obrigado!
+Atendente: *Carlos:* 
+Perfeito.  Consigo ajudar em algo mais por agora?
+Cliente: Não era só isso mesmo
+Cliente: Obrigado
+Atendente: *Carlos:* 
+Imagina. Qualquer coisa, só nos chamar novamente. Um ótimo dia 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Valter, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d1f51aaee761eec9a2d132
+Cliente: Boa tarde
+Atendente: Valter Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Helena Braunger:* 
+Boa tarde, Valter! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Como posso ajudar?
+Cliente: Estou com problema para adicionar contatos no chat
+Cliente: Não sei se é o automate que parou ou algo do tipo
+Atendente: *Helena Braunger:* 
+Vou verificar a conta de vocês, só um momento :)
+Cliente: ok
+Atendente: *Helena Braunger:* 
+Valter, solicitei para alterarmos o método de adicionar chats para "Internal" na conta de vocês, é um método novo que não precisa do Automate! Vocês podem clicar em "Stop" dentro do automate, ta bom? 
+
+Não precisam desinstalar ele, pedimos para manter instalado ainda por precaução :)
+Cliente: Entendi, ta ok
+Cliente: Mas você sabe  a partir de quando vou poder adicionar os contatos?
+Atendente: *Helena Braunger:* 
+Já foi alterado, então foi preciso atualizar o servidor nesse momento. Assim que conectar certinho já poderá adicionar os chats!
+Cliente: Entendi
+Cliente: Obrigado!
+Atendente: *Helena Braunger:* 
+Imagina =)
+
+Vi que já conectou, se quiser fazer o teste agora 😊
+Cliente: to cadastrando um contato novamente q deu erro
+Cliente: Tudo certo
+Cliente: Obrigado novamente!
+Atendente: *Helena Braunger:* 
+Que ótimo, Valter!
+
+Imagina 😁
+
+Vou encerrar o atendimento então, mas qualquer dúvida você entra em contato novamente :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Valter, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611407a0f390b1b216262fb7
+

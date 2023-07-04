@@ -1,0 +1,271 @@
+Atendente: Permitido contato com o suporte ZapGuru
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá, bom dia!
+Atendente: Mayara Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou com problemas para add chats
+Cliente: Esse problema ocorreu duas vezes essa semana e fizeram acessos remotos
+Cliente: Olhei agora pela tela do WhatsApp normal e ficou assim
+Cliente: Não disparou a mensagem
+Atendente: Bom dia, Mayara! 😄
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Bom dia Caio..! Estou com esse problema que relatei acima :)
+Atendente: Você pode abrir o automate e me mostrar a tela por favor?
+Cliente: Como faço isso? Hehe
+Atendente: Abrir o aplicativo instalado no aparelho
+Atendente: Chamado "Automate"
+Atendente: E me mandar um print :D
+Cliente: Eu adicionei outro aqui e deu certo
+Atendente: Perfeito!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Mayara Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá, Mayara - Newrocket. Boa tarde! Sou o Lucas, seu suporte ZapGuru! 
+
+Como posso ajudá-la? 😁
+Cliente: Estou com problemas para add chats
+Cliente: Olhei agora pela tela do WhatsApp normal e ficou assim
+Atendente: Ok, um momento!
+Cliente: Ok obrigada
+Cliente: No aguardo
+Atendente: Mayara Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Atendente: Mayara, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Cliente: Uma pergunta, antes de fazer o procedimento
+Cliente: O celular sempre deve estar com a tela ligada no whatsapp?
+Atendente: Isso!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Mayara Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Não tem essa opção de ZAP guru automate
+Atendente: É onde tem newrocket com a notificação de 1 ali.
+Atendente: só abrir, dar stop, clica no ícone da folhinha, seleciona clear e depois start novamente.
+Cliente: Deu certo agora
+Cliente: Sempre que der esse problema, tem que fazer isso?
+Cliente: Qual é o app que vcs falaram que a tela sempre fica ligada?
+Atendente: Ótimo.
+Atendente: Sim, isso acontece pois seu aparelho deve ter bloqueado a tela sozinho e inativado o automate.
+Atendente: Keep Screen On. na Play store, é um ícone de celular com uma lâmpada daquela antiga.
+Cliente: Ok, obrigada!!
+Atendente: Ótimo.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá, bom dia
+Atendente: Mayara Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok
+Atendente: Olá Mayara, Bom dia, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: Certo
+Atendente: Em que posso te ajudar?
+Cliente: Há um tempo estávamos com o ZAP guru usando pelo Whats business.
+
+Eu acho que pelo grande número de mensagens que recebemos de clientes o whatsapp bloqueou esse whats que estávamos usando.
+
+Falando com vcs nos sugeriram mudar de celular e baixar o whatsapp normal
+Cliente: Fiz isso..
+Cliente: Quando baixei o automate, ele não veio com o nome newrocket que antes tinha
+Cliente: Vcs tem que configurar novamente?
+Atendente: Ótimo. A gente precisa fazer uma nova instalação do automate.
+Atendente: Podemos agendar para as 11h pode ser?
+Cliente: Pode sim!
+Atendente: OK, as 11h eu te chamo aqui.
+Cliente: Beleza... Vcs vão me ligar ou será pelo Whats msm?
+Atendente: Precisarei que você esteja com com o aparelho em mãos. Será aqui polo whatsapp do suporte mesmo.
+Cliente: Ahh beleza!!
+Atendente: Até mais.
+Cliente: Fico no aguardo então.
+
+Mto obrigada!!
+Atendente: Ótimo.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Vamos começar?
+Atendente: https://meet.google.com/nha-rsre-txt
+Atendente: Só acessar
+Cliente: Vamos
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: Obrigada!! :)
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá, Mayara. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+Vimos que sua conta do Chatguru está *desconectada do Whatsapp*, e acredito que os chats não estão sendo sincronizados. Para resolver isso, peço que acesse a plataforma pelo link abaixo e vá no menu "Celulares Whatsapp" para ler o QR-Code do celular novamente:
+
+https://app5.zap.guru/ 17:52
+Cliente: Olá.. eu gostaria de trocar de aparelho que está o ZAP guru.. terei que fazer uma nova configuração com vcs?
+Atendente: Mayara Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok
+Atendente: *Pedro Cócaro:* 
+Boa tarde Mayara, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Como posso te ajudar?
+Cliente: Olá.. eu gostaria de trocar de aparelho que está o ZAP guru.. terei que fazer uma nova configuração com vcs?
+Atendente: *Pedro Cócaro:* 
+Precisará trocar apenas o aparelho ou o número, Mayara?
+Cliente: O aparelho somente
+Atendente: *Pedro Cócaro:* 
+Sim, quando trocar o aparelho, nós configuramos ele novamente 😉
+Cliente: Entendi, então posso efetuar a troca, instalar o whatsapp no outro aparelho e depois chamo vcs?
+Atendente: *Pedro Cócaro:* 
+Exatamente, Mayara 🙋‍♂️
+Cliente: Conseguimos fazer ainda hoje?
+Atendente: *Pedro Cócaro:* 
+Sim, tranquilamente 😊
+Atendente: *Pedro Cócaro:* 
+Vou te passar o link para o aplicativo e plugin que você deverá instalar no novo aparelho:
+
+*Aplicativo Anydesk (por meio dele vou conseguir acessar o aparelho remotamente):* https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=pt_BR&gl=US
+
+*Plugin AD1 do Anydesk (por meio dele vou conseguir controlar sem complicações):*
+https://play.google.com/store/apps/details?id=com.anydesk.adcontrol.ad1&hl=pt_BR&gl=US
+
+Por favor, após a instalação vá até as configurações do aparelho > Acessibilidade > Mais serviços instalados/transferidos e habilite o AD1 Plugin. 😁
+Atendente: *Pedro Cócaro:* 
+Mayara, ainda está por aí? 🙋‍♂️
+Cliente: Oii, podemos deixar para amanhã? Tive uns contratempos aqui
+Atendente: *Pedro Cócaro:* 
+Certo Mayara, amanhã configuramos então 🙋‍♂️
+Cliente: Obrigada!!
+Atendente: *Pedro Cócaro:* 
+Tenha um bom fim de tarde, Mayara 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mayara, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60f0a1b6fd40cc4cef0356f9
+Cliente: Oii, bom dia!! 
+
+Podemos realizar os procedimentos da troca de aparelho?
+Atendente: Mayara Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ok
+Atendente: *Eduardo Victor:* 
+Bom dia, Mayara! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? 😁
+
+Você já realizou o backup no aparelho antigo?
+Cliente: Já sim.. já tá tudo no aparelho novo
+Atendente: *Eduardo Victor:* 
+Ótimo! Conseguiu instalar os apps que o Pedro te informou ontem?
+Cliente: Já fiz simm
+Cliente: Tem algo mais para instalar?
+Atendente: *Eduardo Victor:* 
+Não não 😁 Abre o AnyDesk e me informa o endereço de acesso, por favor.
+Cliente: 358322792
+Atendente: *Eduardo Victor:* 
+Vou te enviar uma solicitação de acesso agora mesmo, deixa o anydesk aberto.
+Cliente: Ok
+Cliente: Pronto
+Cliente: Deu certo?
+Atendente: *Eduardo Victor:* 
+Deu sim! Vou só ajustar algumas configurações no nosso servidor em relação ao aparelho de vocês e fica tudo pronto.
+Cliente: Tá
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: Vou dar uma olhada no vídeo
+Atendente: *Eduardo Victor:* 
+Prontinho, Mayara! Recomendo apenas que você retire o bloqueio de tela do aparelho, para evitar que o sistema do celular encerre os aplicativos.
+Atendente: *Eduardo Victor:* 
+Eu consigo te ajudar em algo mais?
+Cliente: Vc diz para a tela ficar sempre acesa?
+Cliente: Antigamente tinha que baixar um outro app..
+Cliente: Preciso dele tbm?
+Atendente: *Eduardo Victor:* 
+Não não, o bloqueio de tela mesmo, aquele que pode ser um padrão, a senha e etc..
+Atendente: *Eduardo Victor:* 
+Ele não é mais necessário, mas você pode instalar e ativar ele sem problemas. 
+
+É o Keep Screen On, esse aqui: https://play.google.com/store/apps/details?id=fr.lkstudios.keepscreenon&hl=pt_BR&gl=US
+Cliente: Tinha um outro que se chamava automate
+Cliente: Acho
+Cliente: Algo assim
+Atendente: *Eduardo Victor:* 
+Esse não é mais necessário, o método de adicionar chats foi atualizado e agora funciona internamente, sem precisar do automate.
+Cliente: Ahh ótimo então..
+Cliente: Posso desinstalar os aplicativos que instalei?
+Cliente: Anydesk
+Atendente: *Eduardo Victor:* 
+Eu recomendo deixar, se for possível. Sempre que precisarmos prestar algum suporte que possa envolver algum problema no aparelho servidor, vamos precisar desses apps.
+Cliente: Ahh entendi, certo
+Cliente: Muito obrigada pelo suporte :)
+Atendente: *Eduardo Victor:* 
+Por nada! Se precisar de algo mais, é só chamar, tudo bem? Um excelente fim de semana pra você, Mayara 😁
+Cliente: Obrigada, um excelente fds :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Mayara, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60f17b0afd40cc4cef038027
+Cliente: Oii, boa tarde!
+Atendente: Mayara Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: Tem algum lugar lá na plataforma do zapguru que posso ter acesso as faturas ou os valores pagos?
+Atendente: *Gabriela Rodrigues:* 
+Boa tarde Mayara! ✨✨ Meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, como você está? ❄
+
+Na plataforma não, Mayara 😕 Mas para essas informações posso te transferir para o financeiro. Gostaria que te transferisse agora?
+Cliente: Sim por favor
+Atendente: *Gabriela Rodrigues:* 
+Certo! Um momentinho que já te retornarão. Tenha um excelente dia. 😊
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Ok
+Atendente: *Bruna Lira:* 
+Olá Mayara, boa tarde!
+Um momento que ja te envio.
+Cliente: Certo
+Atendente: *Bruna Lira:* 
+Mayara, você quer desde quando iniciou conosco? 
+Um recibo é isso?
+Cliente: Não, pode ser somente desse mês..
+Cliente: Obrigada!! Esses recibos vcs costumam encaminhar para o email do Alexandre?
+Atendente: *Bruna Lira:* 
+Na verdade o recibo o sistema não envia.
+Envia apenas a fatura, boleto e NF.
+Cliente: Ah certo, obrigada!!
+Atendente: *Bruna Lira:* 
+Por nada!
+Atendente: Mayara, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar sim!
+Atendente: *Bruna Lira:* 
+Boa semana!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Mayara, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/612e730a32c173e5439a1f75
+

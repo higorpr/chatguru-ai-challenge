@@ -1,0 +1,947 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: bom dia
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: olha, meu zap ta caindo a todo momento
+Cliente: cai mais de 20x durante o dia :(
+Cliente: vcs estão cm algum problema?
+Cliente: nesse horário, ele sempre cai
+Cliente: e a noite
+Atendente: As quedas não tem relação com nosso servidor. Ela acontece por uma falta de conexão de seu whatsapp com o servidor do whatsappweb. Isso pode ocorrer por alguns motivos, bloqueio de tela do aparelho, instabilidade na internet, baixo desempenho do aparelho, excesso de dados na sua conta do whatsapp.
+Atendente: O aparelho está bloqueando a tela de forma automática?
+Atendente: Qual a marca e modelo do seu aparelho?
+Cliente: Nao, sempre deixo acessa
+Cliente: É um le novo
+Cliente: Esqueci o nome do modelo
+Cliente: Pior q no aparelho as msg chegam
+Cliente: Normalmente
+Atendente: Certo, inicialmente para tentar resolver esse problema, mantenho o aparelho conectado na tomada 24h por dia para evitar que ele descarregue, desabilite o bloqueio automatico e controle automático de brilho do aparelho, abra o whatsapp e mantenho ele sempre aberto.
+Cliente: Já faço isso 🥺
+Atendente: instala um app aí chamado quicksupport e me envia o código de acesso por favor.
+Atendente: Entendo, então é provável que isto esteja ocorrendo por causa do aparelho que deve ter algum otimização para melhorar o desempenho, encerrando a conexão constante do whatsapp com p whatsappweb.
+Atendente: Isso acontece hoje com Xioami, então a gente sempre recomenda que clientes não utilizem ele. Como a lenovo é chinesa também, creio que deva estar acontecendo o mesmo. Se possível, você poderia tentar usar um aparelho samsung. De preferencia das linhas A e S, que tem apresentado bons resultados no uso diário do whatsapp com o zapguru.
+Cliente: entendi
+Cliente: acho que é minha internet mesmo que tá oscilando
+Atendente: Entendo, se estiver oscilando, realmente impacta direto na conexão.
+Atendente: Te ajudo em algo mais?
+Cliente: não
+Cliente: obrigada
+Atendente: Nada.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: gostaria de alocar o meu número novamente no sistema de vocês
+Cliente: Meu celular não está funcionando corretamente, está caindo demais
+Cliente: A gente consegue fazer isso agora?
+Cliente: Já sei os procedimentos pra realizar
+Atendente: Olá Pierre, tudo bem? Sou o Lucas, vou te ajudar com o suporte hoje!
+Cliente: Ok
+Cliente: Sobre a alocação
+Cliente: eu pago por ela e não estou utilizando
+Cliente: Gostaria de alocar meu celular, pois minha equipe não está conseguindo utilizar o sistema porque anda caindo o dia inteiro por conta do celular
+Atendente: eu verifiquei aqui na sua configurações e o sr. não tem mais o serviço de alocação
+Cliente: Não?
+Cliente: Então mande o boleto que pago
+Cliente: Mas teria como alocar ele ainda hoje? Pq minha equipe não está conseguindo trabalhar
+Atendente: Vou verificar aqui o que podemos fazer! só um momento
+Atendente: uma dúvida, esse celular do Sr. é antigo?
+Cliente: É meio antigo sim
+Atendente: Entendo, com certeza isso atrapalha e traz essas oscilações, além de outros fatores como instabilidade da internet
+Cliente: Consegue alocar ele agora?
+Cliente: Está levinho o sistema, limpei as conversas no sábado
+Cliente: Daí será mais rápido
+Cliente: Já pago o boleto e vocês alocam
+Cliente: Pode ser?
+Atendente: Vou verificar em relação a alocação, mas adianto que infelizmente não conseguimos fazê-la de imediato! Nos temos um prazo de 24 úteis pra isso!
+Cliente: 😞
+Atendente: é um processo um pouco mais complexo! mas acredito ser a melhor alternativa nesse caso! ou então trocar o celular, o que recomendamos é o Samsung, de preferencia das linhas A e S
+Cliente: Se eu botar ele no pc em um emulador de android, vai funcionar corretamente?
+Atendente: Então, pela nossa experiência, não tem como funcionar pois ele vai influenciar em algumas utilizações do ZapGuru, como por exemplo na hora de configurar usuário pelo QR-code.
+Atendente: Como não vai funcionar, por isso nem oferecemos essa possibilidade e também não temos o suporte para esse tipo de situação.
+Cliente: Entendi
+Cliente: Quero fazer a alocação
+Atendente: Perfeito. 
+A parte de implantação da alocação, é complexa pois depende de cada caso, de cada cliente e de como funciona o atendimento. O prazo que nos passamos vai depender muito desses fatores. Vou ate pedir perdão, mas o prazo de alocação é de 72 horas
+Atendente: Principalmente por ser uma implementação mais complexa, e não ter um padrão! Nos damos o prazo de 72 horas
+Atendente: O Sr. estando de acordo, o valor mensal é de mais R$200,00!
+Atendente: O Sr. me dando um OK em relação ao valor e ao prazo, confirmando esse interesse eu transfiro para o nosso financeiro
+Cliente: Mas não era R$100?
+Atendente: Não, o valor para Alocação é de R$200,00 com o prazo de 72 horas( dependendo de cada caso de implementação)
+Atendente: Estou encerrando seu chat por inatividade.
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Troquei o aparelho
+Cliente: Comprei um da linha A da Samsung, indicado por vocês
+Cliente: Posso apenas confirmar o QR lá no sistema e vai funcionar?
+Cliente: Ou vocês tem que alterar algo aí?
+Atendente: Olá Pierre Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru
+Atendente: Vou confirmar uma coisa aqui e te dou o aval, fechou?
+Cliente: Ok
+Atendente: Prontinho, agora você consegue :D
+Cliente: Ok
+Cliente: Obrigado
+Atendente: magina :D
+Atendente: fora isso te ajudo em algo mais?
+Cliente: Não
+Cliente: Obg
+Atendente: Pierre, por hora finalizarei o Chamado.
+Qualquer coisa entre em contato conosco,
+Um Abraço e que tenha um(a) Excelente Boa tarde :D
+Do Suporte Josué :D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estou com problemas novamente
+Cliente: O sistema sempre funcionou no meu celular
+Atendente: Olá Pierre, Boa tarde. Meu nome é Hugo.
+Atendente: Pode me explicar o que houve?
+Cliente: Desde a semana passada ele começou a cair constantemente, ontem vim aqui perguntar o que poderia ser e vocês falaram que poderia ser o telefone
+Cliente: Fui lá, troquei
+Cliente: Ontem funcionou tudo bem
+Cliente: Hoje está parecendo com o antigo
+Cliente: Caindo a todo momento
+Cliente: Uma semana assim
+Cliente: Comprei um celular de R$800 da linha A da Samsung indicada por vocês
+Atendente: vou analisar
+Atendente: peço que o sr. aguarde apenas um momento
+Cliente: Ja testei pela internet de dados, pela internet aqui da empresa e não está funcionando
+Cliente: Cai muito
+Cliente: Nunca foi assim
+Cliente: Ok
+Atendente: Entendi.
+Atendente: Mas a rede que o celular esta conectado (wifi) está tudo certo com ela, correto?
+Atendente: Não está tendo quedas por exemplo
+Cliente: Sim
+Cliente: Tudo certo com ela
+Atendente: obrigado por ter aguardado
+Atendente: O sr. pode verificar se o problema ainda persiste?
+Cliente: Voltou
+Cliente: Mas pode me informar se havia algum erro?
+Cliente: Porque daí já fico ciente das próximas vezes
+Atendente: Na realidade eu verifiquei que estava com uma fila
+Cliente: Sim
+Cliente: Sempre fica essa fila
+Atendente: e realizei um pequeno reset
+Cliente: Mas não entendo o motivo das desconexões
+Atendente: o sr. já tentou reiniciar o celular correto?
+Cliente: Sim
+Atendente: vi agora que reiniciou novamente
+Cliente: Sim
+Cliente: Mais uma vez
+Cliente: 😔
+Cliente: O problema é que
+Cliente: Não dá pra ficar caindo a todo momento assim
+Atendente: eu entendo
+Atendente: estou focado em resolver isso
+Atendente: só mais um momento
+Atendente: estou reiniciando o aparelho por auqi
+Atendente: Sr. realizei um reset geral por aqui
+Atendente: o sr. pode verificar se normalizou
+Cliente: Normalizou
+Cliente: Qualquer coisa, entro em contato novamente
+Atendente: Ok. Até mais.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Cliente: Tá novamente na fila as mensagens
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Caiu de novo aqui
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Deve ser a 7º vez hoje
+Atendente: Boa tarde Pierre! Meu nome é Luiz. Aguarde um momento enquanto eu verifico sua solicitação.
+Atendente: Por aqui a fila esta zerada na sua conta
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Mais uma vez o meu sistema está caindo a todo momento
+Cliente: 😑🙄
+Atendente: Olá Pierre, tudo bem? Sou o Lucas, hoje sou eu quem vai te ajudar no suporte do *ZapGuru*
+Atendente: Verifiquei no histórico de conversa que o Sr. vem tendo problema em relação ao sistema né
+Cliente: Sim
+Atendente: Primeiramente peço desculpa em nome do ZapGuru 
+Vou verificar essa condição e reverter o mais rápido possível, para que fique estável
+Cliente: Ok
+Cliente: Obg
+Atendente: Nos vamos fazer um upgrade na conta, mas precisa ficar cerca de 10 minutos fora do ar. Pode ser ? 
+Ou prefere que faça fora do horário de expediente?
+Cliente: Pode ser sim
+Cliente: Pode fazer agora
+Atendente: ok
+Atendente: Sr foi feito o upgrade e reiniciado aqui pelo nosso setor técnico, vou pedir pro se tiver mais algum problema no futuro informar para nos.
+Atendente: Estou encerrando seu chat por inatividade.
+Caso tenha alguma dúvida, volte a falar com a gente! 🧐😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Tentei adicionar alguns contatos para iniciar uma conversa pelo sistema e só ficou no aguardando
+Cliente: Não tenho mais esse módulo disponível?
+Cliente: Gostaria de usar, se não tiver ativo, gostaria de reativa-lo
+Atendente: Bom dia, Pierre! Tudo bem?
+Verificando aqui, consta que você ainda tem o módulo de add chats sim :)
+Provavelmente há algum erro com o flow.
+Atendente: Você está com o celular próximo?
+Cliente: Estou sim
+Atendente: Perfeito.
+Atendente: Pierre Vou te passar um passo a passo do procedimento para solucionar isso.
+Atendente: 1) Abrir o app do Automate
+2) Na tela "Flows" clicar na opção ZapGuru
+3) Clicar em START
+Cliente: Ok
+Atendente: Pierre, sempre quando estiver com status de pendente por muito tempo será necessário realizar essa verificação.
+Atendente: Caso a opção "ZapGuru" não esteja disponível, poderá estar com o nome de sua empresa também
+Cliente: Não tem nada disso no meu telefone
+Cliente: Instalei agora
+Cliente: Não tem opção Zapguru
+Cliente: Preciso configurar algo?
+Atendente: Legal, você instalou agora o programa "Automate"?
+Cliente: Sim
+Atendente: Certo, neste caso, é necessário configurar o add chats em seu celular, Pierre.
+Atendente: O procedimento leva aproximadamente 30 minutos
+Atendente: o Whatsapp que você usa é o Business ou o normal?
+Cliente: Business
+Atendente: Perfeito, estou separando os arquivos para fazer o mais rápido possível
+Cliente: Ok
+Atendente: Pierre, peço que baixe o aplicativo "Anydesk" em seu celular, por favor
+Cliente: Baixei
+Atendente: Legal :)
+Este programa é para que eu consiga acessar o seu celular de forma remota
+Atendente: vou te enviar um arquivo aqui que será usado dentro do Automate
+Atendente: no momento não precisa clicar nele
+Atendente: Por favor, inicie o Anydesk e me fale os números que são exibidos nele
+Cliente: 957564400
+Atendente: Será exibida uma mensagem para conexão
+Atendente: Nesta tela, Pierre, você deverá autorizar
+Cliente: Já autorizei
+Atendente: Aqui ainda aparece como não permitido
+Atendente: posso ir te orientando e você utiliza o celular por aí, tudo bem?
+Cliente: Permiti novamente
+Atendente: agora apareceu, perfeito
+Atendente: após isso, você precisa ir nas configurações e acessibilidade
+Cliente: Ok
+Cliente: Faço o que lá?
+Atendente: Você deverá permitir o Automate dentro do menu "Acessibilidade"
+Cliente: Ok
+Cliente: Pronto
+Atendente: Perfeito, Pierre. Agora eu preciso que você abra esse arquivo que te enviei, por favor
+Cliente: Abri
+Atendente: Nesta tela, você deverá permitir todas as caixinhas
+Atendente: Será solicitado que você baixe um outro aplicativo, neste caso, uma extensão do Automate.
+Cliente: Acessa Network não está funcionando
+Cliente: Ele abre a play store
+Atendente: Isso mesmo, Pierre, coloquei aqui acima. Ele pedirá para você baixar um outro aplicativo, que é uma extensão do Automate
+Cliente: Pronto
+Atendente: Perfeito, Pierre. O add chat começará a enviar as mensagens que estavam em sua fila
+Atendente: Você poderá fazer um teste adicionando um chat de forma manual também :)
+Cliente: Ok
+Cliente: Obg
+Atendente: Posso te ajudar em algo mais?
+Cliente: Não, não
+Cliente: Obg
+Atendente: Nós que agradecemos Pierre! :)
+Vou encerrar nosso atendimento por enquanto
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Bom dia Pierre! Sua alteração que foi solicitada de alteração no chatbot foi feita!
+Pode verificar se está funcionando bem? 😄
+Cliente: Bom dia
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Ela está indo no momento que vai a mensagem de saudação
+Cliente: É pra ir se o cliente não responder a saudação após 5 horas
+Atendente: Olá Pierre Bom dia, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Atendente: Certo Pierre, vou verificar como está configurado
+Cliente: Ok
+Atendente: Pierre poderia me mandar o link do chat que isso ocorreu?
+Atendente: com uma ideia visual fica mais facil de rastrear o erro
+Cliente: Posso sim
+Cliente: https://app3.zap.guru/chats/5f3fb0b1a0d55e3c429efe61
+Atendente: acertei aqui o que estava havendo
+Atendente: mas por via das duvidas, como você desejou que fosse configurado essa mensagem
+tipo, quando deve ocorrer essa msg
+Atendente: Pierre estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok? 😃
+﻿
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Não tá adicionando chat
+Atendente: Olá Pierre, Boa tarde, meu nome é Mark! Vou te ajudar, só um momento.
+Cliente: Ok
+Atendente: instala um app no seu aparelho chamado anydesk e me envia o código de acesso por favor.
+Atendente: Nosso atendimento encerrou por hoje.
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia!
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O sistema está reiniciando há mais de 2 horas
+Cliente: Ocorreu algo?
+Atendente: Bom dia, Pierre. Vou acessar agora mesmo para ver o que houve
+Atendente: Refaça a leitura do QR code novamente, por favor
+Atendente: Deu certo a leitura do código?
+Cliente: Deu sim
+Cliente: Obrigado
+Atendente: Maravilha!! Nós que agradecemos :)
+Atendente: Consigo ajudar em algo mais?
+Cliente: Não, obrigado
+Atendente: Perfeito. Vou finalizar nosso atendimento por enquanto mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Tenho uma dúvida
+Cliente: Eu posso enviar mensagem pra uma lista de transmissão?
+Atendente: Boa tarde, Pierre
+Cliente: Entendi
+Cliente: Eu posso criar uma lista de transmissão direto pelo sistema?
+Atendente: Não, você cria no whatsapp e alguns minutos depois a lista aparece no zapguru. Depois, você executa o diálogo que quer enviar; somente chats que tem seu número salvo na agenda recebem sua mensagem,
+Cliente: Ok
+Cliente: Obrigado
+Atendente: A lista de transmissão envia a mensagem de uma vez e demora +ou- 5 minutos para o envio total.
+Atendente: Qualquer dúvida, entre em contato!
+Atendente: Ajudo você em algo mais?
+Cliente: Não
+Cliente: Obg
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Quanto fica pra eu adicionar um novo número ao sitema?
+Cliente: Pra ficarem 2 números
+Cliente: E quero retirar um usuário do meu plano tbm
+Atendente: Bom dia, Pierre.
+Atendente: Um número adicional custa apenas R$ 297,00 mensal. Caso você queira o módulo adicionar chats no novo número, o módulo custa R$ 70,00 mensal.
+Atendente: Ok, vou encaminhar você ao financeiro para prosseguir com sua solicitação.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Caso você queira o módulo adicionar chats no novo número, o módulo custa R$ 70,00 mensal. 
+
+Não entendi essa parte
+Atendente: Porque o Add chats é um para cada numero
+Atendente: não é como os demais modulos que se estende para outros numeros
+Cliente: Ahh, entendi
+Atendente: Você deseja contratar o numero?
+Cliente: Não
+Cliente: Desejo retirar um dos usuários apenas
+Atendente: Fechado, um momento.
+Atendente: Exclui por favor os usuários que você nao deseja.
+Cliente: Pronto
+Cliente: Já exclui
+Cliente: Obg
+Atendente: *✅  Concluído*
+*Toque de Pink Makeup*
+Remoção 2 usuários
+*Total de 4 usuários*
+Cliente: Não, é pra remover apenas 1 usuário, ok?
+Atendente: Oi Pierre, me desculpe, um momento.
+Atendente: *✅  Concluído*
+*Toque de Pink Makeup*
+1 usuário adicional
+*Total de 5 usuários*
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Pierre, estou encerrando atendimento, caso precise de algo é só nos chamar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Teria como eu fazer um relatório por algo que falei em várias conversas?
+Cliente: Eu queria exportar as conversas que tinham "pedido confirmado" dentro delas
+Atendente: Infelizmente não tem como, o ideal seria criar um diálogo que aplique o cliente em processo de funil ou tag, para ser utilizado como filtro no relatório.
+Cliente: 😭
+Cliente: Ok
+Cliente: Obrigado
+Atendente: Se precisar de ajuda, é só chamar! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: O site caiu aqui
+Cliente: O que houve?
+Atendente: Boa tarde, Pierre. 
+Estamos cientes dessa situação e trabalhando para resolver o mais rápido possível
+Atendente: Pierre, acredito que já tenha voltado ao normal agora
+Cliente: Ok
+Cliente: Obg
+Atendente: Eu que agradeço, Pierro. Sinto muito pelo inconveniente
+Atendente: Consigo ajudar em algo mais?
+Cliente: Não
+Atendente: Certo. Vou finalizar nosso atendimento por enquanto, mas ficamos a disposição.  Boa tarde.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: *Aviso Automático* 
+
+Pierre Bom dia!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: Bom dia!
+Cliente: Vou verificar
+Cliente: tenho como realizar uma transferencia?
+Atendente: Tem sim, se precisar te encaminho um boleto com a data atualizada tambem
+Cliente: pode ser qualquer um dos dois
+Cliente: Se pudesse pagar todo mês via boleto ou transferência seria melhor pra mim
+Atendente: Vou mudar sua conta para boleto então
+Atendente: Um momento
+Atendente:  Me encaminha um e-mail que deva chegar o boleto.
+Cliente: toquedepinkmakeup@gmail.com
+Cliente: Pago
+Cliente: Ok?
+Atendente: Show, obrigada!
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Eu gostaria de alterar os emails cadastrados pelos usuários
+Cliente: Usuário THAMYRES
+
+Para: thamyrestoquedepink@gmail.com
+
+Usuário POLIANA
+
+Para: polianatoquedepink@gmail.com
+
+Usuário Joanna
+
+Para: joannatoquedepink@gmail.com
+
+Usuário Fernanda
+
+Para: fernandatoquedepink@gmail.com
+Cliente: Pode ser?
+Atendente: Olá, Pierre. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Zapguru* 😀
+Um instante que já vou verificar sua solicitação.
+Atendente: Posso te ajudar em mais alguma coisa?
+Cliente: obgg
+Atendente: Pierre, qualquer dúvida a mais, estamos à disposição! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa noite
+Atendente: Boa noite Pierre!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Meu WhatsApp não está pegando
+Cliente: So fica aguardando mensagem
+Atendente: Bom dia, Pierre! 😄
+Meu nome é *Caio*, seu suporte da ZapGuru!
+Atendente: Voltou a funcionar?
+Cliente: Bom dia
+Cliente: Sim
+Cliente: Obg
+Atendente: Maravilha!
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente! 😄
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Atendente: *Aviso Automático* 
+
+Pierre Bom dia!  
+Consta em aberto o valor referente a sua mensalidade do ZapGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: Olá!
+Cliente: Me envia o boleto
+Atendente: Pierre, muito obrigada!
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar obg
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Teria alguma forma de salvar os números de quem fala comigo no WhatsApp?
+Cliente: Criar alguma lista ou algo do tipo?
+Atendente: Olá, Pierre! Tudo bem?
+Você pode fazer assim; exportar todos os contatos de sua plataforma e salvar em seu celular Android
+Atendente: Nosso atendimento será finalizado por inatividade, mas ficamos a disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde!
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Gostaria de ativar o funil em minha conta
+Atendente: Olá, Pierre! Tudo bem?
+Maravilha :)
+Como é uma contratação, vou te encaminhar á nossa área financeira para que possam gerar o boleto e liberar o recurso
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Ola Pierre, tudo bem?
+Cliente: Olá
+Cliente: Tudo sim
+Atendente: Será o funil né?
+Cliente: Gostaria de adicionar o funil em minha conta
+Cliente: Isso
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Bom dia
+Cliente: Me envia o boleto pra eu realizar o pagamento do funil
+Cliente: Pois o responsável pelos pagamentos não realizou
+Cliente: E o vencimento estava pra 29
+Cliente: Ou posso pagar esse mesmo?
+Atendente: Bom dia!
+Atendente: Segue atualizado.
+Cliente: Ok
+Cliente: Pode realizar a liberação?
+Atendente: Fiz a solicitação da inclusão
+Cliente: Ok
+Cliente: Obg
+Atendente: *✅  Concluído*
+*Toque de Pink Makeup*
+Modulo Funil
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia!
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Vocês integram com alguma ferramenta que possa adicionar o mensseger e instagram a ferramenta?
+Atendente: Olá Pierre, Bom dia ! Tudo bem?
+Meu nome é Nathally e faço parte da equipe de suporte do ZapGuru. 😀
+Cliente: Tudo bem
+Atendente: Vou Verificar só um momento.
+Atendente: Você pode integrar  colocando no instagram o link direto do WhatsApp, pra atender direto na plataforma. 
+Então,  podemos configurar o BOT para que quando ele venha do instagram, esse cliente seja marcado diferente de forma que você possa identificar que veio do Instagram.
+Cliente: Não é isso que eu quero
+Cliente: Mas de qualquer forma, obrigado pela ajuda
+Atendente: Me explica então para que eu possa entender
+Atendente: Você quer atender o Mensseger e o Instagram pela nossa plataforma?
+Cliente: Isso
+Atendente: Não temos ainda suporte para Instagram e Mensseger.
+Atendente: Algo mais em que eu possa te ajudar?
+Atendente: Pierre estamos encerrando o seu atendimento por ausência de resposta, mas caso precise de mais alguma coisa, basta enviar uma mensagem, ok?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: *Aviso Automático* 
+
+Pierre Bom dia!  
+Consta em aberto o valor referente a sua mensalidade do ChatGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: me envia boleto por favor
+Atendente: Envio sim, um momento.
+Atendente: Pierre, muito obrigada!
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: não, obrigada
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde!
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Teria como eu integrar o pixel do facebook ao sistema
+Atendente: Boa tarde, Pierre! Sou o *Eduardo*, faço parte da equipe de suporte do *ChatGuru*! 😁
+Cliente: Ex: eu tenho o funil de vendas, daí, quando adicionar o cliente ao ao Venda, ele disparar pro Pixel ou algo do tipo
+Atendente: Bom, é possível você executar um diálogo que coloca o cliente no final de Venda e executa uma ação de post, que seria um chamado via API para uma ferramenta externa, no seu caso, o Pixel. Porém vai depender se o Pixel aceita integração via API, se é pago e como isso poderia ser feito
+Cliente: Entendi
+Cliente: É o Pixel do Facebook
+Cliente: Acredito que aceite, certo?
+Cliente: Porque ele tem a API de conversões
+Atendente: Olá, Pierre! Desculpa a demora, estamos com certa demanda aqui no suporte. Essa configuração vai depender mais do Pixel do que da nossa plataforma, você consegue ter acesso aqui nesse link aqui: https://wiki.chatguru.com.br/api/api-documentacao-v1
+Atendente: Essa integração, por se tratar de algo externo a nossa plataforma e envolver outras ferramentas, geralmente é feita por algum programador, para que tudo fique integrado corretamente
+Atendente: Pierre, vou finalizando aqui por questão do horário, continuamos amanhã pela manhã, tudo bem?
+Atendente: Uma ótima noite pra você 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia!
+Cliente: Caiu o sistema
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Pierre, Bom dia. Meu nome é Hugo. Só um momento que eu já irei verificar.
+Cliente: Ok
+Cliente: Agora voltou
+Cliente: Obg
+Atendente: *Hugo:* 
+posso te ajudar com algo mais?
+Cliente: Vocês podem integrar com qual sistema CRM?
+Atendente: *Hugo:* 
+para fazer integração é necessário contratar o módulo API. É possível fazer integração com qualquer sistema CRM, porém não damos suporte na configuração. Para isso é necessário contratar um programador de sua confiança.
+Cliente: Entendi
+Cliente: Obg
+Atendente: *Hugo:* 
+por nada. Podemos te ajudar com algo mais?
+Cliente: nn, obg
+Atendente: *Hugo:* 
+por nada. Qualquer coisa é só nos chamar. 😊
+Bom final de semana.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Pierre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60156db673116bf23e40ae25
+Atendente: *Aviso Automático* 
+
+Pierre Boa noite!  
+Consta em aberto o valor referente a sua mensalidade do ChatGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: Me manda boleto pfv
+Atendente: Boa noite Pierre!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Bruna Lira:* 
+Bom dia! Segue boleto
+Atendente: *Bruna Lira:* 
+Pierre, muito obrigada!
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar obg
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Pierre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6023cc0473116bf23e43ab08
+Cliente: Oi
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pra adicionar outro número ao sistema fica por qual valor?
+Atendente: *Luiz Modestino:* 
+Boa tarde Pierre! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+Pierre, um Número/WhatsApp Adicional tem o custo de R$297,00/mês
+Cliente: Não conseguimos reduzir esse valor? :(
+Cliente: Ahh, eu também estou com um usuário a mais em meu sistema
+Cliente: No caso, não utilizo ele
+Cliente: Eu gostaria muito de adicionar outro número, mas por esse valor fica difícil pra mim ☹️
+Atendente: *Luiz Modestino:* 
+Sobre descontos apenas o setor financeiro pode passar pra você.
+Cliente: Ok
+Cliente: Me encaminha pra eles por favor
+Atendente: *Luiz Modestino:* 
+Ok. Só um momento.
+Cliente: Porque já pago bem caro pelo que estou utilizando
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Pierre, boa tarde!
+Tudo bem? 
+Você precisa de mais 1 numero?
+Cliente: Isso
+Cliente: Mas por esse valor, eu não consigo
+Cliente: Já pago R$600
+Cliente: Gostaria até de deixar apenas 4 chats, retirar mais um
+Cliente: E adicionar outro número
+Cliente: Por quanto a gente consegue deixar?
+Atendente: *Bruna Lira:* 
+Consigo um desconto de 10%
+Cliente: 🤔
+Cliente: Só? 😭
+Cliente: Só me tira uma dúvida
+Cliente: Vou fazer disparo com esse número
+Cliente: A plataforma de disparos de vocês está funcionando 100%, não é?
+Cliente: Porque fiz uma única vez nela e deu mto errado
+Atendente: *Bruna Lira:* 
+Vou confirmar como suporte
+Cliente: Outra dúvida, eu consigo importar lista pra fazer disparo com ele?
+Atendente: *Bruna Lira:* 
+Pierre, o que você deseja fazer exatamente?
+Atendente: Pierre, bom dia! para envio de mensagens em massa, não funciona dessa forma. 
+
+Todo mundo precisa já ter algum tipo de interação com você, simplesmente importar uma lista e enviar, não é possível. 
+
+Além disso, seria considerado SPAM e seu número será  banido com certeza.
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Olá
+Atendente: Boa noite Pierre!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Cliente: Quero deixar apenas 2 usuários na minha conta
+Cliente: Me confirma o valor que vai ficar por favor
+Atendente: *Bruna Lira:* 
+Bom dia!
+Um momento.
+Atendente: *Bruna Lira:* 
+Bom dia Pierre!
+Sua conta vai ficar R$541,96
+Atendente: *✅ Concluído*
+
+*Toque de Pink Makeup*
+Remoção de 3 usuários
+*Total de  2 usuários*
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Bruna Lira:* 
+Pierre?
+Cliente: Ok
+Cliente: Tudo certo
+Cliente: Só me detalha o que eu estou pagando por esse valor de R$519
+Cliente: Ok?
+Cliente: Pra eu anotar direitinho aqui na minha planilha
+Atendente: *Bruna Lira:* 
+Detalho sim, mas primeiro você poderia excluir por favor os 3 usuarios que vc pediu para remover
+Atendente: Pierre, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Pierre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60410dc59f49179ac8984295
+Atendente: *Aviso Automático* 
+
+Pierre Boa tarde!  
+Consta em aberto o valor referente a sua mensalidade do ChatGuru. 
+
+Evite a interrupção de sua conta realizando o pagamento *em até 24h*. 
+
+Em caso de dúvidas, estamos a sua disposição!
+Cliente: me envia boleto por favor
+Cliente: Não é esse valor
+Cliente: Reduzi pra 2 operadores apenas
+Atendente: *Bruna Lira:* 
+Olá Pierre, realmente, esse esta errado, um momento que vou trocar
+Cliente: ok
+Cliente: aguardo
+Atendente: *Bruna Lira:* 
+Pierre, boa tarde!
+Tudo bem?
+Conseguiu efetuar o pagamento?
+Cliente: Vou realizar agora
+Atendente: *Bruna Lira:* 
+Combinado, obrigada
+Atendente: *Bruna Lira:* 
+Pierre, boa tarde!
+Ainda não identificamos o pagamento, algum retorno?
+Cliente: Bom dia
+Cliente: Manda o boleto
+Cliente: E libera o site
+Cliente: Vou pagar agora
+Cliente: Por favor
+Atendente: *Bruna Lira:* 
+Bom dia
+Atendente: *Bruna Lira:* 
+Segue boleto.
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: Ok
+Cliente: Aguardando a liberação
+Atendente: *Bruna Lira:* 
+Sim, to aqui atras de algum disponível para liberarmos ja pra você
+Cliente: Ok
+Cliente: Consegui entrar, mas agora ta aparecendo essa mensagem
+Atendente: *Bruna Lira:* 
+Um momento.
+Cliente: Ok
+Atendente: *Bruna Lira:* 
+Deu certo,?
+Atendente: *Bruna Lira:* 
+Vou te encaminhar ao suporte.
+Atendente: *➡ Você foi encaminhado para: Suporte*
+Cliente: Oii
+Cliente: Está dando essa mensagem
+Atendente: *Lucas Gusmão:* 
+Bom dia, Pierre! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Cliente: Ok
+Atendente: *Lucas Gusmão:* 
+Pierre, eu abri agora um chamado para nossa equipe técnica. Eles irão liberar a leitura em breve. 😃
+Cliente: Certo
+Atendente: *Josué Dionizio:* 
+Tenta fazer o QR agora
+Atendente: *Arthur Ferragini:* 
+Oi, Pierre. Ainda está por ai?
+Cliente: Vou tentR
+Cliente: Tentar
+Atendente: *Arthur Ferragini:* 
+O celular está conectado e sincronizado novamente :)
+
+Há algo mais em que podemos ajudar, Pierre?
+Cliente: Pegou
+Cliente: Obg
+Atendente: *Arthur Ferragini:* 
+Imagine! Tenha uma ótima sexta :) e se precisar, estamos à disposição 💪
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Pierre, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/604b8d56ecec98869e4f1764
+Cliente: Me manda o passo a passo de como instalar o automate
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pra add contato
+Atendente: *Luiz Modestino:* 
+Boa tarde Pierre! Meu nome é Luiz. 
+Aguarde um momento enquanto eu verifico sua solicitação. 👨‍💻
+Atendente: *Luiz Modestino:* 
+Caso tenha o AnyDesk instalado no aparelho, é só me informar que eu configuro.
+Cliente: Vou instalar
+Atendente: *Carlos:* 
+Certo. Por favor instale também o Plugin AD-1
+Cliente: Instalei os dois
+Atendente: *Luiz Modestino:* 
+Qual a versão do seu Whatsapp: Normal ou Business
+Cliente: Business
+Atendente: *Luiz Modestino:* 
+Ok. Me informa o número do Anydesk
+Cliente: 577308288
+Atendente: *Luiz Modestino:* 
+Só aceitar a conexão
+Atendente: *Luiz Modestino:* 
+Depois envia esse arquivo para o Whatsapp do número 985939103
+Atendente: *Luiz Modestino:* 
+Vai nas configurações do Android e procura por Acessibilidade > Serviços transferidos e Ativa o Anydesk AD1
+Cliente: Ok
+Atendente: *Luiz Modestino:* 
+Show
+Atendente: *Luiz Modestino:* 
+Sigo daqui
+Cliente: Pronto
+Atendente: *Luiz Modestino:* 
+Pronto. Já esta adicionando.
+Atendente: *Luiz Modestino:* 
+💡 *Lembre-se sempre* de manter o Automate rodando em segundo plano com esse aviso de *Zapguru: Sem chats para incluir na tela*. Se o chat ficar pendente após adicionar aqui na plataforma, basta abrir o Automate, toca no arquivo com o nome da sua empresa e da START.
+Atendente: *Luiz Modestino:* 
+Posso te ajudar em algo mais Pierre?
+Atendente: Pierre, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia!
+Atendente: Pierre Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Olha, eu tenho dificuldade em alterar a minha URA, eu gostaria que vocês enviassem um guia para que eu realmente consiga alterar ela com facilidade, ao invés de vir aqui pedir
+Atendente: *Eduardo Victor:* 
+Bom dia, Pierre! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! 😁
+
+Dependendo da alteração, pode ser um pouco mais complexo do que o esperando, sendo necessário um pouco de lógica de programação.
+
+Qual seria essa alteração que você deseja fazer?
+Cliente: Falar com quem foi a URA inicial e o contato não respondeu
+Cliente: Mandar no caso, uma mensagem de recuperação do lead
+Atendente: *Eduardo Victor:* 
+Isso seria automaticamente? Caso um cliente não responda a URA em x tempo, realizar x ação, seria isso?
+Cliente: Sim
+Atendente: *Eduardo Victor:* 
+Pronto, esse é um dos casos onde é um pouco complexo de configurar, porque você vai precisar revisar o seu bot para entender os contextos aplicados, a interferência que essa verificação pode ou não causar e a lógica que vai ser usada. 
+
+Eu posso criar pra você, basta você me dizer quanto tempo depois de receber a URA isso deve acontecer e o que deve acontecer (Se é enviar uma mensagem, encaminhar para outro usuário e etc...)
+Cliente: Apenas enviar uma mensagem de recuperação
+Cliente: Teria com você fazer apenas o parâmetro e eu adiciono a mensagem por lá?
+Cliente: Só tenho uma mensagem de saudação rodando, na verdade..
+Atendente: *Eduardo Victor:* 
+Tem sim, porém essa configuração só vai funcionar a partir de hoje, então contatos antigos que não responderam a URA até agora, não vão serão atualizados e terão essa configuração ativada
+Cliente: Sem problemas
+Cliente: Quero que essa mensagem seja enviada após 6h se o contato não responder nada após a minha mensagem inicial, mas que seja vetado que essa mensagem seja enviada entre as 22:00 e 08:00
+Cliente: Ok?
+Atendente: *Eduardo Victor:* 
+Certo! E o que deve acontecer com ele? Apenas a mensagem?
+Cliente: Sim
+Atendente: *Eduardo Victor:* 
+Qual vai ser?
+Cliente: Eita, adiciona lá sem a mesagem
+Cliente: A mensagem eu consigo configurar
+Cliente: Ainda vou criar
+Atendente: *Eduardo Victor:* 
+Ah sim, tudo bem então, vou providenciar aqui, só um momento
+Atendente: *Eduardo Victor:* 
+Pierre, eu consigo te ajudar em algo mais?
+Atendente: Pierre, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa tarde!
+Atendente: Pierre Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luiz Modestino:* 
+Boa tarde Pierre! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Luiz, eu gostaria de adicionar tags de acordo com a primeira frase que o contato fala
+Cliente: Pra poder rastrear os meus anuncios do Facebook ADS
+Cliente: É possível realizar essa ação no sistema?
+Atendente: *Luiz Modestino:* 
+Sim, é possível.
+
+Essa frase já vem pré configurada em um link?
+Cliente: Sim
+Atendente: *Luiz Modestino:* 
+Podemos utilizar essas mensagem que estão nos links como gatilhos e assim implementar uma TAG
+Atendente: *Arthur Ferragini:* 
+Oi, Pierre. Ainda está por ai? Gostaria de auxílio para configurar a automação acima?
+Atendente: Pierre, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Prezado(a) Cliente, consta em aberto o valor referente a sua mensalidade do ChatGuru. Evite o bloqueio da sua conta realizando o pagamento em até 24h. Em caso de dúvidas, estamos à sua disposição!
+Atendente: *Bruna Lira:* 
+Olá Pierre, boa tarde!
+Algum retorno?
+Atendente: Olá Pierre, daremos início ao cancelamento da conta Toque de Pink Makeup. O cancelamento tem efeito imediato. Você não será mais cobrado pela utilização do ChatGuru.
+

@@ -1,0 +1,181 @@
+Cliente: Ola
+Atendente: Olá  Boa tarde!
+*Não temos nenhum registro seu em nosso atendimento.*
+
+Por *questões de segurança* realizamos apenas atendimento neste número apenas para pessoas autorizadas pelo administrador da conta.
+
+Lembrando que se você for usuário, você pode nos contactar diretamente pelo próprio número cadastrado no ZapGuru.
+
+Como o admin da conta pode autorizar seus usuários: https://youtu.be/-YT9FwQ7Oyo
+Atendente: Olá, qual o seu nome?
+Cliente: ola
+Cliente: é jansen
+Cliente: Sou da Rush corretora de seguros
+Cliente: tenho 180 mensagens sem nenhum delegado abertos e sem nenhum conteudo
+Cliente: acho que é algum erro
+Cliente: pode me ajudar
+Atendente: Certo!
+Atendente: Jansen, o seu chat está autorizado para suporte.
+Cliente: ok
+Atendente: Olá Jansen Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, estou aqui para ajudar. :D
+Cliente: ok
+Atendente: Vou ver o que está ocorrendo
+Cliente: Sou da Rush corretora de seguros
+Cliente: ok
+Cliente: e esse erro esta dando tb
+Atendente: Jansen, vi que voce tem varios usuários, nenhum deles ainda foram alocado em algum departamento, então não consigo fazer a delegação pelo setores
+Atendente: Senhor Jansen?
+Cliente: oi
+Cliente: sim
+Cliente: nao separo por setores e sim delego pelo nome deles
+Cliente: nao separo por setores e sim delego pelo nome deles
+Atendente: poderia reiniciar o Zapguru?
+Atendente: certo, mas dai então teria que delegar para cada caminho feito pela URA
+Atendente: Boa noite Jansen!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: se puder separar pelos setores, ja está pré configurado
+Cliente: eu quero saber destas conversas ai sem delegados tem 180 e todas elas abertas e em branco
+Cliente: hj de manha nao estava assim
+Cliente: eu nao quero configuar nada so quero saber porque esta assim
+Atendente: certo, vou ver o que pode ter ocorrido
+Atendente: Jansen, amanha vamos marcar uma Call, é mais facil para explicar quais os erros foram feitos, combinado?
+Atendente: qual horario ficaria melhor para voce?
+Cliente: Ok
+Cliente: Blz
+Atendente: Boa noite Jansen!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Umas 11 eu acho
+Atendente: perfeito
+Atendente: Então fica combinado para as 11 horas
+Cliente: Otimo
+Atendente: Olá Sr. Jansen tudo bem?
+Cliente: ola
+Cliente: tudo bem
+Atendente: Bom, verifiquei aqui e na conta do senhor temos alguns erros
+vou printar os erros e explicar para o senhor cada um deles e o que ocorre a partir dele, tudo bem?
+Cliente: ok
+Cliente: isso nao é erro é proposital nosso, nao tenho ninguem pra ficar delegando entao todos tem essa autonomia
+Cliente: sempre tem alguem online e todos sao responsaveis por gerir e delegar a pessoa correta
+Atendente: Perfeito ai entra esse terceiro ponto
+Atendente: como pode ver, aqui seria a Delegação para os usuários, exatamente como o senhor disse: e o erro esta justamente ai
+Cliente: eu nao tenho ura
+Cliente: quando o cliente chama...todos vem e alguem tem que responder
+Atendente: o senhor tem 4 uras configuradas 
+1 - vendas
+2 - Financeiro
+3 - Admin
+4 - Gerencia
+Assim que qualquer uma dessas opções é *Acionada* pelo cliente
+ela deve encaminhar para os responsáveis de cada coisa, na foto acima, está o nome de cada um deles... E ai entra o *Porém*,
+Nenhum deles está configurado para ser enviado, no caso, não vai para absolutamente ninguém, a ura fica sem delegar
+Cliente: entao
+Cliente: isso esta errado
+Cliente: nao tem ura
+Atendente: o senhor não quis uma ura?
+Cliente: chame pra vc ver ai
+Cliente: 11 22841900
+Cliente: nao aparece nada
+Atendente: como foi acordado essa parte com o senhor antes?
+poderia me dzer?
+Atendente: certo vou chamar
+Atendente: vou chamar pelo meu Pessoal ok?
+Cliente: ok
+Cliente: agora esta com algum problema nao esta enviando
+Cliente: e nem recebendo
+Atendente: poderia refazer o processo do QRCode?
+Atendente: acabei de perceber isso tambem quando enviei a msg para o senhor
+Cliente: como faz isso
+Cliente: o que é isso?
+Atendente: uma duvida, o senhor chegou a ver os videos de primeiros passos?
+Cliente: Nao....
+Cliente: nunca vi isso...
+Cliente: estou estou acompanhando agora justamente para entender como funciona
+Atendente: hmm, é algo muito importante para o senhor saber como proceder sobre certas coisinhas rsrs
+Cliente: é to vendo rsrs
+Atendente: perfeito rsrs
+Atendente: quer que eu mandei o link do video para o senhor?
+Cliente: se for o qr code igual zap comum eu sei fazer tranquilo
+Cliente: mas queria saber porque isso acontece? o celular lá fica carregando e nunca desliga
+Atendente: exatamente isso, esse procedimento
+Cliente: ok
+Atendente: as vezes ocorre problemas de conexão, tudo é feito pela internet, as vezes qualquer coisa pode causar interferência no aparelho, consequentemente no whats, o senhor deixa esse aparelho próximo ao roteador de acesso?
+Atendente: obs: a tela tem de ficar ligada constante no aplicativo do Whats, para evitar erros
+Cliente: Não mas vou deixar
+Atendente: https://zap.guru/primeiros-passos/
+Atendente: perfeito
+Atendente: abra esse link, e da uma assistida no video, vai te ajudar, vou esperar o senhor terminar de ver
+Cliente: esta conectado
+Cliente: fizemos procedimento do qrcode
+Cliente: porem a msg ainda nao vai
+Cliente: fica enviando e nao vai
+Cliente: lá no celular tem 2 zaps
+Cliente: um o 22841900
+Cliente: e tem tb o 22841902
+Cliente: pegou o 1902 nao sei porque
+Atendente: esta configurado o 1900
+Atendente: vou verificar aqui o que pode estar acontecendo
+Cliente: fizeram uma M Lá trocaram...rsrsr
+Cliente: mas essa ura nao tem memso tá
+Cliente: pode tirar
+Cliente: ate teve mas eu pedi para tirar
+Atendente: haa sim kkkk
+Atendente: então vou deixar apenas o de ligação perdida e fora do horario como ja está
+Cliente: o que seria ligacao perdida?
+Atendente: a ura vou excluir e colocar o Rodizio normal
+Cliente: ok fora do horario
+Atendente: tambem rsrs
+Atendente: o ligação perdida é para chamadas realizadas por whatsapp
+ele te notifica que ouve uma ligação e manda uma msg automatica que ja está configurada
+Cliente: ok
+Atendente: em relação aos usuarios, recomendo que o senhor faça o seguinte
+Seguindo o que voce falou anteriormente
+Deixe os usuários como Usuarios Normais
+E adicione a permissão de "ver chat de outros usuarios"
+Atendente: isso resolveria o problema
+Atendente: todos poderiam acessar o chat como o senhor deseja
+Cliente: boa
+Atendente: e deixamos em rodizio automático, para poder ser direcionado/delegado para os usuários e todos podem ter acesso a conversa
+Atendente: fechou?
+Cliente: mas nao podem responder?
+Atendente: podem responder sim, tem como permitir
+Cliente: mas ai eles podem delegar para outro?
+Atendente: na verdade ele será delegado para um usuário, porém, todos conseguem ver a conversa, 
+mas é possivel configurar para que seja delegado a alguem em especifico, a pessoa pode ter essa permissão tbm
+Atendente: tipo, eu recebi um chamado, que voce gostaria de atender, eu pego e delego para voce, então eu e voce teremos acesso
+Cliente: nao ai nao, quando estava assim era muito complicado uma pessoa ficar direcionando
+Cliente: eu preciso ter uma funcao de uma pessoa poder delegar a outra
+Atendente: então uma pessoa delega para a outra
+Atendente: o que podemos fazer é pegar algumas palavras chaves e configurar para que essa palavras em especifico ja delegue para pessoa X ou Y
+Cliente: Não dá
+Cliente: Difícil
+Atendente: se voce puder fazer no word algo como
+
+"se for sobre Sinistro" fulando A e B
+se for Sobre seguro "C e B e etc
+Atendente: certo
+Atendente: Bom, ve se agora está indo como voce deseja
+Atendente: agora a msg está indo direito, a msg que enviei, ja foi, agora só verificar de acordo
+Atendente: Jansen?
+Cliente: oi
+Atendente: deu certo agora né?
+Cliente: sim acho que deu sim
+Atendente: kkk então ta bom, qualquer coisa entra em contato viu?
+Atendente: e assista o video dos primeiros passo
+Atendente: pode ser isso sim
+Atendente: https://zap.guru/primeiros-passos/
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+

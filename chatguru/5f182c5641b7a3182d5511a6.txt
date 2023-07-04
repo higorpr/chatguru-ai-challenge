@@ -1,0 +1,190 @@
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Seja bem vindo! 😊
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Sineval Felomeno
+Email: sfelomeno@gmail.com
+Senha: 9185f3ec501c674c7c788464a36e7fb3
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Atendente: {Bom dia Sineval, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Já conseguiu acessar o ZapGuru?
+Cliente: Já já falamos
+Atendente: Beleza! Precisando é só chamar!
+Cliente: Bom Dia
+Atendente: Sineval Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Estamos com dúvida de autorização e como fazer transferência de atendimento pelo usuário comum
+Cliente: Pode me ajudar ?
+Cliente: Elas também estão com dúvida de como iniciar um chat com um usuário cadastrado
+Cliente: Também quero iniciar a API com messenger, direct e meu site
+Atendente: Sineval Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Sineval, tudo bem? Meu nome é Gabriel. Seja Bem-Vindo a ZapGuru! Vou te dar uma ajudinha
+Atendente: Olá Sineval, Boa tarde! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Está dúvida
+Cliente: Esta dúvida
+Cliente: Esta dúvida
+Atendente: Certo, um momento Sineval
+Atendente: A instalação do automate ainda não foi feita, certo?
+Atendente: Poderia dar mais detalhes? Vocês não estão conseguindo transferir as conversas?
+Cliente: Acho que não
+Cliente: O atendimento está com o Joao e ele quer passar para o Pedro
+Cliente: Transferência de operador
+Cliente: Também não sabemos como iniciar um chat
+Atendente: A iniciação do chat ela será possível assim que fizermos a instalação do Automate, estava em contato com um outro número da Lala Lipe e estou aguardando a disponibilidade de horario
+Cliente: Como sou este acesso para o usuário comum ? Só administrador consegue na minha base . E nem todos devem ser administrador
+Cliente: Vcs podem agora as 14:00 ?
+Cliente: Posso fazer com vcs neste horário
+Cliente: E esta dúvida. Quando libera
+Cliente: Isso eu sei, mas qual acesso preciso liberar ?
+Atendente: Os horarios de hoje estão todos marcados
+Cliente: Amanhã ?
+Atendente: Amanhã temos disponibilidade no horário da tarde
+Atendente: Poderia ser as 16h de amanhã?
+Cliente: Pode sim
+Cliente: Qual acesso libero aqui ? Para que os operadores associem outros vendedores
+Atendente: certo, me confirma o seu email por favor
+Cliente: Mudar none do chat é para trocar o nome do usuário ?
+Atendente: Trocar o nome do cliente com que o usuário está falando
+Cliente: Cara, está atrapahando toda minha operação ficar sem mandar chat. Por favor consegue um horário agora a tarde
+Atendente: Certo, podemos agendar para as 17h de hoje?
+Atendente: Abriu uma vaga de agendamento
+Atendente: Olá Sineval tudo bem? 
+
+Precisamos realizar a instalação do *Módulo de Adicionar Chats* no seu smartphone.
+
+Para prosseguirmos é necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo: 
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+
+Podemos agendar a instalação?
+Cliente: Obrigado
+Cliente: Ok
+Atendente: Só confirma para mim por favor o seu email e se seu whatsapp é business ou normal
+Cliente: Meu what’s app é business
+Cliente: Meu e-mail é o sfelomeno@gmail.com
+Atendente: Certo, o agendamento está feito
+Atendente: Sineval, a instalação já foi feita. Irei encerrar essa conversa, mas qualquer duvida ou se precisar de nosso suporte, é só entrar em contato
+Cliente: Ok
+Atendente: Boa noite Sineval!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Cliente: Bom Dia
+Atendente: Sineval Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Continuamos sem conseguir enviar mensagem
+Cliente: Pode me ajudar ?
+Atendente: Bom dia Sineval! Tudo bem?
+Atendente: Certo, poderia me mandar um print de como está esse problema?
+Cliente: Me passa a forma que consigo enviar uma mensagem ?
+Cliente: Qual print vc precisa ?
+Atendente: De como está ficando a mensagem quando enviada
+Cliente: Elas não estão conseguindo enviar
+Atendente: Ontem foi feita a instalação do Automate no celular de Lala, o celular está conectado e ligado?
+Cliente: Não sabem fazer ou estão sem acesso
+Cliente: Sim
+Cliente: Elas querem iniciar um chat que falaram com o cliente a tempo
+Cliente: Ou que acabaram de incluir o cliente
+Cliente: E não conseguem ver a opção
+Cliente: Todos pendentes
+Atendente: Certo, poderia mandar um print de como está o Automate que foi instalado ontem?
+Cliente: Onde vejo isso kkk
+Atendente: No celular de Lala ontem foi instalado esse aplicativo chamado Automate. Precisa dar uma olhadinha nele para ver se está tudo correto
+Cliente: Ja deu certo
+Cliente: Grato
+Atendente: Certo! Se precisar de qualquer ajuda é só chamar Sineval
+Atendente: Bom dia Sineval 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Cliente: Este ponto ainda está aberto
+Atendente: Sineval Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Sineval!
+Meu nome é Caio, seu suporte da ZapGuru!
+Atendente: Essa configuração você consegue fazer lendo nossa documentação em nossa Wiki!
+Atendente: https://wiki.zap.guru/api/api-documentacao-v1
+Atendente: Vou encerrar aqui, qualquer dúvida pode entrar em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Como faço para conectar o zapguro com o Direct do Insta e o Messenger do Facebook
+Atendente: Olá Sineval, Bom dia!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Oi Boa Tarde]
+Cliente: Como faço para incluir mais usuarios, posso faze-lo por apenas 2 meses ?
+Atendente: Sineval Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Sineval! Boa tarde tudo bem? Sou o Gustavo, *Suporte do ChatGuru*. Pode sim amigo, no caso antes de terminar a segunda fatura nos avise para cancelar para que não seja cobrado =D
+O valor para cada usuário adicional é de R$50,00/mês. Posso te encaminhar para o financeiro para prosseguir com a contratação?
+Cliente: Sim
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá Sineval, boa tarde!
+Tudo bem?
+Você deseja quantos usuarios?
+Cliente: 3 usuários
+Atendente: *Bruna Lira:* 
+Certo, vi que deseja por 2 meses, infelizmente não temos como controlar isso... então eu peço por favor que quando não foi mais precisar deles, que nos peça a remoção, ta bem?
+Cliente: Não há fidelidade correto ? Basta que desistir e te avisar e já se ajusta na proxima fatura, correto ?
+Atendente: *Bruna Lira:* 
+Isso mesmo... mas não fazemos reembolso, sua fatura fecha dia 14 com vencimento dia 21.
+Cliente: Ok
+Cliente: Adicione 3 usuários porta
+Atendente: *Bruna Lira:* 
+Um momento.
+Atendente: Sineval, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Ok
+Cliente: 👆🏻feito o pagamento
+Atendente: *Bruna Lira:* 
+Boa tarde!
+Um momento.
+Atendente: *Alteração Feita*
+✅
+*Lala Lipe*
+3 usuários adicionais
+*Total de 10 usuarios*
+Atendente: Sineval, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Pode encerrar..
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Sineval, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60d4c9fcaee761eec9a3ff91
+

@@ -1,0 +1,534 @@
+Atendente: Seja bem vindo! 😊
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Recomendamos seguir esses primeiros passos: 
+
+*Dedique alguns minutos do seu tempo e assista o nosso vídeo de Primeiros Passos*  
+
+👉 https://zap.guru/primeiros-passos
+Atendente: Não deixe de acessar também: 
+
+*Recomendações para Estabilidade*
+👉 https://wiki.zap.guru/dicas/recomendacoes-para-estabilidade
+
+*Nosso Canal do Youtube*
+👉 https://www.youtube.com/channel/UCNXJ5qlEAsBCxxbWfo4GvNw
+
+*Nosso Wiki* Com toda documentação do ZapGuru! 
+👉 https://wiki.zap.guru
+
+*Perguntas Frequentes* 
+👉 https://wiki.zap.guru/faq/perguntas-frequentes
+
+Recomendo que adicione todos os links em  seus favoritos! 😀
+Atendente: *Link de acesso:* https://app5.zap.guru
+
+*Credenciais de acesso:*
+Atendente: Salva nosso número na sua agenda para que você nos encontre mais facilmente!
+Cliente: Bom dia, gostaria de fazer uma solicitação
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Tecnicópias! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila, qual o valor do módulo para iniciar uma conversa
+Atendente: Para adicionar contato pelo ZapGuru?
+Cliente: isso
+Atendente: O módulo de Adicionar Chat é apenas R$70,00 mensal
+Cliente: você pode incluir em nossa conta e ativar por favo?r
+Atendente: Podemos sim. Vou te encaminhar para o financeiro para fazer a inclusão do módulo, esta bem?
+Atendente: *➡ Você foi encaminhado para: Financeiro*
+Cliente: ok
+Atendente: Bom dia!
+Atendente: *Módulo Add Chats R$ 70,00*
+Permite que os operadores possam adicionar contatos através do ZapGuru de forma rápida.
+👉 https://youtu.be/Bvr1cZ9RwwE
+Atendente: Deseja seguir com a contratação ?
+Cliente: sim
+Cliente: como funciona a ativação é em tempo real?
+Atendente: Não, depois de contratar é agendado com a nossa equipe de suporte a instalação desse módulo.
+Atendente: Ele exige que você tenha um smartphone Android e o smartphone não poderá mais ser manuseado.
+Cliente: ok, fico no aguardo entao
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação
+Cliente: combinado
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: obrigado, pode sim
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá, anexo o comprovante.
+Atendente: Tecnicópias Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Tecnicópias! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila, enviei o comprovante
+Atendente: Perfeito. Vou solicitar a liberação do módulo, só um momento por favo.
+Atendente: Já solicitei. Assim que me retornarem, te aviso.
+Atendente: Quando fizerem a liberação teremos que marcar nossa instalação, esta bem?
+Cliente: ok fico no aguardo
+Atendente: Já vou te dando as instruções do que deve ser feito, pode ser?
+Cliente: pode sim
+Atendente: É necessário a instalação de um APP, o QuickSupport, você pode realizar através do Link abaixo:
+
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=pt
+Atendente: Precisamos desse aplicativo para fazer o acesso remoto no aparelho
+Atendente: Para que o *Módulo de Adicionar Chats* funcione perfeitamente é importante ter em mente que o aparelho não pode ser manuseado e precisa sempre seguir as instruções de estabilidade que te passaremos em seguida.
+Atendente: Me informa, por favor, se seu Whatsapp é normal ou Business?
+Cliente: é normal
+Atendente: Beleza. Obrigada!
+Atendente: Assim que me informarem da liberação, te informa para marcarmos a instalação.
+Cliente: combinado, esta instalado e aguardando
+Atendente: Perfeito!
+Atendente: Olá. Qual a sua disponibilidade para agendarmos a instalação do módulo de AddChats?
+Cliente: pode ser as 16h30?
+Atendente: Hoje, das 16:30 às 17:30 certo?
+Cliente: ok combinado
+Atendente: Olá
+Cliente: oi
+Atendente: podemos iniciar
+Atendente: ?
+Cliente: sim
+Atendente: Ok.
+Atendente: Você baixou o aplicativo QuickSupport?
+Cliente: sim
+Cliente: Conecte ao meu dispositivo abrindo https://start.teamviewer.com/150634335
+Você também pode acessar https://start.teamviewer.com e inserir seu ID do TeamViewer 150634335.
+Atendente: Baixa esse aqui também. Só baixar, não precisa abrir.
+
+Automate: https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=pt_BR
+Cliente: prontinho
+Atendente: Abri o QuickSupport e me informa o teu ID
+Cliente: 150634334
+Cliente: 335 final
+Cliente: 150634335
+Atendente: Vou acessar teu aparelho para fazer a instalação. Deixa o QuickSupport aberto.
+Cliente: ok
+Atendente: Bem, consegui acessar, mas não mexer. Alguns aparelhos não permitem. Vou te passar as instruções por aqui ok
+Cliente: ok
+Atendente: 1º Passo: Vou te mandar um arquivo aqui e você vai tocar em cima dele e depois em *Import*
+Cliente: ok
+Atendente: 2° Após tocar em *Import* você vai ser redirecionando para o aplicativo Automate onde deverá marcar todas as permissões. Uma delas é baixar uma extensão do automate, pode baixar. 
+
+Depois de todas as permissões marcadas é so clicar em Start.
+Cliente: ok
+Atendente: Só voltar para o automate
+Atendente: volta para o automate
+Cliente: só um instante
+Cliente: esta travando com você ativo
+Atendente: vou sair
+Atendente: Volta para o Automate e marca todas as opções lá
+Atendente: Depois clica em Start
+Atendente: Conseguiu?
+Cliente: quase
+Cliente: prontinho
+Cliente: posso testar
+Cliente: ?
+Atendente: Ok. Vou entrar novamente no teu aparelho. Ai você vai adicionar um chat aqui pelo ZapGuru ok
+Cliente: apareceu um botao na tela
+Cliente: pode entrar
+Atendente: Faz um cadastro de um chat aqui pelo ZapGuru
+Cliente: fiz e parece que deu certo
+Atendente: faz outro
+Cliente: parece que deu certo tambem
+Atendente: Perfeito. Vi daqui. Vou entrar na tua conta aqui para ver se ta tudo ok. No celular esta rodando normal.
+Cliente: ok
+Atendente: Tudo joia. Vou te passar algumas recomendações.
+Atendente: *Módulo de adicionar chats instalado com sucesso*
+
+Vou te mandar um vídeo de como funciona: https://youtu.be/Bvr1cZ9RwwE
+Atendente: *Importante:*
+
+🚫 Não desconecte o aparelho
+🚫 Não manuseie o aparelho
+🚫 Não desligue o aparelho
+
+Fazendo isso, a ferramenta irá funcionar perfeitamente.
+Cliente: certo, obrigado
+Atendente: Alguns números com o nono dígito podem da erro ao adicionar. Basta nesses casos colocar sem o nono dígito.
+Atendente: ok
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode sim
+Cliente: obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Olá Tecnicópias, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Cliente: Bom dia, tenho uma dúvida
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Tecnicópias!
+Meu nome é Caio, seu suporte da ZapGuru!
+Cliente: Olá Caio, minha dúvida é como faço para converter o número de whats para um número fixo
+Atendente: Não entendi!
+Atendente: Converter seu número?
+Cliente: Por exemplo o número de vocês não é um celular é um número fixo
+Cliente: Para eu divulgar para o meu cliente
+Atendente: Certo!
+Atendente: Você tem um número fixo?
+Cliente: temos sim
+Atendente: O processo é o processo de troca de número do WhatsApp.
+Cliente: bom, era uma dúvida, mas depois mais para frente quando terminarmos os testes voltamos a conversar
+Cliente: obhrigado
+Atendente: Por nada!
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrrar, obrigado
+Atendente: Por nada!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Atendente: Boa tarde Tecnicópias 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Atendente: Olá Tecnicópias, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Atendente: Olá, boa tarde!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Meu sistema apresentou uma observação no boleto, então acredito que vocês acabaram não recebendo o boleto.
+Atendente: Enviei por e-mail e estou enviando aqui também
+Cliente: boa tarde, ok agradeço
+Atendente: Boa noite Tecnicópias!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Olá, boa tarde! O boleto que eu enviei venceu, você gostaria que eu enviasse com a data de hoje?
+Cliente: Boa Tarde, o boleto ja foi pago via DDA e não pelo boleto
+Cliente: tem alguma coisa errada
+Atendente: Meu sistema nao reconheceu... Voce pode por favor me enviar o comprovante para que eu de baixa manual?
+Cliente: Meu financeiro, nao esta aqui no momento, mas assim que chegar enviaremos.
+Atendente: Show! Muito obrigada
+Atendente: Dei baixa aqui
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: se esta resolvido pode encerrar
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde!
+Atendente: Tecnicópias Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde, Tecnicópias! Sou o *Eduardo* e faço parte da equipe de suporte do *ZapGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Posso alterar a conta de whatsapp no celular para comercial sem que interfira no zapguru?
+Atendente: Mudar para whatsapp business, correto?
+Atendente: Se for, será necessário reinstalar o automate para que o módulo add chats funcione corretamente
+Cliente: isso
+Cliente: entendi, vou verificar a necessidade na empresa e aviso qualquer coisa
+Cliente: obrigado
+Atendente: Por nada! Se for realizar a troca, é só falar aqui no suporte que reinstalamos
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa Tarde!
+Atendente: Tecnicópias Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá Tecnicópias Boa tarde, tudo bem?
+Meu nome é Josué faço parte da equipe de suporte do ZapGuru, em que posso ajudar? 😃
+Cliente: Preciso acrescentar mais um usuário
+Atendente: O usuário adicional está por R$ 50,00 mensais. Posso te encaminhar para o Financeiro?
+Cliente: Olá, sim
+Atendente: Por questão do horário o pessoal do Financeiro já encerrou, vou te encaminhar para eles e amanhã pela manhã cedo eles já visualizam sua solicitação, tudo bem?
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Vou ficar no aguardo
+Atendente: Boa noite Tecnicópias!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Bom dia!
+Atendente: Mais um usuário?
+Cliente: Bom dia, estou no aguardo e tenho certa urgência, visto que estou tentando desde as 16h de ontem.
+Cliente: Bom dia, desculpe, nossa rede falhou e nao tinha visto sua mensagem
+Cliente: sim preciso de mais um usuário
+Atendente: Claro, um momento.
+Atendente: Tecnicópias, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Certo, vou pedir para o financeiro pagar e logo envio o comprovante
+Atendente: Fechado, obrigada
+Atendente: *✅  Concluído*
+*Tecnicopias Impressão Digital*
+1 usuário adicional
+*Total de 6 usuários*
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar, obrigaod
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Bom dia! Preciso tirar algumas dúvidas
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Hugo:* 
+Olá Tecnicópias, Bom dia. Meu nome é Hugo e eu sou do suporte do ChatGuru. No que eu posso te ajudar?
+Cliente: Nosso número faz parte de um grupo interno, mas no sistema só aparece as mensagens, imagens que fazem parte do grupo aparecem em miniatura, sem resolução
+Cliente: é possível fazer parte de um grupo e aparecer normal?
+Atendente: *Hugo:* 
+é possível sim. Vou solicitar a liberação.
+Cliente: Certo, agradeço, outro detalhe, vou mudar em nosso celular para whatsapp business, será necessário vocês fazerem alguma mudança?
+Atendente: *Hugo:* 
+Não precisa de nenhuma configuração, porém, após a troca será necessário refazer a leitura do QR Code lá na aba "celulares Whatsapp".
+Cliente: Tem uma maneira prática de gerenciar as midias e arquivos do contato? Somos uma gráfica e muitos clientes nos enviam arquivos, mas no corpo do e-mail fica dificil localizar
+Atendente: *Hugo:* 
+Por enquanto não temos como administrar os arquivos recebidos. Eles ficam disponível apenas dentro do chat mesmo.
+Cliente: Certo então, fico no aguardo da liberação para ver as imagens no grupo. No mais agradeço.
+Atendente: *Hugo:* 
+Opa! Desculpa. Já foi liberado. Esqueci de avisar. 😅
+Atendente: *Hugo:* 
+Mas vale lembrar que você só vai conseguir carregar as imagens recebidas após a liberação.
+Cliente: Obrigado
+Atendente: *Hugo:* 
+Por nada. Qualquer coisa é só nos chamar.
+Bom dia e um ótimo final de semana! =D
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6079a0a3ecec98869e5aeb4b
+Cliente: Boa tarde
+Atendente: Tecnicópias Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Rodrigo Gadonski:* 
+Boa tarde Tecnicópias como vai? Sou o *Rodrigo * e faço parte da equipe de suporte do *ChatGuru *! 
+Como posso te ajudar? 🙂
+Cliente: Bom dia tarde Rodrigo
+Cliente: Estamos com a seguinte tela
+Atendente: *Rodrigo Gadonski:* 
+Aguarde por favor enquanto verifico.
+Cliente: Ok
+Atendente: *Rodrigo Gadonski:* 
+Por gentileza tenta realizar a leitura do qr code novamente.
+Atendente: *Rodrigo Gadonski:* 
+Entendido, vamos fazer mais alguns procedimentos, aguarde por favor.
+Cliente: Ok
+Atendente: *Rodrigo Gadonski:* 
+Poderia por gentileza realizar a leitura do qr code novamente?
+Atendente: *Rodrigo Gadonski:* 
+Conexão reestabelecida conforme enviado ao Antoni em outra conversa aqui no chat, vou encerrar o atendimento por aqui também e se precisar de algo estamos à disposição.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/61003724f390b1b2161f7f7f
+Cliente: Bom dia! 
+Estamos com problema para adicionar contato, todos estão dando erro, poderiam verificar?
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: Atenciosamente,
+Antoni Souza, gerente.
+Atendente: *Helena Braunger:* 
+Bom dia, Antoni! 
+Tudo bem? 🌸
+
+Meu nome é Helena, sou do time de suporte do ChatGuru e irei te auxiliar hoje.
+
+Claro, vou verificar! Só um momento :)
+Atendente: *Helena Braunger:* 
+Antoni, vocês poderiam testar novamente agora?
+Cliente: Olá, vamos testar logo aviso
+Cliente: realmente nao esta funcionando
+Atendente: *Helena Braunger:* 
+Vou precisar solicitar uma verificação do problema então, pois tudo que analisei está certinho... Te aviso quando eu receber um retorno!
+Cliente: Mais uma informação é que no aparelho, esta aparecendo sempre que não tem chats para incluir, no programa de automação.
+Atendente: *Helena Braunger:* 
+O aplicativo Automate não está sendo utilizado mais na conta de vocês, agora temos um outro método chamado Internal. 
+
+Sempre pedimos para manterem o Automate instalado por precaução, mas vocês podem clicar em "Stop" nele, ta bom?
+Cliente: ok entao
+Atendente: *Helena Braunger:* 
+Recebi um retorno agora, fizeram uma atualização e gostaria que vocês testassem novamente para confirarmos que deu certo! Poderiam adicionar um chat? 😊
+Cliente: vamos tentar e aviso
+Atendente: *Hugo:* 
+Olá Tecnicópias. Boa tarde!
+Tudo bem? 
+
+Meu nome é Hugo e eu sou do suporte do ChatGuru. A Helena precisou sair para o almoço e pediu que eu seguisse com o atendimento até ela retornar.
+Atendente: *Hugo:* 
+Fico no aguardo do seu teste.
+Atendente: *Helena Braunger:* 
+Boa tarde, já retornei do meu intervalo! Consegui ver que já conseguiram adicionar os contatos pela plataforma com sucesso =)
+
+Precisa de algo mais agora?
+Cliente: deu certo sim
+Cliente: obrigado pela ajuda
+Cliente: somente isso mesmo
+Atendente: *Helena Braunger:* 
+Imagina :)
+
+Vou encerrar o atendimento então, mas qualquer dúvida você entra em contato novamente!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/61155620f390b1b21626bc36
+Cliente: Boa Tarde! Por acaso estão com problema no servidor para liberar aquivos? Estamos com dificuldade de baixar do servidor de vocês.
+Atendente: Tecnicópias Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Hildesson Ramos:* 
+Olá Tecnicópias, Boa tarde. Tudo bem? 
+
+Eu sou o *Hildesson* e faço parte da equipe de Suporte do *ChatGuru*, estou muito feliz por atende-lo(a) 😁.
+
+Um momento enquanto acesso a conta para analisar o que pode ter ocorrido.
+
+Pode me informar mais detalhes sobre o problema apresentado, como por exemplo print do erro ou do chat?
+Cliente: Para enviar as imagens e receber arquivos esta bem lento, mas o restante funciona rápido
+Cliente: no aparelho esta baixando na hora e é a mesma rede de internet
+Atendente: *Hildesson Ramos:* 
+Fiz um testa aqui com os arquivos mostrados no print acima e não tive dificuldade para baixar e nem para visualizar os arquivos.
+
+Acredito que o problema está relacionado a sua conexão de internet, tenta reiniciar o modem, em algumas situações isso pode ajudar.
+Cliente: Veja acabei de fazer o teste agora que reiniciei
+Cliente: e mesmo assim nao conseguimos fazer downloads do ZapGuru
+Atendente: *Hildesson Ramos:* 
+apresenta algum erro?
+Cliente: fica apenas travado e baixando bem lento
+Cliente: isso em todas as maquinas
+Atendente: *Hildesson Ramos:* 
+Um minuto vou aplicar uma atualização, a conexão será interrompida por alguns segundos.
+Cliente: ok
+Atendente: *Hildesson Ramos:* 
+O aparelho está desbloqueado com o aplicativo do WhatsApp aberto na tela inicial?
+Cliente: oi, sim esta
+Atendente: *Hildesson Ramos:* 
+Maravilha, um momento enquanto aplico a atualização
+Atendente: *Hildesson Ramos:* 
+Atualização finalizada, ✅
+
+Pode realizar uma nova tentativa de download?
+Atendente: *Hildesson Ramos:* 
+Assim que possível, dá uma olhada se existe alguma atualização pendente para o WhatsApp na loja de aplicativo do aparelho, por favor?
+Cliente: estamos fazendo os testes
+Atendente: *Hildesson Ramos:* 
+Deu certo?
+Cliente: parece que deu certo por enquanto
+Cliente: qualquer coisa avisamos, obrigado
+Atendente: *Hildesson Ramos:* 
+Maravilha! 👏👏👏
+
+Por nada, qualquer dificuldade é só chamar! 🤜🤛
+
+Tenha uma ótima tarde! 🙋‍♂️
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611c20a4f390b1b21628d36c
+Cliente: Bom dia!
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Rodrigo Gadonski:* 
+Bom dia Tecnicópias como vai? Sou o *Rodrigo * e faço parte da equipe de suporte do *ChatGuru *! 
+Como posso te ajudar? 🙂
+Cliente: Preciso incluir mais um usuário em nossa conta
+Atendente: *Rodrigo Gadonski:* 
+Certo, o custo para um novo usuário adicional é de R$50,00 mensais por usuário, posso lhe encaminhar ao financeiro para seguir com a contratação?
+Cliente: olá, sim
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: ok estou no aguardo
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Deseja contratar mais 1 usuario?
+Cliente: oi bom dia
+Cliente: sim preciso
+Atendente: *Bruna Lira:* 
+Certo, um momento.
+Atendente: Tecnicópias, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: certo entao, obrigado
+Cliente: logo enviamos o comprovante
+Atendente: *Bruna Lira:* 
+Combinado, obrigada.
+Cliente: nosso financeiro vai fazer o pagamento somente na parte da tarde, então depois envio
+Atendente: *Bruna Lira:* 
+Show :)
+Atendente: *Alteração Feita*
+✅
+*Tecnicopias Impressão Digital*
+1 usuário adicional
+*Total de 7 usuários*
+Atendente: Tecnicópias, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: obrigado
+Cliente: pode encerrar
+Atendente: *Bruna Lira:* 
+Boa semana :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/612531d932c173e54396e8c4
+Cliente: Bom dia!
+Atendente: Tecnicópias Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: Estamos com problema para incluir contato, todos estão dando erro, poderiam verificar?
+Atendente: *Pedro Cócaro:* 
+Bom dia Tecnicópias, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Claro, um momento que irei verificar.
+Atendente: *Pedro Cócaro:* 
+Vou reiniciar aqui o servidor, vocês ficarão sem conexão por alguns instantes, tudo bem?
+Cliente: tudo bem
+Atendente: *Pedro Cócaro:* 
+Por favor, o WhatsApp se encontra aberto e com a tela desbloqueada?
+Atendente: *Pedro Cócaro:* 
+Verifiquei que o aparelho está conectado e sincronizando, poderia por favor tentar adicionar os chats novamente? 😊
+Cliente: oi sim esta
+Cliente: continuamos com o mesmo problema
+Atendente: *Pedro Cócaro:* 
+Por acaso vocês aderiram ao WhatsApp Beta?
+Cliente: oi sim
+Cliente: muitos arquivos não estavamos conseguindo receber, nao aparecia aqui no guru e estava no whats
+Cliente: entao ativamos o beta para conseguir baixar no navegador
+Atendente: *Pedro Cócaro:* 
+Ah, certo. Por isso a instabilidade. Não oferecemos suporte na versão beta, pois é um versão teste. Será necessário sair da versão beta e refazer a leitura do qr-code para que a plataforma funcione corretamente 😊
+Cliente: acabamos de sair da versao beta e reiniciar
+Cliente: vamos testar novamente
+Atendente: *Pedro Cócaro:* 
+Certo, aguardo 😊
+Atendente: *Pedro Cócaro:* 
+Verifiquei que conseguiram agora. Posso ajudar em algo mais?
+Cliente: para incluir os numeros deu certo
+Cliente: sobre os arquivos vamos fazer mais testes e aviso
+Cliente: obrigado por enquanto
+Atendente: *Pedro Cócaro:* 
+Certo, qualquer coisa é só entrar em contato conosco novamente 🙋‍♂️ Tenha um ótimo dia ☀️
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Tecnicópias, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/614dd8e7dd3292a7a714337f
+

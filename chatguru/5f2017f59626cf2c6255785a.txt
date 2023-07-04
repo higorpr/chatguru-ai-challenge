@@ -1,0 +1,149 @@
+Atendente: O número do atendimento do ZapGuru mudou!
+Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Cliente: Ola, bom dia
+Cliente: nossa conta esta fora do ar
+Atendente: André Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: voces podem checar por gentileza
+Atendente: Olá, André. Tudo bem?
+Meu nome é Rodrigo e vou te ajudar. 😀
+Atendente: Estou acessando sua conta para checar
+Atendente: André, desculpe pelo imprevisto. Sua conta já está conectada novamente.
+Atendente: Te ajudo em mais alguma coisa?
+Cliente: ok
+Cliente: obrigado
+Atendente: André, qualquer dúvida a mais, estamos à disposição! 😊
+Cliente: ok
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Olá
+Atendente: André Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Boa tarde
+Cliente: Meu número tá fora do ar, vocês podem checar?
+Atendente: Olá André, Boa tarde! Tudo bem?
+Meu nome é Daniel e faço parte da equipe de suporte do ZapGuru.
+Atendente: Só um momento que irei verificar e já te dou uma resposta, tudo bem?
+Atendente: André, já abri um chamado interno com a nossa equipe para restabelecer a conexão.
+
+Assim que receber qualquer informação, te atualizo de imediato.
+Cliente: Ok
+Cliente: Consegue me passar o contato do time comercial?
+Atendente: André, seria possível adiantar o assunto, por gentileza?
+Cliente: Contratar um novo plano
+Atendente: André, vou te mandar a tabela de preços dos nossos serviços e te encaminhar para o nosso financeiro.
+
+Valores (todos os valores são mensais)
+
+Módulo Atendimento - R$50,00
+Módulo Adicionar Chats - R$70,00
+Módulo Funil - R$25,00
+Módulo Chatbot - R$150,00
+Alocação de Aparelho - R$250,00
+Upgrade Servidor - R$150,00
+Usuário Adicional - R$50,00
+Número/WhatsApp Adicional - R$297,00
+API - R$100,00
+Atendente: Só um momento que irei te encaminhar.
+Atendente: E conexão, restabelecida!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Ok
+Atendente: Olá Andre, boa tarde!
+Atendente: Tudo bem?
+Cliente: Olá
+Cliente: Gostaria de contratar um novo plano paralelo ao que já tenho
+Cliente: Só que isso vai ser feito por outra pessoa. Como faço? Tem algum contato de vocês pra falar com essa pressão ml
+Cliente: Pessoa?
+Atendente: Como você ja tem conta conosco, podemos fazer aqui pelo financeiro mesmo.
+Cliente: Mas é outra pessoa quem vai tocar o processo
+Atendente: Entendi, não faz parte de nada da sua empresa?
+Cliente: Faz sim, mas não sou eu quem vai resolver
+Atendente: Entendi
+Atendente: então podemos tratar aqui mesmo
+Atendente: ela ja tem contato conosco?
+Atendente: Se não pode encaminhar, ela vai cair no suporte, e só pedir para ser encaminhado ao financeiro.
+Cliente: Ok
+Atendente: André, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Bom dia, estou encerrando atendimento, caso precise de algo é só nos chamar :)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Ola, boa tarde
+Cliente: tudo bem?
+Atendente: André Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: minha conta esta fora do ar, voces podem verificar
+Atendente: Olá André, Boa tarde. Meu nome é Hugo.
+Atendente: peço desculpas pela demora
+Atendente: estou verificando
+Atendente: só um momento
+Cliente: ok
+Atendente: André, reconectou
+Atendente: peço desculpas pela demora.
+Atendente: posso te ajudar com algo mais?
+Cliente: otimo
+Cliente: valeu
+Cliente: nao, somente isso
+Atendente: Boa noite André!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: qualquer coisa é só nos chamar
+Atendente: boa noite!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Ola, bom dia, tudo bem?
+Atendente: André Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Olá André, Bom dia. Meu nome é *Juliana*!
+Seja Bem-Vindo a *ZapGuru*!
+Como posso te ajudar?
+Cliente: Oi Juliana, bom dia
+Cliente: Queria que você incluisse um membro de minha equipe no atendimento de suporte à Jogga
+Atendente: Ei André, adicionamos ela aqui :)
+Atendente: Posso ajudar em algo mais?
+Cliente: somente isso
+Cliente: obrigado
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Ola
+Atendente: André Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Vanessa Dias:* 
+Olá André, tudo bem? Sou a Vanessa do Suporte do ChatGuru, como posso te ajudar?
+Cliente: estamos com problemas na conta da Jogga Digiutal
+Atendente: *Vanessa Dias:* 
+Qual o problema, por favor, André?
+Cliente: as mensagens nao estao indo
+Atendente: *Vanessa Dias:* 
+Entendi André. Precisaria acessar seu aparelho para saber se o problema pode ser algum processo nele que está sobrecarregando e afetando o envio.
+Atendente: *Vanessa Dias:* 
+Qual aparelho utiliza por favor Andre?
+Cliente: a minha linha fica ai com vcs?
+Cliente: a minha linha fica com vcs
+Atendente: *Vanessa Dias:* 
+Desculpe André, só um momento por favor
+Atendente: *Eduardo Victor:* 
+André, a nossa equipe responsável pelo servidor está alterando algumas configurações da sua conta, em breve irá reconectar
+Cliente: 👍
+Atendente: *Eduardo Victor:* 
+Pronto, André, reconectado ✅
+Atendente: *Eduardo Victor:* 
+André, vou finalizando aqui por questão do horário, continuamos amanhã pela manhã, tudo bem? Uma ótima noite pra você 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: André, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/606b7dcdecec98869e56e91b
+

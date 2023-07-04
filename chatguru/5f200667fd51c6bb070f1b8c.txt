@@ -1,0 +1,297 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Salva nosso novo número na sua agenda para que nos encontre mais facilmente! 😉
+Atendente: Marcos Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia Marcos! Meu nome é Luiz. Em que posso te ajudar?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde! Me chamo *Lucas Gusmão* e faço parte da equipe de suporte. 
+
+Em que posso ajudar?
+Cliente: Está Com estes erros
+Cliente: Erro na hora de enviar imagem
+Cliente: E erro ao receber e enviar audio
+Atendente: *Lucas Gusmão:* 
+Certo, Marcos. Vou reiniciar sua conexão com a plataforma para tentarmos corrigir esse erros, ok?!
+Cliente: Ok
+Atendente: *Lucas Gusmão:* 
+Beleza, MArcos. Só um minutinho, por favor 😊
+Cliente: 👍
+Cliente: Já acertou?
+Atendente: *Lucas Gusmão:* 
+Pronto, Marcos! Acabamos de reiniciar a conexão. Essa atualização traz algumas correções de BUGs.
+Atendente: *Lucas Gusmão:* 
+Acredito que elas irão resolver o problema.
+Atendente: *Lucas Gusmão:* 
+Caso volte a ocorrer, é só falar comigo, ok?!
+Cliente: Ok
+Atendente: *Lucas Gusmão:* 
+Ajudo em mais alguma coisa, Marcos? 😃
+Cliente: Está indo bem por enquanto
+Cliente: Obrigado
+Atendente: *Lucas Gusmão:* 
+Por nada! Fico feliz em poder ajudar. 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60218f4e73116bf23e432ba5
+Cliente: A pesquisa de opinião não consegui acessar
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Manda novamente
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60219ea873116bf23e4332e2
+Atendente: Prezado(a) Cliente, consta em aberto o valor referente a sua mensalidade do ChatGuru. Evite o bloqueio da sua conta realizando o pagamento em até 24h. Em caso de dúvidas, estamos à sua disposição!
+Atendente: *Bruna Lira:* 
+Recebemos o pagamento, obrigada!
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6079faa4ecec98869e5b2a84
+Cliente: Bom dia
+Cliente: Preciso de mudar dois nomes de usuários
+Cliente: Gabriel mudar para Alexandre
+Letícia Mudar para Pedro
+Atendente: Marcos Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Bom dia, Marcos. Aqui é o *Arthur* do suporte ChatGuru.
+
+Obrigado pelo contato!
+
+Aguarde enquanto verifico sua conta👨‍💻
+Atendente: *Arthur Ferragini:* 
+Prontinho!
+
+O usuário a1ferramentas@a1ferramentas.com.br agora é o Alexandre. E o vendas2@a1ferramentas.com.br agora é o Pedro :)
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: A senha eu consigo trocar ?
+Cliente: para Alexandre = a1alexandre    
+e Pedro = a1pedro
+Atendente: *Arthur Ferragini:* 
+Consegue sim, Marcos, clicando em "Esqueceu a senha?" na tela de login.
+
+Caso não tenha acesso aos e-mails, me confirme que eu altero por aqui também 😉
+Cliente: ok
+Atendente: Marcos, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa Tarde
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Arthur Ferragini:* 
+Olá, Marcos. Boa tarde! Aqui é o *Arthur* do suporte ChatGuru.
+
+Como posso te ajudar?
+Cliente: Observou?
+Atendente: *Arthur Ferragini:* 
+Observei, Marcos!
+
+Por gentileza, pode verificar no aparelho se há uma *atualização* para o Whatsapp na loja de aplicativos?
+Atendente: *Arthur Ferragini:* 
+Marcos, apliquei uma atualização no seu sistema do Whatsapp e a conexão foi reestabelecida. Poderia verificar se deu certo?
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: Marcos, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Preciso que alguém me ligue para tirar umas dúvidas sobre adicionar mais aparelhos de empresas de nosso grupo
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: favor Ligar para 28-99945-4001 falar com Marcos
+Atendente: *Pedro Cócaro:* 
+Boa tarde Marcos, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Quais dúvidas você possui sobre adicionar aparelhos? Posso esclarecer aqui pelo canal de suporte mesmo 😊
+Nossa contratação de aparelhos adicionais está no valor de R$297,00 mensais por aparelho e os módulos seguem os mesmos, com exceção do módulo "Adicionar chats", que é individual por aparelho, e está no valor de R$70 mensais por aparelho 😉
+Atendente: *Pedro Cócaro:* 
+Posso ajudar em algo mais, Marcos?
+Cliente: Isso que vc me passou Eu já sei
+Cliente: Preciso de que alguém ligue
+Atendente: *Luana Cavalcanti:* 
+Olá, Marcos. Boa tarde! 😊
+Tudo bem?
+
+O Pedro precisou se ausentar mas eu seguirei com seu atendimento, me chamo Luana. 🌷
+
+Não temos como realizar uma ligação. Mas podemos agendar uma rápida conversa por conferência via Google Meet. 
+Por gentileza, o que acha? 
+Se concordar te envio o link para conversarmos agora brevemente. Ou podemos agendar essa reunião para às 16h com mais folga de tempo.
+Atendente: *Luana Cavalcanti:* 
+Precisa de mais alguma ajuda, Marcos? 😊
+Atendente: Marcos, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Boa Tarde
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: As intenções não funcionam mais?
+Cliente: ativei um *intenção* e ela não me respondeu
+Atendente: *Pedro Cócaro:* 
+Boa tarde Marcos, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Funcionam sim 😊 Qual a intenção que você ativou?
+Atendente: *Pedro Cócaro:* 
+Marcos, nosso horário de expediente está se encerrando. Vou finalizar nosso atendimento por aqui. Caso tenha alguma dúvida, por gentileza retorne o contato a partir das 8h. Até mais.👋
+Atendente: Boa noite Marcos!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.chatguru.com.br
+
+Obrigado :)
+Atendente: *Pedro Cócaro:* 
+Bom dia Marcos, vou analisar e ver porque não estava aparecendo aqui, só um momento 👨‍💻
+Cliente: Então não funciona o gatilho
+Cliente: Nesta Imagem o que preciso fazer, tem alguma coisa errada?
+Atendente: *Pedro Cócaro:* 
+Neste diálogo a única coisa que alterei até agora foi ali onde diz "máx. execuções". Estava para 1 que é o número de vezes máximas que o diálogo ocorreria no chat e agora coloquei para o máximo (9999). Outra coisa que reparei é que nenhuma mensagem deste chat foi processada. Talvez tenha desligado o chatbot deste chat e ligado à pouco. Vou reprocessar as mensagens e veremos de vai acionar 😉
+Cliente: te aguardo
+Atendente: *Pedro Cócaro:* 
+Amigo, identifiquei aqui. Por algum motivo o chatbot não está linkado ao número do aparelho celular. Vou solicitar para a equipe técnica corrigir isso e já te retorno.
+Cliente: ok
+Atendente: *Pedro Cócaro:* 
+Pronto. Pode testar novamente 😉
+Cliente: Deu certo
+Atendente: *Pedro Cócaro:* 
+Perfeito, camarada. Peço desculpas pela demora em resolver o problema, realmente não entendo nem encontrei a causa do chatbot estar desvinculado ao número do aparelho, mas agora está tudo resolvido 😊 Posso ajudar em mais alguma coisa, Marcos?
+Atendente: Marcos, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Cliente: Bom dia
+Atendente: Marcos Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Rodrigo Gadonski:* 
+Bom dia Marcos como vai? Sou o *Rodrigo * e faço parte da equipe de suporte do *ChatGuru *! 
+Como posso te ajudar? 🙂
+Cliente: Rodrigo eu preciso do contato do seu financeiro
+Cliente: me mandaram a fatura mas não me mandaram o boleto
+Atendente: *Rodrigo Gadonski:* 
+É por aqui mesmo Marcos, aguarde por favor enquanto lhe encaminho ao financeiro.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: O nosso finaceiro ligou para eles e eles não tinham ninguém responsável para atender
+Cliente: preciso saber se tem algum boleto em atraso?
+Atendente: *Bruna Lira:* 
+Olá Marcos, bom dia!
+Tudo bem?
+Cliente: Bruna tem boleto atrasado da nossa empresa?
+Atendente: *Bruna Lira:* 
+Tem sim
+Atendente: *Bruna Lira:* 
+https://invoice.stripe.com/i/acct_1J0pJTFzpDeT8oC8/invst_Jxmxbd3TpKqduK5bKNT01LIt1vUlSAS
+Cliente: Já estou passando para o financeiro
+Atendente: *Bruna Lira:* 
+Marcos, me passa o melhor email para recebimento por favor?
+Cliente: a1ferramentas@a1ferramentas.com.br, marcos@a1ferramentas.com.br, ederson@a1ferramentas.com.br
+Cliente: manda em copia para esses 3 email
+Atendente: *Bruna Lira:* 
+combinado.
+Atendente: Marcos, o pagamento foi confirmado!
+Cliente: Ok
+Atendente: *Bruna Lira:* 
+Obrigada!
+Atendente: Marcos, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Obrigado, tudo certo
+Atendente: *Bruna Lira:* 
+Bom final de semana!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6116a371f390b1b216273d4b
+Cliente: Bom dia
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Cliente: O que eu façoa para que o chat bot não fique repetindo a mesma resposta para o chat?
+Cliente: bom dia
+Atendente: *Eduardo Victor:* 
+Boa tarde, Marcos! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Tudo bem? 😁
+
+Pode me informar algum chat de exemplo em que isso aconteceu?
+Cliente: Exemplo o seu chat repetí bom dia e ele não me deu a resposta de novo
+Atendente: *Eduardo Victor:* 
+Isso depende de como está configurado o diálogo na sua conta, pode ser que a mensagem que esteja repetindo precise de algum ajuste.
+Cliente: Viu o exemplo?
+Cliente: Ok pessei nisso vou testar
+Cliente: não deu certo
+Cliente: Boa Tarde no caso
+Atendente: *Eduardo Victor:* 
+Tinha um atraso configurado na mensagem que deveria ser enviada, deixando ela como agendada. Alterei aqui pra você.
+Cliente: ok
+Cliente: vou testar de novo
+Atendente: *Eduardo Victor:* 
+Marcos, conseguiu testar?
+Cliente: Sim deu certo
+Cliente: valeu! Obrigado
+Atendente: *Eduardo Victor:* 
+Por nada! Se precisar de algo mais, é só chamar, tudo bem? Um excelente dia pra você, Marcos 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades:_
+https://app.getbeamer.com/zapguru/en
+Atendente: Marcos, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/611a8990f390b1b21628077d
+Cliente: Boa tarde
+Atendente: Marcos Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+
+Prezado cliente, solicitamos que adicione nosso outro número de suporte para qualquer eventualidade.
+*12565593008*
+Obrigado pela compreensão🥰.
+Atendente: *Pedro Cócaro:* 
+Boa tarde Marcos, tudo bem?
+Meu nome é *Pedro*, eu quem prosseguirei com seu atendimento 😀
+Como posso te ajudar?
+Cliente: Vou te enviar uma imagem
+Atendente: *Gabriela Rodrigues:* 
+Boa tarde Marcos! ✨✨ Meu nome é *Gabriela* e faço parte do time de suporte do ChatGuru, como você está? ❄
+
+Irei ver o vídeo Marcos. 😊 Um momentinho, por gentileza.
+Atendente: *Gabriela Rodrigues:* 
+Hmmm certo Marcos! É um bom ponto 🤔🤔 Eu irei enviar para a nossa equipe de desenvolvimento, tudo bem?
+Atendente: *Gabriela Rodrigues:* 
+Enviei como sugestão de melhoria, Marcos 🤗🤗
+Cliente: Ok
+Atendente: *Gabriela Rodrigues:* 
+Por ora te ajudo em algo mais, Marcos? 😊
+Atendente: Marcos, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+

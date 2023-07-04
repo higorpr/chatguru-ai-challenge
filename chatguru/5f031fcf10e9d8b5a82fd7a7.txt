@@ -1,0 +1,104 @@
+Atendente: Olá! Este é o nosso novo número para atendimento ao cliente.
+Atendente: Igor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Igor! 
+Sou a Camila e estarei realizando seu atendimento.
+Cliente: Oi Camila,
+Quero cadastrar duas funcionárias para caso algum problema, elas possam entrar em contato para resolver.
+Atendente: Entendi, vou solicitar. Só um momento, por favor.
+Cliente: Já aproveitando, a URA de boas vindas não está sendo acionada automaticamente, estamos tempo que fazer isso manualmente.
+Atendente: Vamos verificar, só um momento, por favor
+Atendente: Igor, pode verificar se agora a URA de boas vindas vai ser acionada automaticamente, por favor?
+Atendente: Vou fazer um teste, só um momento.
+Cliente: Ok
+Atendente: Desculpe a demora, Igor. Estamos com a demanda alta no atendimento no momento, já vou retornar com os testes no Chatbot.
+Cliente: Td bem
+Atendente: Igor, testamos e esta funcionando agora.
+Cliente: Legal. Os dados das colaboradoras que eu passei, elas já podem solicitar algo pelo suporte?
+Atendente: Olá, quais são os dados dos colaboradores?
+Cliente: Claro. 
+MICHELE VIEIRA DE CARVALHO
+11 98131-7724
+
+LUIZA BEATRIZ DE C. MACIEL CARTONILHO
+11 97415-0367
+Atendente: Boa noite Igor!
+Nosso suporte funciona de Segunda a Sexta das 08h às 18h.
+Nos sábados de 08 às 14h.
+
+Para as dúvidas mais comuns, você pode conferir o nosso Wiki: 
+👉 https://wiki.zap.guru
+
+Obrigado :)
+Atendente: Prontinhos, essas pessoas já encontra-se habilitadas para entrar em contato em nosso suporte.
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+Cliente: Boa tarde.
+Atendente: Igor Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Boa tarde Igor! Meu nome é Luiz. Em que posso te ajudar? 😃
+Cliente: Olá Luiz. Gostaria de solicitar a inclusão de um novo usuário em nossa plataforma.
+Atendente: Ok. Um momento.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Igor, boa tarde!
+Atendente: Tudo bem?
+Atendente: Será mais 1 usuario?
+Cliente: Olá, boa tarde.
+Tudo ótimo e você?
+Isso, por enquanto gostaria de mais 1 usuário.
+Atendente: um momento
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Perfeito, obrigado.
+Atendente: *✅  Concluído*
+*FS Contabil*
+1 usuário adicional
+*Total de 21 usuários*
+Atendente: Igor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso mesmo, obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://wiki.zap.guru/novidades/novidades
+Cliente: Bom dia
+Atendente: Igor Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: Bom dia, Igor! Sou o *Eduardo* e faço parte da equipe de suporte do *ChatGuru*! Como posso te ajudar? 👨‍💻
+Cliente: Bom dia Eduardo, gostaria de solicitar a inclusão de mais um colaborador
+Atendente: O usuário adicional está por R$ 50,00 mensais. Posso te passar para o Financeiro?
+Cliente: Combinado, pode sim!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: Olá Igor, tudo bem?
+Atendente: Bom dia!
+Atendente: Será mais 1 usuario?
+Cliente: Bom dia, ótimo e com vc?
+Isso, mais um usuário
+Atendente: Tudo bem :)
+Atendente: Um momento.
+Atendente: Igor, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Combinado, obrigado!
+Atendente: Um momento Igor
+Atendente: *✅  Concluído*
+*FS Contabil*
+1 usuário adicional
+*Total de 22 usuários*
+Atendente: Igor, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: Só isso mesmo, mt obrigado!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+

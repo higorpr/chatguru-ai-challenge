@@ -1,0 +1,485 @@
+Atendente: Seja bem vindo ao nosso número de atendimento ao cliente!
+Cliente: ❗️ Olá! Devido ao grande número de mensagens pedimos que  aguarde pois em breve você será atendido. 
+
+👉 Caso tenha urgência, faça seu pedido e pagamento pelo site, assim ele entra na fila automaticamente.
+
+www.movemegastore.com.br
+
+Agradecemos a compreensão.
+Atendente: Olá! Este é o nosso número de atendimento ao cliente.
+A partir de agora você receberá suporte através desse chat.
+Atendente: Olá Move, Boa tarde. Meu nome é Thaís!
+Seja Bem-Vindo a ZapGuru!
+Atendente: Olá Move, Bom dia! 👋
+Como está indo a implementação do ZapGuru em seu WhatsApp? Se precisar de uma ajudinha, é só falar!
+Atendente: Boa tarde Move 👋! Está indo tudo bem nos primeiros dias de adaptação ao ZapGuru?
+Vocês estão conseguindo configurar tudo certinho? Tem alguma dúvida ou algo que podemos ajudar?
+Atendente: Olá Move, Boa tarde!
+O que está achando do ZapGuru? Suas expectativas estão sendo atendidas? 
+Adoramos ouvir as opniões de nossos clientes ☺
+Cliente: Oi boa tarde
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: certo
+Atendente: *Gustavo Soares:* 
+Olá Move! Boa tarde tudo bem? Sou o Gustavo do Suporte do *ChatGuru*, como posso te ajudar? 😁
+Cliente: Boa tarde! Gustavo
+Cliente: Eu tenho um problema aqui no ChatGuru
+Cliente: não estou conseguindo ver os pdfs que os clientes mandam
+Cliente: eles aparecem apenas no telefone, no Chatguru ele não recebe
+Atendente: *Gustavo Soares:* 
+Entendi, já reiniciei o aparelho aqui no servidor acredito que irá resolver 😁. Tivemos uma melhoria recente sobre envio/recebimento de arquivos, agora os arquivos são enviados e recebidos mais rápido, porém leva em torno de 1 min para poder baixar um arquivo (limitação do *whatsapp*), vou pedir que você teste novamente se está carregando normalmente os arquivos, ok? :D
+Cliente: Ok, 1 minuto
+Cliente: resolvido, obrigado!!
+Atendente: *Gustavo Soares:* 
+Imagina :D Posso te ajudar em algo mais?
+Cliente: Na verdade sim, eu gostaria de mandar uma mensagem X periodicamente para clientes especificos.
+Cliente: Como eu poderia proceder nessa ocasião ?
+Atendente: *Gustavo Soares:* 
+Você pode agendar uma mensagem, ou então ser feito um diálogo para executar em uma campanha. Nisto você teria que ter algo para identificar o chat (status, tag, etc) colocar no filtro da campanha, e colocar um diálogo que enviará a mensagem. Depois só agendar a campanha para ser executada automaticamente ou executá-la na hora mesmo 😉 Caso precise de ajuda com isso, podemos fazer para você :D
+Cliente: Certo, obrigado!!!!
+Cliente: vou tentar fazer sozinho
+Atendente: *Gustavo Soares:* 
+Certo, qualquer coisa que precisar, só nos chamar 😁
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/60119e0d73116bf23e3fbc6a
+Cliente: Boa tarde
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Preciso saber mais sobre, como adicionar 2 números para atendimento aqui
+Cliente: No caso, já tenho 1 e gostaria de adquirir outro espaço
+Atendente: *Lucas Gusmão:* 
+Boa tarde, Move! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Atendente: *Lucas Gusmão:* 
+O custo para um número adicional é de R$297,00/mês.
+Atendente: *Lucas Gusmão:* 
+Você pode utilizar a mesma conta para todos os números e mesmo assim ter uma visão clara sobre a utilização de cada um deles
+Cliente: opa
+Cliente: Só para eu confirmar, é R$ 297 mensais adicionais para cada novo número ?
+Atendente: *Lucas Gusmão:* 
+Isso mesmo! 😊
+Cliente: certo, tenho outra duvida
+Cliente: em relação a API
+Cliente: custo
+Atendente: *Lucas Gusmão:* 
+O custo da API é de R$100,00/ mês.
+Cliente: certo, para cada número ?
+Atendente: *Lucas Gusmão:* 
+Não, a nossa API é cobrada pela conta.
+Cliente: Shpw, obrigado.
+Atendente: *Lucas Gusmão:* 
+Por nada! Caso queira seguir com a contratação, basta avisar. 😁
+Cliente: tenho mais uma pergunta aqui
+Cliente: a ultima
+Cliente: que é relacionada a API
+Cliente: Eu posso receber e enviar mensagens de texto e mídia com ela ?
+Atendente: *Lucas Gusmão:* 
+Desculpa, não entendi muito bem a pergunta.
+Atendente: *Lucas Gusmão:* 
+Desculpa, não entendi muito bem a pergunta.
+Cliente: é que lendo a documentação da API v1
+Cliente: https://app.zap.guru/api/v1
+?key=KEY&account_id=ACCOUNT_ID&phone_id=PHONE_ID&action=message_send&send_date=SEND_DATE&text=TEXT&chat_number=CHAT_NUMBER
+Cliente: https://app.zap.guru/api/v1?key=KEY&account_id=ACCOUNT_ID&phone_id=PHONE_ID&action=message_send&send_date=SEND_DATE&text=TEXT&chat_number=CHAT_NUMBER
+Cliente: eu só consigo enviar mensagens
+Cliente: não tem nenhum ponto onde eu possa ler mensagens da conversa
+Atendente: *Lucas Gusmão:* 
+A nossa API proporciona um leque enorme de possibilidades. Ela é capaz de ser integrada a diversos outros programas.
+Cliente: certo, mas eu quero saber se é possível ler mensagens através da API
+Atendente: *Lucas Gusmão:* 
+Então, é possível utilizar o chatbot para identificar a resposta para um diálogo específico e logo em seguida a API enviará essa resposta com o link do chat e as informações solicitadas.
+Atendente: *Lucas Gusmão:* 
+Mas a API enviará apenas a resposta para esse diálogo específico e não para todas as mensagens que o chat enviar.
+Atendente: *Lucas Gusmão:* 
+Consegue entender? 😀
+Cliente: entendi
+Cliente: certo
+Atendente: *Lucas Gusmão:* 
+Ótimo! Qualquer dúvida, estamos à disposição!
+Cliente: vlw
+Cliente: e a compra eu posso fazer por onde ?
+Atendente: *Lucas Gusmão:* 
+Seria com o nosso setor financeiro mesmo. Você deseja fechar quais módulos?
+Atendente: *Lucas Gusmão:* 
+Ainda está aí ?🙂
+Cliente: opa
+Cliente: volto segunda
+Atendente: *Lucas Gusmão:* 
+Tudo bem. Vou encerrar nosso atendimento por hora.
+Atendente: *Lucas Gusmão:* 
+Assim que definir a aquisição, por favor, me avise!
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/6014772973116bf23e40982a
+Cliente: opa
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: boa tarde
+Cliente: Certo, muito boa tarde
+Cliente: Preciso que alterem o contato que vocês enviam as faturas
+Cliente: Atualmente vocês mandam para, marketing@movemegastore.com.br
+Cliente: Mude para,
+financeiro@movemegastore.com.br
+Atendente: *Hugo:* 
+Olá Move, Boa tarde. Meu nome é Hugo. Vou te encaminhar para o financeiro para seguir com a alteração. =D
+Cliente: Obrigado!!
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, boa tarde!
+Atendente: *Bruna Lira:* 
+Vou fazer a troca, um momento.
+Cliente: boa tarde
+Atendente: *Bruna Lira:* 
+Protinho, feito a troca do e-mail.
+Cliente: outra coisa
+Cliente: Vou querer contratar outros serviços
+Cliente: e remover alguns
+Cliente: na minha conta
+Cliente: remova os seguintes usuarios
+Cliente: Marcos Luciano Rodrigues Vieira, PEDIDOS, SAC
+Cliente: depois, remova esse serviço. 
+Modulo funil inteligente
+Atendente: *Bruna Lira:* 
+Sim, primeiro você exclui eles da conta por favor
+Cliente: certo
+Atendente: *Bruna Lira:* 
+Fechado, quando remover os usuários me avisa
+Cliente: um momento
+Atendente: *Bruna Lira:* 
+são 3 usuarios né?
+Cliente: isso, mas vou remover o meu também
+Cliente: vou logar em outra conta
+Atendente: *Bruna Lira:* 
+Combinado.
+Cliente: bom, vou levar mais tempo do que esperava para eliminar esses usuarios
+Cliente: então vamos avançar
+Cliente: para a remoçao do funial
+Cliente: funil*
+Atendente: *Bruna Lira:* 
+Tudo bem
+Cliente: pode me informar o que é "Alocação Aparelho' ?
+Atendente: *Bruna Lira:* 
+é quando o telefone fica conosco
+Atendente: *Bruna Lira:* 
+você não precisa ter um aparelho
+Cliente: você pode remover esse também
+Cliente: a gente tem o nosso aparelho aqui
+Atendente: *Bruna Lira:* 
+o aparelho é dedicado ao chatguru?
+Cliente: Isso
+Cliente: um aparelho dedicado
+Cliente: vocês reembolsam esse valor ?
+Cliente: pois a empresa não usou
+Cliente: foi feito algum contrato ?
+Atendente: *Bruna Lira:* 
+Vou dar uma olhada, um momento.
+Cliente: Okay!
+Atendente: *Bruna Lira:* 
+Foi aprovado pelo Marcos Vieira
+Cliente: hm, certo
+Cliente: Mas seria possível estornar esse dinheiro ?
+Cliente: estou encerrando o expediente agora. Obrigado pelo atendimento! Amanha retorno
+Atendente: *Bruna Lira:* 
+Como é um caso antigo, vou entender melhor com meu diretor ta bem? Vou solicitar a ele histórico do atendimento.
+Atendente: *Bruna Lira:* 
+Olá, bom dia!
+Cliente: oi bom dia
+Cliente: certo
+Atendente: *✅ Concluído*
+
+*Move Megastore*
+Remoção Funil
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: mais uma coisa
+Cliente: quero contratar o serviço de API
+Cliente: e um numero extra
+Atendente: *Bruna Lira:* 
+Falei com meu diretor sobre ser cobrado a alocação o mesmo respondeu que podemos gerar um crédito e ir abatendo nas proximas mensalidades ou posso fazer um pix para vocês.
+Atendente: *Bruna Lira:* 
+Show, o valor do numero é de R$297,00 mensais e a API é de R$100,00 mensais.
+Cliente: Pode ver qual o valor total ?
+Cliente: vamos querer
+Atendente: *Bruna Lira:* 
+8 (junho 2020 a janeiro 2021) *200 = 1600,00
+Atendente: *Bruna Lira:* 
+Fechado, um momento.
+Cliente: Okay, vou ver qual a melhor opção aqui
+Atendente: Move, o seu pagamento é realizado através de *boleto bancário.* 
+
+Sendo assim, enviarei um boleto com o *valor proporcional* referente a utilização até a data de vencimento do seu plano.
+Atendente: O valor do aditivo será incorporado em sua mensalidade.
+Atendente: Foi enviado para o seu email o boleto da contratação adicional.
+De qualquer forma enviarei por aqui também dentro de alguns instantes!
+Atendente: Para agilizar o processo, é só enviar o comprovante de pagamento que já realizaremos a liberação.
+
+Em caso de número adicional o prazo de liberação é de 24h.
+Cliente: Certo
+Cliente: mas acho que você errou no valor
+Cliente: está como, R$ 317,60
+Cliente: o correto não seria R$ 397?
+Atendente: *Bruna Lira:* 
+Esta proporcional até sua proxima fatura
+Atendente: *Bruna Lira:* 
+proporcional a 24 dias
+Cliente: ah sim, entendi! Obrigado!!
+Cliente: esse valor
+Cliente: pode abater nas proximas mensalidades
+Atendente: *Bruna Lira:* 
+Fechado.
+Cliente: até nessa
+Cliente: da api e numero
+Atendente: *Bruna Lira:* 
+Bom, proxima mensalidade não será cobrado e a mensaldade de março será cobrado apenas R$688,00
+Cliente: certo
+Cliente: então você já consegue liberar para mim
+Cliente: ?
+Atendente: *Bruna Lira:* 
+Quer que abate tambem esse boleto?
+Cliente: isso
+Atendente: *Bruna Lira:* 
+Ta bem, me passa o numero por favor para inclusão
+Cliente: 51 9382-8117
+Atendente: *Bruna Lira:* 
+abatendo esse boleto de hoje, sua fatura de março virá R$1004,60
+Cliente: okay
+Atendente: *✅ Concluído*
+
+*Move Megastore*
+Modulo API
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *✅ Concluído*
+
+*Move Megastore*
+Numero whatsapp adicional +55 (51) 9382-8117
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: por enquanto é só isso
+Cliente: obrigado!
+Atendente: *Bruna Lira:* 
+:)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c211173116bf23e422d21
+Cliente: boa tarde
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Gustavo Soares:* 
+Olá Move! Boa tarde tudo bem? Sou o Gustavo do Suporte do *ChatGuru*, como posso te ajudar? 😁
+Cliente: boa tarde
+Cliente: tudo certo Gustavo ?
+Cliente: Eu estou com 2 números aqui
+Cliente: porém eles estão aparecendo no mesmo painel
+Cliente: isso vai deixar nosso atendimento confuso
+Cliente: quais a soluções que vocês possuem ?
+Atendente: *Gustavo Soares:* 
+Entendi, você gostaria de separar, tendo uma conta com um número e outra contra com outro número? Essa seria a solução, pois se você adicionar vários números a uma mesma conta, então os usuários teriam acesso a todos os chats de ambos os números :D
+Cliente: quero sim
+Atendente: *Gustavo Soares:* 
+Certo, então vou te encaminhar para o financeiro para prosseguir com essa solicitação, neste caso terá que remover um número da conta, e solicitar um orçamento para uma nova conta :D Já te encaminho, só um momento....
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Cliente: Eu vou pensar sobre isso antes. Obrigado pelo atendimento. Pensei que já havia algo.
+Atendente: *Bruna Lira:* 
+Oii, não quer mais?
+Cliente: por enquanto não
+Atendente: *Bruna Lira:* 
+Tudo bem então :)
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar
+Cliente: obrigado!
+Atendente: *Bruna Lira:* 
+;)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c2dd873116bf23e423614
+Cliente: opa
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: estou com uma duvida na API
+Cliente: {'chat_add_id': '601c35279a793a349aa9aa52', 'chat_add_status': 'pending', 'chat_add_status_description': '', 'code': 200, 'result': 'success'}
+
+{'chat_add_id': '601c35279a793a349aa9aa52', 'chat_add_status': 'pending', 'code': 201, 'description': 'Chat cadastrado para inclusão com sucesso!', 'result': 'success'}
+
+{'code': 400, 'description': 'Chat não existe com número informado. Lembre-se de informar o número completo com DDI+DDD+NUMERO', 'result': 'error'}
+Cliente: é o mesmo número
+Cliente: Cadastrando o número : 5521996441345
+{'chat_add_id': '601c36026b9c4150109ab476', 'chat_add_status': 'pending', 'chat_add_status_description': '', 'code': 200, 'result': 'success'}
+{'chat_add_id': '601c36026b9c4150109ab476', 'chat_add_status': 'pending', 'code': 201, 'description': 'Chat cadastrado para inclusão com sucesso!', 'result': 'success'}
+
+    Modo:Enviando
+    Numero:5521996441345
+    Enviando:Teste
+
+{'code': 201, 'description': 'Mensagem cadastrada com sucesso!', 'message_id': '601c36041bde497119e62db5', 'message_status': 'pending', 'result': 'success'}
+
+
+Com um cliente que já entrou em contato comigo
+Cliente: Cadastrando o número : 555181761869
+{'chat_add_id': '601c35279a793a349aa9aa52', 'chat_add_status': 'pending', 'chat_add_status_description': '', 'code': 200, 'result': 'success'}
+{'chat_add_id': '601c35279a793a349aa9aa52', 'chat_add_status': 'pending', 'code': 201, 'description': 'Chat cadastrado para inclusão com sucesso!', 'result': 'success'}
+
+    Modo:Enviando
+    Numero:555181761869
+    Enviando:Teste
+
+{'code': 400, 'description': 'Chat não existe com número informado. Lembre-se de informar o número completo com DDI+DDD+NUMERO', 'result': 'error'}
+
+Com um cliente que nunca entrou em contato
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Lucas Gusmão:* 
+Boa tarde, Move! 
+
+Me chamo *Lucas Gusmão* e irei lhe ajudar.  😃
+Cliente: opa
+Cliente: boa tarde Lucas
+Atendente: *Lucas Gusmão:* 
+Poderia descrever melhor o problema que está ocorrendo?
+Cliente: Eu não entendi a função de cadastrar um chat
+Cliente: Ela serve para eu iniciar um novo chat ?
+Cliente: Vou relatar o que eu quero fazer
+Cliente: Eu tenho numeros de clientes aqui que nunca me chamaram no whatsapp, gostaria de chamar eles pelo Whatsapp.
+Cliente: Para enviar para eles informações sobre os pedidos e etc
+Cliente: Então contratamos o serviço de API e um numero extra para essa função, eu programo em python
+Atendente: *Lucas Gusmão:* 
+Só um minutinho. Deixa eu analisar essa situação com o suporte técnico, tá bom?!
+Cliente: Beleza
+Atendente: *Lucas Gusmão:* 
+Pronto! Olha, é possível criar uma integração para ação de *Adicionar Chats*. Abaixo envio o link da nossa documentação de API
+Atendente: *Lucas Gusmão:* 
+https://wiki.chatguru.com.br/api/api-documentacao-v1
+Cliente: sim
+Cliente: e eu já estou fazendo isso
+Atendente: *Lucas Gusmão:* 
+Caso queira, podemos recomendar a IntegraNinja, uma empresa parceira que realiza esse serviço.
+Atendente: *Lucas Gusmão:* 
+Entretanto, alertamos para o risco de banimento por SPAM.
+Cliente: Olha, eu li a API
+Cliente: mas aparentemente há um erro
+Cliente: na hora do cadastro
+Cliente: eu estou mandando a post para API para adicionar o chat
+Cliente: retorna com sucesso
+Cliente: mas na hora de enviar a mensagem retorna um erro
+Cliente: Pode confirmar se é possível eu iniciar um chat com uma pessoa que nunca houve contato pelo Whatsapp comigo ?
+Atendente: *Lucas Gusmão:* 
+Sim, é possível. Nosso setor técnico já confirmou. O erro não está na documentação da API, mas na integração que está sendo feita.
+Cliente: Certo
+Atendente: *Lucas Gusmão:* 
+Caso queira, podemos fazer uma chamada para que a pessoa lhe explique melhor e tire suas dúvidas, tá bom?!
+Cliente: pode ser
+Cliente: me ajudaria bastante
+Atendente: *Lucas Gusmão:* 
+Lógico! Só um minutinho.
+Atendente: *Lucas Gusmão:* 
+https://meet.google.com/egf-bfrq-abb
+Cliente: Já entro
+Atendente: *Lucas Gusmão:* 
+Pronto. Como informamos, o módulo de *Adicionar Chats* custa R$ 70,00/mês.
+Atendente: *Lucas Gusmão:* 
+Vamos seguir com a contratação? 😄
+Cliente: Eu vou dar uma pesquisada
+Cliente: Se vai valer a pena todo esse valor
+Atendente: *Lucas Gusmão:* 
+Tudo bem. A ferramenta é muuito útil
+Atendente: *Lucas Gusmão:* 
+Qualquer dúvida, estamos à disposição!
+Atendente: *Lucas Gusmão:* 
+Ajudo em mais alguma coisa? 😊
+Cliente: Certo, obrigado!
+Cliente: por enquanto é só
+Atendente: *Lucas Gusmão:* 
+Perfeito. 😃👋
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601c428e73116bf23e424576
+Cliente: Bom dia
+Atendente: Move Bom dia, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Cliente: Pode ver quais faturas estão abertas para mim ?
+Atendente: *Rodrigo Lacerda:* 
+Olá, Move. Tudo bem?
+Meu nome é Rodrigo, seu suporte na *Chatguru* 😀
+
+Vou encaminhar seu contato com nosso setor financeiro que irá te ajudar, ok? Aguarde um minutinho.
+Atendente: *➡  Você foi encaminhado para: Financeiro*
+Atendente: *Bruna Lira:* 
+Olá, bom dia! 
+Um momento.
+Cliente: Bom dia Bruna!
+Atendente: *Bruna Lira:* 
+Ta tudo certinho conosco
+Cliente: Olha, eu contratei alguns serviços mas estou muito decepcionado com o atendimento em si. Eu contratei a API e para eu enviar mensagens para novos contatos eu preciso contratar outro serviço
+Cliente: e esse serviço não estava explicito . . .
+Cliente: Então estou pensando em cancelar,
+1 Numero,
+API
+Atendente: *Bruna Lira:* 
+Entendo, sabe me dizer quem foi que falou com você sobre isso?
+Cliente: Lucas Gusmão
+Atendente: *Bruna Lira:* 
+Peço desculpas pelo ocorrido, Lucas é novo conosco, ja deixei pontuado aqui, bom, o que posso fazer para ajudar é te dar um desconto de 15% na contratação desse modulo.
+Cliente: Bem, eu até contrataria mas já tenho uma alternativa. Agradeço!
+Atendente: *Bruna Lira:* 
+Tudo bem, peço desculpas novamente. 
+Você deseja remover o numero e o modulo mesmo?
+Cliente: Sim, quero que remova número, 555193828117 e o modulo API
+Cliente: Você se lembra que eu pedi para abater aquele valor nesses serviços ?
+Cliente: Se poder abater apenas nos produtos que tenho atualmente, eu agradeceria!
+Atendente: *Bruna Lira:* 
+Lembro sim, vou devolver para as proximas faturas ta bom?
+Cliente: isso, obrigado!
+Atendente: *Bruna Lira:* 
+Eu acertei aqui no faturamento e ja solicitei a remoção do numero e modulo, novamente peço desculpas pelo ocorrido ta bem?
+Cliente: Certo, obrigado!
+Atendente: *✅ Concluído*
+
+*Move Megastore*
+Remoção do numero whatsapp adicional - +55 (51)93828117
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Atendente: *✅ Concluído*
+
+*Move Megastore*
+Remoção Modulo API
+Atendente: Move, te ajudo em algo mais ou posso encerrar seu atendimento?
+Cliente: pode encerrar
+Cliente: obrigado
+Atendente: *Bruna Lira:* 
+:)
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+Atendente: Move, por favor responda a avaliação do meu atendimento: https://app5.zap.guru/nps/601d7a4273116bf23e428c8a
+Atendente: Move Boa tarde, você está na fila de atendimento. 
+Em breve te responderemos. 😊
+Atendente: *Luana Cavalcanti:* 
+Olá, Move. Boa tarde!
+Tudo bem? 😊
+
+Meu nome é Luana, eu quem prosseguirei com seu atendimento. 💐
+
+Por gentileza, como posso te ajudar?
+Atendente: Move, estamos encerrando seu atendimento por *ausência de resposta* por mais de _60 minutos_, caso você ainda precise de ajuda, basta nos enviar novamente uma mensagem! 😊
+Atendente: *Atendimento Encerrado*
+_(Não é preciso responder essa mensagem.)_
+
+_Veja também nossas novidades: _
+https://app.getbeamer.com/zapguru/en
+
