@@ -1,4 +1,16 @@
+*.zip
 chatguru
-chatguru.zip
 venv
 Premissas e Bases.docx
+chat-sem-nps
+disaster_response
+NLP
+Unsupervised-Sentiment-Analysis
+Preprocessing_and_Embeddings_Polish_Sentiment.ipynb
+Untitled.ipynb
+bertimbau_data
+default_bert_data
+leia_data
+test.py
+test_chat.txt
+test_report.pdf
